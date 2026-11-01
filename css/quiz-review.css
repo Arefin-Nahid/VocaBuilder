@@ -1,0 +1,30 @@
+/* quiz + review */
+.qmeta{display:flex;justify-content:space-between;gap:10px;font-size:14px;color:var(--muted);font-variant-numeric:tabular-nums;margin-bottom:10px}
+.qlabel{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+.qtext{font-family:var(--f-read);font-size:clamp(20px,3vw,24px);line-height:1.6;margin:0 0 20px}
+.blank{display:inline-block;min-width:4.5em;border-bottom:3px solid var(--accent);vertical-align:baseline}
+.qword{font-size:clamp(28px,5vw,38px);font-weight:700;letter-spacing:-.01em;margin:0 0 20px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.opts{display:grid;gap:10px}
+.opt{text-align:left;border:2px solid var(--line);background:var(--surface2);border-radius:14px;padding:10px 14px;font-size:16px;min-height:44px;font-family:inherit}
+.opt.bnopt{font-family:var(--f-bn)}
+.opt:hover:not(:disabled){border-color:var(--accent)}
+.opt.ok{border-color:var(--good);background:var(--good-bg);color:var(--good)}
+.opt.no{border-color:var(--bad);background:var(--bad-bg);color:var(--bad)}
+.fb{margin-top:12px;padding:12px 14px;border-radius:12px;background:var(--bg);border:1px solid var(--line);display:grid;gap:6px}
+.fb .res{font-weight:700}
+.fb .res.ok{color:var(--good)} .fb .res.no{color:var(--bad)}
+.fb .bnt{font-family:var(--f-bn);color:var(--accent)}
+.score{font-size:48px;font-weight:700;letter-spacing:-.02em;font-variant-numeric:tabular-nums;line-height:1}
+.miss{display:grid;gap:8px;margin:16px 0 0;padding:0;list-style:none}
+.miss li{padding:12px 14px;border:1px solid var(--line);border-radius:10px;display:grid;gap:4px}
+.boxes{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:16px}
+.box{border:1px solid var(--line);border-radius:10px;padding:10px 6px;text-align:center;background:var(--bg)}
+.box b{display:block;font-size:20px;font-variant-numeric:tabular-nums}
+.box span{font-size:11px;color:var(--muted)}
+.flash-card{min-height:220px;display:flex;flex-direction:column;justify-content:center;gap:12px;align-items:flex-start}
+.fc-word{font-size:clamp(32px,6vw,44px);font-weight:700;letter-spacing:-.01em;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.fc-ans{display:grid;gap:6px;font-size:18px}
+.fc-ans .bnt{font-family:var(--f-bn);color:var(--accent);font-size:20px}
+.fc-src{font-size:13px;color:var(--muted)}
+.rate{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
+.empty{text-align:center;padding:28px 16px;display:grid;gap:12px;justify-items:center}

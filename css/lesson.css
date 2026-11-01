@@ -1,0 +1,40 @@
+/* lesson header: title is the strongest element on the page */
+.when{margin:0;font-family:var(--f-mono);font-size:12px;letter-spacing:.05em;color:var(--muted);text-transform:uppercase}
+h1{margin:6px 0 0;font-size:clamp(32px,6vw,46px);line-height:1.08;letter-spacing:-.025em;font-weight:800;text-wrap:balance}
+.note{font-size:14px;color:var(--muted);margin-top:8px}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:16px}
+.cardhead{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;justify-content:space-between;margin-bottom:12px}
+.label{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0}
+.hint{font-size:13px;color:var(--muted);margin:16px 0 0}
+
+/* accordion */
+.how{padding:0}
+.how summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 20px;min-height:52px;font-weight:600;font-size:15px}
+.how summary::-webkit-details-marker{display:none}
+.how summary::after{content:"";flex:none;width:9px;height:9px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg) translateY(-2px);transition:transform .2s}
+.how[open] summary::after{transform:rotate(-135deg) translateY(-2px)}
+.how[open] summary{border-bottom:1px solid var(--line)}
+.how ol{margin:0;padding:16px 20px 0 40px;display:grid;gap:8px;font-size:15px}
+.how p{margin:12px 0 0;padding:0 20px 18px;font-size:13px;color:var(--muted)}
+.how summary+p{margin-top:0;padding-top:14px}
+
+/* story */
+.story{font-family:var(--f-read);font-size:clamp(18px,2.3vw,21px);line-height:1.85;margin:0;text-align:justify;hyphens:auto;-webkit-hyphens:auto}
+.hl{font:inherit;font-weight:700;color:inherit;background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.hl:hover{text-decoration-thickness:2px;color:var(--accent)}
+.wb .bn{display:none}
+.story.bn-on{line-height:1.6}
+.trans{font-family:var(--f-bn);font-size:clamp(16px,2.1vw,18px);line-height:1.85;text-align:justify;margin:12px 0 0;padding-top:12px;border-top:1px solid var(--line);color:var(--accent)}
+.spk{margin-left:auto;align-self:center;width:30px;height:30px;padding:0;border:0;border-radius:50%;background:transparent;color:var(--accent);display:inline-grid;place-items:center;flex:none}
+.spk:hover{background:var(--accent-soft)}
+.story.bn-on .wb{display:inline-flex;flex-direction:column;align-items:center;vertical-align:bottom;max-width:11em;margin:8px 2px 0}
+.story.bn-on .wb .bn{display:block;font-family:var(--f-bn);font-size:.6em;line-height:1.35;color:var(--accent);text-align:center;font-weight:500;margin-top:1px}
+
+/* Context card: one compact row  ->  CONTEXT  [listen icon] [বাংলা অনুবাদ] [বাংলা অর্থ] */
+.story-card .cardhead{display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:space-between;gap:6px;margin-bottom:12px}
+.ctx-tools{display:flex;flex-wrap:nowrap;align-items:center;gap:4px;margin-left:auto;min-width:0}
+.ctx-tools .spk{margin-left:0;width:28px;height:28px}
+.chip{display:inline-flex;align-items:center;justify-content:center;min-height:26px;padding:2px 8px;border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:999px;font-weight:500;font-size:12px;line-height:1.2;white-space:nowrap;flex:none}
+.chip:hover{border-color:var(--accent);color:var(--accent)}
+.chip.sw[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}

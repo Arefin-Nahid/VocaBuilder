@@ -1,0 +1,12 @@
+:root{
+  --bg:#f1f7f4; --surface:#ffffff; --surface2:#ffffff; --fg:#1d2330; --muted:#485268; --line:#d3e2da; --track:#dcebe3;
+  --accent:#0c7752; --accent-fg:#ffffff; --accent-soft:#dcf3e8; --hero:#2a4cbf;
+  --mark:#f0c23c; --mark-flash:rgba(238,190,52,.35); --veil:#d3e2da;
+  --good:#17663f; --good-bg:#def3e7; --bad:#a8281f; --bad-bg:#fbe7e5;
+  --v:#2a4cbf; --v-bg:#e3e9fa; --n:#17663f; --n-bg:#def3e7; --adj:#85470a; --adj-bg:#fbebd3; --adv:#672da0; --adv-bg:#efe5f8;
+  --f-ui:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-read:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --f-bn:"Noto Sans Bengali","Kalpurush","Siyam Rupali","Nirmala UI",system-ui,sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:light;
+}

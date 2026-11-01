@@ -1,0 +1,24 @@
+/* buttons */
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.btn{border:1px solid var(--line);background:var(--surface2);border-radius:12px;padding:8px 14px;font-weight:600;font-size:15px;min-height:40px}
+.btn:hover:not(:disabled){border-color:var(--accent)}
+.btn.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:700}
+.btn.primary:hover:not(:disabled){filter:brightness(1.08)}
+.btn.good{background:var(--good-bg);color:var(--good);border-color:var(--good)}
+.btn.small{padding:5px 11px;min-height:32px;font-size:14px}
+.sw[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.sw .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--muted);opacity:.45;margin-right:8px}
+.sw[aria-pressed="true"] .dot{background:var(--accent);opacity:1}
+.bn-lbl{font-family:var(--f-bn)}
+.spacer{flex:1}
+/* actions */
+.finish,.actions{display:flex;flex-wrap:wrap;gap:12px}
+.actions{padding-top:16px;border-top:1px solid var(--line)}
+.actions .btn{min-height:44px;padding:10px 18px}
+.actions .primary{flex:1 1 220px}
+.actions .ghost{flex:0 1 auto;background:transparent;color:var(--fg)}
+.btn.ghost.good{background:var(--good-bg);color:var(--good)}
+
+.bar{height:8px;border-radius:4px;background:var(--track);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent);transition:width .25s}
+.foot{font-size:12px;color:var(--muted);text-align:center;padding-top:4px}

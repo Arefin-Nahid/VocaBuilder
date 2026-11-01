@@ -1,0 +1,2 @@
+@media (prefers-reduced-motion:reduce){.e.flash{animation:none;background:var(--mark-flash)}.bar i,.how summary::after{transition:none}}
+@media (max-width:560px){.card{padding:14px}.how summary{padding:12px 16px}.how ol{padding-left:36px;padding-right:16px}.how p{padding-left:16px;padding-right:16px}.boxes{gap:6px}.actions .ghost{flex:1 1 100%}}

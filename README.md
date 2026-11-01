@@ -2,14 +2,28 @@
 
 A 30-day vocabulary study plan (1–30 November 2026). Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. Progress is saved in the browser; there is no server and no build step.
 
-## Run it
+## Publish on GitHub Pages
 
-Open `index.html` in a browser, or host the folder on GitHub Pages (Settings → Pages → deploy from the `main` branch, root folder).
+1. Put all these files at the **root** of your repository (so `index.html` is next to `sw.js`), then commit and push.
+2. Repo → Settings → Pages → Source: *Deploy from a branch* → `main` / `/ (root)` → Save.
+3. Open the Pages link on your phone.
+
+You can also open `index.html` straight from disk to try it (the offline/install features only work from the https link).
+
+## Install on a phone
+
+Open the Pages link in Chrome → ⋮ menu → **Install app** (or *Add to Home screen*). After the first visit the app also opens offline.
+If you installed an older shortcut before, remove it from the home screen first, then install again.
+
+When you push a new version, the app picks it up the next time it is opened with internet.
 
 ## Project layout
 
 ```
 index.html            page shell + the ordered list of scripts
+favicon.svg, favicon-32.png, apple-touch-icon.png   the logo (browser tab)
+manifest.webmanifest  icons/   install-to-phone settings and app icons
+sw.js  js/pwa.js      offline support (service worker)
 css/
   tokens.css          colours, fonts (CSS variables)
   base.css            reset and page basics

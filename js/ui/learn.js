@@ -121,7 +121,7 @@
       }
     }
   }
-  function hearStory() { VB.speech.speak(plainStory(VB.vocab.DAYS[VB.state.cur - 1])); }
+  function hearStory() { VB.speech.speak(plainStory(VB.vocab.DAYS[VB.state.cur - 1]), "story"); }
 
   VB.ui.learn = {
     render: render, hearStory: hearStory, toggleStoryBn: toggleStoryBn, toggleFullBn: toggleFullBn,

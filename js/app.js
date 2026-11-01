@@ -22,6 +22,7 @@
     if (st.view === "learn") VB.ui.learn.render();
     else if (st.view === "quiz") VB.ui.quiz.render();
     else VB.ui.review.render();
+    VB.speech.refresh(); // keep the playing highlight after a redraw
   }
   VB.render = render;
 
@@ -29,11 +30,12 @@
     st.cur = Math.min(cfg.totalDays, Math.max(1, n));
     if (view) st.view = view;
     if (st.Q && st.Q.day !== st.cur) st.Q = null;
+    VB.speech.stop();
     $("days").hidden = true;
     $("daybtn").setAttribute("aria-expanded", "false");
     setHash(); render(); window.scrollTo(0, 0);
   }
-  function openView(v) { st.view = v; $("days").hidden = true; setHash(); render(); window.scrollTo(0, 0); }
+  function openView(v) { VB.speech.stop(); st.view = v; $("days").hidden = true; setHash(); render(); window.scrollTo(0, 0); }
 
   /* ----- click actions: data-act="name" on any element ----- */
   var L = VB.ui.learn, Qz = VB.ui.quiz, Rv = VB.ui.review;
@@ -50,14 +52,14 @@
     recall: L.toggleRecall,
     reveal: L.revealAll,
     hear: L.hearStory,
-    sayword: function (a) { VB.speech.speak(a.dataset.w); },
+    sayword: function (a) { VB.speech.speak(a.dataset.w, "word:" + a.dataset.w); },
     hl: function (a) { L.highlight(a.dataset.w); },
     done: function () {
       if (S.done[st.cur]) delete S.done[st.cur];
       else { S.done[st.cur] = 1; VB.srs.ensure(VB.vocab.dayKeys(st.cur)); }
       VB.store.save(); render();
     },
-    gotoQuiz: function () { st.view = "quiz"; st.Q = null; setHash(); render(); window.scrollTo(0, 0); },
+    gotoQuiz: function () { VB.speech.stop(); st.view = "quiz"; st.Q = null; setHash(); render(); window.scrollTo(0, 0); },
     startQuiz: Qz.start,
     ans: function (a) { Qz.answer(+a.dataset.i); },
     nextQ: Qz.next,
@@ -83,6 +85,16 @@
     if ((ev.key === "Enter" || ev.key === " ") && ev.target.classList && ev.target.classList.contains("e")) {
       ev.preventDefault();
       ev.target.classList.add("shown");
+    }
+  });
+  // Highlight the listen button that is playing; everything returns to normal when it stops.
+  document.addEventListener("vb:speech", function (ev) {
+    var playing = ev.detail.key, btns = document.querySelectorAll('[data-act="hear"],[data-act="sayword"]');
+    for (var i = 0; i < btns.length; i++) {
+      var key = btns[i].dataset.act === "hear" ? "story" : "word:" + btns[i].dataset.w;
+      var on = playing !== null && key === playing;
+      btns[i].classList.toggle("playing", on);
+      btns[i].setAttribute("aria-pressed", on);
     }
   });
   window.addEventListener("hashchange", function () { if (fromHash()) { render(); window.scrollTo(0, 0); } });

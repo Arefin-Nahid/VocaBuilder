@@ -38,3 +38,7 @@ h1{margin:6px 0 0;font-size:clamp(32px,6vw,46px);line-height:1.08;letter-spacing
 .chip{display:inline-flex;align-items:center;justify-content:center;min-height:26px;padding:2px 8px;border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:999px;font-weight:500;font-size:12px;line-height:1.2;white-space:nowrap;flex:none}
 .chip:hover{border-color:var(--accent);color:var(--accent)}
 .chip.sw[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+
+/* Listen buttons while their audio is playing (story icon, word icons, review "Hear it") */
+.spk.playing{background:var(--accent);color:var(--accent-fg)}
+.btn.playing{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}

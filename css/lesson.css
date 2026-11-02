@@ -42,3 +42,10 @@ h1{margin:6px 0 0;font-size:clamp(32px,6vw,46px);line-height:1.08;letter-spacing
 /* Listen buttons while their audio is playing (story icon, word icons, review "Hear it") */
 .spk.playing{background:var(--accent);color:var(--accent-fg)}
 .btn.playing{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+
+/* Vocabulary toolbar: the three switches stay on one line, compact like the Context chips */
+.sec > .tools{flex-wrap:wrap;gap:5px}
+.sec > .tools .btn{min-height:30px;padding:3px 8px;font-size:13px;font-weight:500;line-height:1.2;white-space:nowrap;flex:none;border-radius:999px;display:inline-flex;align-items:center}
+.sec > .tools .btn .dot{width:6px;height:6px;margin-right:4px}
+
+@media (max-width:340px){.sec > .tools{gap:4px}.sec > .tools .btn{padding:3px 6px;font-size:12px}.sec > .tools .btn .dot{margin-right:3px}}

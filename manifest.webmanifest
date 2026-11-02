@@ -1,7 +1,7 @@
 {
   "name": "VocaBuilder",
   "short_name": "VocaBuilder",
-  "description": "A 30-day vocabulary study plan with stories, Bangla meanings, quizzes and spaced review.",
+  "description": "A vocabulary study app with stories, Bangla meanings, quizzes and spaced review.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

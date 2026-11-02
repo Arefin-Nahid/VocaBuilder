@@ -23,11 +23,11 @@
   }
 
   function render() {
-    var st = VB.state, cur = st.cur, d = VB.vocab.DAYS[cur - 1], cal = VB.calendar;
+    var st = VB.state, cur = st.cur, d = VB.vocab.day(cur), up = VB.progress.upNext();
     var canSpeak = VB.speech.supported, note = "";
-    if (cal.rawToday < 1 && cur === 1) note = "Your 30 days start on 1 Nov. You can read ahead any time.";
-    else if (cur === cal.todayN && cal.rawToday >= 1) note = "This is today's lesson.";
-    else if (cur < cal.todayN && !S.done[cur]) note = "You have not marked this day finished yet.";
+    if (cur === up && !S.done[cur]) note = "This is your next lesson.";
+    else if (cur > up && !S.done[cur]) note = "You are reading ahead. Day " + up + " is not finished yet.";
+    else if (cur < up && !S.done[cur]) note = "You have not marked this day finished yet.";
 
     var h = '<div><h1 style="margin-top:0">' + esc(d.t) + "</h1>" + (note ? '<div class="note">' + note + "</div>" : "") + "</div>";
 
@@ -136,7 +136,7 @@
       }
     }
   }
-  function hearStory() { VB.speech.speak(plainStory(VB.vocab.DAYS[VB.state.cur - 1]), "story"); }
+  function hearStory() { VB.speech.speak(plainStory(VB.vocab.day(VB.state.cur)), "story"); }
 
   VB.ui.learn = {
     render: render, hearStory: hearStory, toggleStoryBn: toggleStoryBn, toggleFullBn: toggleFullBn,

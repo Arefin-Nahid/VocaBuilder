@@ -1,19 +1,19 @@
 /* Router, event handling and start-up. Loaded last. */
 (function () {
   "use strict";
-  var VB = window.VB, u = VB.utils, $ = u.$, S = VB.store.S, st = VB.state, cfg = VB.config;
+  var VB = window.VB, u = VB.utils, $ = u.$, S = VB.store.S, st = VB.state, V = VB.vocab;
 
-  /* ----- routing: #day-N, #day-N-quiz, #review ----- */
+  /* ----- routing: #day-N, #day-N-quiz, #review, #index ----- */
   function setHash() {
-    var h = st.view === "review" ? "#review" : (st.view === "quiz" ? "#day-" + st.cur + "-quiz" : "#day-" + st.cur);
+    var h = st.view === "review" ? "#review" : st.view === "index" ? "#index" : (st.view === "quiz" ? "#day-" + st.cur + "-quiz" : "#day-" + st.cur);
     try { history.replaceState(null, "", h); } catch (e) { try { location.hash = h.slice(1); } catch (e2) {} }
   }
   function fromHash() {
     var h = location.hash, m;
-    var clamp = function (n) { return Math.min(cfg.totalDays, Math.max(1, +n)); };
     if (h === "#review") { st.view = "review"; return true; }
-    if ((m = /^#day-(\d+)-quiz$/.exec(h))) { st.cur = clamp(m[1]); st.view = "quiz"; return true; }
-    if ((m = /^#day-(\d+)$/.exec(h))) { st.cur = clamp(m[1]); st.view = "learn"; return true; }
+    if (h === "#index") { st.view = "index"; return true; }
+    if ((m = /^#day-(\d+)-quiz$/.exec(h)) && V.has(+m[1])) { if (st.Q && st.Q.range) st.Q = null; st.cur = +m[1]; st.view = "quiz"; return true; }
+    if ((m = /^#day-(\d+)$/.exec(h)) && V.has(+m[1])) { st.cur = +m[1]; st.view = "learn"; return true; }
     return false;
   }
 
@@ -21,15 +21,17 @@
     VB.ui.header.render();
     if (st.view === "learn") VB.ui.learn.render();
     else if (st.view === "quiz") VB.ui.quiz.render();
+    else if (st.view === "index") VB.ui.index.render();
     else VB.ui.review.render();
     VB.speech.refresh(); // keep the playing highlight after a redraw
   }
   VB.render = render;
 
   function go(n, view) {
-    st.cur = Math.min(cfg.totalDays, Math.max(1, n));
+    if (!V.has(n)) return;
+    if (st.Q && (st.Q.range ? n !== st.cur : st.Q.day !== n)) st.Q = null; // moving to another day ends a quiz in progress
+    st.cur = n;
     if (view) st.view = view;
-    if (st.Q && st.Q.day !== st.cur) st.Q = null;
     VB.speech.stop();
     $("days").hidden = true;
     $("daybtn").setAttribute("aria-expanded", "false");
@@ -41,10 +43,16 @@
   var L = VB.ui.learn, Qz = VB.ui.quiz, Rv = VB.ui.review;
   var actions = {
     tab: function (a) { if (a.dataset.tab === "review") st.R = null; openView(a.dataset.tab); },
-    day: function (a) { go(+a.dataset.n, st.view === "review" ? "learn" : st.view); },
-    prev: function () { go(st.cur - 1); },
-    next: function () { go(st.cur + 1, st.view); },
-    nextDay: function () { go(st.cur + 1, "learn"); },
+    day: function (a) { go(+a.dataset.n, st.view === "review" || st.view === "index" ? "learn" : st.view); },
+    prev: function () { go(V.neighbor(st.cur, -1), st.view === "index" ? "learn" : st.view); },
+    next: function () { go(V.neighbor(st.cur, 1), st.view === "index" ? "learn" : st.view); },
+    nextDay: function () { go(V.neighbor(st.cur, 1), "learn"); },
+    ixopen: function (a) { go(+a.dataset.n, "learn"); L.highlight(a.dataset.w); },
+    ixf: function (a) { VB.ui.index.setFilter(a.dataset.f); },
+    ixbn: function () { VB.ui.index.toggleBn(); },
+    startRange: Qz.startRange,
+    startFinished: Qz.startFinished,
+    retryRange: Qz.retryRange,
     days: function (a) { var open = $("days").hidden; $("days").hidden = !open; a.setAttribute("aria-expanded", open); },
     bnStory: L.toggleStoryBn,
     bnFull: L.toggleFullBn,
@@ -57,7 +65,7 @@
     hl: function (a) { L.highlight(a.dataset.w); },
     done: function () {
       if (S.done[st.cur]) delete S.done[st.cur];
-      else { S.done[st.cur] = 1; VB.srs.ensure(VB.vocab.dayKeys(st.cur)); }
+      else { S.done[st.cur] = 1; VB.srs.ensure(VB.vocab.dayKeys(st.cur)); VB.progress.touch(); }
       VB.store.save(); render();
     },
     gotoQuiz: function () { VB.speech.stop(); st.view = "quiz"; st.Q = null; setHash(); render(); window.scrollTo(0, 0); },
@@ -82,6 +90,9 @@
     var e = t.closest && t.closest(".e");
     if (e) e.classList.add("shown");
   });
+  // Index search box and the mixed-quiz From/To boxes.
+  document.addEventListener("input", function (ev) { if (ev.target.id === "ixq") VB.ui.index.setQuery(ev.target.value); });
+  document.addEventListener("change", function (ev) { if (ev.target.dataset && ev.target.dataset.rg) Qz.rememberRange(); });
   document.addEventListener("keydown", function (ev) {
     if ((ev.key === "Enter" || ev.key === " ") && ev.target.classList && ev.target.classList.contains("e")) {
       ev.preventDefault();
@@ -102,7 +113,7 @@
 
   /* ----- start-up ----- */
   VB.store.load();
-  st.cur = VB.calendar.todayN;
+  st.cur = VB.progress.upNext();
   if (!fromHash()) st.view = VB.srs.dueKeys().length ? "review" : "learn";
   render();
 })();

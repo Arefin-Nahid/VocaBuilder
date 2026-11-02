@@ -3,7 +3,7 @@
   "use strict";
   var VB = window.VB, cfg = VB.config;
 
-  var S = { done: {}, srs: {}, bnStory: false, bnWords: false, bnFull: false, quiz: {} };
+  var S = { done: {}, srs: {}, bnStory: false, bnWords: false, bnFull: false, quiz: {}, active: {} };
 
   function load() {
     try {

@@ -1,12 +1,18 @@
-/* Turns the raw data files into lookups: entries per day, all words, and a stem matcher for highlighted story words. */
+/* Merges every data pack (window.VB_PACKS) into lookups: days, entries per day, all words, the A-Z index and a stem matcher. */
 (function () {
   "use strict";
   var VB = window.VB;
 
-  var DAYS = (window.DAYS || []).slice().sort(function (a, b) { return a.n - b.n; });
-  var BN = window.BN || {}; // Bangla meaning per headword (lowercase)
-  var BT = window.BT || {}; // Bangla translation per day's story
-  var EX = window.EX || {}; // example sentence per word ("word" or "word|pos"); *starred* text is the word
+  var BN = {}, BT = {}, EX = {}, BYN = {}; // Bangla meanings, Bangla story translations, example sentences, days by number
+  (window.VB_PACKS || []).forEach(function (p) {
+    (p.days || []).forEach(function (d) { BYN[d.n] = d; }); // a later pack replaces an earlier one with the same day number
+    var k;
+    for (k in (p.bn || {})) BN[k] = p.bn[k];
+    for (k in (p.bt || {})) BT[k] = p.bt[k];
+    for (k in (p.ex || {})) EX[k] = p.ex[k];
+  });
+  var NUMS = Object.keys(BYN).map(Number).sort(function (a, b) { return a - b; });
+  var DAYS = NUMS.map(function (n) { return BYN[n]; });
   var ENT = {}, ALL = {};
 
   // A data row is "Word|pos|English meaning". Duplicates inside one day are skipped.
@@ -29,7 +35,7 @@
 
   // Find the vocabulary entry for a highlighted story word (exact match first, then a shared stem).
   function findEntry(day, u) {
-    var L = ENT[day], i, j;
+    var L = ENT[day] || [], i, j;
     for (i = 0; i < L.length; i++) { if (L[i].k === u || parts(L[i].k).indexOf(u) > -1) return L[i]; }
     for (i = 0; i < L.length; i++) {
       var ps = parts(L[i].k);
@@ -46,10 +52,38 @@
     return null;
   }
 
-  function dayKeys(n) { return ENT[n].map(function (e) { return e.k; }); }
+  function dayKeys(n) { return (ENT[n] || []).map(function (e) { return e.k; }); }
+  function has(n) { return !!BYN[n]; }
+  function day(n) { return BYN[n]; }
+  // The next (dir = 1) or previous (dir = -1) day that exists, or 0.
+  function neighbor(n, dir) {
+    var i, c = 0;
+    if (dir > 0) { for (i = 0; i < NUMS.length; i++) { if (NUMS[i] > n) return NUMS[i]; } }
+    else { for (i = NUMS.length - 1; i >= 0; i--) { if (NUMS[i] < n) return NUMS[i]; } }
+    return c;
+  }
 
   // Example sentence for an entry (a "word|pos" key wins over a plain "word" key).
   function example(e) { return EX[e.k + "|" + e.pos] || EX[e.k] || ""; }
 
-  VB.vocab = { DAYS: DAYS, BN: BN, BT: BT, EX: EX, example: example, ENT: ENT, ALL: ALL, findEntry: findEntry, dayKeys: dayKeys };
+  // Every headword A-Z with the days it appears on (built once, on first use).
+  var IDX = null;
+  function index() {
+    if (IDX) return IDX;
+    var map = {};
+    DAYS.forEach(function (d) {
+      ENT[d.n].forEach(function (e) {
+        if (!map[e.k]) map[e.k] = { e: e, days: [] };
+        map[e.k].days.push(d.n);
+      });
+    });
+    IDX = Object.keys(map).sort(function (a, b) { return a.localeCompare(b, "en"); }).map(function (k) { return map[k]; });
+    return IDX;
+  }
+
+  VB.vocab = {
+    DAYS: DAYS, nums: NUMS, BN: BN, BT: BT, EX: EX, ENT: ENT, ALL: ALL,
+    has: has, day: day, neighbor: neighbor, index: index,
+    example: example, findEntry: findEntry, dayKeys: dayKeys
+  };
 })();

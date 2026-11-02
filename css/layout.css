@@ -7,7 +7,7 @@
 .daybtn .a{font-weight:700;font-size:16px;font-variant-numeric:tabular-nums}
 .daybtn .b{grid-column:1;font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .daybtn .c{grid-column:2;grid-row:1 / span 2;color:var(--accent);font-size:13px;font-weight:600}
-.tabs{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;background:var(--track);padding:4px;border-radius:16px}
+.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;background:var(--track);padding:4px;border-radius:16px}
 .tab{border:1px solid transparent;background:transparent;border-radius:12px;padding:8px 6px;font-weight:600;font-size:15px;color:var(--muted);display:flex;align-items:center;justify-content:center;gap:6px;min-height:40px}
 .tab:hover{color:var(--fg)}
 .tab[aria-selected="true"]{background:var(--surface);color:var(--fg);font-weight:700;border-color:var(--line);box-shadow:0 1px 3px rgba(20,30,50,.18)}
@@ -20,5 +20,5 @@
 .cell{min-width:0;aspect-ratio:1;border:1px solid var(--line);background:var(--bg);border-radius:9px;font-size:14px;font-weight:600;font-variant-numeric:tabular-nums;display:grid;place-items:center;padding:0;position:relative}
 .cell.done{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
 .cell.cur{outline:3px solid var(--accent);outline-offset:1px}
-.cell.today::after{content:"";position:absolute;bottom:3px;width:6px;height:6px;border-radius:50%;background:var(--mark);box-shadow:0 0 0 1px var(--fg)}
+.cell.next::after{content:"";position:absolute;bottom:3px;width:6px;height:6px;border-radius:50%;background:var(--mark);box-shadow:0 0 0 1px var(--fg)}
 .legend{font-size:12px;color:var(--muted);display:flex;gap:6px 14px;flex-wrap:wrap}

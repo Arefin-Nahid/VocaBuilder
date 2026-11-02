@@ -17,7 +17,7 @@
       if (!R.flip) {
         h += '<div class="tools"><button class="btn primary" data-act="flip">Show answer</button>' + (VB.speech.supported ? '<button class="btn" data-act="sayword" data-w="' + esc(e.w) + '">Hear it</button>' : "") + "</div>";
       } else {
-        h += '<div class="fc-ans"><div>' + esc(e.m) + '</div><div class="bnt">' + esc(BN[key] || "") + '</div></div><div class="fc-src">From day ' + e.day + ": " + esc(VB.vocab.DAYS[e.day - 1].t) + " · box " + S.srs[key].b + " of 5</div>";
+        h += '<div class="fc-ans"><div>' + esc(e.m) + '</div><div class="bnt">' + esc(BN[key] || "") + '</div></div><div class="fc-src">From day ' + e.day + ": " + esc(VB.vocab.day(e.day).t) + " · box " + S.srs[key].b + " of 5</div>";
         h += '<div class="rate" style="width:100%"><button class="btn" data-act="rate" data-r="again">Forgot</button><button class="btn" data-act="rate" data-r="hard">Hard</button><button class="btn good" data-act="rate" data-r="good">Got it</button></div>';
       }
       h += "</section>";
@@ -45,6 +45,7 @@
   function rate(r) {
     var R = VB.state.R;
     VB.srs.grade(R.deck[R.i], r);
+    VB.progress.touch();
     R.st[r]++;
     VB.store.save();
     R.i++; R.flip = false;

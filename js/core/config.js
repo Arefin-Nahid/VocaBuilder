@@ -6,10 +6,9 @@
   VB.config = {
     storageKey: "vb30-v2",
     legacyKey: "vb30-done",
-    startDate: new Date(2026, 10, 1), // Day 1 = 1 November 2026
-    totalDays: 30,
     intervals: [1, 2, 4, 8, 16], // Leitner box gaps, in days
     quizSize: 10,
+    rangeQuizSize: 15,
     reviewSize: 20
   };
 

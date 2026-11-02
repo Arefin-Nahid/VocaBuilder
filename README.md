@@ -1,6 +1,6 @@
 # VocaBuilder
 
-A 30-day vocabulary study plan (1–30 November 2026). Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. Progress is saved in the browser; there is no server and no build step.
+A vocabulary study app for the whole VocaBuilder book, added a few pages at a time. A "Day" is one book page. Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. There is also an A–Z **Index** of every word and a **mixed quiz** over any range of days. Progress is by lesson, not by calendar: the app always opens on the first day you have not finished. Progress is saved in the browser; there is no server and no build step.
 
 ## Publish on GitHub Pages
 
@@ -32,39 +32,45 @@ css/
   components.css      buttons, action bar, progress bar
   vocabulary.css      vocabulary groups and word rows
   quiz-review.css     quiz and review screens
+  index.css           Index screen and mixed-quiz picker
   responsive.css      small-screen and reduced-motion rules
   theme-mint.css      mint colour overrides
 js/
-  data/               the content (edit words here)
-    days-*.js           stories + word groups, 5 days per file
-    bangla-words-*.js   Bangla meaning for each word
-    bangla-stories-*.js Bangla translation of each day's story
-    examples-*.js       one example sentence per word
+  data/               the content: one "pack" file per delivery of pages
+    pack-001-030.js     days 1-30: stories, word groups, Bangla meanings,
+                        Bangla story translations, example sentences
   core/               logic with no DOM
-    config.js  utils.js  calendar.js  store.js  vocab.js  srs.js  speech.js
+    config.js  utils.js  calendar.js  store.js  vocab.js  progress.js  srs.js  speech.js
   ui/                 one file per screen
-    header.js  learn.js  quiz.js  review.js
+    header.js  learn.js  quiz.js  review.js  index.js
   app.js              router, click actions, start-up
 tools/
+  update-packs.js       node tools/update-packs.js        (lists new packs in index.html and sw.js)
   check-data.js         node tools/check-data.js          (validates the data)
   build-single-file.js  node tools/build-single-file.js   (one-file build in dist/)
 ```
 
 Scripts are plain (non-module) files that share one `VB` namespace, so the app also works when `index.html` is opened directly from disk.
 
-## Data format
+## Adding new pages (a new pack)
 
-A day in `days-*.js`:
+1. Create `js/data/pack-031-045.js` (name it after the days it holds). Copy the shape of `pack-001-030.js`:
 
 ```js
-{n:1, t:"Abandon", pg:1,
- s:"The old coach chose to *abdicate*. ...",      // *starred* words are highlighted
- g:[ ["Give up", ["Abandon|v|give up completely", "Abdicate|v|formally give up a throne"]] ]}
+(window.VB_PACKS = window.VB_PACKS || []).push({
+  days: [ {n:31, t:"Title", pg:31, s:"Story with *starred* words.", g:[ ["Group name", ["Word|pos|English meaning", "..."]] ]} ],
+  bn:   { "word": "বাংলা অর্থ" },        // lowercase headword
+  bt:   { "31": "গল্পের বাংলা অনুবাদ" },   // by day number
+  ex:   { "word": "Example with the *word* starred." }   // "word|pos" if one word has two parts of speech
+});
 ```
 
-Each word also has an example sentence in `examples-*.js`, keyed by the lowercase word, with the word wrapped in `*stars*` so it shows in bold: `"abandon":"Rescuers refused to *abandon* the search."`. If the same word appears with two parts of speech, add a second key like `"countenance|v"`. The **Sentences** switch in the Vocabulary section shows or hides them.
+   A pack can hold any number of days. Day numbers must not repeat across packs.
+2. Run `node tools/update-packs.js` (adds the file to `index.html` and `sw.js` and refreshes the offline cache).
+3. Run `node tools/check-data.js` (checks highlights, Bangla meanings, sentences, duplicate days).
+4. Commit and push.
 
-Each row is `Word|pos|English meaning` (`pos` is `n`, `v`, `adj` or `adv`). The Bangla meaning goes in `bangla-words-*.js` under the lowercase word. Run `node tools/check-data.js` after editing.
+Each row is `Word|pos|English meaning` (`pos` is `n`, `v`, `adj` or `adv`). Example sentences wrap the word in `*stars*` so it shows in bold; the **Sentences** switch in the Vocabulary section shows or hides them.
 
 ## Study method
 

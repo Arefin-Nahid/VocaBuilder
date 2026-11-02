@@ -39,6 +39,7 @@ js/
     days-*.js           stories + word groups, 5 days per file
     bangla-words-*.js   Bangla meaning for each word
     bangla-stories-*.js Bangla translation of each day's story
+    examples-*.js       one example sentence per word
   core/               logic with no DOM
     config.js  utils.js  calendar.js  store.js  vocab.js  srs.js  speech.js
   ui/                 one file per screen
@@ -60,6 +61,8 @@ A day in `days-*.js`:
  s:"The old coach chose to *abdicate*. ...",      // *starred* words are highlighted
  g:[ ["Give up", ["Abandon|v|give up completely", "Abdicate|v|formally give up a throne"]] ]}
 ```
+
+Each word also has an example sentence in `examples-*.js`, keyed by the lowercase word, with the word wrapped in `*stars*` so it shows in bold: `"abandon":"Rescuers refused to *abandon* the search."`. If the same word appears with two parts of speech, add a second key like `"countenance|v"`. The **Sentences** switch in the Vocabulary section shows or hides them.
 
 Each row is `Word|pos|English meaning` (`pos` is `n`, `v`, `adj` or `adv`). The Bangla meaning goes in `bangla-words-*.js` under the lowercase word. Run `node tools/check-data.js` after editing.
 

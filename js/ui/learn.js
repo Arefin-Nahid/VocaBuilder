@@ -15,6 +15,13 @@
   }
   function plainStory(d) { return d.s.replace(/\*/g, ""); }
 
+  // Example sentence under a word; the starred word is shown in bold.
+  function exHTML(p) {
+    var s = VB.vocab.example({ k: p[0].toLowerCase(), pos: p[1] });
+    if (!s) return "";
+    return '<span class="ex">' + esc(s).replace(/\*([^*]+)\*/g, "<b>$1</b>") + "</span>";
+  }
+
   function render() {
     var st = VB.state, cur = st.cur, d = VB.vocab.DAYS[cur - 1], cal = VB.calendar;
     var canSpeak = VB.speech.supported, note = "";
@@ -36,17 +43,18 @@
 
     h += '<section class="sec" aria-labelledby="lbl-vocab"><h2 class="sech" id="lbl-vocab">Vocabulary <span>' + ENT[cur].length + " words in " + d.g.length + " groups</span></h2>"
       + '<div class="tools"><button class="btn sw" id="swWords" data-act="bnWords" aria-pressed="' + (!!S.bnWords) + '"><span class="dot"></span><span class="bn-lbl">বাংলা অর্থ</span></button>'
+      + '<button class="btn sw" id="swEx" data-act="exAll" aria-pressed="' + (S.showEx !== false) + '"><span class="dot"></span>Sentences</button>'
       + '<button class="btn sw" id="swRecall" data-act="recall" aria-pressed="false"><span class="dot"></span>Recall mode</button>'
       + '<button class="btn" id="reveal" data-act="reveal" hidden>Reveal all</button></div>';
 
-    h += '<div id="words" class="groups' + (S.bnWords ? " bnw" : "") + '" aria-label="Word meanings">';
+    h += '<div id="words" class="groups' + (S.bnWords ? " bnw" : "") + (S.showEx !== false ? " showex" : "") + '" aria-label="Word meanings">';
     d.g.forEach(function (g, gi) {
       h += '<div class="group" data-gi="' + gi + '"><h3 class="gt">' + esc(g[0]) + "</h3><ul>";
       g[1].forEach(function (r, ri) {
         var p = r.split("|"), k = p[0].toLowerCase();
         h += '<li class="e" id="e-' + gi + "-" + ri + '" data-k="' + esc(k) + '" tabindex="0"><div class="line"><span class="w">' + esc(p[0]) + '</span><span class="pos pos-' + p[1] + '">' + p[1] + "</span>"
           + (canSpeak ? '<button class="spk" data-act="sayword" data-w="' + esc(p[0].split("/")[0]) + '" aria-label="Listen to ' + esc(p[0]) + '" title="Listen">' + ICON_SPEAKER_SM + "</button>" : "")
-          + '</div><span class="m">' + esc(p[2]) + '</span><span class="eb">' + esc(BN[k] || "") + "</span></li>";
+          + '</div><span class="m">' + esc(p[2]) + '</span><span class="eb">' + esc(BN[k] || "") + '</span>' + exHTML(p) + "</li>";
       });
       h += "</ul></div>";
     });
@@ -91,6 +99,13 @@
   function toggleStoryBn(btn) { S.bnStory = !S.bnStory; VB.store.save(); $("story").classList.toggle("bn-on", S.bnStory); btn.setAttribute("aria-pressed", S.bnStory); }
   function toggleFullBn(btn) { S.bnFull = !S.bnFull; VB.store.save(); $("trans").hidden = !S.bnFull; btn.setAttribute("aria-pressed", S.bnFull); }
   function toggleWordsBn(btn) { S.bnWords = !S.bnWords; VB.store.save(); $("words").classList.toggle("bnw", S.bnWords); btn.setAttribute("aria-pressed", S.bnWords); layoutGroups(); }
+  function toggleEx(btn) {
+    S.showEx = S.showEx === false;
+    VB.store.save();
+    $("words").classList.toggle("showex", S.showEx);
+    btn.setAttribute("aria-pressed", S.showEx);
+    layoutGroups();
+  }
   function toggleRecall(btn) {
     var on = btn.getAttribute("aria-pressed") !== "true";
     btn.setAttribute("aria-pressed", on);
@@ -125,6 +140,6 @@
 
   VB.ui.learn = {
     render: render, hearStory: hearStory, toggleStoryBn: toggleStoryBn, toggleFullBn: toggleFullBn,
-    toggleWordsBn: toggleWordsBn, toggleRecall: toggleRecall, revealAll: revealAll, highlight: highlight
+    toggleWordsBn: toggleWordsBn, toggleEx: toggleEx, toggleRecall: toggleRecall, revealAll: revealAll, highlight: highlight
   };
 })();

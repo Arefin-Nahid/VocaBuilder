@@ -49,6 +49,7 @@
     bnStory: L.toggleStoryBn,
     bnFull: L.toggleFullBn,
     bnWords: L.toggleWordsBn,
+    exAll: L.toggleEx,
     recall: L.toggleRecall,
     reveal: L.revealAll,
     hear: L.hearStory,

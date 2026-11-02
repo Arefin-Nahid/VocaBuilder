@@ -18,6 +18,11 @@
 .eb{display:none;font-family:var(--f-bn);font-size:16px;color:var(--accent);font-weight:500;overflow-wrap:anywhere}
 .bnw .eb{display:block}
 .recall .e:not(.shown){cursor:pointer}
-.recall .e:not(.shown) .m,.recall .e:not(.shown) .eb{color:transparent;background:var(--veil);border-radius:5px;user-select:none;width:fit-content;max-width:100%}
+.recall .e:not(.shown) .m,.recall .e:not(.shown) .eb,.recall .e:not(.shown) .ex{color:transparent;background:var(--veil);border-radius:5px;user-select:none;width:fit-content;max-width:100%}
 .e.flash{animation:flash 1.4s ease-out}
 @keyframes flash{0%,40%{background:var(--mark-flash)}100%{background:transparent}}
+
+/* example sentence under each word (shown when "Sentences" is on) */
+.ex{display:none;margin-top:3px;padding-left:9px;border-left:2px solid var(--accent-soft);font-family:var(--f-read);font-size:14.5px;line-height:1.5;color:var(--muted);overflow-wrap:anywhere}
+.ex b{color:var(--fg);font-weight:700}
+.showex .ex{display:block}

@@ -6,6 +6,7 @@
   var DAYS = (window.DAYS || []).slice().sort(function (a, b) { return a.n - b.n; });
   var BN = window.BN || {}; // Bangla meaning per headword (lowercase)
   var BT = window.BT || {}; // Bangla translation per day's story
+  var EX = window.EX || {}; // example sentence per word ("word" or "word|pos"); *starred* text is the word
   var ENT = {}, ALL = {};
 
   // A data row is "Word|pos|English meaning". Duplicates inside one day are skipped.
@@ -47,5 +48,8 @@
 
   function dayKeys(n) { return ENT[n].map(function (e) { return e.k; }); }
 
-  VB.vocab = { DAYS: DAYS, BN: BN, BT: BT, ENT: ENT, ALL: ALL, findEntry: findEntry, dayKeys: dayKeys };
+  // Example sentence for an entry (a "word|pos" key wins over a plain "word" key).
+  function example(e) { return EX[e.k + "|" + e.pos] || EX[e.k] || ""; }
+
+  VB.vocab = { DAYS: DAYS, BN: BN, BT: BT, EX: EX, example: example, ENT: ENT, ALL: ALL, findEntry: findEntry, dayKeys: dayKeys };
 })();

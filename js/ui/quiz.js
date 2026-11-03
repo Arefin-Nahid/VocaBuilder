@@ -96,7 +96,7 @@
 
   function feedbackHTML(it, ok) {
     var e = it.e;
-    return '<div class="fb"><div class="res ' + (ok ? "ok" : "no") + '">' + (ok ? "Correct" : "Not quite") + "</div><div><b>" + esc(e.w) + "</b> " + posTag(e.pos) + " " + esc(e.m) + '</div><div class="bnt">' + esc(BN[e.k] || "") + "</div></div>";
+    return '<div class="fb ' + (ok ? "ok" : "no") + '"><div class="res">' + (ok ? "Correct" : "Not quite. The answer is highlighted") + "</div><div><b>" + esc(e.w) + "</b> " + posTag(e.pos) + " " + esc(e.m) + '</div><div class="bnt">' + esc(BN[e.k] || "") + "</div></div>";
   }
 
   // Header line of a quiz: the day for a day quiz, the range for a mixed quiz.
@@ -112,15 +112,26 @@
     return h + "</select>";
   }
 
+  var TYPE_LABEL = { cloze: "Fill the blank", en: "Meaning in English", bn: "Meaning in Bangla" };
+  var LETTERS = ["A", "B", "C", "D", "E"];
+
+  function fmtScoreBar(q) {
+    var p = Math.round(q.s / q.t * 100);
+    return '<div class="qlast"><div><span class="qlast-k">Last score</span><b>' + q.s + " / " + q.t + '</b><span class="qlast-d">' + u.fmtDate(q.d) + '</span></div><div class="mini" aria-hidden="true"><i style="width:' + p + '%"></i></div></div>';
+  }
+
   function render() {
     var st = VB.state, cur = st.cur, Q = st.Q, d = VB.vocab.day(cur);
     if (!Q || (!Q.range && Q.day !== cur)) {
       var q = S.quiz[cur], rg = st.rg || { from: VB.vocab.nums[0], to: cur }, finished = VB.progress.finishedDays();
+      var cnt = Math.min(cfg.quizSize, ENT[cur].length);
       $("view").innerHTML = '<div><div class="when">' + esc(d.t) + "</div><h1>Quiz</h1></div>"
-        + '<section class="card empty" style="text-align:left;justify-items:start"><p style="margin:0">' + Math.min(cfg.quizSize, ENT[cur].length) + " questions: some fill a blank in a sentence from the story, others ask for a meaning in English or Bangla. Words you have found hard come up first.</p>"
-        + (q ? '<p style="margin:0;color:var(--muted)">Last score: <b>' + q.s + " of " + q.t + "</b> on " + u.fmtDate(q.d) + ".</p>" : "")
-        + '<button class="btn primary" data-act="startQuiz">Start quiz</button></section>'
-        + '<section class="card rangeq" style="text-align:left"><h2 class="label" style="margin:0 0 6px">Mixed quiz</h2><p style="margin:0 0 10px;color:var(--muted)">Practise words from several pages at once, which is a stronger test of memory.</p>'
+        + '<section class="card qhero"><div class="qh-top"><span class="qh-num">' + cnt + '</span><span class="qh-sub">questions<br>on this page</span></div>'
+        + '<ul class="qtypes"><li><i class="qt cz"></i>Fill the blank</li><li><i class="qt en"></i>English meaning</li><li><i class="qt bn"></i>Bangla meaning</li></ul>'
+        + '<p class="qhint">Words you found hard come up first, so every round trains what you need most.</p>'
+        + (q ? fmtScoreBar(q) : "")
+        + '<button class="btn primary qgo" data-act="startQuiz">' + (q ? "Take it again" : "Start quiz") + "</button></section>"
+        + '<section class="card rangeq"><div class="qsec"><h2>Mixed quiz</h2><span class="qchip">Stronger recall</span></div><p class="qhint" style="margin:0 0 12px">Mix words from several pages in one round.</p>'
         + '<div class="rgrow"><label>From ' + rangeSelect("qFrom", rg.from) + "</label><label>To " + rangeSelect("qTo", rg.to) + "</label></div>"
         + '<div class="finish" style="margin-top:12px"><button class="btn primary" data-act="startRange">Quiz these pages</button>'
         + '<button class="btn" data-act="startFinished"' + (finished.length ? "" : " disabled") + ">All finished pages</button></div></section>";
@@ -128,42 +139,56 @@
     }
     if (Q.i >= Q.items.length) return renderResult();
 
-    var it = Q.items[Q.i], h = "";
-    h += '<div><div class="qmeta"><span>' + whenLabel(Q) + "</span><span>Question " + (Q.i + 1) + " of " + Q.items.length + '</span></div><div class="bar" aria-hidden="true"><i style="width:' + (Q.i / Q.items.length * 100) + '%"></i></div></div>';
-    h += '<section class="card">';
+    var it = Q.items[Q.i], h = "", right = Q.res.filter(Boolean).length;
+    h += '<div class="qtop"><div class="qmeta"><span class="qwhen">' + whenLabel(Q) + '</span><span class="qscore" title="Correct so far">' + right + " correct</span></div>";
+    h += '<div class="steps" role="progressbar" aria-valuemin="1" aria-valuemax="' + Q.items.length + '" aria-valuenow="' + (Q.i + 1) + '">';
+    Q.items.forEach(function (x, i) {
+      var c = i < Q.i || (i === Q.i && Q.ans !== null) ? (Q.res[i] ? " ok" : " no") : (i === Q.i ? " cur" : "");
+      h += '<i class="' + c.trim() + '"></i>';
+    });
+    h += '</div><div class="qcount">Question ' + (Q.i + 1) + " of " + Q.items.length + "</div></div>";
+    h += '<section class="card qcard"><div class="qlabel"><span class="qt ' + (it.type === "cloze" ? "cz" : it.type) + '"></span>' + TYPE_LABEL[it.type] + "</div>";
     if (it.type === "cloze") {
-      h += '<div class="qlabel">Fill the blank</div><p class="qtext">' + esc(it.text).replace("\u0001", '<span class="blank">&nbsp;</span>') + "</p>";
+      h += '<p class="qtext">' + esc(it.text).replace("\u0001", '<span class="blank">&nbsp;</span>') + "</p>";
     } else {
-      h += '<div class="qlabel">' + (it.type === "bn" ? "Pick the Bangla meaning" : "Pick the meaning") + '</div><div class="qword">' + esc(it.e.w) + " " + posTag(it.e.pos) + "</div>";
+      h += '<div class="qword">' + esc(it.e.w) + " " + posTag(it.e.pos) + "</div>";
     }
-    h += '<div class="opts">';
+    h += '<div class="opts" role="group" aria-label="Answers">';
     it.opts.forEach(function (o, i) {
-      var cls = "opt" + (it.type === "bn" ? " bnopt" : "");
-      if (Q.ans !== null) { if (o.ok) cls += " ok"; else if (i === Q.ans) cls += " no"; }
-      h += '<button class="' + cls + '" data-act="ans" data-i="' + i + '"' + (Q.ans !== null ? " disabled" : "") + ">" + esc(o.t) + "</button>";
+      var cls = "opt" + (it.type === "bn" ? " bnopt" : ""), mark = "";
+      if (Q.ans !== null) {
+        if (o.ok) { cls += " ok"; mark = '<span class="om" aria-hidden="true">&#10003;</span>'; }
+        else if (i === Q.ans) { cls += " no"; mark = '<span class="om" aria-hidden="true">&#10005;</span>'; }
+        else cls += " dim";
+      }
+      h += '<button class="' + cls + '" data-act="ans" data-i="' + i + '"' + (Q.ans !== null ? " disabled" : "") + '><span class="ol">' + LETTERS[i] + '</span><span class="ot">' + esc(o.t) + "</span>" + mark + "</button>";
     });
     h += "</div>";
     if (Q.ans !== null) {
       h += feedbackHTML(it, it.opts[Q.ans].ok);
-      h += '<div class="finish" style="margin-top:12px"><button class="btn primary" data-act="nextQ">' + (Q.i + 1 >= Q.items.length ? "See results" : "Next question") + "</button></div>";
+      h += '<button class="btn primary qgo" data-act="nextQ">' + (Q.i + 1 >= Q.items.length ? "See results" : "Next question") + "</button>";
     }
     h += "</section>";
+    if (Q.ans === null) h += '<p class="qkeys">Tip: press 1 to ' + it.opts.length + " to answer.</p>";
     $("view").innerHTML = h;
   }
 
   function renderResult() {
     var st = VB.state, cur = st.cur, Q = st.Q;
     var miss = Q.items.filter(function (x, i) { return !Q.res[i]; });
-    var score = Q.items.length - miss.length;
-    var h = '<div><div class="when">' + whenLabel(Q) + "</div><h1>Quiz finished</h1></div>";
-    h += '<section class="card"><div class="score">' + score + " / " + Q.items.length + '</div><p style="margin:8px 0 0;color:var(--muted)">' + (miss.length ? "The words you missed will come back in Review sooner." : "All correct. These words move to a longer review gap.") + "</p>";
+    var total = Q.items.length, score = total - miss.length, pct = Math.round(score / total * 100);
+    var tier = pct === 100 ? "Perfect round" : pct >= 80 ? "Excellent work" : pct >= 60 ? "Good progress" : pct >= 40 ? "Getting there" : "Keep practising";
+    var h = '<div><div class="when">' + whenLabel(Q) + "</div><h1>Results</h1></div>";
+    h += '<section class="card qres"><div class="ring" style="--p:' + pct + '" role="img" aria-label="' + score + " correct out of " + total + '"><div><b>' + score + "</b><span>of " + total + "</span></div></div>";
+    h += '<div class="qres-t"><div class="qres-h">' + tier + '</div><p>' + (miss.length ? "Missed words will come back in Review sooner." : "All correct. These words move to a longer review gap.") + "</p>";
+    h += '<div class="qstats"><span class="s ok">' + score + ' correct</span><span class="s no">' + miss.length + " missed</span><span class=\"s\">" + pct + "%</span></div></div></section>";
     if (miss.length) {
-      h += '<ul class="miss">';
+      h += '<section class="card"><h2 class="label" style="margin:0 0 10px">Words to revisit</h2><ul class="miss">';
       miss.forEach(function (x) { h += "<li><div><b>" + esc(x.e.w) + "</b> " + posTag(x.e.pos) + "</div><div>" + esc(x.e.m) + '</div><div class="bnt" style="font-family:var(--f-bn);color:var(--accent)">' + esc(BN[x.e.k] || "") + "</div></li>"; });
-      h += "</ul>";
+      h += "</ul></section>";
     }
     var nx = VB.vocab.neighbor(cur, 1);
-    h += '</section><div class="finish"><button class="btn primary" data-act="' + (Q.range ? "retryRange" : "startQuiz") + '">Try a new quiz</button><button class="btn" data-act="tab" data-tab="' + (Q.range ? "quiz" : "learn") + '">' + (Q.range ? "Back to quizzes" : "Back to the lesson") + "</button>" + (!Q.range && nx ? '<button class="btn" data-act="nextDay">Next: ' + esc(VB.vocab.day(nx).t) + "</button>" : "") + "</div>";
+    h += '<div class="finish"><button class="btn primary" data-act="' + (Q.range ? "retryRange" : "startQuiz") + '">Try a new quiz</button><button class="btn" data-act="tab" data-tab="' + (Q.range ? "quiz" : "learn") + '">' + (Q.range ? "Back to quizzes" : "Back to the lesson") + "</button>" + (!Q.range && nx ? '<button class="btn" data-act="nextDay">Next: ' + esc(VB.vocab.day(nx).t) + "</button>" : "") + "</div>";
     $("view").innerHTML = h;
   }
 
@@ -213,6 +238,16 @@
     }
     VB.render(); window.scrollTo(0, 0);
   }
+
+  document.addEventListener("keydown", function (ev) {
+    var st = VB.state, Q = st && st.Q;
+    if (!st || st.view !== "quiz" || !Q || Q.i >= Q.items.length || ev.ctrlKey || ev.metaKey || ev.altKey) return;
+    var t = ev.target && ev.target.tagName;
+    if (t === "SELECT" || t === "INPUT" || t === "TEXTAREA") return;
+    var n = parseInt(ev.key, 10);
+    if (Q.ans === null && n >= 1 && n <= Q.items[Q.i].opts.length) { ev.preventDefault(); answer(n - 1); }
+    else if (Q.ans !== null && ev.key === "Enter" && t !== "BUTTON") { ev.preventDefault(); next(); }
+  });
 
   VB.ui.quiz = { render: render, start: start, startRange: startRange, startFinished: startFinished, retryRange: retryRange, rememberRange: rememberRange, answer: answer, next: next };
 })();

@@ -40,6 +40,7 @@ js/
     pack-001-030.js     pages 1-30: stories, word groups, Bangla meanings,
                         Bangla story translations, example sentences
     pack-031-042.js     pages 31-42 (book pages 39-50)
+    pack-043-067.js     pages 43-67 (book pages 51-75)
   core/               logic with no DOM
     config.js  utils.js  calendar.js  store.js  vocab.js  progress.js  srs.js  speech.js
   ui/                 one file per screen

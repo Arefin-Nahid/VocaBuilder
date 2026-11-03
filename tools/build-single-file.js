@@ -7,7 +7,7 @@ const root = path.join(__dirname, "..");
 const fragment = process.argv.includes("--fragment");
 let html = fs.readFileSync(path.join(root, "index.html"), "utf8");
 
-html = html.replace(/<link rel="stylesheet" href="(css\/[^"]+)">\s*/g, () => "");
+html = html.replace(/<link rel="stylesheet" href="(css\/[^"]+)"[^>]*>\s*/g, () => "");
 // the single file is not installable: drop the manifest link and the service-worker script
 html = html.replace(/\s*<link rel="manifest"[^>]*>/, "").replace(/\s*<script src="js\/pwa.js"><\/script>/, "");
 // inline the logo so the single file needs no other files
@@ -15,8 +15,9 @@ const svg64 = fs.readFileSync(path.join(root, "favicon.svg")).toString("base64")
 const iconTag = `<link rel="icon" href="data:image/svg+xml;base64,${svg64}" type="image/svg+xml">`;
 html = html.replace(/\s*<link rel="icon" href="favicon-32.png"[^>]*>/, "").replace(/\s*<link rel="apple-touch-icon"[^>]*>/, "")
   .replace(/<link rel="icon" href="favicon.svg"[^>]*>/, iconTag);
-const css = [...fs.readFileSync(path.join(root, "index.html"), "utf8").matchAll(/href="(css\/[^"]+)"/g)]
-  .map(m => fs.readFileSync(path.join(root, m[1]), "utf8")).join("\n");
+// a stylesheet linked with a media attribute keeps its media query when inlined
+const css = [...fs.readFileSync(path.join(root, "index.html"), "utf8").matchAll(/<link rel="stylesheet" href="(css\/[^"]+)"([^>]*)>/g)]
+  .map(m => { const t = fs.readFileSync(path.join(root, m[1]), "utf8"), mq = /media="([^"]+)"/.exec(m[2]); return mq ? `@media ${mq[1]}{\n${t}\n}` : t; }).join("\n");
 const scripts = [...html.matchAll(/<script src="([^"]+)"><\/script>\s*/g)];
 const js = scripts.map(m => fs.readFileSync(path.join(root, m[1]), "utf8")).join("\n");
 html = html.replace(/<script src="[^"]+"><\/script>\s*/g, "");

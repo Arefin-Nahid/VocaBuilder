@@ -17,7 +17,7 @@
       if (!R.flip) {
         h += '<div class="tools"><button class="btn primary" data-act="flip">Show answer</button>' + (VB.speech.supported ? '<button class="btn" data-act="sayword" data-w="' + esc(e.w) + '">Hear it</button>' : "") + "</div>";
       } else {
-        h += '<div class="fc-ans"><div>' + esc(e.m) + '</div><div class="bnt">' + esc(BN[key] || "") + '</div></div><div class="fc-src">From day ' + e.day + ": " + esc(VB.vocab.day(e.day).t) + " · box " + S.srs[key].b + " of 5</div>";
+        h += '<div class="fc-ans"><div>' + esc(e.m) + '</div><div class="bnt">' + esc(BN[key] || "") + '</div></div><div class="fc-src">From: ' + esc(VB.vocab.day(e.day).t) + " · box " + S.srs[key].b + " of 5</div>";
         h += '<div class="rate" style="width:100%"><button class="btn" data-act="rate" data-r="again">Forgot</button><button class="btn" data-act="rate" data-r="hard">Hard</button><button class="btn good" data-act="rate" data-r="good">Got it</button></div>';
       }
       h += "</section>";
@@ -25,7 +25,7 @@
       h += '<div><div class="when">Review</div><h1>Session complete</h1></div><section class="card empty"><div class="score">' + R.deck.length + '</div><p style="margin:0">cards reviewed. Forgot ' + R.st.again + ", hard " + R.st.hard + ", got it " + R.st.good + '.</p><button class="btn primary" data-act="endReview">Done</button></section>';
     } else {
       h += '<div><div class="when">Spaced review</div><h1>Review</h1></div>';
-      h += '<section class="card"><div class="score">' + due.length + '</div><p style="margin:8px 0 12px;color:var(--muted)">' + (due.length ? "words are due today. Each session has up to " + cfg.reviewSize + " cards, hardest first." : (Object.keys(S.srs).length ? "Nothing due today. Come back tomorrow." : "No words yet. Take a quiz or mark a day finished and its words appear here tomorrow.")) + "</p>"
+      h += '<section class="card"><div class="score">' + due.length + '</div><p style="margin:8px 0 12px;color:var(--muted)">' + (due.length ? "words are due today. Each session has up to " + cfg.reviewSize + " cards, hardest first." : (Object.keys(S.srs).length ? "Nothing due today. Come back tomorrow." : "No words yet. Take a quiz or mark a page finished and its words appear here tomorrow.")) + "</p>"
         + (due.length ? '<button class="btn primary" data-act="startReview">Start review</button>' : '<button class="btn" data-act="tab" data-tab="learn">Go to the lesson</button>')
         + '<div class="boxes">';
       var names = ["Box 1 · tomorrow", "Box 2 · 2 days", "Box 3 · 4 days", "Box 4 · 8 days", "Box 5 · 16 days"];

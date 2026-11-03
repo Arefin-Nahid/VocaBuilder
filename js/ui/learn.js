@@ -26,8 +26,8 @@
     var st = VB.state, cur = st.cur, d = VB.vocab.day(cur), up = VB.progress.upNext();
     var canSpeak = VB.speech.supported, note = "";
     if (cur === up && !S.done[cur]) note = "This is your next lesson.";
-    else if (cur > up && !S.done[cur]) note = "You are reading ahead. Day " + up + " is not finished yet.";
-    else if (cur < up && !S.done[cur]) note = "You have not marked this day finished yet.";
+    else if (cur > up && !S.done[cur]) note = "You are reading ahead. \u201c" + esc(VB.vocab.day(up).t) + "\u201d is not finished yet.";
+    else if (cur < up && !S.done[cur]) note = "You have not marked this page finished yet.";
 
     var h = '<div><h1 style="margin-top:0">' + esc(d.t) + "</h1>" + (note ? '<div class="note">' + note + "</div>" : "") + "</div>";
 
@@ -62,7 +62,7 @@
 
     var q = S.quiz[cur];
     h += '<div class="actions"><button class="btn primary" data-act="gotoQuiz">' + (q ? "Retake the quiz (last " + q.s + "/" + q.t + ")" : "Take the quiz") + "</button>"
-      + '<button class="btn ghost' + (S.done[cur] ? " good" : "") + '" data-act="done">' + (S.done[cur] ? "Day finished. Tap to undo" : "Mark day done") + "</button></div>";
+      + '<button class="btn ghost' + (S.done[cur] ? " good" : "") + '" data-act="done">' + (S.done[cur] ? "Page finished. Tap to undo" : "Mark page done") + "</button></div>";
 
     $("view").innerHTML = h;
     layoutGroups();

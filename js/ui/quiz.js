@@ -101,13 +101,14 @@
 
   // Header line of a quiz: the day for a day quiz, the range for a mixed quiz.
   function whenLabel(Q) {
-    if (!Q.range) { var d = VB.vocab.day(Q.day); return "Day " + Q.day + " · " + esc(d.t); }
-    return "Mixed quiz · " + (Q.range.length === 1 ? "Day " + Q.range[0] : "Days " + Q.range[0] + " to " + Q.range[Q.range.length - 1]);
+    if (!Q.range) return esc(VB.vocab.day(Q.day).t);
+    var a = VB.vocab.day(Q.range[0]).t, b = VB.vocab.day(Q.range[Q.range.length - 1]).t;
+    return "Mixed quiz · " + esc(Q.range.length === 1 ? a : a + " to " + b);
   }
 
   function rangeSelect(id, sel) {
-    var h = '<select id="' + id + '" data-rg="' + id + '" aria-label="' + (id === "qFrom" ? "From day" : "To day") + '">';
-    VB.vocab.nums.forEach(function (n) { h += '<option value="' + n + '"' + (n === sel ? " selected" : "") + ">Day " + n + "</option>"; });
+    var h = '<select id="' + id + '" data-rg="' + id + '" aria-label="' + (id === "qFrom" ? "From page" : "To page") + '">';
+    VB.vocab.nums.forEach(function (n) { h += '<option value="' + n + '"' + (n === sel ? " selected" : "") + ">" + esc(VB.vocab.day(n).t) + "</option>"; });
     return h + "</select>";
   }
 
@@ -115,14 +116,14 @@
     var st = VB.state, cur = st.cur, Q = st.Q, d = VB.vocab.day(cur);
     if (!Q || (!Q.range && Q.day !== cur)) {
       var q = S.quiz[cur], rg = st.rg || { from: VB.vocab.nums[0], to: cur }, finished = VB.progress.finishedDays();
-      $("view").innerHTML = '<div><div class="when">Day ' + cur + " · " + esc(d.t) + "</div><h1>Quiz</h1></div>"
+      $("view").innerHTML = '<div><div class="when">' + esc(d.t) + "</div><h1>Quiz</h1></div>"
         + '<section class="card empty" style="text-align:left;justify-items:start"><p style="margin:0">' + Math.min(cfg.quizSize, ENT[cur].length) + " questions: some fill a blank in a sentence from the story, others ask for a meaning in English or Bangla. Words you have found hard come up first.</p>"
         + (q ? '<p style="margin:0;color:var(--muted)">Last score: <b>' + q.s + " of " + q.t + "</b> on " + u.fmtDate(q.d) + ".</p>" : "")
         + '<button class="btn primary" data-act="startQuiz">Start quiz</button></section>'
-        + '<section class="card rangeq" style="text-align:left"><h2 class="label" style="margin:0 0 6px">Mixed quiz</h2><p style="margin:0 0 10px;color:var(--muted)">Practise words from several days at once, which is a stronger test of memory.</p>'
+        + '<section class="card rangeq" style="text-align:left"><h2 class="label" style="margin:0 0 6px">Mixed quiz</h2><p style="margin:0 0 10px;color:var(--muted)">Practise words from several pages at once, which is a stronger test of memory.</p>'
         + '<div class="rgrow"><label>From ' + rangeSelect("qFrom", rg.from) + "</label><label>To " + rangeSelect("qTo", rg.to) + "</label></div>"
-        + '<div class="finish" style="margin-top:12px"><button class="btn primary" data-act="startRange">Quiz these days</button>'
-        + '<button class="btn" data-act="startFinished"' + (finished.length ? "" : " disabled") + ">All finished days</button></div></section>";
+        + '<div class="finish" style="margin-top:12px"><button class="btn primary" data-act="startRange">Quiz these pages</button>'
+        + '<button class="btn" data-act="startFinished"' + (finished.length ? "" : " disabled") + ">All finished pages</button></div></section>";
       return;
     }
     if (Q.i >= Q.items.length) return renderResult();
@@ -162,7 +163,7 @@
       h += "</ul>";
     }
     var nx = VB.vocab.neighbor(cur, 1);
-    h += '</section><div class="finish"><button class="btn primary" data-act="' + (Q.range ? "retryRange" : "startQuiz") + '">Try a new quiz</button><button class="btn" data-act="tab" data-tab="' + (Q.range ? "quiz" : "learn") + '">' + (Q.range ? "Back to quizzes" : "Back to the lesson") + "</button>" + (!Q.range && nx ? '<button class="btn" data-act="nextDay">Go to day ' + nx + "</button>" : "") + "</div>";
+    h += '</section><div class="finish"><button class="btn primary" data-act="' + (Q.range ? "retryRange" : "startQuiz") + '">Try a new quiz</button><button class="btn" data-act="tab" data-tab="' + (Q.range ? "quiz" : "learn") + '">' + (Q.range ? "Back to quizzes" : "Back to the lesson") + "</button>" + (!Q.range && nx ? '<button class="btn" data-act="nextDay">Next: ' + esc(VB.vocab.day(nx).t) + "</button>" : "") + "</div>";
     $("view").innerHTML = h;
   }
 

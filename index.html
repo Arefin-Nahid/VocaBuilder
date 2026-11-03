@@ -32,9 +32,9 @@
   <div class="wrap">
     <header class="hdr">
       <div class="row1">
-        <button class="ib" id="prev" data-act="prev" aria-label="Previous day">&#8249;</button>
-        <button class="daybtn" id="daybtn" data-act="days" aria-expanded="false" aria-controls="days"><span class="a" id="dn"></span><span class="b" id="dd"></span><span class="c">All days</span></button>
-        <button class="ib" id="next" data-act="next" aria-label="Next day">&#8250;</button>
+        <button class="ib" id="prev" data-act="prev" aria-label="Previous page">&#8249;</button>
+        <button class="daybtn" id="daybtn" data-act="days" aria-label="Open the index"><span class="a" id="dn"></span><span class="b" id="dd"></span><span class="c">Index</span></button>
+        <button class="ib" id="next" data-act="next" aria-label="Next page">&#8250;</button>
       </div>
       <nav class="tabs" role="tablist" aria-label="Sections">
         <button class="tab" role="tab" data-act="tab" data-tab="learn">Learn</button>
@@ -43,11 +43,6 @@
         <button class="tab" role="tab" data-act="tab" data-tab="index">Index</button>
       </nav>
     </header>
-    <section class="card days" id="days" hidden aria-label="All days">
-      <div class="strip" id="strip"></div>
-      <div class="legend"><span>Filled = finished</span><span>Dot = up next</span><span>Ring = open now</span></div>
-      <div class="legend" id="stats"></div>
-    </section>
     <main id="view"></main>
   </div>
   <noscript><p style="padding:16px">This app needs JavaScript.</p></noscript>
@@ -55,6 +50,7 @@
   <!-- 1. Data packs. Do not edit this block by hand: run  node tools/update-packs.js  after adding a pack file. -->
   <!-- PACKS:START -->
   <script src="js/data/pack-001-030.js"></script>
+  <script src="js/data/pack-031-042.js"></script>
   <!-- PACKS:END -->
 
   <!-- 2. Core (no DOM) -->

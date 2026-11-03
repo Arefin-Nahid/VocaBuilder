@@ -63,6 +63,21 @@
     return c;
   }
 
+  // Head words: each topic (e.g. "Food") with the pages that belong to it. A page titled "X (continued)" joins the topic before it.
+  var HEADS = [], HEAD_OF = {};
+  DAYS.forEach(function (d) {
+    var base = d.t.replace(/\s*\(continued\)\s*$/i, ""), last = HEADS[HEADS.length - 1];
+    if (base !== d.t && last && last.title === base) last.pages.push(d.n);
+    else HEADS.push({ title: base, n: d.n, pages: [d.n] });
+    HEAD_OF[d.n] = HEADS[HEADS.length - 1];
+  });
+  function headOf(n) { return HEAD_OF[n]; }
+  // "Part 2 of 3" for a page of a multi-page topic, otherwise "".
+  function partLabel(n) {
+    var h = HEAD_OF[n];
+    return h && h.pages.length > 1 ? "Part " + (h.pages.indexOf(n) + 1) + " of " + h.pages.length : "";
+  }
+
   // Example sentence for an entry (a "word|pos" key wins over a plain "word" key).
   function example(e) { return EX[e.k + "|" + e.pos] || EX[e.k] || ""; }
 
@@ -83,7 +98,7 @@
 
   VB.vocab = {
     DAYS: DAYS, nums: NUMS, BN: BN, BT: BT, EX: EX, ENT: ENT, ALL: ALL,
-    has: has, day: day, neighbor: neighbor, index: index,
+    has: has, day: day, neighbor: neighbor, index: index, heads: HEADS, headOf: headOf, partLabel: partLabel,
     example: example, findEntry: findEntry, dayKeys: dayKeys
   };
 })();

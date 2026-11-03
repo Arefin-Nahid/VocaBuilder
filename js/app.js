@@ -33,11 +33,9 @@
     st.cur = n;
     if (view) st.view = view;
     VB.speech.stop();
-    $("days").hidden = true;
-    $("daybtn").setAttribute("aria-expanded", "false");
     setHash(); render(); window.scrollTo(0, 0);
   }
-  function openView(v) { VB.speech.stop(); st.view = v; $("days").hidden = true; setHash(); render(); window.scrollTo(0, 0); }
+  function openView(v) { VB.speech.stop(); st.view = v; setHash(); render(); window.scrollTo(0, 0); }
 
   /* ----- click actions: data-act="name" on any element ----- */
   var L = VB.ui.learn, Qz = VB.ui.quiz, Rv = VB.ui.review;
@@ -47,13 +45,13 @@
     prev: function () { go(V.neighbor(st.cur, -1), st.view === "index" ? "learn" : st.view); },
     next: function () { go(V.neighbor(st.cur, 1), st.view === "index" ? "learn" : st.view); },
     nextDay: function () { go(V.neighbor(st.cur, 1), "learn"); },
-    ixopen: function (a) { go(+a.dataset.n, "learn"); L.highlight(a.dataset.w); },
+    ixopen: function (a) { go(+a.dataset.n, "learn"); if (a.dataset.w) L.highlight(a.dataset.w); },
     ixf: function (a) { VB.ui.index.setFilter(a.dataset.f); },
-    ixbn: function () { VB.ui.index.toggleBn(); },
+    ixsort: function (a) { VB.ui.index.setSort(a.dataset.s); },
     startRange: Qz.startRange,
     startFinished: Qz.startFinished,
     retryRange: Qz.retryRange,
-    days: function (a) { var open = $("days").hidden; $("days").hidden = !open; a.setAttribute("aria-expanded", open); },
+    days: function () { openView("index"); },
     bnStory: L.toggleStoryBn,
     bnFull: L.toggleFullBn,
     bnWords: L.toggleWordsBn,

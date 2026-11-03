@@ -1,6 +1,6 @@
 # VocaBuilder
 
-A vocabulary study app for the whole VocaBuilder book, added a few pages at a time. A "Day" is one book page. Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. There is also an A–Z **Index** of every word and a **mixed quiz** over any range of days. Progress is by lesson, not by calendar: the app always opens on the first day you have not finished. Progress is saved in the browser; there is no server and no build step.
+A vocabulary study app for the whole VocaBuilder book, added a few pages at a time. A "Day" is one book page. Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. The header shows the head word of the page (for example "Food"); tap it to open the **Index** of head words, each linking to its pages (A–Z or book order, with search that also finds any word inside). There is also a **mixed quiz** over any range of days. Progress is by lesson, not by calendar: the app always opens on the first day you have not finished. Progress is saved in the browser; there is no server and no build step.
 
 ## Publish on GitHub Pages
 
@@ -37,8 +37,9 @@ css/
   theme-mint.css      mint colour overrides
 js/
   data/               the content: one "pack" file per delivery of pages
-    pack-001-030.js     days 1-30: stories, word groups, Bangla meanings,
+    pack-001-030.js     pages 1-30: stories, word groups, Bangla meanings,
                         Bangla story translations, example sentences
+    pack-031-042.js     pages 31-42 (book pages 39-50)
   core/               logic with no DOM
     config.js  utils.js  calendar.js  store.js  vocab.js  progress.js  srs.js  speech.js
   ui/                 one file per screen
@@ -65,7 +66,7 @@ Scripts are plain (non-module) files that share one `VB` namespace, so the app a
 });
 ```
 
-   A pack can hold any number of days. Day numbers must not repeat across packs.
+   A pack can hold any number of pages. A page titled "Food (continued)" joins the head word "Food" in the Index; give a new head word a new title. Day numbers must not repeat across packs.
 2. Run `node tools/update-packs.js` (adds the file to `index.html` and `sw.js` and refreshes the offline cache).
 3. Run `node tools/check-data.js` (checks highlights, Bangla meanings, sentences, duplicate days).
 4. Commit and push.

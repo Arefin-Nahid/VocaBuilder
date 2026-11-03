@@ -5,13 +5,14 @@
 
   /* ----- routing: #day-N, #day-N-quiz, #review, #index ----- */
   function setHash() {
-    var h = st.view === "review" ? "#review" : st.view === "index" ? "#index" : (st.view === "quiz" ? "#day-" + st.cur + "-quiz" : "#day-" + st.cur);
+    var h = st.view === "review" ? "#review" : st.view === "index" ? "#index" : st.view === "about" ? "#about" : (st.view === "quiz" ? "#day-" + st.cur + "-quiz" : "#day-" + st.cur);
     try { history.replaceState(null, "", h); } catch (e) { try { location.hash = h.slice(1); } catch (e2) {} }
   }
   function fromHash() {
     var h = location.hash, m;
     if (h === "#review") { st.view = "review"; return true; }
     if (h === "#index") { st.view = "index"; return true; }
+    if (h === "#about") { st.view = "about"; return true; }
     if ((m = /^#day-(\d+)-quiz$/.exec(h)) && V.has(+m[1])) { if (st.Q && st.Q.range) st.Q = null; st.cur = +m[1]; st.view = "quiz"; return true; }
     if ((m = /^#day-(\d+)$/.exec(h)) && V.has(+m[1])) { st.cur = +m[1]; st.view = "learn"; return true; }
     return false;
@@ -22,6 +23,7 @@
     if (st.view === "learn") VB.ui.learn.render();
     else if (st.view === "quiz") VB.ui.quiz.render();
     else if (st.view === "index") VB.ui.index.render();
+    else if (st.view === "about") VB.ui.about.render();
     else VB.ui.review.render();
     VB.speech.refresh(); // keep the playing highlight after a redraw
   }
@@ -47,11 +49,11 @@
     nextDay: function () { go(V.neighbor(st.cur, 1), "learn"); },
     ixopen: function (a) { go(+a.dataset.n, "learn"); if (a.dataset.w) L.highlight(a.dataset.w); },
     ixf: function (a) { VB.ui.index.setFilter(a.dataset.f); },
-    ixsort: function (a) { VB.ui.index.setSort(a.dataset.s); },
     startRange: Qz.startRange,
     startFinished: Qz.startFinished,
     retryRange: Qz.retryRange,
     days: function () { openView("index"); },
+    about: function () { openView("about"); },
     bnStory: L.toggleStoryBn,
     bnFull: L.toggleFullBn,
     bnWords: L.toggleWordsBn,

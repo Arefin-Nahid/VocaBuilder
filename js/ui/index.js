@@ -5,7 +5,7 @@
   var VB = window.VB, u = VB.utils, $ = u.$, esc = u.esc, S = VB.store.S, V = VB.vocab, BN = V.BN;
 
   var ICON = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
-  var q = "", filter = "all", sort = "az"; // kept while you move between screens
+  var q = "", filter = "all"; // kept while you move between screens
 
   function state(h) {
     var n = h.pages.filter(function (p) { return S.done[p]; }).length;
@@ -30,10 +30,9 @@
       if (filter !== "all" && (filter === "done") !== (state(h) === "done")) return false;
       return !q || h.title.toLowerCase().indexOf(q) > -1;
     });
-    if (sort === "az") list = list.slice().sort(function (a, b) { return a.title.localeCompare(b.title, "en"); });
+    list = list.slice().sort(function (a, b) { return a.title.localeCompare(b.title, "en"); });
     if (!list.length) return q ? "" : '<div class="card empty"><p style="margin:0">Nothing here yet.</p></div>';
     var h = "", letter = "";
-    if (sort !== "az") return '<ul class="ixul">' + list.map(function (x) { return headRow(x, up); }).join("") + "</ul>";
     list.forEach(function (x) {
       var L = x.title.charAt(0).toUpperCase();
       if (L !== letter) { if (letter) h += "</ul></section>"; letter = L; h += '<section class="ixl"><h3 class="ixh">' + L + '</h3><ul class="ixul">'; }
@@ -76,12 +75,10 @@
   }
 
   function render() {
-    var h = '<div><div class="when">Head words of the book</div><h1>Index</h1></div>'
+    var h = '<div><div class="when">Head words, A to Z</div><h1>Index</h1></div>'
       + '<div class="legend ixstats">' + statsHTML() + "</div>"
       + '<div class="ixbar"><input id="ixq" type="search" placeholder="Search a head word or any word" value="' + esc(q) + '" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Search the index">'
-      + '<div class="tools"><button class="btn sw" data-act="ixsort" data-s="az" aria-pressed="' + (sort === "az") + '">A–Z</button>'
-      + '<button class="btn sw" data-act="ixsort" data-s="book" aria-pressed="' + (sort === "book") + '">Book order</button>'
-      + '<button class="btn sw" data-act="ixf" data-f="all" aria-pressed="' + (filter === "all") + '">All</button>'
+      + '<div class="tools"><button class="btn sw" data-act="ixf" data-f="all" aria-pressed="' + (filter === "all") + '">All</button>'
       + '<button class="btn sw" data-act="ixf" data-f="done" aria-pressed="' + (filter === "done") + '">Finished</button>'
       + '<button class="btn sw" data-act="ixf" data-f="todo" aria-pressed="' + (filter === "todo") + '">Not finished</button></div></div><div id="ixlist"></div>';
     $("view").innerHTML = h;
@@ -90,7 +87,6 @@
 
   function setQuery(v) { q = v.trim().toLowerCase(); update(); }
   function setFilter(f) { filter = f; render(); }
-  function setSort(s) { sort = s; render(); }
 
-  VB.ui.index = { render: render, setQuery: setQuery, setFilter: setFilter, setSort: setSort };
+  VB.ui.index = { render: render, setQuery: setQuery, setFilter: setFilter };
 })();

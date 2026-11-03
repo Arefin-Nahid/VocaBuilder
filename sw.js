@@ -14,7 +14,7 @@ const PRECACHE = [
   /* PACKS:END */
   "js/core/config.js", "js/core/utils.js", "js/core/calendar.js", "js/core/store.js", "js/core/vocab.js", "js/core/progress.js",
   "js/core/srs.js", "js/core/speech.js",
-  "js/ui/header.js", "js/ui/learn.js", "js/ui/quiz.js", "js/ui/review.js", "js/ui/index.js",
+  "js/ui/header.js", "js/ui/learn.js", "js/ui/quiz.js", "js/ui/review.js", "js/ui/index.js", "js/ui/about.js",
   "js/app.js", "js/pwa.js"
 ];
 

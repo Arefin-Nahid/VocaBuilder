@@ -1,6 +1,6 @@
 # VocaBuilder
 
-A vocabulary study app for the whole VocaBuilder book, added a few pages at a time. A "Day" is one book page. Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. The header shows the head word of the page (for example "Food"); tap it to open the **Index** of head words, each linking to its pages (A–Z or book order, with search that also finds any word inside). There is also a **mixed quiz** over any range of days. Progress is by lesson, not by calendar: the app always opens on the first day you have not finished. Progress is saved in the browser; there is no server and no build step.
+A vocabulary study app for the whole VocaBuilder book, added a few pages at a time. A "Day" is one book page. Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. The header shows the head word of the page (for example "Food"); tap it to open the **Index** of head words, each linking to its pages (A–Z, with search that also finds any word inside). There is also a **mixed quiz** over any range of days. Progress is by lesson, not by calendar: the app always opens on the first day you have not finished. Progress is saved in the browser; there is no server and no build step.
 
 ## Publish on GitHub Pages
 
@@ -76,3 +76,7 @@ Each row is `Word|pos|English meaning` (`pos` is `n`, `v`, `adj` or `adv`). Exam
 ## Study method
 
 Active recall (Recall mode), a quiz that mixes fill-the-blank and meaning questions, and Leitner spaced review with gaps of 1, 2, 4, 8 and 16 days.
+
+## Acknowledgement
+
+This app is based on the book **VocaBuilder** by **Farhad Hossain Masum** (Adarsha), www.vocabuilder.rocks. The head words, word groups and meanings come from the book; the stories, example sentences, Bangla story translations and the app are separate additions made as a personal study aid. It is not an official product of the author or publisher. The same text is shown in the app under "About & acknowledgement" (footer link on every screen).

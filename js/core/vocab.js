@@ -11,8 +11,8 @@
     for (k in (p.bt || {})) BT[k] = p.bt[k];
     for (k in (p.ex || {})) EX[k] = p.ex[k];
   });
-  var NUMS = Object.keys(BYN).map(Number).sort(function (a, b) { return a - b; });
-  var DAYS = NUMS.map(function (n) { return BYN[n]; });
+  var BYNUM = Object.keys(BYN).map(Number).sort(function (a, b) { return a - b; }); // book order
+  var DAYS = BYNUM.map(function (n) { return BYN[n]; });
   var ENT = {}, ALL = {};
 
   // A data row is "Word|pos|English meaning". Duplicates inside one day are skipped.
@@ -55,12 +55,10 @@
   function dayKeys(n) { return (ENT[n] || []).map(function (e) { return e.k; }); }
   function has(n) { return !!BYN[n]; }
   function day(n) { return BYN[n]; }
-  // The next (dir = 1) or previous (dir = -1) day that exists, or 0.
+  // The next (dir = 1) or previous (dir = -1) page in lesson order, or 0.
   function neighbor(n, dir) {
-    var i, c = 0;
-    if (dir > 0) { for (i = 0; i < NUMS.length; i++) { if (NUMS[i] > n) return NUMS[i]; } }
-    else { for (i = NUMS.length - 1; i >= 0; i--) { if (NUMS[i] < n) return NUMS[i]; } }
-    return c;
+    var i = POS[n] + (dir > 0 ? 1 : -1);
+    return i >= 0 && i < NUMS.length ? NUMS[i] : 0;
   }
 
   // Head words: each topic (e.g. "Food") with the pages that belong to it. A page titled "X (continued)" joins the topic before it.
@@ -72,6 +70,13 @@
     HEAD_OF[d.n] = HEADS[HEADS.length - 1];
   });
   function headOf(n) { return HEAD_OF[n]; }
+
+  // Lesson order: head words A-Z; the pages of one head word stay in book order. "Next lesson", the arrows and the quiz ranges follow it.
+  var NUMS = [];
+  HEADS.slice().sort(function (a, b) { return a.title.localeCompare(b.title, "en"); }).forEach(function (h) { NUMS = NUMS.concat(h.pages); });
+  var POS = {};
+  NUMS.forEach(function (n, i) { POS[n] = i; });
+  function pos(n) { return POS[n]; }
   // "Part 2 of 3" for a page of a multi-page topic, otherwise "".
   function partLabel(n) {
     var h = HEAD_OF[n];
@@ -97,7 +102,7 @@
   }
 
   VB.vocab = {
-    DAYS: DAYS, nums: NUMS, BN: BN, BT: BT, EX: EX, ENT: ENT, ALL: ALL,
+    DAYS: DAYS, nums: NUMS, pos: pos, BN: BN, BT: BT, EX: EX, ENT: ENT, ALL: ALL,
     has: has, day: day, neighbor: neighbor, index: index, heads: HEADS, headOf: headOf, partLabel: partLabel,
     example: example, findEntry: findEntry, dayKeys: dayKeys
   };

@@ -180,10 +180,10 @@
   }
   // Mixed quiz over the days picked in the From / To boxes (works in either order).
   function startRange() {
-    var f = +$("qFrom").value, t = +$("qTo").value;
-    if (f > t) { var x = f; f = t; t = x; }
+    var f = +$("qFrom").value, t = +$("qTo").value, P = VB.vocab.pos;
+    if (P(f) > P(t)) { var x = f; f = t; t = x; }
     VB.state.rg = { from: f, to: t };
-    startNums(VB.vocab.nums.filter(function (n) { return n >= f && n <= t; }));
+    startNums(VB.vocab.nums.filter(function (n) { return P(n) >= P(f) && P(n) <= P(t); }));
   }
   function startFinished() { startNums(VB.progress.finishedDays()); }
   function retryRange() { startNums(VB.state.Q.range); }

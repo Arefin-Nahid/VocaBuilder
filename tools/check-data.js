@@ -31,7 +31,7 @@ DAYS.forEach(d => {
     else if (!/\*[^*]+\*/.test(ex)) problems.push(`day ${d.n}: "${e.k}" example has no *starred* word`);
   });
 });
-const gaps = []; for (let i = 1; i < VB.vocab.nums.length; i++) if (VB.vocab.nums[i] - VB.vocab.nums[i - 1] > 1) gaps.push(`${VB.vocab.nums[i - 1]}-${VB.vocab.nums[i]}`);
+const gaps = []; for (let i = 1; i < DAYS.length; i++) if (DAYS[i].n - DAYS[i - 1].n > 1) gaps.push(`${DAYS[i - 1].n}-${DAYS[i].n}`);
 if (gaps.length) console.log("note: gap(s) in day numbers: " + gaps.join(", "));
 const unique = new Set(); DAYS.forEach(d => ENT[d.n].forEach(e => unique.add(e.k)));
 console.log(`${DAYS.length} days, ${unique.size} unique words, ${Object.keys(BN).length} Bangla meanings`);

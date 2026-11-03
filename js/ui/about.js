@@ -24,8 +24,7 @@
       + '<section class="card about">'
       + '<h2 class="label">What is original here</h2>'
       + "<p>The stories, example sentences, Bangla story translations and the app itself were written separately to help study the book. They are not part of the book and are not an official product of the author or publisher. This app is a study aid, not a replacement for the book. If it helps you, please get the book and support the author.</p>"
-      + "</section>"
-      + '<div class="finish"><button class="btn" data-act="tab" data-tab="learn">Back to learning</button></div>';
+      + "</section>";
   }
 
   VB.ui.about = { render: render };

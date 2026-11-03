@@ -26,8 +26,8 @@
     var st = VB.state, cur = st.cur, d = VB.vocab.day(cur), up = VB.progress.upNext();
     var canSpeak = VB.speech.supported, note = "";
     if (cur === up && !S.done[cur]) note = "This is your next lesson.";
-    else if (cur > up && !S.done[cur]) note = "You are reading ahead. \u201c" + esc(VB.vocab.day(up).t) + "\u201d is not finished yet.";
-    else if (cur < up && !S.done[cur]) note = "You have not marked this page finished yet.";
+    else if (VB.vocab.pos(cur) > VB.vocab.pos(up) && !S.done[cur]) note = "You are reading ahead. \u201c" + esc(VB.vocab.day(up).t) + "\u201d is not finished yet.";
+    else if (VB.vocab.pos(cur) < VB.vocab.pos(up) && !S.done[cur]) note = "You have not marked this page finished yet.";
 
     var h = '<div><h1 style="margin-top:0">' + esc(d.t) + "</h1>" + (note ? '<div class="note">' + note + "</div>" : "") + "</div>";
 

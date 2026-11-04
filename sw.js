@@ -2,7 +2,7 @@
    - Same-origin files: network first (so a new push shows up as soon as you are online), cache as fallback.
    - Google Fonts: cache first.
    Paths are relative, so it works at the repo root and under /repo-name/ on GitHub Pages. */
-const CACHE = "vocabuilder-202611031345"; /* CACHE */
+const CACHE = "vocabuilder-202611040401"; /* CACHE */
 const PRECACHE = [
   "./", "index.html", "manifest.webmanifest", "favicon.svg", "favicon-32.png", "apple-touch-icon.png",
   "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png",

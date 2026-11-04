@@ -9,15 +9,16 @@ h1{margin:6px 0 0;font-size:clamp(32px,6vw,46px);line-height:1.08;letter-spacing
 .hint{font-size:13px;color:var(--muted);margin:16px 0 0}
 
 /* accordion */
-.how{padding:0}
-.how summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 20px;min-height:52px;font-weight:600;font-size:15px}
+.card.how{padding:0;overflow:hidden}
+.how summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:12px 16px;min-height:48px;font-weight:600;font-size:15px}
 .how summary::-webkit-details-marker{display:none}
-.how summary::after{content:"";flex:none;width:9px;height:9px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg) translateY(-2px);transition:transform .2s}
+.how-i{flex:none;width:24px;height:24px;border-radius:50%;display:grid;place-items:center;font-size:13px;font-weight:700;background:var(--accent-soft);color:var(--accent)}
+.how summary::after{content:"";margin-left:auto;flex:none;width:8px;height:8px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg) translateY(-2px);transition:transform .2s}
 .how[open] summary::after{transform:rotate(-135deg) translateY(-2px)}
-.how[open] summary{border-bottom:1px solid var(--line)}
-.how ol{margin:0;padding:16px 20px 0 40px;display:grid;gap:8px;font-size:15px}
-.how p{margin:12px 0 0;padding:0 20px 18px;font-size:13px;color:var(--muted)}
-.how summary+p{margin-top:0;padding-top:14px}
+.how-l{list-style:none;margin:0;padding:2px 16px 14px;display:grid;gap:10px}
+.how-l li{display:grid;gap:2px;padding:10px 12px;border-radius:10px;background:var(--bg);border-left:3px solid var(--accent)}
+.how-l b{font-size:14px}
+.how-l span{font-size:13px;color:var(--muted);line-height:1.45}
 
 /* story */
 .story{font-family:var(--f-read);font-size:clamp(18px,2.3vw,21px);line-height:1.85;margin:0;text-align:justify;hyphens:auto;-webkit-hyphens:auto}

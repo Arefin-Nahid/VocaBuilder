@@ -21,13 +21,13 @@
 .qsec h2{margin:0;font-size:18px}
 .qchip{font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
 .rangeq{text-align:left}
-.qtop{display:grid;gap:10px}
-.qmeta{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:14px;color:var(--muted)}
-.qwhen{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.qtop{display:grid;grid-template-columns:minmax(0,1fr);gap:10px;min-width:0}
+.qmeta{min-width:0;display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:14px;color:var(--muted)}
+.qwhen{flex:1 1 0;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .qscore{flex:none;padding:3px 10px;border-radius:999px;background:var(--accent-soft);color:var(--accent);font-weight:600;font-size:13px;font-variant-numeric:tabular-nums}
 .steps{display:flex;gap:4px}
 .steps i{flex:1;height:6px;border-radius:3px;background:var(--track);transition:background .2s}
-.steps i.ok{background:var(--good)}.steps i.no{background:var(--bad)}
+.steps i{min-width:0}.steps i.ok{background:var(--accent)}
 .steps i.cur{background:var(--accent);opacity:.55}
 .qcount{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
 .qcard{display:grid;gap:4px;padding:18px 16px}
@@ -82,3 +82,4 @@
 .fc-src{font-size:13px;color:var(--muted)}
 .rate{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
 .empty{text-align:center;padding:28px 16px;display:grid;gap:12px;justify-items:center}
+.score{font-size:48px;font-weight:700;letter-spacing:-.02em;font-variant-numeric:tabular-nums;line-height:1;color:var(--accent)}

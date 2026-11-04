@@ -141,12 +141,10 @@
 
     var it = Q.items[Q.i], h = "", right = Q.res.filter(Boolean).length;
     h += '<div class="qtop"><div class="qmeta"><span class="qwhen">' + whenLabel(Q) + '</span><span class="qscore" title="Correct so far">' + right + " correct</span></div>";
-    h += '<div class="steps" role="progressbar" aria-valuemin="1" aria-valuemax="' + Q.items.length + '" aria-valuenow="' + (Q.i + 1) + '">';
-    Q.items.forEach(function (x, i) {
-      var c = i < Q.i || (i === Q.i && Q.ans !== null) ? (Q.res[i] ? " ok" : " no") : (i === Q.i ? " cur" : "");
-      h += '<i class="' + c.trim() + '"></i>';
-    });
-    h += '</div><div class="qcount">Question ' + (Q.i + 1) + " of " + Q.items.length + "</div></div>";
+    h += '<div class="steps" role="progressbar" aria-valuemin="0" aria-valuemax="' + Q.items.length + '" aria-valuenow="' + Q.i + '">';
+    Q.items.forEach(function (x, i) { h += "<i" + (i < Q.i || (i === Q.i && Q.ans !== null) ? ' class="ok"' : i === Q.i ? ' class="cur"' : "") + "></i>"; });
+    h += "</div>";
+    h += '<div class="qcount">Question ' + (Q.i + 1) + " of " + Q.items.length + "</div></div>";
     h += '<section class="card qcard"><div class="qlabel"><span class="qt ' + (it.type === "cloze" ? "cz" : it.type) + '"></span>' + TYPE_LABEL[it.type] + "</div>";
     if (it.type === "cloze") {
       h += '<p class="qtext">' + esc(it.text).replace("\u0001", '<span class="blank">&nbsp;</span>') + "</p>";

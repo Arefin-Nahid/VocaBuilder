@@ -30,7 +30,11 @@
         + '<div class="boxes">';
       var names = ["Box 1 · tomorrow", "Box 2 · 2 days", "Box 3 · 4 days", "Box 4 · 8 days", "Box 5 · 16 days"];
       cnt.forEach(function (c, i) { h += '<div class="box"><b>' + c + "</b><span>" + names[i] + "</span></div>"; });
-      h += '</div></section><details class="card how"><summary>How review works</summary><p>Every word sits in one of five boxes. A word you remember moves up a box and returns after a longer gap. A word you forget drops to box 1 and returns tomorrow. Words from different days are mixed together on purpose, because mixing makes memory stronger.</p></details>';
+      h += '</div></section>'
+        + '<details class="card how"><summary><span class="how-i" aria-hidden="true">?</span><span>How review works</span></summary><ul class="how-l">'
+        + '<li><b>Remember it</b><span>The word moves up one box and returns after a longer gap.</span></li>'
+        + '<li><b>Forget it</b><span>It drops back to Box 1 and returns tomorrow.</span></li>'
+        + '<li><b>Mixed on purpose</b><span>Words from different pages are shuffled together, which makes memory stronger.</span></li></ul></details>';
     }
     $("view").innerHTML = h;
   }

@@ -1,83 +1,60 @@
 # VocaBuilder
 
-A vocabulary study app for the whole VocaBuilder book, added a few pages at a time. A "Day" is one book page. Each day has one short story that uses that day's words, grouped word meanings with part of speech, Bangla meanings, a full Bangla translation of the story, a quiz and spaced-repetition review. The header shows the head word of the page (for example "Food"); tap it to open the **Index** of head words, each linking to its pages (A–Z, with search that also finds any word inside). There is also a **mixed quiz** over any range of days. Progress is by lesson, not by calendar: the app always opens on the first day you have not finished. Progress is saved in the browser; there is no server and no build step.
+An offline-first vocabulary app built from the book *VocaBuilder* by Farhad Hossain Masum. Each lesson has a short story with highlighted words, grouped meanings (English and Bangla), a Bangla story translation, example sentences, a quiz and spaced-repetition review.
 
-## Publish on GitHub Pages
+Plain HTML, CSS and JavaScript. No framework, no build step, and no server. Installable on a phone (PWA).
 
-1. Put all these files at the **root** of your repository (so `index.html` is next to `sw.js`), then commit and push.
-2. Repo → Settings → Pages → Source: *Deploy from a branch* → `main` / `/ (root)` → Save.
-3. Open the Pages link on your phone.
+## Features
+- **Learn:** story, word groups, Bangla toggles, listen buttons, example sentences.
+- **Quiz:** a quiz per page, or a mixed quiz over any range of pages.
+- **Review:** Leitner boxes with gaps of 1, 2, 4, 8 and 16 days.
+- **Index:** head words A–Z with search across every word.
+- **Word of the day** and today's date in the top bar.
+- **Cloud sync** (optional): Google sign-in and Firestore keep progress the same on every device.
+- Works offline once opened; progress is saved in the browser.
 
-You can also open `index.html` straight from disk to try it (the offline/install features only work from the https link).
+## Publish (GitHub Pages)
+1. Put all files at the repository root (`index.html` next to `sw.js`) and push.
+2. Settings > Pages > Deploy from a branch > `main` / root.
+3. Open the link on your phone and choose **Install app**. New versions load the next time you open it online.
 
-## Install on a phone
+Opening `index.html` from disk also works (without offline install and sync).
 
-Open the Pages link in Chrome → ⋮ menu → **Install app** (or *Add to Home screen*). After the first visit the app also opens offline.
-If you installed an older shortcut before, remove it from the home screen first, then install again.
+## Cloud sync
+Firebase settings are in `js/core/firebase-config.js`. One-time console steps (authorized domain, Firestore rules) are in `FIREBASE-SETUP.md`. Rules are in `firebase/firestore.rules`. Sync runs only on the hosts listed in `VB.syncHosts`.
 
-When you push a new version, the app picks it up the next time it is opened with internet.
-
-## Project layout
-
+## Structure
 ```
-index.html            page shell + the ordered list of scripts
-favicon.svg, favicon-32.png, apple-touch-icon.png   the logo (browser tab)
-manifest.webmanifest  icons/   install-to-phone settings and app icons
-sw.js  js/pwa.js      offline support (service worker)
-css/
-  tokens.css          colours, fonts (CSS variables)
-  base.css            reset and page basics
-  layout.css          sticky day bar, tabs, day picker
-  lesson.css          lesson title, Context card, story, Bangla translation
-  components.css      buttons, action bar, progress bar
-  vocabulary.css      vocabulary groups and word rows
-  quiz-review.css     quiz and review screens
-  index.css           Index screen and mixed-quiz picker
-  responsive.css      small-screen and reduced-motion rules
-  theme-mint.css      mint colour overrides
-js/
-  data/               the content: one "pack" file per delivery of pages
-    pack-001-030.js     pages 1-30: stories, word groups, Bangla meanings,
-                        Bangla story translations, example sentences
-    pack-031-042.js     pages 31-42 (book pages 39-50)
-    pack-043-067.js     pages 43-67 (book pages 51-75)
-  core/               logic with no DOM
-    config.js  utils.js  calendar.js  store.js  vocab.js  progress.js  srs.js  speech.js
-  ui/                 one file per screen
-    header.js  learn.js  quiz.js  review.js  index.js
-  app.js              router, click actions, start-up
-tools/
-  update-packs.js       node tools/update-packs.js        (lists new packs in index.html and sw.js)
-  check-data.js         node tools/check-data.js          (validates the data)
-  build-single-file.js  node tools/build-single-file.js   (one-file build in dist/)
+index.html          page shell and script order
+sw.js, js/pwa.js    offline support
+css/                styles (tokens, layout, lesson, quiz-review, index ...)
+js/data/            content packs, one file per batch of pages
+js/core/            logic: store, vocab, srs, progress, speech, sync, config
+js/ui/              screens: header, learn, quiz, review, index, about, sync
+js/app.js           router and click actions
+tools/              update-packs.js, check-data.js, build-single-file.js
+firebase/           Firestore rules
 ```
+Scripts share one `VB` namespace (plain files, no modules).
 
-Scripts are plain (non-module) files that share one `VB` namespace, so the app also works when `index.html` is opened directly from disk.
-
-## Adding new pages (a new pack)
-
-1. Create `js/data/pack-031-045.js` (name it after the days it holds). Copy the shape of `pack-001-030.js`:
-
+## Add new pages
+1. Create `js/data/pack-XXX-YYY.js`:
 ```js
 (window.VB_PACKS = window.VB_PACKS || []).push({
-  days: [ {n:31, t:"Title", pg:31, s:"Story with *starred* words.", g:[ ["Group name", ["Word|pos|English meaning", "..."]] ]} ],
-  bn:   { "word": "বাংলা অর্থ" },        // lowercase headword
-  bt:   { "31": "গল্পের বাংলা অনুবাদ" },   // by day number
-  ex:   { "word": "Example with the *word* starred." }   // "word|pos" if one word has two parts of speech
+  days: [{ n: 68, t: "Title", pg: 68, s: "Story with *starred* words.",
+           g: [["Group name", ["Word|pos|English meaning"]]] }],
+  bn: { "word": "বাংলা অর্থ" },          // lowercase headword
+  bt: { "68": "গল্পের বাংলা অনুবাদ" },     // story translation by page number
+  ex: { "word": "Example with the *word* starred." }
 });
 ```
+`pos` is `n`, `v`, `adj` or `adv`. A page titled "Food (continued)" joins the head word "Food". Page numbers must be unique.
 
-   A pack can hold any number of pages. A page titled "Food (continued)" joins the head word "Food" in the Index; give a new head word a new title. Day numbers must not repeat across packs.
-2. Run `node tools/update-packs.js` (adds the file to `index.html` and `sw.js` and refreshes the offline cache).
-3. Run `node tools/check-data.js` (checks highlights, Bangla meanings, sentences, duplicate days).
+2. `node tools/update-packs.js` registers the pack in `index.html` and `sw.js` and refreshes the offline cache.
+3. `node tools/check-data.js` validates highlights, meanings and sentences.
 4. Commit and push.
 
-Each row is `Word|pos|English meaning` (`pos` is `n`, `v`, `adj` or `adv`). Example sentences wrap the word in `*stars*` so it shows in bold; the **Sentences** switch in the Vocabulary section shows or hides them.
-
-## Study method
-
-Active recall (Recall mode), a quiz that mixes fill-the-blank and meaning questions, and Leitner spaced review with gaps of 1, 2, 4, 8 and 16 days.
+`node tools/build-single-file.js` writes a one-file build to `dist/` (add `--fragment` for an embeddable version).
 
 ## Acknowledgement
-
-This app is based on the book **VocaBuilder** by **Farhad Hossain Masum** (Adarsha), www.vocabuilder.rocks. The head words, word groups and meanings come from the book; the stories, example sentences, Bangla story translations and the app are separate additions made as a personal study aid. It is not an official product of the author or publisher. The same text is shown in the app under "About & acknowledgement" (footer link on every screen).
+Word lists, grouping and meanings come from *VocaBuilder* by Farhad Hossain Masum (Adarsha), www.vocabuilder.rocks. The stories, examples, Bangla translations and the app are separate additions for personal study, not an official product of the author or publisher.

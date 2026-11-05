@@ -54,6 +54,10 @@
     retryRange: Qz.retryRange,
     days: function () { openView("index"); },
     about: function () { openView("about"); },
+    acct: function () { VB.ui.sync.toggle(); },
+    signIn: function () { VB.sync.signIn(); },
+    signOut: function () { VB.sync.signOut(); },
+    syncNow: function () { VB.sync.syncNow(); },
     bnStory: L.toggleStoryBn,
     bnFull: L.toggleFullBn,
     bnWords: L.toggleWordsBn,
@@ -109,6 +113,8 @@
       btns[i].setAttribute("aria-pressed", on);
     }
   });
+  document.addEventListener("click", function (ev) { var path = ev.composedPath ? ev.composedPath() : []; if (!path.some(function (n) { return n.id === "acct"; })) VB.ui.sync.close(); });
+  document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") VB.ui.sync.close(); });
   window.addEventListener("hashchange", function () { if (fromHash()) { render(); window.scrollTo(0, 0); } });
 
   /* ----- start-up ----- */
@@ -116,4 +122,6 @@
   st.cur = VB.progress.upNext();
   if (!fromHash()) st.view = VB.srs.dueKeys().length ? "review" : "learn";
   render();
+  VB.ui.sync.render();
+  VB.sync.init();
 })();

@@ -1,0 +1,52 @@
+N: 44
+T: Happy and Gloomy (continued)
+S: While the victors *savored* and *relished* the win, some *exulted* and *cavorted* around the fires, but the defeated *lamented* and *rue* their loss. A bard sang an *elegy*, a *dirge* and a *requiem*, and neighbours came to *commiserate* and *condole*, with real *commiseration*. Their *affliction* and *travail* were great. The king tried to *allay* fear, *alleviate* hunger, *console* the widows, *placate* the angry and *appease* the proud. He wanted to *assuage* grief, *mollify* critics, *conciliate* enemies and *pacify* the crowd, but no gift could *propitiate* the dead or *palliate* the pain. The sorrow was hardly *sufferable*, and the king, *overwrought*, was no longer *impenitent*. He became *penitent*, *repentant*, *contrite* and *rueful*, struck by *compunction*. He gave up war and spread peace with *ardor* and *fervor*, an *ardent*, *fervent*, *fervid* effort, a *vehement* and *torrid* faith, never a *tepid* one, as his calm *temperament* returned.
+B: বিজয়ীরা যখন জয়ের স্বাদ নিচ্ছিল ও তারিয়ে উপভোগ করছিল, কেউ কেউ আগুনের চারপাশে উল্লসিত হয়ে লাফালাফি করছিল, কিন্তু পরাজিতরা বিলাপ করছিল আর নিজেদের ক্ষতির জন্য আক্ষেপ করছিল। এক চারণকবি গাইল শোকগীতি, শোকসংগীত ও মৃতের জন্য প্রার্থনা-সংগীত, আর প্রতিবেশীরা এল প্রকৃত সহানুভূতি নিয়ে সমবেদনা জানাতে। তাদের দুর্দশা ও কঠোর কষ্ট ছিল প্রচণ্ড। রাজা চেষ্টা করলেন ভয় প্রশমিত করতে, ক্ষুধা লাঘব করতে, বিধবাদের সান্ত্বনা দিতে, রাগান্বিতদের তুষ্ট করতে ও অহংকারীদের শান্ত করতে। তিনি চাইলেন দুঃখ প্রশমিত করতে, সমালোচকদের নরম করতে, শত্রুদের মিটমাটে আনতে ও জনতাকে শান্ত করতে, কিন্তু কোনো উপহারই মৃতদের তুষ্ট করতে বা ব্যথা উপশম করতে পারল না। শোক ছিল প্রায় অসহনীয়, আর অতি উত্তেজিত রাজা আর অনুশোচনাহীন ছিলেন না। তিনি হলেন অনুতপ্ত, অনুশোচনাকারী, দুঃখিত ও করুণ, বিবেকদংশনে বিদ্ধ। তিনি যুদ্ধ ছেড়ে দিলেন আর উষ্ণ আবেগ ও উদ্দীপনায় শান্তির বাণী ছড়ালেন, আবেগী, আন্তরিক, প্রবল চেষ্টায়, প্রচণ্ড ও তীব্র বিশ্বাসে, কখনো অনাসক্ত নয়, আর তাঁর শান্ত মেজাজ ফিরে এল।
+# Enjoy
+savor|v|enjoy slowly and fully|উপভোগ করা; স্বাদ নেওয়া|*Savor* every bite of this mango.
+relish|v|enjoy greatly|উপভোগ করা; তারিয়ে তারিয়ে খাওয়া|He *relished* the chance to prove his critics wrong.
+exult|v|rejoice greatly; celebrate|উল্লসিত হওয়া|The fans *exulted* when the final whistle blew.
+cavort|v|jump about in a carefree way|আনন্দে লাফালাফি করা|Children *cavorted* in the waves.
+# Sorrow
+lament|v|express deep sorrow or regret|শোক প্রকাশ করা; বিলাপ করা|Villagers *lamented* the loss of the old banyan tree.
+rue|v|regret bitterly|অনুতাপ করা; আক্ষেপ করা|He will *rue* the day he lied to her.
+commiserate|v|express pity or sympathy|সমবেদনা জানানো|Friends came to *commiserate* with him after the defeat.
+commiseration|n|an expression of pity or sympathy|সহানুভূতি প্রদর্শন|He thanked them for their *commiseration*.
+elegy|n|a sad poem or song for the dead|শোকগীতি|The poet wrote an *elegy* for his teacher.
+dirge|n|a slow, mournful song|শোকসংগীত|A *dirge* played as the coffin was carried out.
+requiem|n|a mass or song for the dead|মৃতের জন্য শোকসংগীত; প্রার্থনা|The choir sang a *requiem* for the victims.
+# Soothe
+allay|v|calm; reduce fear or doubt|শান্ত করা; প্রশমিত করা|The doctor tried to *allay* her fears.
+alleviate|v|make pain or trouble less severe|লাঘব করা|Rest will *alleviate* the headache.
+conciliate|v|win over; calm down an angry person|তুষ্ট করে মিটমাট করা|He tried to *conciliate* the angry customers with a refund.
+propitiate|v|win the favour of; calm anger|তুষ্ট করা; রাগ থামানো|Ancient priests offered gifts to *propitiate* the gods.
+appease|v|calm by giving in to demands|শান্ত করা; তুষ্ট করা|The mayor made concessions to *appease* the protesters.
+assuage|v|make pain or anger less intense|প্রশমিত করা|Nothing could *assuage* her grief.
+condole|v|express sympathy with someone in grief|সমবেদনা জানানো|Neighbours came to *condole* with the family.
+console|v|comfort someone in sorrow|সান্ত্বনা দেওয়া|She tried to *console* her crying brother.
+mollify|v|soften anger; calm|নরম করা; শান্ত করা|A kind word *mollified* the angry teacher.
+pacify|v|calm someone who is angry or upset|শান্ত করা|The mother *pacified* the baby with a song.
+palliate|v|ease without curing; make seem less serious|উপশম করা; দোষ হালকা করে দেখানো|Medicine can only *palliate* the pain.
+placate|v|calm or soothe an angry person|তুষ্ট করে শান্ত করা|He bought flowers to *placate* his wife.
+# Distress
+affliction|n|a cause of pain or suffering|দুর্দশা; কষ্ট|Blindness was a heavy *affliction* for the old man.
+travail|n|painful or laborious effort|কঠোর পরিশ্রম; প্রসববেদনা|After years of *travail*, the bridge was finished.
+sufferable|adj|bearable|সহনীয়|The heat was barely *sufferable*.
+overwrought|adj|extremely troubled and tense|মানসিকভাবে অত্যধিক উত্তেজিত|The *overwrought* witness burst into tears.
+# Remorse
+penitent|adj|feeling sorry for wrongdoing|অনুতপ্ত|The *penitent* thief returned the money.
+repentant|adj|sorry for one's actions|অনুতপ্ত|He looked *repentant* as he apologised.
+contrite|adj|feeling guilty and sorry|অনুতপ্ত; দুঃখিত|A *contrite* student admitted the mistake.
+rueful|adj|feeling or showing regret|অনুতপ্ত; করুণ|She gave a *rueful* smile.
+impenitent|adj|not sorry for wrongdoing|অনুশোচনাহীন|The *impenitent* criminal showed no regret.
+compunction|n|a feeling of guilt about doing wrong|অনুতাপ; বিবেকদংশন|He lied without any *compunction*.
+# Passion
+ardor|n|great warmth of feeling; passion|উষ্ণ আবেগ; অনুরাগ|She studied with *ardor* day and night.
+fervor|n|intense and sincere feeling|তীব্র আবেগ; উদ্দীপনা|The crowd cheered with patriotic *fervor*.
+temperament|n|a person's usual mood and nature|মানসিক ধাত; মেজাজ|She has a calm *temperament*.
+ardent|adj|very enthusiastic or passionate|আবেগী; উদ্যমী|He is an *ardent* supporter of the club.
+fervent|adj|having intense, sincere feeling|আবেগী; আন্তরিক|They made a *fervent* appeal for peace.
+fervid|adj|intensely enthusiastic|প্রবল আবেগপূর্ণ|The speaker gave a *fervid* speech.
+torrid|adj|very hot; full of passion|প্রচণ্ড গরম; আবেগে উত্তপ্ত|They had a *torrid* romance.
+vehement|adj|strong, forceful and intense|প্রবল; তীব্র|He gave a *vehement* denial.
+tepid|adj|lukewarm; lacking enthusiasm|অনাসক্ত; ঈষদুষ্ণ|The play got a *tepid* response from the audience.

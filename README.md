@@ -27,15 +27,16 @@ Firebase settings are in `js/core/firebase-config.js`. One-time console steps (a
 ```
 index.html          page shell and script order
 sw.js, js/pwa.js    offline support
+icons/              logo, favicon and app icons
 css/                styles (tokens, layout, lesson, quiz-review, index ...)
 js/data/            content packs, one file per batch of pages
 js/core/            logic: store, vocab, srs, progress, speech, sync, config
 js/ui/              screens: header, learn, quiz, review, index, about, sync
 js/app.js           router and click actions
-tools/              update-packs.js, check-data.js, build-single-file.js
+tools/              update-packs.js, check-data.js, build-pack.js, build-single-file.js, source/ (page text files)
 firebase/           Firestore rules
 ```
-Scripts share one `VB` namespace (plain files, no modules).
+Scripts share one `VB` namespace (plain files, no modules). See `CONTEXT.md` for the full project context and the rules for writing new pages.
 
 ## Add new pages
 1. Create `js/data/pack-XXX-YYY.js`:
@@ -50,9 +51,10 @@ Scripts share one `VB` namespace (plain files, no modules).
 ```
 `pos` is `n`, `v`, `adj` or `adv`. A page titled "Food (continued)" joins the head word "Food". Page numbers must be unique.
 
-2. `node tools/update-packs.js` registers the pack in `index.html` and `sw.js` and refreshes the offline cache.
-3. `node tools/check-data.js` validates highlights, meanings and sentences.
-4. Commit and push.
+2. (Optional) write each page as a text file and run `node tools/build-pack.js <dir> <out>` to generate the pack (see `CONTEXT.md`).
+3. `node tools/update-packs.js` registers the pack in `index.html` and `sw.js` and refreshes the offline cache.
+4. `node tools/check-data.js` validates highlights, meanings and sentences.
+5. Commit and push.
 
 `node tools/build-single-file.js` writes a one-file build to `dist/` (add `--fragment` for an embeddable version).
 

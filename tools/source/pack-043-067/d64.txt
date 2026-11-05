@@ -1,0 +1,19 @@
+N: 64
+T: Literature, Art and Music (continued)
+S: Leonardo, a *virtuoso*, could *depict* and *limn* a *vignette*, and almost every one is an *objet d'art*. His *fresco*, 'The Last Supper', is famous, and we regret that his *oeuvre* is not complete. The *choreography* of a dance, the *conservatory*, a *fugue* and a *rhapsody* belong to art. A *philistine* will not *rhapsodize* about them.
+B: লিওনার্দো, একজন শিল্পকর্মে দক্ষ, একটি সংক্ষিপ্ত চিত্র আঁকতে ও বর্ণনা করতে পারতেন, আর প্রায় প্রতিটিই শিল্পমূল্যসম্পন্ন চিত্র। তাঁর দেয়ালচিত্র 'দ্য লাস্ট সাপার' বিখ্যাত, আর আমরা দুঃখ করি যে তাঁর শিল্প সমগ্র সম্পূর্ণ নয়। নৃত্য-পরিকল্পনা, চারুকলা শিক্ষা কেন্দ্র, ঐকতান ও উচ্ছ্বাসপূর্ণ সংগীত শিল্পের অন্তর্গত। একজন শিল্পবোধহীন মানুষ এগুলো নিয়ে প্রবল উদ্দীপনায় কথা বলবে না।
+# Making a portrait
+depict|v|make a portrait; describe|চিত্র আঁকা; বর্ণনা করা|The painting *depicts* a village market.
+limn|v|make a portrait; describe|চিত্র আঁকা; বর্ণনা করা|The artist *limned* the king's face.
+# Art and artists
+virtuoso|n|a highly skilled artist|শিল্পকর্মে দক্ষ|He is a *virtuoso* of the violin.
+vignette|n|a picture; a short literary sketch|চিত্র; সংক্ষিপ্ত বর্ণনা|The book is full of village *vignettes*.
+objet d'art|n|a work of art of some artistic value|শিল্পমূল্যসম্পন্ন চিত্র|The vase is a rare *objet d'art*.
+fresco|n|a painting done on plaster|দেয়ালচিত্র|The *fresco* covers the whole ceiling.
+oeuvre|n|the total output of an artist or a writer|শিল্প বা রচনাসমগ্র|His *oeuvre* includes poems and plays.
+choreography|n|the art of arranging dances|নৃত্য-পরিকল্পনা|The *choreography* of the ballet was superb.
+conservatory|n|a school of fine arts|চারুকলা শিক্ষা কেন্দ্র|She studied piano at the *conservatory*.
+fugue|n|a piece of music with multiple tunes at the same time|ঐকতান|Bach wrote a famous *fugue*.
+philistine|n|someone lacking appreciation for art or culture|শিল্প সম্বন্ধে নিম্নরুচিসম্পন্ন; সংকীর্ণমনা ব্যক্তি|A *philistine* calls every museum boring.
+rhapsody|n|an emotional literary or musical work|উচ্ছ্বাসপূর্ণ সাহিত্য বা সংগীত|He composed a *rhapsody* for the orchestra.
+rhapsodize|v|speak or write in an exaggerated, enthusiastic way|প্রবল উদ্দীপনার সঙ্গে কিছু বলা বা লেখা|She *rhapsodized* about the sunset.

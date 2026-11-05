@@ -1,0 +1,28 @@
+N: 67
+T: Luck by Chance
+S: He believed in *kismet*, and thought his *hap* would be *auspicious* with a *windfall*, a *fluke* or *serendipity*. But his fate became *haphazard* and *hapless*. A *fortuitous* and *serendipitous* find gave way to *untoward* events: one *misadventure*, *mischance* and *mishap* after another. At first he called them *ineluctable*, *inevitable* and *preordained*, a *fait accompli*, and he turned to *fatalism*, wearing a *talisman*. When it failed, he found the path of *karma*.
+B: সে নিয়তিতে বিশ্বাস করত, আর ভাবত তার ভাগ্য শুভ হবে এক অপ্রত্যাশিত সৌভাগ্য, আকস্মিক সৌভাগ্য বা ভাগ্যক্রমে আবিষ্কারের সঙ্গে। কিন্তু তার ভাগ্য হয়ে গেল এলোমেলো ও ভাগ্য-বিড়ম্বিত। এক সুপ্রসন্ন ও ভাগ্যক্রমে প্রাপ্ত আবিষ্কারের পর এল দুর্ভাগ্যজনক ঘটনা: একের পর এক দুর্ঘটনা, দুর্ভাগ্য ও বিপদ। প্রথমে সে সেগুলোকে অবশ্যম্ভাবী, অনিবার্য ও নিয়তির দ্বারা ঠিক করে রাখা বলত, একটি নিষ্পন্ন কার্য, আর সে অদৃষ্টবাদে ঝুঁকল, একটি তাবিজ পরে। যখন তা ব্যর্থ হল, সে কর্মফলের পথ খুঁজে পেল।
+# Fate and chance
+kismet|n|fate|নিয়তি|He accepted his *kismet* calmly.
+hap|n|chance; luck|ভাগ্য|By *hap* we met on the road.
+haphazard|adj|random; by chance|এলোমেলো; বিশৃংখল|The books were piled in a *haphazard* way.
+hapless|adj|unfortunate|ভাগ্য-বিড়ম্বিত|The *hapless* traveller lost his bag.
+windfall|n|a sudden opportunity brought by luck|অপ্রত্যাশিত সৌভাগ্য|The prize money was a *windfall*.
+fluke|n|a lucky chance|আকস্মিক সৌভাগ্য|Winning the game was a *fluke*.
+serendipity|n|finding something good by chance|ভাগ্যক্রমে আবিষ্কার|Meeting her was pure *serendipity*.
+auspicious|adj|resulting from a fortunate discovery by chance; promising|সুপ্রসন্ন ভাগ্যযুক্ত|It was an *auspicious* start.
+fortuitous|adj|happening by chance|ভাগ্যক্রমে ঘটা|A *fortuitous* meeting changed his life.
+serendipitous|adj|occurring by happy chance|ভাগ্যক্রমে লাভজনক|It was a *serendipitous* discovery.
+untoward|adj|unfortunate or unlucky|দুর্ভাগ্যজনক|Nothing *untoward* happened on the trip.
+# Ill luck
+misadventure|n|ill luck; an unlucky event|দুর্ভাগ্য|The boy died by *misadventure*.
+mischance|n|ill luck|দুর্ভাগ্য|By *mischance* he missed the train.
+mishap|n|an unlucky accident|দুর্ভাগ্য; ছোট দুর্ঘটনা|The trip ended without *mishap*.
+# Destiny
+karma|n|a person's life force which decides his destiny|কর্মফল|He believes in *karma*.
+talisman|n|a charm to bring good luck|অলৌকিক শক্তিসম্পন্ন তাবিজ বা মাদুলি|She wore a *talisman* around her neck.
+fait accompli|n|a thing already done that cannot be changed|নিষ্পন্ন কার্য|The sale was a *fait accompli*.
+preordained|adj|decided beforehand|নিয়তির দ্বারা ঠিক করে রাখা|He felt his defeat was *preordained*.
+ineluctable|adj|impossible to avoid or prevent|অবশ্যম্ভাবী; অনেকটা যেন নিয়তি|The *ineluctable* end came at dawn.
+inevitable|adj|certain to happen|অনিবার্য|Change is *inevitable*.
+fatalism|n|belief that events are determined by forces beyond one's control|অদৃষ্টবাদ; নিয়তিবাদ|His *fatalism* made him passive.

@@ -1,0 +1,18 @@
+N: 63
+T: Literature, Art and Music (continued)
+S: Tagore did *indite* so much that an *anthology* of his work fills volumes. Choosing one *magnum opus* is hard, for he never stayed within a single *genre*. An *excerpt* from his *repertoire* shows a *motif* or a *leitmotif* in every *rendition*. A copy of another's style is a *pastiche*. At the opera, a *diva* sang, and my friend handed me the *libretto*.
+B: রবীন্দ্রনাথ এত বেশি রচনা করেছেন যে তাঁর বাছাই করা সাহিত্য-সংকলন কয়েক খণ্ডে ভরে যায়। একটি শ্রেষ্ঠ কর্ম বাছাই করা কঠিন, কারণ তিনি কোনো নির্দিষ্ট ঘরানায় বাঁধা পড়েননি। তাঁর শিল্পকর্মের তালিকা থেকে একটি উদ্ধৃতাংশ প্রতিটি অনুবাদে একটি মূল উপাদান বা প্রধান প্রসঙ্গ দেখায়। অন্যের শৈলীর অনুকরণে রচিত সাহিত্যকে বলে পাস্তিশ। অপেরায় একজন গায়িকা গাইলেন, আর আমার বন্ধু আমাকে অপেরার বই ধরিয়ে দিল।
+# Writing
+indite|v|write; compose; produce a literary work|লেখা বা সাহিত্য রচনা করা|He *indited* a long letter to the editor.
+anthology|n|a book of literary selections by various authors|বাছাই করা সাহিত্য-সংকলন|She edited an *anthology* of modern poems.
+magnum opus|n|the greatest single work of a writer or artist|সাহিত্যিক, সুরকার বা শিল্পীর শ্রেষ্ঠ কর্ম|The novel was his *magnum opus*.
+genre|n|a type or class of literary or artistic work|ঘরানা; শৈলী|Fantasy is her favourite *genre*.
+excerpt|n|a selected passage, written or musical|উদ্ধৃতাংশ|The teacher read an *excerpt* from the novel.
+repertoire|n|a collection of works an artist can perform|একজন শিল্পী যা যা করতে পারে, সেটার তালিকা|The singer has a wide *repertoire* of songs.
+motif|n|the main theme in a literary work or music|শিল্পের সাহিত্যের বা সংগীতের মূল উপাদান বা প্রধান প্রসঙ্গ|Love is the central *motif* of the poem.
+leitmotif|n|a recurring theme|শিল্পের মূল উপাদান বা প্রধান প্রসঙ্গ|Hope is the *leitmotif* of the film.
+rendition|n|translation; an artistic interpretation of a song|অনুবাদ|Her *rendition* of the folk song was moving.
+pastiche|n|an imitation of another's style|অন্য গ্রন্থকার বা শিল্পীর অনুকরণে রচিত সাহিত্য বা শিল্প|The film is a *pastiche* of old westerns.
+# Opera
+diva|n|an operatic singer; prima donna|অপেরার গায়িকা|The *diva* received a standing ovation.
+libretto|n|the text of an opera|অপেরার বই|He read the *libretto* before the show.

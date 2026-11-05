@@ -1,0 +1,17 @@
+N: 54
+T: Laughter and Humor
+S: You shouldn't mind someone's *jocular* behavior. A *jocose* man may *simper* or *smirk*, and a *waggish*, *zany* friend gives a *wry* remark. Read a *satire* or a *satirical* piece and notice the *irony*. I failed in economics, and the *ironic* part is that it is the subject I understand most.
+B: কারো রসিকতাপূর্ণ আচরণে কিছু মনে করা উচিত নয়। একজন রসিক মানুষ বোকার মতো হাসতে পারে বা বিদ্রূপের হাসি হাসতে পারে, আর কৌতুকপূর্ণ, ভাঁড় বন্ধু দেয় কৌতুকপূর্ণভাবে ঘোরানো মন্তব্য। কোনো ব্যঙ্গধর্মী রচনা বা ব্যঙ্গাত্মক লেখা পড়ো আর শ্লেষটা লক্ষ করো। আমি অর্থনীতিতে ফেল করেছি, আর বিদ্রূপের বিষয় হল, এটাই সেই বিষয় যা আমি সবচেয়ে ভালো বুঝি।
+# Smiles
+simper|v|smile in a silly, self-conscious way|বোকার মতো হাসা|She *simpered* at every compliment.
+smirk|v|smile in a smug or mocking way|আত্মতুষ্ট বা বিদ্রূপের হাসি হাসা|He *smirked* when his rival slipped.
+# Humor
+jocular|adj|fond of joking; humorous|রসিকতাপূর্ণ|The teacher was in a *jocular* mood.
+jocose|adj|playful and humorous|রসিক; কৌতুকপ্রিয়|He told a *jocose* tale about his school days.
+satire|n|a work that attacks folly through irony and ridicule|ব্যঙ্গধর্মী রচনা|The novel is a *satire* on court life.
+satirical|adj|relating to satire|ব্যঙ্গাত্মক|He draws *satirical* cartoons of politicians.
+wry|adj|with a dry, humorous twist|কৌতুকপূর্ণভাবে আবর্তিত; বিদ্রূপাত্মক|She gave a *wry* smile.
+waggish|adj|humorous; playful|কৌতুকপূর্ণ; ভাঁড়ামিপ্রিয়|He made a *waggish* remark about the weather.
+zany|adj|comically crazy|ভাঁড়; উদ্ভটভাবে মজার|The *zany* comedian wore a clown's hat.
+irony|n|saying the opposite of what is meant; an odd twist of fate|শ্লেষবাক্য; বিদ্রূপ|The *irony* is that the fire station burned down.
+ironic|adj|humorously sarcastic|বিদ্রূপাত্মক|It is *ironic* that the doctor fell ill.

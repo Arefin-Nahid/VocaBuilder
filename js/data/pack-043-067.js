@@ -1,4 +1,4 @@
-/* Pack: days 43 to 67 (book pages 51-75). One pack = one delivery of book pages. */
+/* Pack: days 43 to 67. One pack = one delivery of book pages. */
 (window.VB_PACKS = window.VB_PACKS || []).push({
 
 days: [

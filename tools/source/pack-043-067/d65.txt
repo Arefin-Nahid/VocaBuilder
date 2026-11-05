@@ -1,0 +1,73 @@
+N: 65
+T: Loyalty and Cheating
+S: In a story, Boromir showed *allegiance* to the king and loyal *fealty* and *fidelity*, a man of *faith* and *conviction*, *chivalrous*, *steadfast*, *stalwart*, *guileless*, *trustworthy* and *unswerving*, and all placed their *confidence* and *credence* in him. But a ring made him *disloyal*, and *treachery*, *trickery* and *perfidy* followed. He was *treacherous*, *perfidious*, *insidious*, *capricious*, *disaffected*, *deceitful*, *fickle* and *fraudulent*. With *chicanery*, *skulduggery*, *deception*, *artifice* and *guile*, a *hoax*, a *ruse* or a *bluff*, he tried to *betray*, *bilk*, *hoodwink*, *gull*, *chisel*, *swindle*, *deceive*, *delude* and *cozen* his friends. Some *sham*, *malinger*, *feign*, *simulate*, *dissimulate* or *dissemble*. The *gullible* and *credulous*, the *naive* with great *gullibility* and *credulity*, are an easy target, while a *renegade* or *turncoat* is a *traitor*. A liar may *coin* a story or *wangle* a favour.
+B: এক গল্পে বরোমির রাজার প্রতি আনুগত্য, বিশ্বস্ততা ও নিষ্ঠা দেখাল, বিশ্বাস ও দৃঢ় প্রত্যয়ের মানুষ, বীরোচিত, অবিচল, বলিষ্ঠ, সরল, বিশ্বাসযোগ্য ও অটল, আর সবাই তার ওপর আস্থা ও বিশ্বাস রাখল। কিন্তু একটি আংটি তাকে অবিশ্বস্ত করে তুলল, আর বিশ্বাসঘাতকতা, ছলনা ও প্রতারণা এল। সে ছিল বিশ্বাসঘাতক, প্রতারক, ধূর্ত, খেয়ালি, অসন্তুষ্ট, প্রবঞ্চক, চঞ্চলমতি ও জালিয়াত। ছলচাতুরি, কূটকৌশল, প্রতারণা, কৌশল ও ধূর্ততা দিয়ে, একটি ধাপ্পাবাজি, চালাকি বা ভান দিয়ে, সে তার বন্ধুদের ধোঁকা দিতে, ঠকাতে, বোকা বানাতে, প্রতারণা করতে ও ভুলাতে চেষ্টা করল। কেউ কেউ ভান করে, অসুস্থতার ভান করে, নকল করে, গোপন করে বা ছলনা করে। সহজে বিশ্বাসকারী ও সরল, সহজে ঠকে যাওয়া সরলমনারা সহজ শিকার, আর বিশ্বাসঘাতক দলত্যাগী সেই বিশ্বাসঘাতক। মিথ্যাবাদী একটি গল্প বানাতে বা একটি উপকার আদায় করতে পারে।
+# Faith
+faith|n|belief; trust|বিশ্বাস; নির্ভরতা|I have *faith* in my teacher.
+confidence|n|trust; belief|বিশ্বাস|She has *confidence* in her team.
+credence|n|belief in something being true|বিশ্বাস|I gave no *credence* to the rumour.
+conviction|n|a strongly held belief|দৃঢ় প্রত্যয়|He spoke with *conviction*.
+# Loyalty
+loyalty|n|faithfulness|বিশ্বস্ততা|The dog showed great *loyalty* to its owner.
+allegiance|n|loyalty to a person or cause|আনুগত্য|They swore *allegiance* to the flag.
+fealty|n|a vow of loyalty|বিশ্বস্ততা; আনুগত্যের শপথ|The knight swore *fealty* to the king.
+fidelity|n|faithfulness|বিশ্বস্ততা; নিষ্ঠা|He praised the *fidelity* of his friends.
+disloyal|adj|not faithful; betraying trust|অবিশ্বস্ত; প্রতারণাপূর্ণ|A *disloyal* friend sold the secret.
+loyal|adj|faithful|বিশ্বস্ত|A *loyal* friend stays by you.
+chivalrous|adj|honourable and courteous|বীরোচিত; সম্মানজনক|The *chivalrous* knight helped the lady.
+steadfast|adj|firm and unwavering|অবিচল|She was *steadfast* in her duty.
+stalwart|adj|loyal, reliable and hardworking|বলিষ্ঠ; বিশ্বস্ত|He is a *stalwart* supporter of the party.
+guileless|adj|free from cunning; innocent|সরল; ছলনাহীন|The child gave a *guileless* smile.
+trustworthy|adj|deserving trust|বিশ্বাসযোগ্য|Choose a *trustworthy* guide.
+unswerving|adj|not changing; firm|অটল; অবিচল|He had *unswerving* faith in justice.
+# Cheat
+cheat|v|act dishonestly to gain advantage|প্রতারণা করা|He *cheated* in the exam.
+betray|v|break a trust|বিশ্বাসঘাতকতা করা|He *betrayed* his friends for money.
+bilk|v|cheat out of money|ঠকানো; প্রতারণা করা|The agent *bilked* the farmers.
+hoodwink|v|deceive; trick|ধোঁকা দেওয়া|The salesman *hoodwinked* the old woman.
+gull|v|deceive|বোকা বানানো|They *gulled* him into buying a fake.
+chisel|v|cheat; get by trickery|প্রতারণা করা|He *chiseled* money out of his clients.
+swindle|v|cheat out of money|প্রতারণা করা|The broker *swindled* investors.
+deceive|v|mislead on purpose|প্রতারণা করা|Don't let looks *deceive* you.
+delude|v|make someone believe something false|ভুল বোঝানো|You are *deluding* yourself.
+cozen|v|cheat; trick|ঠকানো|The trickster *cozened* the village.
+# Cheating and trickery
+treachery|n|betrayal of trust|বিশ্বাসঘাতকতা|The *treachery* of his friend hurt him.
+trickery|n|the use of tricks to cheat|ছলনা; প্রতারণা|He won by *trickery*.
+perfidy|n|deceitfulness; betrayal|বিশ্বাসঘাতকতা; প্রতারণা|History remembers the king's *perfidy*.
+chicanery|n|the use of trickery to achieve an aim|ছলচাতুরি|Legal *chicanery* saved the rogue.
+skulduggery|n|underhand dealings|কূটকৌশল; অসাধু কর্মকাণ্ড|Political *skulduggery* has no end.
+deception|n|the act of deceiving|প্রতারণা|The *deception* was soon revealed.
+artifice|n|clever trickery|কৌশল; ছলনা|She got the job by *artifice*.
+guile|n|cunning; deceit|ধূর্ততা; ছলনা|He won the game by *guile*.
+hoax|n|a trick or a false report|ধাপ্পাবাজি; ভাঁওতা|The bomb threat was a *hoax*.
+ruse|n|a clever trick|চালাকি; ছল|It was a *ruse* to escape the guards.
+bluff|n|an attempt to deceive about one's strength|ভান; ধাপ্পা|His threat was only a *bluff*.
+# Disloyal
+treacherous|adj|disloyal; dangerous|বিশ্বাসঘাতক|The *treacherous* guide led them astray.
+perfidious|adj|deceitful and disloyal|প্রতারণাপূর্ণ|A *perfidious* friend sold the secret.
+insidious|adj|harmful in a hidden way|ধূর্ত; গোপনে ক্ষতিকর|An *insidious* disease spread quietly.
+capricious|adj|given to sudden changes of mood|খেয়ালি|The *capricious* king changed his mind daily.
+disaffected|adj|dissatisfied with authority|অসন্তুষ্ট|*Disaffected* workers left the firm.
+deceitful|adj|misleading; dishonest|প্রবঞ্চক; ছলনাময়|He is a *deceitful* man.
+fickle|adj|changing often; not loyal|চঞ্চলমতি|The *fickle* crowd cheered then booed.
+fraudulent|adj|dishonest; cheating|জালিয়াত; প্রতারণাপূর্ণ|He made a *fraudulent* claim.
+# Pretend
+sham|v|pretend; fake|ভান করা|He *shammed* illness to miss school.
+malinger|v|pretend to be ill to avoid work|অসুস্থতার ভান করা|The soldier *malingered* to avoid duty.
+feign|v|pretend|ভান করা|She *feigned* surprise.
+simulate|v|imitate; pretend|নকল করা|The pilot *simulated* an engine failure.
+dissimulate|v|hide one's true feelings|গোপন করা; ভান করা|He *dissimulated* his anger with a smile.
+dissemble|v|hide one's true motives|ছলনা করা|She *dissembled* to hide the truth.
+# Gullible
+gullible|adj|easily deceived|সহজে ধোঁকা খাওয়া যায় এমন|A *gullible* man believes every story.
+credulous|adj|too ready to believe|সহজে বিশ্বাসকারী|The *credulous* girl trusted the stranger.
+naive|adj|lacking worldly experience; innocent|সরল; সহজ|It was *naive* to trust him.
+gullibility|n|the quality of being easily deceived|সহজে বিশ্বাস করার এবং ধোঁকা খাওয়ার ঝোঁক|His *gullibility* cost him his savings.
+credulity|n|a tendency to believe too readily|সহজে বিশ্বাস করার প্রবণতা|The trick played on public *credulity*.
+# Traitor
+traitor|n|a person who betrays|বিশ্বাসঘাতক|The *traitor* sold secrets to the enemy.
+renegade|n|a person who deserts a cause|বিশ্বাসঘাতক; দলত্যাগী|The *renegade* joined the enemy camp.
+turncoat|n|a person who changes sides|দলত্যাগী; বিশ্বাসঘাতক|Nobody trusts a *turncoat*.
+coin|v|invent or fabricate; make something new|নকল কিছু বানানো; নতুন কিছু উদ্ভাবন করা|He *coined* a clever excuse.
+wangle|v|get by trickery or fake|নকল তৈরি করা; ছলে আদায় করা|She *wangled* a free ticket.

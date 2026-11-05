@@ -1,0 +1,58 @@
+N: 47
+T: Hate and Inclination
+S: Do not *abhor* those who *abominate* you. A man who *despises* and *detests* others, and *loathes* their company, soon feels *abhorrence* and *detestation* grow inside him. His *enmity* and *animosity* turn into *malice*, *rancor* and *odium*. He shows open *contempt*, *scorn* and *disdain*, and his *antagonism* is deep, with a hidden *animus*. His act was *abhorrent*, *abominable*, *despicable* and *execrable*, a *loathsome*, *scurvy* deed, *atrocious* and *heinous*, an *odious* crime by a *malicious*, *vindictive*, *ruthless* and *truculent* man. Let no *stigma* stay, do not *bandy* words, and do not *spurn* the one who comes with an *unsolicited* apology, though he was once your *anathema* and your *bête noire*. Do not be *wanton*. Do not be *tendentious* or *predisposed*, and do not make a *bent* decision. Be *impartial* and *unbiased*, free of *bias*.
+B: যারা তোমাকে ঘৃণা করে তাদের তুমি ঘৃণা কোরো না। যে মানুষ অন্যদের তুচ্ছ ও ঘৃণা করে এবং তাদের সঙ্গ অসহ্য মনে করে, তার ভেতরে শিগগিরই তীব্র ঘৃণা আর প্রবল বিতৃষ্ণা বাড়তে থাকে। তার শত্রুতা ও বিদ্বেষ পরিণত হয় হিংসা, পুরনো তিক্ততা ও নিন্দায়। সে প্রকাশ্যে দেখায় অবজ্ঞা, ঘৃণাভরা তাচ্ছিল্য ও অবহেলা, আর তার বিরোধিতা গভীর, গোপন বিদ্বেষসহ। তার কাজ ছিল ঘৃণ্য, জঘন্য, নীচ ও নিকৃষ্ট, এক বিতৃষ্ণাজাগানো, নীচ কাজ, নৃশংস ও পাশবিক, এক বিদ্বেষপূর্ণ, প্রতিশোধপরায়ণ, নির্মম ও উদ্ধত মানুষের ঘৃণ্য অপরাধ। কোনো কলঙ্ক থাকতে দিয়ো না, বৃথা কথা কাটাকাটি কোরো না, আর যে অযাচিত ক্ষমা চাইতে আসে তাকে ঘৃণাভরে ফিরিয়ে দিয়ো না, যদিও সে একসময় তোমার ঘৃণ্য ব্যক্তি ও অতি অপছন্দের মানুষ ছিল। ইচ্ছাকৃত বিদ্বেষী হয়ো না। একপেশে বা আগে থেকে ঝুঁকে থাকা হয়ো না, আর ঝোঁকের বশে সিদ্ধান্ত নিয়ো না। হও নিরপেক্ষ ও পক্ষপাতহীন, পক্ষপাত থেকে মুক্ত।
+# Hate (verb)
+abhor|v|hate intensely|ঘৃণা করা|She *abhors* cruelty to animals.
+abominate|v|hate strongly|ঘৃণা করা; অতিশয় ঘৃণা করা|He *abominates* dishonesty.
+despise|v|look down on with contempt|তুচ্ছ করা; ঘৃণা করা|I *despise* people who bully the weak.
+detest|v|dislike intensely|ঘৃণা করা|She *detests* waking up early.
+loathe|v|feel intense disgust for|ঘৃণা করা; বিতৃষ্ণা বোধ করা|I *loathe* the smell of cigarette smoke.
+disdain|v|treat with scorn|অবজ্ঞা করা; তাচ্ছিল্য করা|He *disdained* their offer of help.
+# Hate (noun)
+abhorrence|n|intense hatred|তীব্র ঘৃণা|He looked at the crime with *abhorrence*.
+abomination|n|something hateful; intense disgust|জঘন্য বস্তু; তীব্র ঘৃণা|The villagers called the factory an *abomination*.
+detestation|n|intense dislike|প্রবল ঘৃণা|His *detestation* of liars was well known.
+execration|n|a curse; an expression of hatred|অভিশাপ; তীব্র ঘৃণা|The traitor met only *execration*.
+enmity|n|deep-rooted hostility|শত্রুতা|Years of *enmity* separated the two families.
+animosity|n|strong dislike or hostility|বিদ্বেষ; শত্রুভাব|There is no *animosity* between the rivals.
+animus|n|hostility; ill will|বিদ্বেষ; ক্রোধ|She felt no *animus* toward her critics.
+loathing|n|intense disgust|ঘৃণা; বিতৃষ্ণা|He looked at the dirty kitchen with *loathing*.
+malice|n|the wish to harm others|হিংসা; বিদ্বেষ|She spoke without *malice*.
+odium|n|general hatred or disgrace|ঘৃণা; নিন্দা|The tax brought *odium* on the government.
+rancor|n|long-lasting bitter resentment|পুরনো তিক্ত বিদ্বেষ|They parted without *rancor*.
+repugnance|n|strong dislike; disgust|বিরাগ; প্রবল অনীহা|He felt *repugnance* at the thought of cheating.
+contempt|n|the feeling that someone is worthless|অবজ্ঞা; ঘৃণা|She looked at him with *contempt*.
+scorn|n|open contempt|ঘৃণাভরা অবজ্ঞা|He laughed with *scorn* at the idea.
+antagonism|n|active opposition; hostility|বিরোধিতা; শত্রুতা|There was open *antagonism* between the two groups.
+# Hateful
+abhorrent|adj|inspiring disgust and hatred|ঘৃণ্য; ঘৃণার্হ|Slavery is *abhorrent* to every decent person.
+abominable|adj|very bad; hateful|জঘন্য; ঘৃণ্য|The weather was *abominable*.
+despicable|adj|deserving hatred and contempt|ঘৃণ্য; নীচ|Stealing from a beggar is *despicable*.
+detestable|adj|deserving intense dislike|ঘৃণার যোগ্য|Betrayal is a *detestable* act.
+execrable|adj|extremely bad; detestable|অতি জঘন্য; নিকৃষ্ট|The food at the hotel was *execrable*.
+loathsome|adj|causing disgust|বিতৃষ্ণাজাগানো; ঘৃণ্য|A *loathsome* smell came from the drain.
+scurvy|adj|contemptible; mean|নীচ; জঘন্য|What a *scurvy* trick to play on a friend!
+# Cruel
+atrocious|adj|horrifyingly cruel or very bad|নৃশংস; জঘন্য|The soldiers committed *atrocious* acts.
+heinous|adj|shockingly evil|ঘৃণ্য ও পাশবিক; ভয়ানক অপরাধমূলক|He was jailed for a *heinous* crime.
+odious|adj|extremely unpleasant; hateful|ঘৃণ্য; জঘন্য|The *odious* tyrant was hated by all.
+malicious|adj|intending to do harm|বিদ্বেষপূর্ণ; ক্ষতিকর|Someone spread *malicious* rumours about her.
+vindictive|adj|eager for revenge|প্রতিশোধপরায়ণ|A *vindictive* boss fired everyone who disagreed.
+ruthless|adj|without pity; cruel|নির্মম; নিষ্ঠুর|The *ruthless* dictator crushed all opposition.
+truculent|adj|eager to argue or fight; aggressive|উদ্ধত ও ঝগড়াটে; হিংস্র|The *truculent* drunk shouted at the waiters.
+# Bias
+bent|adj|determined; strongly inclined|ঝোঁক; দৃঢ়সংকল্প|He was *bent* on winning the prize.
+predisposed|adj|inclined beforehand|আগে থেকে ঝুঁকে থাকা|Some people are *predisposed* to illness.
+tendentious|adj|promoting a particular, one-sided view|পক্ষপাতদুষ্ট; একপেশে|The article was *tendentious* and unfair.
+impartial|adj|treating all sides equally|নিরপেক্ষ|A judge must be *impartial*.
+unbiased|adj|without prejudice|পক্ষপাতহীন|We need an *unbiased* report.
+bias|n|prejudice for or against something|পক্ষপাত|The referee was accused of *bias*.
+# Hated, and related words
+anathema|n|something or someone hated or detested|ঘৃণ্য ব্যক্তি বা জিনিস; অভিশাপ|Violence is *anathema* to her.
+bête noire|n|a person or thing one greatly dislikes|অতি অপছন্দের ব্যক্তি বা বিষয়|Grammar was his *bête noire* at school.
+wanton|adj|willfully cruel or careless; also lustful|ইচ্ছাকৃতভাবে বিদ্বেষপূর্ণ; কামুক|The storm left a trail of *wanton* destruction.
+stigma|n|a mark of disgrace|মর্যাদাহানির প্রতীক; কলঙ্ক|There is still a *stigma* attached to failure.
+bandy|v|exchange words in anger; also discuss lightly|তীব্রভাবে কথা কাটাকাটি করা; হালকাভাবে আলোচনা করা|Don't *bandy* words with the shopkeeper.
+spurn|v|reject with contempt|ঘৃণাভরে প্রত্যাখ্যান করা|She *spurned* his offer of money.
+unsolicited|adj|not asked for|অযাচিত; অপ্রার্থিত|I received much *unsolicited* advice.

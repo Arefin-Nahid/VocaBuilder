@@ -1,0 +1,24 @@
+N: 62
+T: Literature, Art and Music (continued)
+S: The *overture* opened with a *crescendo*, and the *timbre* of the strings joined in *unison*. A singer began to *warble* a *madrigal*, and the *reprise* followed with the *keynote* of the *syncopation*. The conductor will *orchestrate* the show. In a *fable*, an *allegory* or a *parable*, a *raconteur* tells an *anecdote* in a *narrative*. A *saga* tells of heroes, and a *satire* attacks folly.
+B: সূচনাসুরটি তীব্রতা বাড়িয়ে শুরু হল, আর তারযন্ত্রের সুরের বৈশিষ্ট্য একতানে মিশে গেল। একজন গায়ক পল্লী গীতি গান গাইতে শুরু করলেন, আর পুরনো গান নতুন করে গাওয়া এল তালের বিচ্ছুরণের মূল সুর ধরে। পরিচালক অনুষ্ঠানের জন্য সুর সংগীতায়োজন করবেন। উপকথা, রূপক বা নীতিগল্পে এক গল্প-কথক একটি ক্ষুদ্র সত্য কাহিনী বলে একটি গল্পের আকারে। কিংবদন্তী কাহিনী বীরদের কথা বলে, আর ব্যঙ্গধর্মী রচনা মূর্খতাকে আক্রমণ করে।
+# Musical
+overture|n|a musical introduction; a proposal|সূচনাসুর|The opera began with a lively *overture*.
+crescendo|n|a gradual increase in volume or intensity|সুরের তীব্রতা|The music rose to a *crescendo*.
+timbre|n|the quality of sound of an instrument or voice|সংগীতযন্ত্রের সুরের বৈশিষ্ট্য|The flute has a soft *timbre*.
+unison|n|unity of pitch; complete accord|সুরের একতান; ঐক্য|The students sang in *unison*.
+warble|v|sing; sing with trills|গান বা বান গাওয়া|Birds *warbled* in the trees.
+madrigal|n|a pastoral song|পল্লী গীতি|They sang a *madrigal* in the garden.
+reprise|n|a musical repetition; a repeat performance|পুরনো গান নতুন করে গাওয়া|The band played a *reprise* of the hit song.
+keynote|n|the note on which a musical key is based; the main idea of a speech|মূল সুর; বক্তৃতার সারাংশ|Honesty was the *keynote* of his speech.
+syncopation|n|a temporary irregularity in musical rhythm|তাল-এর মধ্যে কোথাও কোথাও বিচ্যুতি|Jazz is known for its *syncopation*.
+orchestrate|v|arrange music for performance; organize|অনুষ্ঠানের জন্য সুর সংগীতায়োজন করা; সংগঠিত করা|She *orchestrated* the whole event.
+# Stories
+fable|n|a short story with a moral|উপকথা|The *fable* of the fox and the grapes is famous.
+allegory|n|a story with a hidden meaning|উপকথা; রূপক কাহিনী|Animal Farm is an *allegory* of politics.
+parable|n|a simple story that teaches a lesson|উপকথা; নীতিগল্প|He taught the lesson through a *parable*.
+raconteur|n|a storyteller|গল্প-কথক; জমিয়ে গল্প বলতে পারে এমন লোক|Our uncle is a fine *raconteur*.
+anecdote|n|a short account of an amusing or interesting event|ক্ষুদ্র সত্য কাহিনী|He told an *anecdote* about his school days.
+narrative|n|a story|গল্প|The book has a gripping *narrative*.
+saga|n|any legend; a Scandinavian myth|কিংবদন্তী কাহিনী; প্রাচীন বীরকাহিনী|The *saga* tells of a brave Viking.
+satire|n|a form of literature using irony and ridicule to attack vice and folly|ব্যঙ্গধর্মী রচনা|The play is a sharp *satire* on greed.

@@ -1,0 +1,33 @@
+N: 59
+T: Life and Death (continued)
+S: He was *sprightly*, *vivacious* and *vibrant*, a *lively* boy, *vital* to the team. Suddenly, at a party, he became *insensible*, *insentient* and *unconscious*. His *ephemeral*, *transient*, *transitory* joy ended, for we had hoped for *longevity* and a *perennial* life. Doctors said he could live longer in a *salubrious* place, but he was not *unscathed*. A *toxin* turned *lethal*, even *sublethal*, and proved a *bane*, *baneful* and *pernicious*. A *morbid* mood came over him as he turned *moribund*. The *natal* hole in his heart had been there since he was a *neonate*.
+B: সে ছিল চঞ্চল, প্রাণবন্ত ও উচ্ছল, এক জীবন্ত ছেলে, দলের জন্য অপরিহার্য। হঠাৎ এক পার্টিতে সে সংজ্ঞাহীন, অনুভূতিহীন ও অচেতন হয়ে পড়ল। তার ক্ষণস্থায়ী, অস্থায়ী, ক্ষণজীবী আনন্দ শেষ হল, কারণ আমরা আশা করেছিলাম দীর্ঘায়ু ও চিরস্থায়ী জীবন। ডাক্তাররা বললেন সে স্বাস্থ্যকর জায়গায় আরও বেশি দিন বাঁচতে পারে, কিন্তু সে অক্ষত ছিল না। একটি বিষ প্রাণঘাতী হয়ে উঠল, এমনকি প্রায় প্রাণঘাতীও, আর তা প্রমাণিত হল অভিশাপ, ধ্বংসাত্মক ও প্রাণঘাতী। সে মুমূর্ষু হয়ে উঠতেই এক বিষাদগ্রস্ত মেজাজ তাকে গ্রাস করল। তার হৃদয়ের জন্মগত ছিদ্রটি নবজাতক অবস্থা থেকেই ছিল।
+# Lively
+lively|adj|full of life|প্রাণবন্ত|The puppy is *lively* and loves to run.
+sprightly|adj|lively; energetic|প্রাণবন্ত; চঞ্চল|The old man was *sprightly* for his age.
+vivacious|adj|full of life and spirit|প্রাণবন্ত; উচ্ছল|She is a *vivacious* girl.
+vital|adj|full of energy; essential; living|জীবন্ত; অপরিহার্য|Water is *vital* to life.
+vibrant|adj|full of energy and life|প্রাণবন্ত; উচ্ছল|The city has a *vibrant* nightlife.
+# Unconscious
+unconscious|adj|not awake or aware|অচেতন|He was *unconscious* for an hour.
+insensible|adj|unconscious; unable to feel|সংজ্ঞাহীন; অনুভূতিহীন|The blow left him *insensible*.
+insentient|adj|lacking feeling or awareness|অনুভূতিহীন; অচেতন|A rock is *insentient*.
+# Short-lived and long-lived
+ephemeral|adj|lasting a very short time|ক্ষণজীবী|Fame can be *ephemeral*.
+transient|adj|lasting only a short time|ক্ষণস্থায়ী|He took a *transient* job for the summer.
+transitory|adj|not permanent|অস্থায়ী; ক্ষণস্থায়ী|Life is *transitory*.
+perennial|adj|lasting a long time; recurring|দীর্ঘজীবী; চিরস্থায়ী|Roses are *perennial* plants.
+longevity|n|long life|দীর্ঘায়ু|Healthy food helps *longevity*.
+# Health and harm
+salubrious|adj|healthful; favourable to health|স্বাস্থ্যকর|They moved to a *salubrious* hill town.
+unscathed|adj|unharmed|অক্ষত|He escaped the crash *unscathed*.
+toxin|n|a poison|বিষ|The snake's *toxin* is deadly.
+lethal|adj|extremely poisonous; deadly|প্রাণঘাতী|A *lethal* dose of the drug was found.
+sublethal|adj|almost lethal|প্রায় প্রাণঘাতী|The fish survived a *sublethal* dose of the chemical.
+bane|n|something causing misery or death|অভিশাপ; ধ্বংস বা মৃত্যুর কারণ|Traffic is the *bane* of city life.
+baneful|adj|destructive; causing ruin or death|ধ্বংসাত্মক|Gambling had a *baneful* effect on him.
+pernicious|adj|very harmful; deadly|প্রাণঘাতী; অত্যন্ত ক্ষতিকর|Rumours have a *pernicious* influence.
+morbid|adj|suggesting an unhealthy mental state|বিষাদগ্রস্ত|He has a *morbid* fear of death.
+moribund|adj|dying|মুমূর্ষু|The *moribund* patient could hardly speak.
+natal|adj|relating to birth|জন্ম-সংক্রান্ত|The *natal* day is a day of joy.
+neonate|n|a newborn child|নবজাতক|The *neonate* was kept in the nursery.

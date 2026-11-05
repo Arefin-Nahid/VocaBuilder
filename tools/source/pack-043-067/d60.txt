@@ -1,0 +1,20 @@
+N: 60
+T: Life and Death (continued)
+S: *Senility* and *dotage* bring *geriatric* troubles in the *senescent*, *hoary* old age, and the face turns *withered*, *wizened* and *shriveled*. For some a doctor offers *euthanasia*, though the *indefatigable* still work on. Doctors *inter* the dead, and detectives may *disinter* or *exhume* the body, while a tyrant may *decimate* a whole people.
+B: বার্ধক্যে ভীমরতি ও জরাগ্রস্ততা আসে, বয়স্ক, অত্যন্ত বৃদ্ধ বয়সে বার্ধক্যজনিত সমস্যা দেখা দেয়, আর মুখ শুকিয়ে, কুঁচকে ও কুঞ্চিত হয়ে যায়। কারো জন্য ডাক্তার যন্ত্রণাহীন মৃত্যুর প্রস্তাব দেন, যদিও অদম্যরা তবু কাজ করে চলে। মৃতদের কবর দেওয়া হয়, আর গোয়েন্দারা লাশ কবর থেকে তুলে আনতে পারে, আর এক অত্যাচারী পুরো একটি জাতিকে হত্যাযজ্ঞে শেষ করে দিতে পারে।
+# Old age
+senility|n|mental infirmity in old age|ভীমরতি|*Senility* made him forget his own name.
+dotage|n|mental infirmity in old age|ভীমরতি; জরাগ্রস্ততা|He spent his *dotage* in the village.
+geriatric|adj|relating to old age|বার্ধক্যজনিত|The hospital has a *geriatric* ward.
+hoary|adj|very old; whitish or grey from age|অত্যধিক বৃদ্ধ|A *hoary* priest sat under the tree.
+senescent|adj|aging; growing old|বার্ধক্যগ্রস্ত হওয়া|The *senescent* actor still loved the stage.
+withered|adj|shrunken and wrinkled|বয়স বা অসুস্থতার জন্য কুঞ্চিত|She had a *withered* hand.
+wizened|adj|shrivelled with age|কুঞ্চিত; শুকিয়ে যাওয়া|A *wizened* old woman sold fruit.
+shriveled|adj|shrunken and wrinkled|কুঞ্চিত|The *shriveled* apple was thrown away.
+# End of life
+euthanasia|n|mercy killing|যন্ত্রণাহীনভাবে মৃত্যু ঘটানো|The country debated *euthanasia* for years.
+indefatigable|adj|tireless; never tiring|অদম্য; শ্রান্তিহীন|He is an *indefatigable* worker.
+inter|v|bury; place in a grave or tomb|কবর দেওয়া|They *interred* the soldier with honour.
+disinter|v|dig out from the grave|কবর থেকে তুলে আনা|Police *disinterred* the body for a test.
+exhume|v|dig out from the grave|কবর থেকে তুলে আনা|The court ordered them to *exhume* the corpse.
+decimate|v|kill one in ten; kill in large numbers|প্রতি দশজনের মধ্যে একজনকে মেরে ফেলা; ব্যাপক হারে হত্যা করা|The plague *decimated* the population.

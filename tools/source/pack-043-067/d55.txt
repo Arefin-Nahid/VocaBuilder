@@ -1,0 +1,33 @@
+N: 55
+T: Law
+S: The court decided to *imprison* the thief, and the guards *immure* and *incarcerate* him behind high walls. His lawyer filed an *affidavit* and a *deposition*. Students of *jurisprudence* watched the *tribunal* issue a *writ*. After the *inquest* and long *litigation*, the *legislation* passed by those who *legislate* proved *legitimate*. Each *statute* and every *statutory* rule needs a *judicious* judge who values *equity*, for an *equitable* result is better than a long *disquisition*. A *lien* on the land was *waived*, so the sale stayed *valid*, and no one could *appropriate* the property. The *extradition* of the accused followed, and a *subpoena* summoned the witness.
+B: আদালত চোরকে কারাবন্দি করার সিদ্ধান্ত নিল, আর রক্ষীরা তাকে উঁচু দেয়ালের আড়ালে আটকে ও কারারুদ্ধ করে রাখল। তার উকিল একটি হলফনামা ও জবানবন্দি দাখিল করলেন। আইনশাস্ত্রের ছাত্ররা দেখল বিচারসভা একটি পরোয়ানা জারি করছে। তদন্ত ও দীর্ঘ মোকদ্দমার পর, যারা আইন প্রণয়ন করে তাদের পাস করা আইন বৈধ প্রমাণিত হল। প্রতিটি বিধি ও সংবিধিবদ্ধ নিয়মের জন্য দরকার একজন বিচক্ষণ বিচারক যিনি ন্যায়বিচারকে মূল্য দেন, কারণ ন্যায়সঙ্গত ফল দীর্ঘ প্রবন্ধের চেয়ে ভালো। জমির ওপর আইনগত দাবি ছেড়ে দেওয়া হল, তাই বিক্রি বৈধ থাকল, আর কেউ সম্পত্তি নিজের করে নিতে পারল না। এরপর অভিযুক্তকে হস্তান্তর করা হল, আর একটি তলবনামা সাক্ষীকে ডেকে আনল।
+# Imprison
+imprison|v|put in prison|কারাবন্দি করা|The judge *imprisoned* the thief for five years.
+immure|v|shut in; confine within walls|আটকে রাখা; প্রাচীরবদ্ধ করা|The king *immured* his enemy in a tower.
+incarcerate|v|put in prison|কারারুদ্ধ করা|He was *incarcerated* for fraud.
+# Statement under oath
+affidavit|n|a written statement made under oath|হলফনামা|She signed an *affidavit* before the magistrate.
+deposition|n|a sworn statement taken out of court|জবানবন্দি; হলফনামা|The witness gave a *deposition* to the lawyers.
+# Law and courts
+jurisprudence|n|the science or philosophy of law|আইনশাস্ত্র|She studies *jurisprudence* at university.
+tribunal|n|a court of justice|বিচারসভা|The *tribunal* heard the case for two days.
+writ|n|a written legal order|পরোয়ানা|The court issued a *writ* for his arrest.
+inquest|n|a legal inquiry, especially into a death|তদন্ত; মোকদ্দমার অনুসন্ধান|An *inquest* was held into the cause of the fire.
+litigation|n|the process of taking legal action|মোকদ্দমা|The two firms are in *litigation* over the patent.
+legislation|n|laws made by a government|আইনপ্রণয়ন; প্রণীত আইনসমূহ|New *legislation* protects workers.
+legislate|v|make laws|আইন প্রণয়ন করা|Parliament will *legislate* on this issue.
+legitimate|adj|in accordance with the law|আইনসম্মত|He is the *legitimate* owner of the shop.
+statute|n|a law passed by the legislature|আইনসভায় অনুমোদিত বিধিবদ্ধ আইন|The *statute* bans smoking in public places.
+statutory|adj|created by law|সংবিধিবদ্ধ|There is a *statutory* limit on interest rates.
+judicious|adj|having sound judgment|সুবিচারপূর্ণ; বিচক্ষণ|It was a *judicious* decision.
+equity|n|justice; fairness|ন্যায়বিচার|The law treats all citizens with *equity*.
+equitable|adj|fair and just|ন্যায়সঙ্গত|They reached an *equitable* settlement.
+disquisition|n|a long elaborate essay or speech|দীর্ঘ বিস্তারিত বক্তৃতা বা রচনা|He delivered a *disquisition* on the history of law.
+# Property and rights
+lien|n|a legal claim on a property|সম্পত্তির ওপর আইনগত দাবি|The bank placed a *lien* on his house.
+appropriate|v|take for one's own use unlawfully|নিজের করে নেওয়া; অধিকার করা|He *appropriated* the funds for himself.
+waive|v|give up a legal right|পরিত্যাগ করা|She *waived* her right to a lawyer.
+valid|adj|legally acceptable; logically sound|যুক্তিযুক্ত; বৈধ|You need a *valid* passport to travel.
+extradition|n|surrender of a prisoner by one state to another|কয়েদি হস্তান্তর|The *extradition* of the criminal took months.
+subpoena|n|a writ summoning a witness to appear|সাক্ষী হাজির হওয়ার জন্য তলবনামা|The court served him a *subpoena*.

@@ -1,0 +1,23 @@
+N: 57
+T: Law (continued)
+S: A *rider* attached to the bill brought a *moratorium* on payments, though members threatened a *filibuster*. A witness who commits *perjury* is a *venal* man, and a *quisling* is worse. The police *apprehend* a crook and *arrest* him, and he *attests* in court with a *barrister* beside him, never a *shyster*. A *testator* may add a *codicil* to his will. A *franchise* may be sold, but an *embargo* stops trade.
+B: বিলের সঙ্গে যুক্ত একটি সংশোধনী পাওনা পরিশোধ স্থগিত করল, যদিও সদস্যরা লম্বা বক্তৃতা দিয়ে আটকে দেওয়ার হুমকি দিল। যে সাক্ষী শপথভঙ্গ করে সে ঘুষখোর লোক, আর রাজাকার তার চেয়েও খারাপ। পুলিশ একজন ধূর্ত লোককে ধরে ও গ্রেফতার করে, আর সে আদালতে সাক্ষ্য দেয়, পাশে থাকে একজন ব্যারিস্টার, কখনো মতলববাজ উকিল নয়। উইল প্রস্তুতকারক উইলের সঙ্গে একটি সম্পূরক অংশ যোগ করতে পারে। একটি অনুমতি বিক্রি হতে পারে, কিন্তু নিষেধাজ্ঞা ব্যবসা থামিয়ে দেয়।
+# Lawmaking
+rider|n|an amendment added to a legislative bill|আইনগত বিলের মধ্যে যুক্ত করা সংশোধনী|A *rider* about taxes was added to the bill.
+moratorium|n|an authorised delay or suspension|মুলতবি|The bank announced a *moratorium* on loan payments.
+filibuster|v|block legislation with long speeches|লম্বা বক্তৃতা দিয়ে সিদ্ধান্ত গ্রহণে বাধা দেওয়া|The senator *filibustered* for ten hours.
+# Dishonesty
+perjury|n|false testimony under oath|শপথভঙ্গ|He went to jail for *perjury*.
+venal|adj|capable of being bribed|অর্থের বিনিময়ে অন্যায়ভাবে কাজ করতে ইচ্ছুক|A *venal* official took the money.
+quisling|n|a traitor who aids an invader|রাজাকার|History remembers him as a *quisling*.
+# Police and lawyers
+apprehend|v|arrest; perceive|গ্রেফতার করা; টের পাওয়া|Police *apprehended* the robber at dawn.
+arrest|v|seize or capture; stop or check|গ্রেফতার করা; থামানো বা প্রতিহত করা|The officer *arrested* the driver.
+barrister|n|a counsellor-at-law|ব্যারিস্টার|The *barrister* argued the case in the High Court.
+shyster|n|a lawyer using questionable methods|মতলববাজ উকিল|The *shyster* cheated his clients.
+attest|v|testify; bear witness|সাক্ষ্য দেওয়া|Two people *attested* to his honesty.
+testator|n|a maker of a will|উইল প্রস্তুতকারক|The *testator* left his house to his son.
+codicil|n|a supplement to the body of a will|উইলের সম্পূরক অংশ|He added a *codicil* to his will.
+# Rights and bans
+franchise|n|a right granted by authority; the right to vote; a license to sell|কর্তৃপক্ষ থেকে পাওয়া অধিকার; ভোটাধিকার; পণ্য বিক্রির অনুমতি|The company bought a food *franchise*.
+embargo|n|a ban on commerce or other activities|নিষেধাজ্ঞা|The country lifted the trade *embargo*.

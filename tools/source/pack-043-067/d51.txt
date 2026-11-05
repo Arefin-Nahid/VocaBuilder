@@ -1,0 +1,59 @@
+N: 51
+T: Insult and Praise
+S: If someone has a skill you do not have, you should *laud* them with *encomiastic* words, because they are *estimable*. Yet we often *abase* and *debase* them out of jealousy. Some *demean*, *belittle* and *disparage* them, or *denigrate* and *denounce* them, and others *inveigh*, *revile* and *fulminate* against them, *lambaste* them, *decry* and *deprecate* their work. They bring *slander* and *calumny* on them, with *slanderous*, *abusive*, *derogatory*, *scurrilous* remarks, *invective*, *aspersion* and *obloquy*, a *slur*, *affront*, *slight*, *indignity* and *ignominy*, an *ignominious* *opprobrium* and a *detraction* that no one deserves. A *meritorious*, *commendable* person should instead receive *kudos*, a *plaudit*, an *eulogy*, *homage* and *esteem*. Let us *exalt*, *extol*, *glorify* and *acclaim* them, with an *encomium*, a *panegyric*, and *eulogistic* and *plauditory* words, and never *tout* them falsely. It adds *cachet* to a name.
+B: কারো এমন দক্ষতা থাকলে যা তোমার নেই, তাকে প্রশংসাসূচক কথায় প্রশংসা করা উচিত, কারণ তারা শ্রদ্ধেয়। তবু আমরা প্রায়ই ঈর্ষায় তাদের অপমান করি ও মান কমাই। কেউ কেউ তাদের ছোট করে, তুচ্ছ ও নিন্দা করে, কেউ কালিমালিপ্ত করে প্রকাশ্যে নিন্দা করে, আর কেউ কড়া ভাষায় আক্রমণ করে, গালিগালাজ করে, বজ্রকণ্ঠে নিন্দা করে, ধোলাই দেয়, তাদের কাজের প্রকাশ্য নিন্দা ও তীব্র অসন্তোষ প্রকাশ করে। তারা তাদের ওপর মিথ্যা অভিযোগ ও অপবাদ চাপায়, মানহানিকর, গালিগালাজপূর্ণ, অবমাননাকর, অশ্লীল মন্তব্য, তীব্র গালাগালি, কুৎসা ও নিন্দা দিয়ে, অপমান, প্রকাশ্য আঘাত, অবজ্ঞা, অমর্যাদা ও কলঙ্ক দিয়ে, এক লজ্জাকর তিরস্কার আর গুণ ক্ষুণ্ণ করে যা কেউ প্রাপ্য নয়। একজন প্রশংসাযোগ্য, প্রশংসনীয় মানুষের বরং পাওয়া উচিত সুনাম, প্রশংসা, গুণকীর্তন, শ্রদ্ধা ও সম্মান। এসো তাদের মহিমান্বিত করি, উচ্ছ্বসিত প্রশংসা ও গৌরবান্বিত করি, উচ্ছ্বসিত স্তুতি, প্রশস্তি ও প্রশংসামূলক কথায়, আর কখনো মিথ্যা প্রচারে নয়। এতে নামের মর্যাদা বাড়ে।
+# Insult (verb)
+abase|v|lower in rank or dignity; humiliate|অপমান করা; নত করা|He refused to *abase* himself before the king.
+debase|v|reduce in quality or value|মান কমানো; অবনমিত করা|Cheap jokes *debase* the art of comedy.
+demean|v|lower in dignity|ছোট করা; মর্যাদা নষ্ট করা|I will not *demean* myself by arguing with him.
+denounce|v|publicly condemn|প্রকাশ্যে নিন্দা করা|The leaders *denounced* the attack.
+denigrate|v|criticise unfairly; blacken|কালিমালিপ্ত করা; হেয় করা|Do not *denigrate* the work of others.
+belittle|v|make someone seem unimportant|তুচ্ছ করা|Never *belittle* a child's effort.
+inveigh|v|speak or write angrily against|কড়া ভাষায় আক্রমণ করা|The editor *inveighed* against corruption.
+revile|v|criticise in an abusive way|গালিগালাজ করা|The crowd *reviled* the cheating player.
+slur|v|speak unclearly; insult|অপমান; অস্পষ্টভাবে বিড়বিড় করা|He *slurred* his words after the long night.
+fulminate|v|protest loudly and angrily|বজ্রকণ্ঠে নিন্দা করা|She *fulminated* against the new tax.
+lambaste|v|criticise harshly; also beat|কড়া ভাষায় বা শারীরিকভাবে ধোলাই দেওয়া|The coach *lambasted* his players after the loss.
+decry|v|publicly condemn|প্রকাশ্যে নিন্দা করা|Critics *decried* the film as shallow.
+deprecate|v|express strong disapproval of|তীব্র অসন্তোষ প্রকাশ করা|He *deprecated* the use of violence.
+disparage|v|speak negatively about|ছোট করে দেখা; নিন্দা করা|Don't *disparage* your rivals.
+# Praise (verb)
+laud|v|praise highly|প্রশংসা করা|The papers *lauded* her courage.
+exalt|v|praise highly; raise in rank|মহিমান্বিত করা; পদোন্নতি করা|The poem *exalts* the beauty of nature.
+extol|v|praise enthusiastically|উচ্ছ্বসিত প্রশংসা করা|He *extolled* the virtues of honesty.
+glorify|v|make something seem more admirable|গৌরবান্বিত করা|The film *glorifies* war.
+tout|v|praise excessively; promote loudly|অতিরিক্ত প্রশংসা করা; জোরে প্রচার করা|The company *touts* its new phone as the best ever.
+acclaim|v|praise publicly; applaud|প্রশংসা করা; হাততালি দেওয়া|Critics *acclaimed* the new novel.
+# Insult (noun)
+obloquy|n|strong public criticism; disgrace|নিন্দা; অপমান|He suffered *obloquy* after the scandal.
+invective|n|abusive language|তীব্র গালাগালি|He hurled *invective* at the referee.
+opprobrium|n|harsh criticism; public disgrace|কলঙ্ক; তীব্র ভর্ৎসনা|The decision drew *opprobrium* from all sides.
+aspersion|n|a damaging remark|কুৎসা; অপবাদ|Do not cast *aspersions* on her honesty.
+affront|n|an open insult|প্রকাশ্য অপমান|His remark was an *affront* to the teachers.
+slight|n|an insult by neglect|অবজ্ঞা; অপমান|She took the omission as a *slight*.
+ignominy|n|public shame|অপমান; কলঙ্ক|He left the court in *ignominy*.
+indignity|n|treatment that makes one feel ashamed|অমর্যাদা; অসম্মান|Prisoners suffered daily *indignities*.
+# Praise (noun)
+kudos|n|praise and honour|প্রশংসা; সুনাম|She earned *kudos* for her bravery.
+plaudit|n|an expression of praise|প্রশংসা; করতালি|The singer received *plaudits* from critics.
+eulogy|n|a speech or writing in praise of a person|প্রশস্তি; গুণকীর্তন|He delivered a moving *eulogy* at the funeral.
+homage|n|respect shown publicly|শ্রদ্ধা; সম্মান|They paid *homage* to the fallen soldiers.
+esteem|n|respect and admiration|শ্রদ্ধা; মর্যাদা|She is held in high *esteem* by her students.
+encomium|n|a speech of high praise|উচ্ছ্বসিত প্রশংসা|The professor wrote an *encomium* for his student.
+panegyric|n|a formal speech of praise|প্রশস্তি; স্তুতি|The minister gave a *panegyric* on the poet.
+cachet|n|prestige; superior status|মর্যাদা; উচ্চ সামাজিক অবস্থান|A foreign degree carries a certain *cachet*.
+# Words of blame and praise
+slanderous|adj|falsely damaging to a reputation|মানহানিকর|He filed a case over the *slanderous* article.
+abusive|adj|using insulting language|গালিগালাজপূর্ণ|The *abusive* caller was blocked.
+derogatory|adj|showing a lack of respect|অবমাননাকর; হেয়জ্ঞানমূলক|He made *derogatory* remarks about women.
+ignominious|adj|deserving or causing public shame|অপমানজনক; লজ্জাকর|The team suffered an *ignominious* defeat.
+scurrilous|adj|obscenely abusive; slanderous|অশ্লীল ও কুৎসাপূর্ণ|A *scurrilous* pamphlet attacked the mayor.
+encomiastic|adj|praising warmly|প্রশংসাসূচক|The review was *encomiastic* from start to end.
+eulogistic|adj|praising highly|প্রশংসাসূচক|He wrote a *eulogistic* tribute to his teacher.
+plauditory|adj|expressing praise|প্রশংসামূলক|The crowd gave a *plauditory* cheer.
+slander|n|a false spoken statement that damages a reputation|মিথ্যা অভিযোগ; কুৎসা|He sued his neighbour for *slander*.
+detraction|n|the act of reducing someone's reputation|নিন্দা; গুণ ক্ষুণ্ণ করা|She ignored every *detraction* and kept working.
+calumny|n|a false statement made to damage someone|মিথ্যা অপবাদ|The politician was a victim of *calumny*.
+estimable|adj|worthy of respect|শ্রদ্ধেয়; প্রশংসনীয়|She is an *estimable* scholar.
+commendable|adj|deserving praise|প্রশংসনীয়|His honesty is *commendable*.
+meritorious|adj|deserving reward or praise|প্রশংসাযোগ্য; গুণবান|The soldier received a medal for *meritorious* service.

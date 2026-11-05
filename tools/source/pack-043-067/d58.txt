@@ -1,0 +1,22 @@
+N: 58
+T: Life and Death
+S: News of the *demise* of the old poet shocked us, for he was not *defunct* in spirit. Did he *succumb* to illness? A cold, *inanimate* body lay in the hall, and the *autopsy*, or *necropsy*, was done. His *obituary* appeared next, an *obsequy* was held, and the *epitaph* was carved in stone. The mood was *funereal*, and a *posthumous* book was published. When the patient stopped breathing, doctors tried to *respire* him, to *resuscitate* and *revivify* him. Some call it *resurrection*, and a *renascent* hope rose in the family.
+B: বৃদ্ধ কবির মৃত্যুর খবর আমাদের হতবাক করল, কারণ তিনি আত্মায় মৃত ছিলেন না। তিনি কি অসুস্থতার কাছে হার মানলেন? হলঘরে এক ঠান্ডা, প্রাণহীন দেহ পড়ে ছিল, আর ময়নাতদন্ত করা হল। এরপর ছাপা হল শোক সংবাদ, অনুষ্ঠিত হল শোকসভা, আর সমাধি ফলক পাথরে খোদাই হল। পরিবেশ ছিল শোকপূর্ণ, আর মৃত্যু পরবর্তী একটি বই প্রকাশিত হল। রোগী যখন নিঃশ্বাস থামিয়ে দিল, ডাক্তাররা তাকে নিঃশ্বাস নেওয়াতে, পুনরুজ্জীবিত করতে ও নতুন প্রাণ দিতে চেষ্টা করলেন। কেউ একে বলে পুনরুত্থান, আর পরিবারে এক পুনর্জাগ্রত আশা জেগে উঠল।
+# Death
+demise|n|death|মৃত্যু|News of his *demise* spread quickly.
+defunct|adj|dead; no longer existing|মৃত|The *defunct* company left many debts.
+succumb|v|die; give in|মারা যাওয়া; হার মেনে নেওয়া|He *succumbed* to his injuries.
+inanimate|adj|not exhibiting life|প্রাণহীন|Stones are *inanimate* objects.
+obituary|n|a death notice|শোক সংবাদ|The paper printed an *obituary* of the famous singer.
+obsequy|n|a funeral ceremony|শোকসভা; অন্ত্যেষ্টিক্রিয়া|The *obsequies* were held on Friday.
+autopsy|n|examination of a dead body; postmortem|ময়নাতদন্ত|The *autopsy* showed the cause of death.
+necropsy|n|examination of a dead body|ময়নাতদন্ত|A *necropsy* was done on the animal.
+epitaph|n|an inscription in memory of a dead person|সমাধি ফলক|The *epitaph* read, "Gone but not forgotten".
+funereal|adj|suggestive of a grave or burial; sad; solemn|শোকপূর্ণ; বিষণ্ণ|The room had a *funereal* silence.
+posthumous|adj|occurring after death|মৃত্যু পরবর্তী|He won a *posthumous* award for bravery.
+# Life again
+respire|v|to breathe|নিঃশ্বাস নেওয়া|Fish *respire* through gills.
+resuscitate|v|revive; return to consciousness|পুনরুজ্জীবিত করা; জ্ঞান ফিরিয়ে আনা|The doctors *resuscitated* the drowning boy.
+revivify|v|give new life or energy|পুনর্জীবন দান করা|The rain *revivified* the dry fields.
+renascent|adj|rising again to new life and strength|পুনর্জাগ্রত|A *renascent* interest in art swept the town.
+resurrection|n|rising from the dead; revival from inactivity|পুনরুত্থান|The *resurrection* of the old shop surprised everyone.

@@ -1,0 +1,25 @@
+N: 66
+T: Loyalty and Cheating (continued)
+S: A *knave* came to me with *shoddy* and *bogus* proof for a business scheme, hoping to *mulct* me. It was *illusory*, and the *Machiavellian* men behind it were in *collusion*. Their *stratagem*, *wile*, *gambit*, *subterfuge* or *ploy* is easily caught, for the *waggish* gang cannot *temporize* or *rig* things for long. A *uxorious* husband or a *philanderer* may fall for such tricks, but *counterfeit* plans fail.
+B: একবার এক ঠগ আমার কাছে এল ব্যবসার প্রস্তাব নিয়ে, সঙ্গে ছিল নিম্নমানের ও ভুয়া প্রমাণ, আমাকে প্রতারণা করে ঠকানোর আশায়। এটা ছিল অলীক, আর এর পেছনের কূটরাজনীতিসম্পন্ন লোকেরা ছিল গোপন যোগসাজশে। তাদের ধোঁকাবাজিমূলক কৌশল, চাল, প্রথম চাল, ছলচাতুরি বা কৌশল সহজেই ধরা পড়ে, কারণ কৌতুকপূর্ণ দলটি বেশিদিন সময় পাওয়ার জন্য ছলচাতুরি বা জোচ্চুরি করে কাজ হাসিল করতে পারে না। একজন স্ত্রৈণ স্বামী বা অবিশ্বস্ত প্রেমিক এমন কৌশলে ভুলতে পারে, কিন্তু নকল পরিকল্পনা ব্যর্থ হয়।
+# Rogues
+knave|n|an untrustworthy person; a rogue|ঠগ; দুর্বৃত্ত|The *knave* stole the old man's purse.
+Machiavellian|adj|double-dealing; crafty|কূটরাজনীতিসম্পন্ন|He used *Machiavellian* tricks to win power.
+mulct|v|deprive a person by deceit|প্রবঞ্চনা করা; ধোঁকা দিয়ে হাতিয়ে নেওয়া|They *mulcted* the tourists of their money.
+waggish|adj|mischievous; humorous|অপকর্মী; কৌতুকপূর্ণ|A *waggish* boy hid the teacher's chalk.
+# Counterfeit
+counterfeit|adj|fake; not authentic|নকল|He was caught with *counterfeit* notes.
+shoddy|adj|counterfeit; poorly made|নকল; নিম্নমানের|The shop sold *shoddy* goods.
+bogus|adj|counterfeit; not authentic|ভুয়া; নকল|He showed a *bogus* certificate.
+illusory|adj|deceptive; not real|অলীক; কপট; মায়াময়|The profit was only *illusory*.
+collusion|n|a secret agreement for a fraudulent or illegal purpose|অবৈধ কাজের জন্য গোপন যোগসাজশ|The firms were in *collusion* to fix prices.
+# Deceptive schemes
+stratagem|n|a deceptive scheme; a clever trick|ধোঁকাবাজিমূলক কৌশল|The general used a clever *stratagem*.
+wile|n|a clever trick|ধোঁকাবাজিমূলক কৌশল; ছলনা|She won his heart with her *wiles*.
+gambit|n|a clever opening move|চাল; কৌশল|His offer was a *gambit* to win time.
+subterfuge|n|a deceitful way to achieve a goal|ছলচাতুরি|He got in by *subterfuge*.
+ploy|n|a clever trick to gain an advantage|কৌশল; চাল|The sale was just a *ploy* to attract customers.
+temporize|v|act misleadingly to gain time|নির্দিষ্টের চেয়ে অতিরিক্ত সময় পাওয়ার জন্য ছলচাতুরি অবলম্বন করা|The minister *temporized* to avoid answering.
+rig|v|fix or manipulate|জোচ্চুরি করে কাজ হাসিল করা|They *rigged* the election.
+uxorious|adj|excessively devoted to one's wife|স্ত্রৈণ|The *uxorious* husband obeyed his wife.
+philanderer|n|a faithless lover|অবিশ্বস্ত প্রেমিক|The *philanderer* broke many hearts.

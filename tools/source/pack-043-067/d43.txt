@@ -1,0 +1,67 @@
+N: 43
+T: Happy and Gloomy
+S: Forget your *pessimism*, boy. Why stay *despondent* when you can enjoy *felicity* and *elation*? The *jubilation* of the crowd and the *effervescence* of the fair filled the town with *vim*, *verve* and *exuberance*. A *jocund*, *jovial* man in a *jaunty* hat, full of *sanguine* hopes, told a joke that earned a *guffaw*, and the *convivial* guests joined the *revelry* with *gusto*. A *sprightly*, *vivacious*, *vibrant* girl danced with *zeal* and *alacrity*, and the *hilarity* was pure *euphoria*. By contrast, the *dingy*, *drab* house at the end of the road looked *bleak* and *desolate*. Its *morose*, *saturnine* owner, *downcast* and *dejected*, lived in *melancholy*, *forlorn* and *wistful*, with *woe* and *anguish* from every *tribulation*, until a *roseate* morning brought back his *joie de vivre*.
+B: তোমার হতাশাবাদ ভুলে যাও, বন্ধু। যখন তুমি পরম সুখ ও উল্লাস উপভোগ করতে পারো, তখন মনমরা থাকবে কেন? জনতার আনন্দোৎসব আর মেলার প্রাণোচ্ছলতা শহরকে ভরিয়ে দিল তেজ, উদ্দীপনা ও উচ্ছ্বাসে। ঝলমলে টুপি পরা এক হাসিখুশি, আমুদে মানুষ, আশাবাদী মন নিয়ে, এমন এক রসিকতা করলেন যাতে উঠল অট্টহাসি, আর ভোজনপ্রিয় অতিথিরা প্রবল উৎসাহে উদ্দাম আনন্দে যোগ দিল। এক চটপটে, প্রাণবন্ত, উজ্জ্বল মেয়ে নাচল প্রবল আগ্রহ ও সানন্দ তৎপরতায়, আর সেই প্রচণ্ড মজা ছিল নির্ভেজাল আনন্দ-চঞ্চলতা। এর বিপরীতে রাস্তার শেষ মাথার ময়লা, নীরস বাড়িটা ছিল নিরানন্দ ও নির্জন। তার বিমর্ষ, গম্ভীর মালিক, মন খারাপ ও মনমরা, বিষণ্ণতায় দিন কাটাত, একাকী ও আকুল, প্রতিটি দুর্ভোগ থেকে পাওয়া শোক ও মর্মবেদনা নিয়ে, যতক্ষণ না এক আশাবাদী সকাল তাকে ফিরিয়ে দিল বেঁচে থাকার আনন্দ।
+# Happiness
+felicity|n|great happiness; bliss|পরম সুখ; আনন্দ|Their *felicity* showed in every smile at the wedding.
+gusto|n|hearty enjoyment; enthusiasm|প্রবল উৎসাহ; তৃপ্তি|He sang with *gusto* and no shame.
+elation|n|great joy and pride|উল্লাস; উৎফুল্লতা|The team felt *elation* after the last-minute goal.
+jubilation|n|great joy and celebration|উল্লাস; আনন্দোৎসব|There was *jubilation* in the streets when the war ended.
+verve|n|energy and enthusiasm in style|প্রাণচাঞ্চল্য; উদ্দীপনা|She played the violin with great *verve*.
+jollity|n|cheerful fun|আমোদ; ফূর্তি|The *jollity* of the party lasted until midnight.
+ecstasy|n|overwhelming happiness|পরমানন্দ; আনন্দের চরম অবস্থা|The children screamed in *ecstasy* at the sight of the sea.
+# Gloominess
+pessimism|n|the habit of expecting the worst|নৈরাশ্যবাদ; হতাশাবাদ|His *pessimism* made every plan sound hopeless.
+woe|n|deep, inconsolable grief|গভীর শোক; দুর্দশা|The widow's *woe* moved the whole village.
+anguish|n|acute pain or extreme suffering|তীব্র যন্ত্রণা; মর্মবেদনা|She cried out in *anguish* at the news.
+tribulation|n|great distress or suffering|দুর্ভোগ; কষ্ট|The refugees endured years of *tribulation*.
+weltschmerz|n|sadness at thinking about the evils of the world|জগতের দুঃখ ভেবে বিষণ্নতা|A deep *weltschmerz* hung over the young poet.
+inanition|n|exhaustion; emptiness|মানসিক অবসাদ; শূন্যতাবোধ|After months of grief he sank into *inanition*.
+# Liveliness
+effervescence|n|bubbling liveliness; enthusiasm|প্রাণোচ্ছলতা; ফেনিল উচ্ছ্বাস|Her *effervescence* lifted everyone's mood.
+exuberance|n|joyful energy; also overabundance|উচ্ছ্বাস; প্রাচুর্য|The puppy greeted us with wild *exuberance*.
+furor|n|great excitement or public anger|প্রবল উত্তেজনা|The decision caused a *furor* in parliament.
+vim|n|energy and enthusiasm|তেজ; প্রাণশক্তি|At ninety, he still worked with *vim*.
+zeal|n|eager enthusiasm|প্রবল আগ্রহ; উদ্যম|The volunteers worked with great *zeal*.
+alacrity|n|cheerful promptness; eagerness|সানন্দ তৎপরতা|She accepted the invitation with *alacrity*.
+# Happy
+elated|adj|extremely happy and proud|আনন্দে উৎফুল্ল|He was *elated* when he saw his result.
+jocund|adj|cheerful; merry|প্রফুল্ল; হাসিখুশি|The *jocund* old man greeted every child.
+jovial|adj|cheerful and friendly|হাসিখুশি; আমুদে|Our *jovial* host kept refilling our plates.
+skittish|adj|playful and frisky; easily frightened|চঞ্চল; সহজে ভয় পায় এমন|The *skittish* colt shied at every shadow.
+sportive|adj|playful; fond of fun|ক্রীড়াপ্রিয়; কৌতুকপ্রিয়|The *sportive* dolphins leaped around the boat.
+sanguine|adj|cheerful and hopeful|আশাবাদী; প্রফুল্ল|She remained *sanguine* about the exam.
+frolicsome|adj|playful and merry|ফুর্তিবাজ; খেলোয়াড়সুলভ|The *frolicsome* lambs raced across the field.
+jaunty|adj|cheerful, lively and confident|ঝলমলে ও চটপটে; সপ্রতিভ|He walked with a *jaunty* step.
+convivial|adj|friendly, lively and fond of company|ভোজনপ্রিয় ও আমুদে; মিশুক|It was a warm, *convivial* evening with old friends.
+# Gloomy
+despondent|adj|in low spirits; hopeless|হতাশ; মনমরা|He grew *despondent* after losing his job.
+desolate|adj|empty and lonely; deeply sad|নির্জন; হতাশাগ্রস্ত|The *desolate* village had been empty for years.
+distraught|adj|very upset and anxious|উদ্ভ্রান্ত; দুশ্চিন্তায় পাগলপারা|The *distraught* mother searched everywhere for her child.
+disconsolate|adj|so unhappy that nothing can comfort|সান্ত্বনার অযোগ্য দুঃখী|The *disconsolate* fans left the stadium in silence.
+drab|adj|dull and colourless|নীরস; বিবর্ণ|The office was painted in *drab* grey.
+downcast|adj|sad and depressed|মন খারাপ; অবনত|She looked *downcast* after the meeting.
+dejected|adj|sad and discouraged|মনমরা; বিষণ্ণ|The *dejected* team trudged off the field.
+dingy|adj|dark, dirty and shabby|ময়লা ও অন্ধকার; মলিন|They rented a *dingy* room above a shop.
+bleak|adj|cold and cheerless; without hope|বিষণ্ণ; আশাহীন; নিরানন্দ|The future looked *bleak* for the farmers.
+melancholy|adj|sad in a thoughtful, quiet way|বিষণ্ণ; মনমরা|A *melancholy* tune drifted from the window.
+morose|adj|sullen and gloomy|বিমর্ষ; খিটখিটে|He sat *morose* in the corner and refused to speak.
+somber|adj|dark and serious; gloomy|গম্ভীর ও বিষণ্ণ|The mourners wore *somber* clothes.
+stygian|adj|very dark and gloomy, like hell|ঘন অন্ধকারাচ্ছন্ন; নারকীয়|We groped through the *stygian* cave.
+saturnine|adj|gloomy by temperament|গম্ভীর ও বিষণ্ণ স্বভাবের|The *saturnine* professor rarely smiled.
+funereal|adj|gloomy, like a funeral|শোকাবহ; অন্ত্যেষ্টিক্রিয়ার মতো বিষণ্ণ|The room had a *funereal* silence.
+forlorn|adj|sad and lonely; abandoned|নিঃসঙ্গ ও পরিত্যক্ত; বিষণ্ণ|A *forlorn* dog waited at the empty station.
+wistful|adj|sadly longing or pensive|আকুল; বিষণ্ণ আকাঙ্ক্ষাময়|She gave a *wistful* smile at the old photo.
+# Lively
+sprightly|adj|lively and full of energy|চটপটে; প্রাণবন্ত|A *sprightly* grandfather climbed the steps two at a time.
+vivacious|adj|lively and attractive in manner|প্রাণবন্ত; চঞ্চল|The *vivacious* hostess made everyone laugh.
+vital|adj|full of life; absolutely necessary|প্রাণশক্তিসম্পন্ন; অত্যাবশ্যক|Her *vital* energy impressed the whole team.
+vibrant|adj|full of life and bright|প্রাণবন্ত; উজ্জ্বল|The market was a *vibrant* mix of colours and sounds.
+# Laughter and joy
+hilarity|n|loud, boisterous laughter|অট্টহাসি; প্রচণ্ড মজা|The clown's tricks caused great *hilarity*.
+guffaw|n|a loud, coarse laugh|অট্টহাসি|He let out a loud *guffaw* at the joke.
+revelry|n|noisy, lively festivity|উদ্দাম আনন্দ-উৎসব|The *revelry* in the streets went on all night.
+euphoria|n|a feeling of exaggerated well-being|কুশল ও আনন্দ-চঞ্চল অবস্থা; অতি উচ্ছ্বাস|The whole city was in a state of *euphoria* after the victory.
+exhilarating|adj|invigorating and refreshing; cheering|উল্লাসজনক; উদ্দীপক|The ride down the hill was *exhilarating*.
+roseate|adj|optimistic; rosy|আশাবাদী; গোলাপি|He painted a *roseate* picture of the future.
+joie de vivre|n|enjoyment of life|বেঁচে থাকার আনন্দ|Her *joie de vivre* was contagious.

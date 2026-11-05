@@ -1,0 +1,38 @@
+N: 53
+T: Introduction
+S: We were not there to see the *prelude* of the universe, but we have a clear idea of its *genesis*, *inception* and *conception*. Its *provenance* and the *rudimentary*, *primordial*, *embryonic* stage of the *elementary*, *incipient*, *nascent* and *inchoate* atmosphere can be traced. A *precursor* and a *harbinger* from the *vanguard* of science began to *initiate* the idea and *broach* the question, and a bold voice might *instigate* a debate. A *neophyte* student, a *novice* or *tyro*, in his *novitiate*, should read a *prefatory* *preamble* and *prologue*, then *inaugurate* his studies using the *matrix* of an *aboriginal* idea.
+B: মহাবিশ্বের সূচনা আমরা নিজেরা দেখিনি, কিন্তু তার উৎপত্তি, শুরু ও ধারণা সম্পর্কে আমাদের পরিষ্কার ধারণা আছে। তার উৎস এবং প্রাথমিক, আদিম, ভ্রূণাবস্থার সেই মৌলিক, সদ্য শুরু হওয়া, উদীয়মান ও অসম্পূর্ণ বায়ুমণ্ডলের পর্যায় খুঁজে পাওয়া সম্ভব। বিজ্ঞানের অগ্রভাগের এক অগ্রদূত ও পূর্বাভাস দানকারী ধারণাটির সূচনা করতে ও প্রশ্ন তুলতে শুরু করল, আর এক সাহসী কণ্ঠ বিতর্ক উসকে দিতে পারে। এক নবদীক্ষিত শিক্ষার্থী, নবিশ বা শিক্ষানবীশ, তার প্রারম্ভিক অবস্থায়, একটি সূচনামূলক মুখবন্ধ ও প্রস্তাবনা পড়বে, তারপর আদিম এক ভাবনার মূলবিন্দু ধরে তার অধ্যয়নের উদ্বোধন করবে।
+# Beginnings
+prelude|n|an introduction to something more important|প্রস্তাবনা; সূচনা|The first match was a *prelude* to the final.
+genesis|n|the origin or beginning|উৎপত্তি; সূচনা|The *genesis* of the idea was a simple chat.
+provenance|n|the place of origin|উৎস; মূল|The painting has a clear *provenance*.
+inception|n|the start of something|সূচনা; শুরু|Since its *inception*, the school has grown fast.
+conception|n|the forming of an idea; the start of pregnancy|ধারণা; গর্ভধারণ; সূচনা|The *conception* of the plan took only a week.
+# Forerunners
+precursor|n|something that comes before|অগ্রদূত; পূর্বসূরি|The telegraph was a *precursor* of the telephone.
+harbinger|n|a sign of what is to come|অগ্রদূত; পূর্বাভাস|Robins are a *harbinger* of spring.
+vanguard|n|the leading position or group|অগ্রভাগ; অগ্রগামী দল|The students were in the *vanguard* of the movement.
+# Beginners
+neophyte|n|a beginner or new convert|নবদীক্ষিত; শিক্ষানবীশ|The *neophyte* nervously joined the club.
+novice|n|a beginner|নবিশ; আনাড়ি|A *novice* made the mistake of trusting the map.
+tyro|n|a beginner at something|শিক্ষানবীশ; নতুন শিক্ষার্থী|The *tyro* chef burned the rice.
+novitiate|n|the state of being a beginner|প্রারম্ভিক অবস্থা; শিক্ষানবিশি কাল|He spent his *novitiate* learning the basics.
+# To begin
+initiate|v|begin; admit a person into a group|সূচনা করা; দীক্ষা দেওয়া|The government will *initiate* a new scheme.
+broach|v|raise a subject for discussion|আলোচনা শুরু করা; প্রসঙ্গ তোলা|She *broached* the matter of pay.
+instigate|v|provoke; urge on|উসকে দেওয়া|He *instigated* a fight in the hall.
+prefatory|adj|serving as an introduction|সূচনামূলক|He wrote a short *prefatory* note.
+# Newly begun
+incipient|adj|beginning to develop|সদ্য শুরু হওয়া; প্রারম্ভিক|He noticed an *incipient* cold.
+nascent|adj|just coming into being|সদ্যজাত; উদীয়মান|The *nascent* industry needed support.
+rudimentary|adj|basic; undeveloped|প্রাথমিক; আদিম|They had only *rudimentary* tools.
+elementary|adj|basic; simple|মৌলিক; প্রাথমিক|He has an *elementary* knowledge of French.
+primordial|adj|existing at or from the beginning|আদিম; আদি|The *primordial* forest was untouched.
+inchoate|adj|just begun and not fully formed|অসম্পূর্ণ; সদ্য শুরু|His ideas were still *inchoate*.
+embryonic|adj|at an early stage of development|ভ্রূণাবস্থার; সূচনা পর্যায়ের|The plan is still at an *embryonic* stage.
+# Starting words
+preamble|n|an introductory statement|মুখবন্ধ; প্রস্তাবনা|The *preamble* of the constitution states its aims.
+prologue|n|an introduction to a play or poem|মুখবন্ধ; বইয়ের প্রারম্ভিক আলোচনা|The *prologue* sets the scene of the play.
+inaugurate|v|begin formally; install in office|আনুষ্ঠানিকভাবে শুরু করা; উদ্বোধন করা|The president will *inaugurate* the new bridge.
+matrix|n|a point of origin; a mould or array of numbers|মূলবিন্দু; ছাঁচ; ম্যাট্রিক্স|Society is the *matrix* of culture.
+aboriginal|adj|being the first of its kind in a region; native|আদিম; আদিবাসী|The *aboriginal* people lived there for ages.

@@ -1,0 +1,23 @@
+N: 52
+T: Insult and Praise (continued)
+S: The *titan* of the stage gave a speech from the *dais*, and the crowd gave him an *ovation*. Some showed *idolatry*, others offered *obeisance* and a *paean*. The town came to *fete* him for the *sublime* work that raised his *stature*. But a *censorious* neighbour tried to *traduce* him with a *libel*, using *pejorative* words. The *hecklers* shouted *catcalls* from behind the *rostrum*, and the great man, who took no *umbrage*, only smiled.
+B: মঞ্চের এক মহারথী মঞ্চ থেকে বক্তৃতা দিলেন, আর জনতা তাঁকে দিল স্বতঃস্ফূর্ত করতালি। কেউ দেখাল অন্ধ ভক্তি, কেউ মাথা নত করে সম্মান জানাল আর গাইল জয়-বন্দনা। শহর তাঁকে উৎসবে সম্মান জানাল তাঁর মহিমান্বিত কাজের জন্য, যা তাঁর মর্যাদা বাড়িয়েছিল। কিন্তু এক ছিদ্রান্বেষী প্রতিবেশী অপমানসূচক শব্দ ব্যবহার করে মানহানিকর লেখা দিয়ে তাঁর নিন্দা করার চেষ্টা করল। বক্তৃতার মঞ্চের পেছন থেকে কটূভাষী লোকেরা টিটকারি দিল, আর সেই মহান মানুষ কোনো ক্রোধ না দেখিয়ে শুধু হাসলেন।
+# Honour
+titan|n|a person of exceptional importance and reputation|অতি গুরুত্বপূর্ণ ব্যক্তি; ভিআইপি|He is a *titan* of the film industry.
+idolatry|n|excessive admiration; worship of idols|অন্ধ ভক্তি; মূর্তিপূজা|Their *idolatry* of the actor was obvious.
+paean|n|a song of praise or joy|বিজয়গাথা; জয়-বন্দনা|The crowd sang a *paean* to the victors.
+obeisance|n|a bow or gesture of respect|মাথা নত করে সম্মান প্রদর্শন|They made *obeisance* before the king.
+fete|v|honour someone at a festival|উৎসবে সম্মাননা দেওয়া|The city *feted* the returning champions.
+sublime|adj|exalted; noble and uplifting|মহিমান্বিত|The view from the peak was *sublime*.
+ovation|n|enthusiastic applause|স্বতঃস্ফূর্ত করতালি|The cast received a standing *ovation*.
+dais|n|a raised platform for a guest of honour|বক্তৃতার মঞ্চ|The chief guest sat on the *dais*.
+rostrum|n|a raised platform for a speaker|বক্তৃতার মঞ্চ|The speaker walked up to the *rostrum*.
+stature|n|high standing gained by achievement|মর্যাদা; উচ্চতা|His *stature* as a scientist grew every year.
+# Blame
+censorious|adj|critical; fault-finding|ছিদ্রান্বেষী|*Censorious* people delight in casting blame.
+traduce|v|expose to slander; speak badly of|নিন্দা করা; কুৎসা রটানো|He tried to *traduce* my reputation.
+heckler|n|someone who harasses speakers with shouts|কটুভাষী; যে কথা দিয়ে অপমান করে|A *heckler* interrupted the minister's speech.
+catcall|n|a shout of disapproval; a boo|অবজ্ঞাসূচক ধ্বনি; টিটকারি|The referee faced *catcalls* from the stands.
+libel|n|a false written statement that harms a reputation|বিদ্বেষপূর্ণ কুৎসা প্রচার; মানহানিকর লেখা|The magazine was sued for *libel*.
+pejorative|adj|belittling; negative in meaning|অপমানসূচক|He used a *pejorative* term for the workers.
+umbrage|n|anger caused by being insulted|অপমানজনিত ক্রোধ|She took *umbrage* at the remark.

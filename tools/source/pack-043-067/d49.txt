@@ -1,0 +1,42 @@
+N: 49
+T: Hesitation and Frustration
+S: Don't keep any *vacillation* in your mind. If you *demur* or *falter*, you will *flounder*. A man who tends to *oscillate* and *vacillate* will *flinch* at the first test and *wince* at every *scruple*. A *halting*, *ambivalent*, *tentative* answer and a *provisional*, *indeterminate* plan can leave an audience *discombobulated* and *nonplussed*. Don't let facts *addle*, *muddle* or *befuddle* you, or *conflate* two ideas, or let others *obfuscate* them to *disconcert*, *discomfit*, *faze* and *fluster* you. A sudden *dismay* will *nonplus* anyone. Put your *misgivings* and *qualms* aside, and face the *dilemma*, the *predicament*, the *quandary* and even a legal *imbroglio*.
+B: মনে কোনো দোদুল্যমানতা রেখো না। যদি তুমি আপত্তি জানাও বা টলমল করো, তাহলে হাতড়ে বেড়াবে। যে মানুষ দুলতে থাকে আর সিদ্ধান্তহীনতায় দোল খায়, সে প্রথম পরীক্ষাতেই কুঁকড়ে সরে যাবে আর প্রতিটি বিবেকের দ্বিধায় মুখ বিকৃত করবে। থেমে থেমে বলা, দ্বিধাগ্রস্ত, সাময়িক উত্তর এবং অস্থায়ী, অনির্ণীত পরিকল্পনা শ্রোতাদের বিভ্রান্ত ও হতভম্ব করে দিতে পারে। তথ্যকে তোমাকে গুলিয়ে, এলোমেলো বা হতবুদ্ধি করতে দিয়ো না, দুটি ভাবনাকে এক করে ফেলো না, বা অন্যদের তা ঘোলাটে করে তোমাকে বিচলিত, পরাস্ত, ভড়কে দিতে ও উত্তেজিত করতে দিয়ো না। হঠাৎ আতঙ্ক যে কাউকে হতভম্ব করে দেয়। সন্দেহ ও খুঁতখুঁতে ভাব সরিয়ে রাখো, আর মুখোমুখি হও উভয় সংকট, বিপজ্জনক অবস্থা, দ্বিধাদ্বন্দ্ব এমনকি জটিল আইনি বিব্রতকর পরিস্থিতির।
+# Hesitation
+vacillation|n|indecision; swinging between choices|দোদুল্যমানতা; দ্বিধা|His *vacillation* cost the team the match.
+ambivalence|n|mixed or contradictory feelings|দ্বিমুখী অনুভূতি|She felt *ambivalence* about moving abroad.
+oscillate|v|swing back and forth|দুলতে থাকা; দোদুল্যমান হওয়া|His mood *oscillates* between joy and anger.
+vacillate|v|keep changing one's mind|সিদ্ধান্তহীনতায় দোল খাওয়া|Don't *vacillate*; just decide.
+demur|v|raise objections; hesitate|আপত্তি জানানো; দ্বিধা করা|She *demurred* when asked to sign.
+falter|v|lose strength or momentum; hesitate|টলমল করা; থমকে যাওয়া|His voice *faltered* as he spoke of his father.
+flinch|v|shrink back in fear or pain|ভয়ে কুঁকড়ে সরে যাওয়া|He did not *flinch* when the doctor gave the shot.
+scruple|n|a feeling of doubt about right and wrong|বিবেকের দ্বিধা; দ্বিধা করা|He had no *scruple* about lying.
+wince|v|make a face in pain or embarrassment|ব্যথায় বা অস্বস্তিতে মুখ বিকৃত করা|She *winced* at the sour taste.
+flounder|v|struggle clumsily; make clumsy steps|হাতড়ে বেড়ানো; আনাড়ির মতো চলা|The speaker *floundered* without his notes.
+# Hesitant
+halting|adj|slow and uncertain|থেমে থেমে; দ্বিধাগ্রস্ত|He spoke in *halting* English.
+ambivalent|adj|having mixed feelings|দ্বিধাগ্রস্ত; উভয় মনের|She is *ambivalent* about marriage.
+provisional|adj|arranged for now, likely to change|অস্থায়ী; সাময়িক|The *provisional* date may change.
+tentative|adj|not certain or fixed; hesitant|সাময়িক; দ্বিধাগ্রস্ত|They reached a *tentative* agreement.
+discombobulated|adj|confused; disconcerted|বিভ্রান্ত; হতভম্ব|The loud noise left him *discombobulated*.
+nonplussed|adj|so surprised that one does not know what to do|হতভম্ব; কিংকর্তব্যবিমূঢ়|She was *nonplussed* by his rude reply.
+indeterminate|adj|not exactly known or fixed|অনির্ণীত; অস্পষ্ট|The meeting will run for an *indeterminate* time.
+# Confuse
+addle|v|confuse; also become rotten|গুলিয়ে দেওয়া; পচে যাওয়া|Too much noise *addles* my brain.
+muddle|v|mix up; confuse|এলোমেলো করা; গুলিয়ে ফেলা|Don't *muddle* the two dates.
+befuddle|v|confuse, as if with drink|হতবুদ্ধি করা|The complex rules *befuddled* him.
+conflate|v|combine two things into one|গুলিয়ে এক করে ফেলা|Do not *conflate* fame with talent.
+obfuscate|v|make unclear on purpose|ঘোলাটে করা; অস্পষ্ট করা|The lawyer tried to *obfuscate* the facts.
+disconcert|v|disturb; make uneasy|বিচলিত করা|His stare *disconcerted* her.
+discomfit|v|make uneasy; also defeat|হতবুদ্ধি করা; পরাস্ত করা|The tough question *discomfited* the speaker.
+dismay|v|cause worry or alarm|আতঙ্কিত করা; ভগ্নোৎসাহ|The bad news *dismayed* the parents.
+faze|v|disturb or disconcert|বিচলিত করা|Nothing seems to *faze* her.
+fluster|v|make nervous and confused|উত্তেজিত ও বিভ্রান্ত করা|The sudden question *flustered* him.
+nonplus|v|surprise so much that one cannot react|হতভম্ব করে দেওয়া|Her calm reply *nonplussed* the critics.
+# Doubt and dilemma
+misgivings|n|feelings of doubt or worry|সন্দেহ; আশঙ্কা|She had *misgivings* about the plan.
+qualms|n|uneasy doubts about right or wrong|খুঁতখুঁতে ভাব; সংকোচ|He had no *qualms* about leaving.
+dilemma|n|a choice between two bad options|উভয় সংকট|She faced a *dilemma*: stay or leave.
+predicament|n|a difficult or dangerous situation|বিপজ্জনক অবস্থা|He was in a real *predicament* without money.
+quandary|n|a state of doubt about what to do|দ্বিধাদ্বন্দ্ব; উভয় সংকট|I am in a *quandary* over which job to take.
+imbroglio|n|a confusing and embarrassing situation|জটিল ও বিব্রতকর পরিস্থিতি|The scandal grew into a political *imbroglio*.

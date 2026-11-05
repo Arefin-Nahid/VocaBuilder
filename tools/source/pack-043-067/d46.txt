@@ -1,0 +1,13 @@
+N: 46
+T: Happy and Gloomy (continued)
+S: The prisoner would *writhe* in pain, and the *welt* from the whip burned on his back. Being put in the *pillory* was a cruel public shame. The judge was a *mawkish* man, and no show could *gratify* him. A *rapt* crowd watched in silence, and a beautiful song could *enrapture* even the guards.
+B: বন্দি যন্ত্রণায় মোচড়াত, আর চাবুকের দাগ তার পিঠে জ্বলত। কাঠের কাঠামোতে বেঁধে রাখা ছিল নির্মম প্রকাশ্য অপমান। বিচারক ছিলেন অতিরিক্ত ভাবপ্রবণ মানুষ, আর কোনো প্রদর্শনীই তাঁকে সন্তুষ্ট করতে পারত না। আবিষ্ট জনতা নীরবে দেখত, আর একটি সুন্দর গান এমনকি প্রহরীদেরও মুগ্ধ করতে পারত।
+# Pain and punishment
+writhe|v|twist the body in pain|যন্ত্রণায় মোচড়ানো|He *writhed* in agony on the floor.
+welt|n|a raised mark left by a blow or whip|চাবুকের আঘাতের দাগ|The belt left a red *welt* on his arm.
+pillory|v|punish by a wooden frame; ridicule publicly|কাঠের কাঠামোতে বেঁধে শাস্তি দেওয়া; প্রকাশ্যে লাঞ্ছিত করা|The press *pilloried* the minister for his lies.
+# Pleasure and sentiment
+gratify|v|please or satisfy|সন্তুষ্ট করা; পরিতৃপ্ত করা|It *gratified* him to see his students succeed.
+rapt|adj|completely absorbed and delighted|সম্পূর্ণ আবিষ্ট; আনন্দে আত্মহারা|The children listened with *rapt* attention.
+enrapture|v|please intensely; hold spellbound|আহ্লাদিত করা; মুগ্ধ করা|The singer's voice *enraptured* the audience.
+mawkish|adj|sentimental in a weak or sickly way|অতিরিক্ত ভাবপ্রবণ|The film was too *mawkish* for my taste.

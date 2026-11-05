@@ -1,0 +1,30 @@
+N: 50
+T: Hesitation and Frustration (continued)
+S: No matter how many times you *stymie* me, you can't *subjugate* me. I will not let you *balk* me or *foil* me, and I will not *founder* and reach an *impasse*. Your plans only *hinder*, *thwart* and *frustrate*; you could *scotch* a plan or *stultify* it, but I will *circumvent* you, *preempt* your move and *vanquish* the *impediment* that tries to *impede* me. If the offer is a *Hobson's choice*, I will not *scuffle* over it. I do not have a *defeatist* attitude, and a sudden *stupor* will not *embroil* me, nor *baffle* me with a *peremptory* order. I will walk away with *unfaltering* steps.
+B: যতবারই তুমি আমাকে বাধা দাও, আমাকে বশ করতে পারবে না। আমি তোমাকে আমাকে পিছু হটাতে বা ব্যর্থ করতে দেব না, আর আমি ডুবেও যাব না, কানা গলিতেও পৌঁছাব না। তোমার পরিকল্পনা শুধু বাধা দেয়, ব্যর্থ করে ও হতাশ করে; তুমি কোনো পরিকল্পনা নস্যাৎ বা অকেজো করে দিতে পারো, কিন্তু আমি তোমাকে এড়িয়ে যাব, আগেভাগে তোমার চাল প্রতিহত করব এবং আমাকে যে প্রতিবন্ধকতা বাধা দিতে চায় তাকে পরাজিত করব। যদি প্রস্তাবটা হয় একমাত্র বিকল্প, তাহলে আমি তা নিয়ে মারামারি করব না। আমার পরাজয়ের মনোভাব নেই, আর হঠাৎ অসাড়তা আমাকে জট পাকাতে পারবে না, কোনো মানতেই-হবে-এমন আদেশেও আমাকে ধাঁধায় ফেলতে পারবে না। আমি দ্বিধাহীন পায়ে হেঁটে চলে যাব।
+# Frustrate
+frustrate|v|prevent from succeeding; upset|ব্যর্থ করা; ভেস্তে দেওয়া|Constant delays *frustrated* the engineers.
+balk|v|refuse to go on; hesitate; thwart|পিছিয়ে যাওয়া; বাধা দেওয়া|The horse *balked* at the fence.
+foil|v|prevent from succeeding|ব্যর্থ করে দেওয়া|Police *foiled* the robbery.
+hinder|v|make progress difficult|বাধা দেওয়া|Heavy rain *hindered* the rescue.
+scotch|v|put an end to; stamp out|নস্যাৎ করা; দমন করা|The minister *scotched* the rumour.
+stultify|v|make useless; also make look foolish|অকেজো করে দেওয়া; হাস্যকর করা|Strict rules can *stultify* creativity.
+thwart|v|stop someone from achieving a goal|ব্যর্থ করা; বাধা দেওয়া|A broken bridge *thwarted* their escape.
+vanquish|v|defeat completely|সম্পূর্ণ পরাজিত করা|The army *vanquished* the invaders.
+baffle|v|confuse completely|হতবুদ্ধি করা; ধাঁধায় ফেলা|The puzzle *baffled* even the experts.
+circumvent|v|find a way around|এড়িয়ে যাওয়া; ফাঁকি দেওয়া|They found a way to *circumvent* the rules.
+preempt|v|act first to prevent something|আগেভাগে প্রতিহত করা|The company cut prices to *preempt* its rival.
+impede|v|obstruct; slow down|বাধা দেওয়া|Fallen trees *impeded* traffic.
+# Confusion and obstacles
+stupor|n|a dazed state; also apathy|অসাড়তা; পরম বিস্ময়|He sat in a *stupor* after the accident.
+embroil|v|draw into a conflict; throw into confusion|জট পাকিয়ে ফেলা|He was *embroiled* in a legal dispute.
+peremptory|adj|insisting on immediate obedience|মানতেই হবে এমন; নিরুপায়|The captain gave a *peremptory* order.
+impediment|n|a barrier or obstacle|প্রতিবন্ধকতা; ব্যাঘাত|Poverty is a big *impediment* to education.
+unfaltering|adj|steady; without hesitation|দ্বিধাহীন|She walked on with *unfaltering* courage.
+defeatist|adj|expecting or accepting defeat|পরাজয়ের মনোভাবসম্পন্ন|Stop being so *defeatist* and try again.
+impasse|n|a situation with no way forward|কানা গলি; কোণঠাসা অবস্থা|Talks reached an *impasse*.
+stymie|v|prevent or hinder progress|বাধা দেওয়া; কোণঠাসা করা|Lack of funds *stymied* the project.
+founder|v|fail completely; sink|ধসে পড়া; ডুবে যাওয়া|The business *foundered* after a year.
+subjugate|v|conquer and bring under control|আয়ত্তে আনা; বশ করা|The empire *subjugated* its neighbours.
+scuffle|v|struggle confusedly; fight roughly|হতভম্বের মতো সংগ্রাম বা মারামারি করা|Two boys *scuffled* in the playground.
+hobson's choice|n|the choice of taking what is offered or nothing|যা দেওয়া হচ্ছে তা নিন বা কিছুই নয়; একমাত্র বিকল্প|It was a *Hobson's choice*: accept the job or starve.

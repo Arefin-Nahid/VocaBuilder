@@ -1,0 +1,30 @@
+N: 48
+T: Hate and Inclination (continued)
+S: A man's *disposition* and his *predilection* often point to his *predisposition*. I have a *penchant* for details, a *proclivity* and *propensity* that I call my *fancy*, and a certain *partiality* for old books. A strong *inclination* makes work easy, while *disinclination* and *aversion* make it hard. A student who is *disinclined*, *averse* or *loath* to study, or who gives only *grudging* effort, feels *antipathy* for maths. Two lovers set a *tryst* at a quiet *rendezvous*. An *enamored* old man will *dote* on a girl he is *infatuated* with. A *numismatist* collects coins and a *philatelist* collects stamps.
+B: একজন মানুষের মেজাজ-প্রবণতা আর তার বিশেষ পছন্দ প্রায়ই তার আগাম ঝোঁকের দিকে ইঙ্গিত করে। খুঁটিনাটির প্রতি আমার আছে এক প্রবল ঝোঁক, এক প্রবণতা, যাকে আমি আমার শখ বলি, আর পুরনো বইয়ের প্রতি এক ধরনের বিশেষ অনুরাগ। জোরালো ঝোঁক কাজকে সহজ করে, আর অনীহা ও বিতৃষ্ণা তাকে কঠিন করে তোলে। যে ছাত্র পড়াশোনায় বিরাগপূর্ণ, বিমুখ বা অনিচ্ছুক, অথবা যে শুধু অনিচ্ছাকৃত চেষ্টা করে, সে অঙ্কের প্রতি বিরাগ অনুভব করে। দুই প্রেমিক প্রেমিকা শান্ত এক মিলনস্থলে গোপন সাক্ষাতের সময় ঠিক করে। প্রেমমুগ্ধ এক বৃদ্ধ লোক বিমোহিত হয়ে এক মেয়েকে ভালোবাসায় অন্ধ হয়ে আদর করে। কয়েন সংগ্রাহক কয়েন জমায়, আর ডাকটিকেট সংগ্রাহক ডাকটিকেট।
+# Inclination
+inclination|n|a tendency or liking|ঝোঁক; অনুরাগ|He has an *inclination* for music.
+disposition|n|a person's natural tendency or mood|প্রবণতা; মেজাজ|She has a cheerful *disposition*.
+predilection|n|a special liking for something|বিশেষ পছন্দ; পক্ষপাত|He has a *predilection* for spicy food.
+predisposition|n|a tendency to be a certain way|আগাম প্রবণতা|There is a family *predisposition* to diabetes.
+penchant|n|a strong liking or habit|প্রবল ঝোঁক|She has a *penchant* for bright scarves.
+proclivity|n|a natural tendency, often a bad one|ঝোঁক; প্রবণতা|He has a *proclivity* for lying.
+propensity|n|a natural tendency|প্রবণতা; ঝোঁক|Cats have a *propensity* to sleep all day.
+fancy|n|a liking; a whim|শখ; কল্পনা|She took a *fancy* to the old house.
+partiality|n|favouritism; a special liking|পক্ষপাত; বিশেষ অনুরাগ|He has a *partiality* for sweets.
+# Dislike
+disinclination|n|reluctance; unwillingness|অনীহা|He showed a *disinclination* to help.
+aversion|n|a strong dislike|বিতৃষ্ণা; প্রবল অপছন্দ|She has an *aversion* to crowds.
+antipathy|n|a deep-seated dislike|বিরাগ; স্বভাবগত বিদ্বেষ|There was a long *antipathy* between the two cities.
+disinclined|adj|unwilling; reluctant|বিরাগপূর্ণ; অনিচ্ছুক|He felt *disinclined* to argue.
+loath|adj|unwilling; reluctant|অনিচ্ছুক|I am *loath* to leave so early.
+averse|adj|having a strong dislike or opposition|বিমুখ; অনিচ্ছুক|She is not *averse* to a little risk.
+grudging|adj|given reluctantly|অনিচ্ছাকৃত; কৃপণ|He gave *grudging* praise.
+# Love and collecting
+rendezvous|n|a meeting or meeting place, especially of lovers|প্রেমিকযুগলের সাক্ষাৎ; মিলনস্থল|They chose the park as their *rendezvous*.
+tryst|n|a secret meeting between lovers|প্রেমিকযুগলের গোপন সাক্ষাৎ|The two lovers kept their *tryst* at midnight.
+numismatist|n|a person who collects coins|কয়েন সংগ্রহে অনুরক্ত ব্যক্তি|The *numismatist* showed us his rare coins.
+philatelist|n|a person who collects stamps|ডাকটিকেট সংগ্রহে অনুরক্ত ব্যক্তি|A *philatelist* never throws away an old letter.
+enamored|adj|in love; charmed|প্রেমমুগ্ধ|He was *enamored* of her voice.
+dote|v|be excessively fond of someone|ভালোবাসায় অন্ধ হওয়া; বুড়ো বয়সে ভীমরতি ধরা|Grandparents *dote* on their grandchildren.
+infatuate|v|inspire with a foolish passion|বিমোহিত করা|She was *infatuated* with the young actor.

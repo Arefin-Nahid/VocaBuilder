@@ -1,0 +1,39 @@
+N: 56
+T: Law (continued)
+S: The police *arraign* the suspect and *indict* him. Witnesses *inculpate* him, and the evidence may *incriminate* or *implicate* him in the crime. Parliament may *impeach* a corrupt minister, while a good lawyer can *acquit*, *exonerate*, *exculpate* and *vindicate* an innocent client, and *disabuse* the court of a mistaken belief; the *acquittal* ends the matter. To *connive* with or *abet* a criminal shows *complicity*, and an *accomplice* may *suborn* a witness. Any *transgression* or *infraction* means you *transgress* a law. Some *aver* and *allege* much, but a *nefarious*, *unruly* gang acting under *duress* often enjoys *impunity*, and a *punitive* penalty follows a *felony*, while a *misdemeanor* or a *peccadillo* is minor.
+B: পুলিশ সন্দেহভাজনকে আদালতে হাজির করে অভিযুক্ত করে। সাক্ষীরা তাকে দোষী প্রমাণ করে, আর প্রমাণ তাকে অপরাধে জড়াতে পারে। সংসদ একজন দুর্নীতিবাজ মন্ত্রীকে অভিশংসন করতে পারে, আর একজন ভালো উকিল নিরপরাধ মক্কেলকে রেহাই দিতে, দোষমুক্ত প্রমাণ করতে ও নির্দোষ প্রতিপন্ন করতে পারে, আর আদালতের ভুল ধারণা ভেঙে দিতে পারে; খালাস সেখানেই বিষয়টির সমাপ্তি টানে। কোনো অপরাধীর সঙ্গে ষড়যন্ত্র করা বা তাকে সাহায্য করা অপরাধে অংশগ্রহণ দেখায়, আর সহযোগী সাক্ষীকে ঘুষ দিয়ে খারাপ কাজে রাজি করাতে পারে। যেকোনো আইনভঙ্গ বা লঙ্ঘনে তুমি আইন ভাঙো। কেউ কেউ অনেক কিছু জোর দিয়ে বলে ও অভিযোগ করে, কিন্তু একটি দুষ্ট, বিশৃঙ্খল দল জবরদস্তির মধ্যে কাজ করেও প্রায়ই শাস্তি এড়িয়ে যায়, আর গুরুতর অপরাধের পর শাস্তিমূলক দণ্ড আসে, যেখানে সামান্য অপরাধ বা তুচ্ছ ভুল ছোট।
+# Charge in court
+arraign|v|bring before a court to answer a charge|অভিযুক্ত করা; আদালতে হাজির করা|The suspect was *arraigned* on Monday.
+impeach|v|charge a public official with wrongdoing|অভিযুক্ত করা; অভিশংসন করা|Congress voted to *impeach* the judge.
+indict|v|formally accuse of a crime|অভিযুক্ত করা|A grand jury *indicted* the banker.
+inculpate|v|show that someone is involved in a crime|দোষারোপ করা|His own letter *inculpated* him.
+incriminate|v|make someone appear guilty|দোষী প্রমাণ করা|The fingerprints *incriminated* the cook.
+# Clear of accusation
+acquit|v|declare not guilty|খালাস দেওয়া|The jury *acquitted* the accused.
+disabuse|v|free someone from a mistaken belief|ভুল ধারণা ভাঙা|Let me *disabuse* you of that idea.
+exonerate|v|clear of blame|দোষমুক্ত করা; নির্দোষ প্রমাণ করা|New evidence *exonerated* the prisoner.
+exculpate|v|show or declare not guilty|নির্দোষ প্রমাণ করা|The video *exculpated* the driver.
+vindicate|v|clear of blame; prove right|নির্দোষ প্রমাণ করা; সমর্থন করা|The result *vindicated* his decision.
+acquittal|n|a judgment that someone is not guilty|খালাস; বেকসুর মুক্তি|The *acquittal* surprised everyone.
+impunity|n|freedom from punishment|শাস্তি থেকে অব্যাহতি|Smugglers acted with *impunity*.
+# Wrongdoing together
+connive|v|secretly allow or assist wrongdoing|অসৎ কাজে সাহায্য করা; গোপনে সম্মতি দেওয়া|He *connived* with thieves to rob the shop.
+abet|v|help or encourage someone to do wrong|অসৎ কাজে সাহায্য করা|She was charged with *abetting* the crime.
+complicity|n|involvement in a crime|কুকর্মে অংশগ্রহণ|His *complicity* in the plot was proved.
+accomplice|n|a partner in crime|কুকর্মের সহযোগী|The police caught the thief's *accomplice*.
+suborn|v|persuade someone to act unlawfully|খারাপ কাজে রাজি করানো; ঘুষ দেওয়া|He tried to *suborn* a witness.
+implicate|v|involve in a crime|অপরাধে লিপ্ত করা|The report *implicated* two officers in the fraud.
+# Breaking the law
+transgression|n|a violation of a law or command|আইন বা আদেশ লঙ্ঘন|Every *transgression* will be punished.
+infraction|n|a violation of a rule|আইন বা আদেশ লঙ্ঘন|He paid a fine for a traffic *infraction*.
+transgress|v|violate a law; trespass|আইন লঙ্ঘন করা|He *transgressed* the rules of the camp.
+aver|v|state formally; assert confidently|নিশ্চিতভাবে বিবৃতি দেওয়া|The witness *averred* that he saw the accused.
+allege|v|accuse without proof|প্রমাণ ছাড়া অভিযোগ করা|They *allege* that the firm cheated its clients.
+nefarious|adj|unlawful; very wicked|আইনবহির্ভূত; বদমায়েশ|The gang planned a *nefarious* scheme.
+unruly|adj|lawless; disobedient|বিশৃঙ্খল; অবাধ্য|The *unruly* mob attacked the shops.
+duress|n|forcible restraint, especially unlawfully|আইনবহির্ভূতভাবে দমন|He signed the deal under *duress*.
+punitive|adj|punishing|শাস্তিমূলক|The court imposed *punitive* damages.
+# Crimes
+misdemeanor|n|a minor crime|সামান্য অপরাধ|Littering is a *misdemeanor*.
+peccadillo|n|a small, minor fault|সামান্য অপরাধ; তুচ্ছ দোষ|Forgetting a birthday is a harmless *peccadillo*.
+felony|n|a very serious crime|গুরুতর অপরাধ|Murder is a *felony*.

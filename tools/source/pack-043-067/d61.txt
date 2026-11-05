@@ -1,0 +1,38 @@
+N: 61
+T: Literature, Art and Music
+S: The *dirge*, *elegy* and *requiem* mourn the dead, a *paean* praises, an *oratorio* tells a poem and a *cantata* tells a story with music. An editor may *bowdlerize* or *expurgate* a book and leave an *ellipsis*. The *prologue* begins a play, a *preface* begins a book, the *epilogue* or *coda* ends it, and a *peroration* ends a speech, before the *denouement*. A poet loves *alliteration*, but a bad poem is *doggerel*. An *epic* has many *stanzas*, and *prosody* is its art, though *prosification* turns it to prose. The *theatrical*, *thespian* and *histrionic* *troupe* walks on the *proscenium* before an *amphitheater* crowd, with the *protagonist* and the *antagonist*.
+B: শোকগীতি, বিলাপসঙ্গীত ও মৃতের প্রার্থনাসঙ্গীত মৃতদের জন্য শোক করে, জয়-বন্দনা প্রশংসা করে, গীতিকবিতা একটি কবিতা বলে আর পুঁথি সুর দিয়ে এক গল্প বলে। সম্পাদক কোনো বইয়ের আপত্তিজনক অংশ মুছে ফেলতে পারেন ও শব্দ উহ্য রাখতে পারেন। প্রারম্ভিকা একটি নাটক শুরু করে, মুখবন্ধ একটি বই শুরু করে, উপসংহার বা শেষ পরিচ্ছেদ তা শেষ করে, আর বক্তৃতার উপসংহার একটি বক্তৃতা শেষ করে, পরিণতির আগে। কবি অনুপ্রাসপ্রেমী, কিন্তু খারাপ কবিতা হল হাল্কা ছড়া। মহাকাব্যে অনেক স্তবক থাকে, ছন্দশাস্ত্র তার শিল্প, যদিও পদ্যকে গদ্যে রূপান্তর তাকে গদ্য করে ফেলে। থিয়েটার-সংক্রান্ত, অভিনয়-সংক্রান্ত ও নাটুকে যাত্রার দল মঞ্চের পর্দার সামনের জায়গায় হাঁটে, মুক্ত অঙ্গনের দর্শকদের সামনে, প্রধান অভিনেতা ও ভিলেনকে নিয়ে।
+# Music of mourning and praise
+dirge|n|a lament with music|শোকগীতি|The band played a *dirge* at the funeral.
+elegy|n|a mournful poem or song|শোকগীতি|He wrote an *elegy* for his friend.
+requiem|n|a mass or music for the dead|মৃতের জন্য প্রার্থনা সঙ্গীত|They sang a *requiem* for the victims.
+paean|n|a song of praise|জয়-বন্দনা; বিজয়গাথা|The poet sang a *paean* to freedom.
+oratorio|n|a large sacred musical work for choir|গীতিকবিতা|The choir performed a famous *oratorio*.
+cantata|n|a story set to music|পুঁথি|The *cantata* told the story of a king.
+# Cleaning a book
+bowdlerize|v|remove offensive parts of a book|বইয়ের আপত্তিজনক অংশ মুছে ফেলা|They *bowdlerized* the novel for children.
+expurgate|v|remove offensive parts of a book|বইয়ের আপত্তিজনক অংশ মুছে ফেলা|The censor *expurgated* the text.
+ellipsis|n|omission of words from a text|শব্দ উহ্য রাখা|The sentence ends with an *ellipsis*.
+# Beginning and ending
+prologue|n|an introduction to a poem or play|প্রারম্ভিকা|The actor read the *prologue* aloud.
+preface|n|an introduction to a book|মুখবন্ধ; বইয়ের প্রারম্ভিক আলোচনা|The author wrote a short *preface*.
+epilogue|n|the conclusion of a poem or play|উপসংহার; শেষ পরিচ্ছেদ|The *epilogue* told what happened to the hero.
+coda|n|a concluding section|উপসংহার|The *coda* closed the symphony softly.
+peroration|n|the conclusion of an oration|বক্তৃতার উপসংহার|His *peroration* moved the audience to tears.
+denouement|n|the final outcome of a work of literature|পরিণতি|The *denouement* of the story surprised readers.
+# Poetic
+alliteration|n|repetition of the beginning sound in poetry|প্রতিটি শব্দের প্রারম্ভে একই ব্যঞ্জন বা স্বরবর্ণের পুনঃপুনঃ ব্যবহার|"The furrow followed free" is an *alliteration*.
+doggerel|n|poor verse|হাল্কা ছড়া|The card had a silly *doggerel*.
+epic|n|a long heroic poem, novel or art|মহাকাব্য|The Iliad is an *epic*.
+stanza|n|a division of a poem|স্তবক|The poem has four *stanzas*.
+prosody|n|the art of versification|ছন্দশাস্ত্র|He teaches *prosody* at the college.
+prosification|n|converting poetry into prose|পদ্যকে গদ্যে রূপান্তর|The *prosification* of the old poem made it easy to read.
+# Theatrical
+theatrical|adj|relating to the theatre|থিয়েটার-সংক্রান্ত|She has a *theatrical* way of speaking.
+thespian|adj|relating to the theatre; actor|থিয়েটার-সংক্রান্ত; অভিনেতা|The *thespian* club staged a play.
+histrionic|adj|relating to acting; overly dramatic|অভিনয়-সংক্রান্ত; নাটুকে|His *histrionic* outburst embarrassed us.
+proscenium|n|the part of the stage in front of the curtain|মঞ্চের পর্দার সামনের জায়গা|The dancers came onto the *proscenium*.
+amphitheater|n|an oval building with tiers of seats|মুক্ত অঙ্গন বা অভিনয়মঞ্চকে ঘিরে সাজানো ক্রমোচ্চ আসনশ্রেণী|The *amphitheater* seated ten thousand.
+troupe|n|a group of actors|যাত্রার দল|The *troupe* toured many towns.
+protagonist|n|the main character in a play or story|প্রধান অভিনেতা|The *protagonist* of the film is a poor boy.
+antagonist|n|the enemy of the protagonist|ভিলেন|The *antagonist* plots against the hero.

@@ -1,0 +1,25 @@
+N: 45
+T: Happy and Gloomy (continued)
+S: The *onus* of the project fell on the *pensive* clerk, and the *onerous* task kept him in the *doldrums*. His *moodiness* grew, and a note of *pathos* filled his voice. A neighbour showed *empathy* and, being *empathetic*, offered *succor*. The *malcontent* manager, a true *killjoy*, only frowned. Meanwhile, a *complacent* partner would *preen* in the mirror, a *hedonist* and *sybarite* with an *epicurean* taste for wine, and a famous *aficionado* of rich food.
+B: প্রকল্পের দায়িত্বের ভার পড়ল বিষণ্ণভাবে চিন্তাশীল কেরানির ওপর, আর কষ্টসাধ্য কাজটি তাকে মনমরা ভাবে আটকে রাখল। তার মেজাজ বদলানো বাড়তে থাকল, আর কণ্ঠে এল বেদনার সুর। এক প্রতিবেশী সমবেদনা দেখাল এবং সমব্যথী হয়ে সাহায্য করল। অসন্তুষ্ট ম্যানেজার, এক আসল আনন্দ-মাটিকারী, শুধু ভ্রু কোঁচকাল। এদিকে এক আত্মসন্তুষ্ট অংশীদার আয়নার সামনে সাজগোজ করত, সে ছিল প্রমোদপ্রিয় ও বিলাসী, ভোগবাদী রুচির মদপ্রেমী, আর সমৃদ্ধ খাবারের বিখ্যাত অনুরাগী।
+# Burden and help
+onus|n|a difficult responsibility or burden|বোঝা; দায়িত্বের ভার|The *onus* of proof lies with the accuser.
+onerous|adj|burdensome; requiring great effort|কষ্টসাধ্য; ভারী|Counting every vote was an *onerous* task.
+succor|v|help and support in times of hardship|দুর্দশার সময়ের সাহায্য; সাহায্য করা|Volunteers rushed to *succor* the flood victims.
+# Pity
+pathos|n|a quality that evokes pity or sadness|করুণরস; বেদনা|The film is full of *pathos*.
+empathy|n|the ability to understand another's feelings|সমবেদনা; অন্যের অনুভূতি বোঝার ক্ষমতা|A good nurse shows *empathy* toward patients.
+empathetic|adj|understanding and sharing others' feelings|সমব্যথী|He is an *empathetic* listener.
+# Moods
+moodiness|n|fits of depression or gloom|বিষণ্নভাব; মেজাজ বদলানো|Her *moodiness* worried her family.
+doldrums|n|a slack, listless period|স্থিরাবস্থা; মনমরা ভাব|The business has been in the *doldrums* since the winter.
+pensive|adj|thoughtful with a hint of sadness|বিষণ্নভাবে চিন্তাশীল; ধ্যানমগ্ন|He sat *pensive* by the window.
+malcontent|n|a person who is dissatisfied|অসন্তুষ্ট ব্যক্তি|A few *malcontents* kept complaining about the rules.
+killjoy|n|someone who spoils the pleasure of others|যে অন্যের আনন্দ মাটি করে দেয়|Don't be a *killjoy*; let the kids play.
+# Self-satisfied and pleasure-loving
+complacent|adj|self-satisfied; unaware of any danger|আত্মসন্তুষ্ট|Winning twice made the team *complacent*.
+preen|v|feel self-satisfaction; make oneself tidy|আত্মতৃপ্তি লাভ করা; সাজগোজ করা|The peacock *preened* its feathers.
+hedonist|n|one who believes pleasure is the aim of life|প্রমোদপ্রিয় ব্যক্তি; সুখবাদী|A *hedonist* spends his money on every pleasure.
+sybarite|n|a person devoted to luxury and pleasure|বিলাসী ব্যক্তি; আয়েশপ্রিয়|The *sybarite* spent his days in silk robes.
+epicurean|adj|devoted to pleasure; relating to Epicurus|প্রমোদপ্রিয়; ভোগবাদী|He has an *epicurean* love of fine dining.
+aficionado|n|an enthusiastic admirer|চরম ভক্ত; অনুরাগী|She is a jazz *aficionado* with a thousand records.

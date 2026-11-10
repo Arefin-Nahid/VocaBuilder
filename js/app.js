@@ -65,6 +65,7 @@
     recall: L.toggleRecall,
     reveal: L.revealAll,
     hear: L.hearStory,
+    saysent: function (a) { var e = VB.vocab.ALL[a.dataset.k]; VB.speech.speak((VB.vocab.example(e) || "").replace(/\*/g, ""), "sent:" + a.dataset.k); },
     sayword: function (a) { VB.speech.speak(a.dataset.w, "word:" + a.dataset.w); },
     hl: function (a) { L.highlight(a.dataset.w); },
     done: function () {
@@ -105,9 +106,9 @@
   });
   // Highlight the listen button that is playing; everything returns to normal when it stops.
   document.addEventListener("vb:speech", function (ev) {
-    var playing = ev.detail.key, btns = document.querySelectorAll('[data-act="hear"],[data-act="sayword"]');
+    var playing = ev.detail.key, btns = document.querySelectorAll('[data-act="hear"],[data-act="sayword"],[data-act="saysent"]');
     for (var i = 0; i < btns.length; i++) {
-      var key = btns[i].dataset.act === "hear" ? "story" : "word:" + btns[i].dataset.w;
+      var act = btns[i].dataset.act, key = act === "hear" ? "story" : act === "saysent" ? "sent:" + btns[i].dataset.k : "word:" + btns[i].dataset.w;
       var on = playing !== null && key === playing;
       btns[i].classList.toggle("playing", on);
       btns[i].setAttribute("aria-pressed", on);

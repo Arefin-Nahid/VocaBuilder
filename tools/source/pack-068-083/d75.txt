@@ -1,0 +1,30 @@
+N: 75
+T: Memory and Metals
+S: Old photographs bring *reminiscence*, and we *reminisce* about the past while keeping a *memento*. A *mnemonic* helps us recall, and a *commemorative* coin honours great events. The old grandfather sank into *oblivion*, *oblivious* to the world, leaving a *relic* and a *remnant*, the *remainder* of his things. We *commemorate* him and *memorialize* his name, and in *retrospect* we feel deep *nostalgia*. The blacksmith made an *alloy* from ore taken from a rich *lode*, then *smelt* it until the *slag* floated up, and hammered the metal on an *anvil*, using heavy *ballast* to keep the cart steady.
+B: পুরনো ছবি স্মৃতিচারণ আনে, আর স্মারকচিহ্ন রেখে আমরা অতীতের কথা স্মরণ করি। স্মৃতিসহায়ক কৌশল আমাদের মনে করতে সাহায্য করে, আর স্মারক মুদ্রা মহান ঘটনাকে সম্মান জানায়। বৃদ্ধ দাদু বিস্মৃতির অতলে ডুবে গেলেন, দুনিয়া সম্পর্কে বিস্মৃত, আর রেখে গেলেন একটি অবশিষ্ট স্মৃতিচিহ্ন ও কিছু অংশ, তাঁর জিনিসপত্রের অবশিষ্ট। আমরা তাঁকে স্মরণ করি আর তাঁর নাম স্মরণীয় করে রাখি, আর অতীতের দিকে দৃষ্টিপাত করে অনুভব করি গভীর স্মৃতিবেদনা। কামার এক সমৃদ্ধ ধাতু নালী থেকে নেওয়া আকরিক দিয়ে সংকর ধাতু বানালেন, তারপর তা গলালেন যতক্ষণ ধাতব বর্জ্য ভেসে না উঠল, আর কামারের নেহাইয়ের ওপর ধাতু পেটালেন, গাড়ি স্থির রাখতে ভারী ভার ব্যবহার করে।
+# Memory
+reminiscence|n|memory; the process of remembering|স্মৃতিচারণ|Their *reminiscence* of school days made them laugh.
+reminisce|v|remember past events|স্মরণ করা|The old friends *reminisced* about their school days.
+memento|n|a token; a reminder|স্মারকচিহ্ন|He kept the ticket as a *memento* of the trip.
+mnemonic|adj|pertaining to memory|স্মৃতিসহায়ক|A *mnemonic* trick helped me remember the list.
+commemorative|adj|remembering; honouring|স্মারক|The mint issued a *commemorative* coin.
+oblivion|n|the state of being forgotten or disregarded|বিস্মৃতি|The old song fell into *oblivion*.
+oblivious|adj|forgetful; not aware|বিস্মৃতিপ্রবণ; বিস্মৃত|He was *oblivious* to the noise around him.
+# Remainder
+relic|n|a thing left from the past; also a reminder|অবশিষ্ট; স্মৃতিচিহ্ন|The museum holds a *relic* of the ancient city.
+remnant|n|a small remaining part|অবশিষ্ট অংশ|A *remnant* of the old wall still stands.
+remainder|n|the part that remains|অবশিষ্ট|He spent the *remainder* of his life in the village.
+# Remember
+commemorate|v|remember and honour|স্মরণ করা|We *commemorate* Language Martyrs' Day every February.
+memorialize|v|preserve the memory of|স্মরণ করা; স্মরণীয় করে রাখা|The statue *memorializes* the fallen heroes.
+retrospect|v|look back on the past|স্মরণ করা|It is useful to *retrospect* on your mistakes.
+retrospect|n|a review or contemplation of the past|অতীতের দিকে দৃষ্টিপাত|In *retrospect*, the plan was a mistake.
+nostalgia|n|a sentimental longing for a past memory|স্মৃতিবেদনা|The song filled him with *nostalgia*.
+# Metals
+alloy|n|a mixture, as of metals|সংকর ধাতু|Brass is an *alloy* of copper and zinc.
+alloy|v|mix; make less pure; lessen or moderate|মিশ্রণ করা; খাদ মেশানো|Jewellers *alloy* gold with copper to make it harder.
+smelt|v|melt metal in order to refine it|ধাতু গলানো|Workers *smelt* iron ore in a huge furnace.
+slag|n|waste matter; the residue from smelting metal; dross|ধাতব বর্জ্য|The *slag* was dumped beside the factory.
+lode|n|a metal-bearing vein|ধাতু নালী|Miners struck a rich *lode* of silver.
+anvil|n|an iron block used in hammering out metals|যে লৌহখণ্ডের ওপর রেখে কামার কিছু পেটায়|The smith hammered the glowing rod on an *anvil*.
+ballast|n|a heavy substance used to add stability or weight|স্থির রাখার জন্য ভার দেওয়া|Sand bags served as *ballast* in the boat.

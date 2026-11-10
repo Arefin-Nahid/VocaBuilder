@@ -1,0 +1,22 @@
+N: 69
+T: Marriage and Family (continued)
+S: The *patriarch*, a stern *paternal* figure, left his *patrimony* to his eldest son by the rule of *primogeniture*, while the *matriarch*, full of *maternal* love, kept the family together. Every *sibling* showed *filial* respect, and an *avuncular* uncle gave kind advice. A *patrician* name was a precious *legacy*, though a curious *atavism* made one child look like a distant grandfather. No one dreamed of *patricide*, and neither the *eugenic* ideas of the past nor *alimony* after a divorce had a place in that loving home.
+B: পরিবারের কর্তা, এক কঠোর পিতৃতুল্য ব্যক্তি, জ্যেষ্ঠাধিকারের নিয়মে তাঁর বড় ছেলেকে উত্তরাধিকারসূত্রে প্রাপ্ত সম্পত্তি দিয়ে গেলেন, আর পরিবারের কর্ত্রী, মাতৃস্নেহে পূর্ণ, পরিবারকে একসাথে ধরে রাখলেন। প্রতিটি ভাই-বোন সন্তানোচিত শ্রদ্ধা দেখাল, আর এক মামাতুল্য কাকা দয়ালু উপদেশ দিলেন। অভিজাত নাম ছিল এক মূল্যবান উত্তরাধিকার, যদিও এক অদ্ভুত পূর্বপুরুষসাদৃশ্য এক শিশুকে দূরের দাদুর মতো দেখাল। কেউ পিতৃহত্যার কথা স্বপ্নেও ভাবেনি, আর অতীতের সুপ্রজনন-সংক্রান্ত ধারণা বা বিবাহ-বিচ্ছেদের পর ভরণপোষণ সেই ভালোবাসার ঘরে কোনো স্থান পায়নি।
+# Mother's side
+maternal|adj|motherly|মাতৃক|She felt a *maternal* love for every student.
+matriarch|n|a woman who rules a family or a larger social group|পরিবারের কর্ত্রী|The *matriarch* decided where everyone would sit.
+# Father's side
+paternal|adj|fatherly|পৈতৃক|My *paternal* grandfather was a teacher.
+patriarch|n|the father and ruler of a family or tribe|পরিবারের কর্তা|The *patriarch* gathered the family each Eid.
+patrimony|n|inheritance derived from one's father|উত্তরাধিকার; পৈতৃক সম্পত্তি|He sold his *patrimony* to build a school.
+patricide|n|the murder of one's father|পিতৃহত্যা|The ancient play tells a tale of *patricide*.
+patrician|n|an aristocrat; a person of noble birth|অভিজাত|The *patrician* looked down on the common folk.
+# Family relations
+eugenic|adj|pertaining to the improvement of race|সুপ্রজনন-সংক্রান্ত|The *eugenic* movement is now widely condemned.
+alimony|n|payment made to an ex-spouse after divorce|তালাকপ্রাপ্তা স্ত্রীর ভরণপোষণ|He pays monthly *alimony* to his former wife.
+sibling|n|a brother or sister|ভাই-বোন|My younger *sibling* shares my room.
+primogeniture|n|seniority by birth|জ্যেষ্ঠাধিকার|By *primogeniture*, the eldest son inherited the land.
+atavism|n|resemblance to a remote ancestor rather than to parents; reversion to an earlier type|পূর্বসূরীদের সাথে সাদৃশ্য; পূর্বাবস্থায় ফিরে যাওয়া|The child's red hair was a case of *atavism*.
+filial|adj|pertaining to a son or daughter|সন্তানজনিত|She showed *filial* duty by caring for her mother.
+avuncular|adj|resembling an uncle; pertaining to an uncle|চাচাতো, মামাতো, খালাতো, ফুপাতো; কাকার মতো|The *avuncular* teacher patted him on the back.
+legacy|n|a gift or personal property handed on by a will|উত্তরাধিকার|The poet left a rich *legacy* of verse.

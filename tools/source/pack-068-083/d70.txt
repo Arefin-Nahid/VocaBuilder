@@ -1,0 +1,26 @@
+N: 70
+T: Medical Terms
+S: An old man's *infirmity* and a long *malady* brought a *malaise* that no medicine could cure. After a fall he suffered *amnesia* and a form of *aphasia*, and could not speak. His *anemia* worsened after a *hemorrhage* from a deep *laceration* and a painful *contusion*, while a *canker* troubled his mouth. In the village a *contagion* grew into an *epidemic*, then spread as a *pandemic*, and the old *pestilence* frightened everyone. A sudden *apoplexy* and a *paroxysm* of pain left him weak, but the doctors saved him in time.
+B: এক বৃদ্ধের দুর্বলতা আর দীর্ঘ রোগ এনে দিল এক অস্বস্তি যা কোনো ওষুধ সারাতে পারল না। পড়ে যাওয়ার পর সে স্মৃতিলোপ ও বাকশক্তি লোপে ভুগল, কথা বলতে পারল না। গভীর ক্ষত ও যন্ত্রণাদায়ক কালশিটে থেকে রক্তক্ষরণের পর তার রক্তাল্পতা বাড়ল, আর এক ক্ষত তার মুখে কষ্ট দিল। গ্রামে এক ছোঁয়াচে রোগ মহামারীতে বাড়ল, তারপর বড় এলাকা জুড়ে ছড়াল, আর পুরনো মহামারী সবাইকে ভয় দেখাল। হঠাৎ অচেতন হয়ে যাওয়া আর যন্ত্রণার এক আকস্মিক প্রকোপ তাকে দুর্বল করল, কিন্তু ডাক্তাররা সময়মতো তাকে বাঁচালেন।
+# Diseases
+infirmity|n|disease; weakness|রোগ; দুর্বলতা|Old age brought him *infirmity*.
+malady|n|illness|অসুখ|A strange *malady* kept the child in bed.
+malaise|n|uneasiness; a vague feeling of ill health|অসুস্থতা; অস্বস্তি|A *malaise* came over him before the exam.
+# Memory and speech
+amnesia|n|loss of memory|সম্পূর্ণ বা আংশিক স্মৃতিলোপ|He woke up with *amnesia* after the accident.
+aphasia|n|loss of speech due to injury|বাকশক্তি লোপ|The injury left her with *aphasia*.
+# Blood
+anemia|n|a condition in which the blood lacks red corpuscles|রক্তাল্পতা|Iron-rich food helps against *anemia*.
+hemorrhage|n|heavy bleeding|রক্তক্ষরণ|The surgeon stopped the *hemorrhage* quickly.
+# Spreading disease
+contagion|n|a contagious disease|ছোঁয়াচে রোগ|A *contagion* closed the school for a week.
+epidemic|n|a widespread disease|মহামারী|An *epidemic* of flu hit the town.
+pestilence|n|a widespread disease; a deadly plague|মহামারী|The *pestilence* killed thousands in the old city.
+pandemic|n|a disease spread over a whole area|বড় এলাকা জুড়ে মহামারী|The *pandemic* changed how we live.
+# Wounds
+canker|n|any ulcerous sore; any evil|ক্ষত; খারাপ প্রভাব|A *canker* on his tongue made eating painful.
+laceration|n|a torn, ragged wound|ক্ষত|The *laceration* on his arm needed stitches.
+contusion|n|an injury underneath the skin|চামড়ার নিচে যে ক্ষত; কালশিটে|The fall left a dark *contusion* on her knee.
+# Sudden attacks
+apoplexy|n|a sudden loss of consciousness due to impairment in neurological functions|হঠাৎ অচেতন হয়ে যাওয়া|*Apoplexy* struck him while he was reading.
+paroxysm|n|a sudden uncontrollable attack of pain, laughter or rage|ব্যথা, হাসি বা রাগের আকস্মিক প্রকোপ|He fell into a *paroxysm* of laughter.

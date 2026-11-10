@@ -1,0 +1,29 @@
+N: 74
+T: Medical Terms (continued)
+S: The doctor listened for *pulmonary* sounds, studied a *vacuole* under the microscope, tested the *tactile* sense and asked about *visceral* pain. The *prognosis* was clear after the *pathology* report showed a *pathological* change. To save the patient, surgeons had to *amputate* a limb, a form of *abscission*, after the muscle began to *atrophy*, and then *cauterize* the wound in an *aseptic* room. An *immunological* study of the *genome* revealed a *syndrome* that was *irremediable*, a *somatic* and *systemic* disease. During *gestation*, a mother should never *hyperventilate* from fear.
+B: ডাক্তার ফুসফুস সংক্রান্ত শব্দ শুনলেন, অণুবীক্ষণ যন্ত্রে কোষ গহ্বর দেখলেন, স্পর্শানুভূতি সংক্রান্ত অনুভূতি পরীক্ষা করলেন এবং নাড়িভুঁড়ি সংক্রান্ত ব্যথার কথা জিজ্ঞাসা করলেন। রোগনির্ণয়বিদ্যার প্রতিবেদন রোগবিদ্যাগত পরিবর্তন দেখানোর পর রোগের গতিপথ অনুমান করা পরিষ্কার হল। রোগীকে বাঁচাতে, মাংসপেশি ক্ষয় হতে শুরু করার পর, সার্জনদের অপারেশনের মাধ্যমে অঙ্গ কেটে ফেলতে হল, যা অপারেশনের মাধ্যমে অঙ্গ কাটার এক প্রক্রিয়া, তারপর রোগজীবাণুমুক্ত ঘরে সংক্রমণের হাত থেকে বাঁচার জন্য ক্ষত ছেঁকা দিতে হল। রোগ প্রতিরোধ ব্যবস্থা সংক্রান্ত এক গবেষণা জীনগত উপকরণে রোগের লক্ষণসমূহ প্রকাশ করল যা চিকিৎসার অসাধ্য, এক অঙ্গজ ও সমগ্র দেহ-সংক্রান্ত রোগ। গর্ভধারণ কালে, মায়ের কখনো ভয়ে দ্রুত নিঃশ্বাস নেওয়া উচিত নয়।
+# Organs and senses
+pulmonary|adj|pertaining to the lungs|ফুসফুস সংক্রান্ত|The doctor suspected a *pulmonary* infection.
+vacuole|n|a small cavity in the cell cytoplasm, bound by a single membrane and containing water, food or metabolic waste|কোষ গহবর|A plant cell has a large *vacuole* full of water.
+tactile|adj|pertaining to the organs or sense of touch|স্পর্শানুভূতি সংক্রান্ত|Braille depends on the *tactile* sense.
+visceral|adj|felt in one's inner organs; also intuitive|নাড়িভুঁড়ি সংক্রান্ত; চতুর অনুমানমূলক|He felt a *visceral* fear when the lights went out.
+# Surgery
+abscission|n|removal of body parts by cutting off, as in surgery|অপারেশনের মাধ্যমে অঙ্গ কাটার প্রক্রিয়া|The *abscission* of the infected toe saved his foot.
+amputate|v|cut off body parts, as in surgery|অপারেশনের মাধ্যমে অঙ্গ কেটে ফেলা|Surgeons had to *amputate* his leg below the knee.
+atrophy|n|wasting away of organs due to disease or lack of use|পুষ্টি বা ব্যবহারের অভাবে ক্ষয়|Months in bed caused *atrophy* of the muscles.
+atrophy|v|waste away because of disease or lack of use|পুষ্টি বা ব্যবহারের অভাবে ক্ষয় হওয়া|Unused muscles *atrophy* quickly.
+cauterize|v|burn with hot iron or caustic to prevent infection|সংক্রমণের হাত থেকে বাঁচার জন্য ছেঁকা দেয়া|The doctor *cauterized* the wound to stop the bleeding.
+aseptic|adj|preventing infection; free from disease-causing germs|সংক্রমণ প্রতিরোধক; রোগজীবাণুমুক্ত|Operations must be done in an *aseptic* room.
+# Body systems and conditions
+immunological|adj|relating to the immune system|রোগ প্রতিরোধ ব্যবস্থা সংক্রান্ত|She works in an *immunological* laboratory.
+genome|n|the genetic material of an organism|জীনগত উপকরণ|Scientists have mapped the human *genome*.
+syndrome|n|a group of symptoms that indicate a disease or an abnormal condition|রোগের লক্ষণসমূহ|Down *syndrome* is a genetic condition.
+irremediable|adj|incapable of being reformed or remedied|চিকিৎসার অসাধ্য|The damage to the old bridge was *irremediable*.
+gestation|n|the growth process from conception to birth|গর্ভধারণ কাল|The *gestation* of an elephant lasts nearly two years.
+somatic|adj|relating to or affecting the body; bodily|অঙ্গজ|Fear can cause *somatic* symptoms such as sweating.
+hyperventilate|v|breathe abnormally fast|দ্রুত নিঃশ্বাস নেয়া|She began to *hyperventilate* before the big speech.
+systemic|adj|affecting the entire body; relating to systems|সমগ্র দেহ-সংক্রান্ত|It is a *systemic* disease that affects every organ.
+# Diagnosis
+prognosis|n|the forecasted course of a disease|রোগের গতিপথ অনুমান করা|The doctor said the *prognosis* was good.
+pathology|n|the manifestation of a disease; the study of diseases|রোগনির্ণয়বিদ্যা|The *pathology* report came back normal.
+pathological|adj|pertaining to disease|রোগবিদ্যাগত|He is a *pathological* liar who cannot stop.

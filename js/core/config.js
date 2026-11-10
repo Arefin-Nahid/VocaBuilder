@@ -6,7 +6,8 @@
   VB.config = {
     storageKey: "vb30-v2",
     legacyKey: "vb30-done",
-    intervals: [1, 2, 4, 8, 16], // Leitner box gaps, in days
+    gaps: { again: 1, hard: 3, good: 7 }, // days until the next review
+    intervals: [1, 2, 4, 8, 16], // kept for older code; not used for scheduling
     quizSize: 10,
     rangeQuizSize: 15,
     reviewSize: 20

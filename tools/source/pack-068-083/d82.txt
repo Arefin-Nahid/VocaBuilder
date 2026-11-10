@@ -1,0 +1,42 @@
+N: 82
+T: Newer and Older, Odor
+S: An *antediluvian*, *archaic*, *antiquated*, *obsolete*, *outmoded*, *superannuated*, *passé* and *quaint* tool may be *primeval*, and an *obsolescent* craft in an *archive* teaches *archeology*. The *archetype* is a *prototype*, and an *archetypal* hero is *self-perpetuating*. Wise men prefer the *contemporary* and the *au courant*. Some flowers are *odorous* and *odoriferous*, *fragrant*, *redolent*, *balmy*, *aromatic* and *olfactory*, while a *malodorous*, *fetid*, *noisome* swamp will *reek* with *rancid* *effluvium*.
+B: এক প্রাচীন, সেকেলে, পুরনো ধাঁচের, অচল, অপ্রচলিত, অবসরপ্রাপ্ত, সেকেলে ও অদ্ভুত যন্ত্র আদিম হতে পারে, আর ঐতিহাসিক বস্তুসংরক্ষণাগারে এক লুপ্তপ্রায় নৌকা প্রত্নতত্ত্ববিদ্যা শেখায়। আদিরূপ হল ছাঁচ, আর আদি-মৌলিক নায়ক নিজেকে বিলুপ্ত হওয়ার হাত থেকে রক্ষা করার ক্ষমতাসম্পন্ন। বুদ্ধিমান মানুষ বর্তমান যুগে অবস্থিত ও হালনাগাদ জিনিস পছন্দ করে। কিছু ফুল গন্ধযুক্ত ও গন্ধবহুল, সুগন্ধযুক্ত, সুবাসিত, মনোরম ও সুগন্ধি, আর ঘ্রাণসংক্রান্ত, আর এক দুর্গন্ধযুক্ত, পচা, বিশ্রী জলাভূমি বিস্বাদ চর্বির গন্ধযুক্ত বিশ্রী দুর্গন্ধে ভরে থাকবে।
+# Old
+antediluvian|adj|very old; before the Flood|পুরনো|The museum holds an *antediluvian* machine.
+archaic|adj|very old; no longer used|পুরনো|He used an *archaic* word for friend.
+antiquated|adj|old-fashioned|পুরনো|The school still has *antiquated* desks.
+obsolete|adj|no longer used or needed|পুরনো|Floppy disks are *obsolete* today.
+outmoded|adj|out of fashion|পুরনো|They rejected the *outmoded* method.
+superannuated|adj|too old to be useful|পুরনো|The *superannuated* clerk finally retired.
+passé|adj|old-fashioned; out of date|পুরনো|Long skirts seemed *passé* that season.
+quaint|adj|attractively old-fashioned|পুরনো|We stayed in a *quaint* village inn.
+primeval|adj|primitive; very ancient|প্রারম্ভিক|A *primeval* forest covered the land.
+obsolescent|adj|becoming obsolete|লুপ্তপ্রায়|The *obsolescent* rule was soon dropped.
+self-perpetuating|adj|having the power to renew or continue itself|নিজেকে বিলুপ্ত হওয়ার হাত থেকে রক্ষা করার ক্ষমতাসম্পন্ন|A *self-perpetuating* myth never dies.
+# Original model
+archetype|n|primitive pattern used as a model by others|আদিরূপ; ছাঁচ|Hamlet is an *archetype* of the thoughtful prince.
+prototype|n|primitive pattern used as a model by others|আদিরূপ; ছাঁচ|Engineers tested the first *prototype* of the car.
+archetypal|adj|characteristic of an original model after which others are patterned|আদি; মৌলিক|He is the *archetypal* absent-minded professor.
+archeology|n|the study of material evidence of past human life|প্রত্নতত্ত্ববিদ্যা|*Archeology* uncovered an ancient city.
+archive|n|place or collection containing records of historical interest|ঐতিহাসিক বস্তুসংরক্ষণাগার|The *archive* holds letters from the war.
+# Present time
+contemporary|adj|belonging to the present time|বর্তমান যুগে অবস্থিত|She writes *contemporary* poems about city life.
+au courant|adj|up-to-date; informed on current affairs|হালনাগাদ|He stays *au courant* by reading daily news.
+# Having an odor
+odorous|adj|having an odor|গন্ধযুক্ত|The *odorous* cheese filled the room.
+odoriferous|adj|having an odor|গন্ধযুক্ত|*Odoriferous* spices hung in the shop.
+# Foul-smelling
+malodorous|adj|foul-smelling|দুর্গন্ধযুক্ত|The *malodorous* drain was blocked.
+fetid|adj|foul-smelling|দুর্গন্ধযুক্ত|A *fetid* smell rose from the rotten fish.
+noisome|adj|foul-smelling; harmful|দুর্গন্ধযুক্ত|The *noisome* pond bred mosquitoes.
+# Fragrant
+fragrant|adj|sweet-smelling|সুগন্ধযুক্ত|The *fragrant* roses perfumed the garden.
+redolent|adj|fragrant; suggestive of|সুগন্ধযুক্ত|The kitchen was *redolent* of baking bread.
+balmy|adj|fragrant; mild and soothing|সুগন্ধযুক্ত|A *balmy* breeze blew from the sea.
+aromatic|adj|fragrant|সুগন্ধযুক্ত|*Aromatic* tea steamed in the cups.
+# Odor
+reek|v|emit odor|গন্ধ নির্গমন করা|The old shoes *reeked* of sweat.
+rancid|adj|having the odor of stale fat|বিস্বাদ চর্বির গন্ধযুক্ত|The *rancid* butter was thrown away.
+effluvium|n|noxious smell|বিশ্রী দুর্গন্ধ|An *effluvium* rose from the factory drain.
+olfactory|adj|concerning the sense of smell|ঘ্রাণসংক্রান্ত|Dogs have a keen *olfactory* sense.

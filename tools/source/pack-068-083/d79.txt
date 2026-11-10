@@ -1,0 +1,41 @@
+N: 79
+T: Motions (continued)
+S: Every *kinetic* system needs *locomotion*, and a *centrifuge* uses *centrifugal* force while *centripetal* force pulls inward. An *abrasive* stone will *abrade* wood, and a *torque* or *torsion* made the *tortuous* road twist. A river in *flux* became a *juggernaut* after a *spate* of rain, and the water began to *meander*. We took a *plumb* line to *plumb* the depth, and watched the *celerity* of the stream *accelerate* and then *decelerate* over an *acclivity* and a *declivity*. A kite stayed *aloft* as a breeze began to *waft* over the field. An *ambulatory* old man took an easy *amble* on a *perambulation*, saw a bird *flit* by, and chose to *ensconce* himself on a bench to watch *aerodynamic* birds and *aerial* acrobatics.
+B: প্রতিটি গতিসংক্রান্ত ব্যবস্থার দরকার চলনশক্তি, আর ঘূর্ণনের মাধ্যমে উপাদান আলাদা করে এমন মেশিন কেন্দ্রবিমুখী বল ব্যবহার করে আর কেন্দ্রমুখী বল ভেতরের দিকে টানে। ঘষায় ঘষায় ওঠা পাথর কাঠ ঘষে তুলে ফেলে, আর ঘূর্ণন সঞ্চারক বল বা ঘূর্ণন অনেক প্যাঁচযুক্ত রাস্তাকে বাঁকাল। এক নিরন্তন প্রবাহে থাকা নদী জলোচ্ছ্বাসের পর তীব্র শক্তিতে পরিণত হল যা তার পথে সব ধ্বংস করে দেয়, আর জল সর্পিলপথে এঁকেবেঁকে চলতে শুরু করল। আমরা খাড়া দড়ি নিলাম গভীরতা নির্ণয় করতে, আর স্রোতের গতি বৃদ্ধি পেতে ও তারপর গতিহ্রাস করতে দেখলাম এক চড়াই ও উৎরাই পেরোনোর সময়। একটি ঘুড়ি ঊর্ধ্বে ভেসে রইল যখন এক হাওয়া মাঠের ওপর দিয়ে ভাসতে শুরু করল। হাঁটতে পারে এমন এক বৃদ্ধ পায়চারিতে স্বচ্ছন্দগতিতে হাঁটলেন, একটি পাখিকে উড়ে যেতে দেখলেন এবং উড্ডয়নবিদ্যা সংক্রান্ত পাখি ও বায়ুমণ্ডলজাত কসরত দেখতে একটি বেঞ্চে আরাম করে বসা বেছে নিলেন।
+# Motion and force
+kinetic|adj|related to motion or movement|গতিসংক্রান্ত|A moving car has *kinetic* energy.
+locomotion|n|the power or ability to move|চলনশক্তি|Birds use wings for *locomotion* in air.
+centrifugal|adj|radiating; departing from the center|কেন্দ্রবিমুখী|*Centrifugal* force pushes water out of a spinning bucket.
+centrifuge|n|a machine that separates substances by whirling them swiftly|ঘূর্ণনের মাধ্যমে উপাদান আলাদা করে এমন মেশিন|The lab used a *centrifuge* to separate the blood.
+centripetal|adj|tending toward the center|কেন্দ্রমুখী|*Centripetal* force keeps the moon in orbit.
+torque|n|a twisting force|ঘূর্ণন সঞ্চারক বল|The engine produces a great deal of *torque*.
+torsion|n|the act of twisting and turning|ঘূর্ণন|The metal rod broke under *torsion*.
+tortuous|adj|having many twists and turns|অনেক প্যাঁচযুক্ত|A *tortuous* path wound up the hill.
+# Wearing away
+abrasive|adj|rubbing away; tending to grind down|ঘষায় ঘষায় উঠে যাচ্ছে এমন|Use an *abrasive* cloth to clean the rust.
+abrade|v|wear off or down by scraping or rubbing|ঘষে ঘষে তুলে ফেলা|Sand can *abrade* a smooth stone.
+# Flow
+flux|n|a continuous flowing|নিরন্তন প্রবাহ|Prices are in a constant state of *flux*.
+juggernaut|n|a huge force destroying everything in its path|তীব্র শক্তি যা তার পথে সব ধ্বংস করে দেয়|The army rolled on like a *juggernaut*.
+spate|n|a sudden forceful flow; a water flow resulting from sudden rain or melting snow|জলোচ্ছ্বাস|A *spate* of rain flooded the lowlands.
+meander|v|wind or turn in its course|সর্পিলপথে এঁকেবেঁকে চলা|The river *meanders* through the green fields.
+waft|v|blow gently by wind or waves; float|জল বা বাতাসের মধ্য দিয়ে ভাসানো বা ভাসা|The smell of curry *wafted* from the kitchen.
+# Vertical and slopes
+plumb|adj|vertical|খাড়া|The builder checked that the wall was *plumb*.
+plumb|v|measure depth; examine critically|গভীরতা নির্ণয় করা|Divers *plumbed* the depths of the lake.
+acclivity|n|a sharp upslope of a hill|চড়াই|The cart slowed on the steep *acclivity*.
+declivity|n|a downward slope|উৎরাই|They rolled down the grassy *declivity*.
+aloft|adv|upward|ঊর্ধ্বে|The balloon floated *aloft* in the sky.
+# Speed
+celerity|n|speed; rapidity|গতি|The clerk handled the work with *celerity*.
+accelerate|v|move faster|গতিবৃদ্ধি করা|The bus *accelerated* on the open road.
+decelerate|v|slow down|গতিহ্রাস করা|Drivers must *decelerate* near a school.
+# Moving about
+amble|n|moving at an easy pace|স্বচ্ছন্দগতি|They went for a slow *amble* along the river.
+ambulatory|adj|able to walk; not bedridden|হাঁটতে পারে এমন|The patient is *ambulatory* and can go home.
+perambulation|n|walking about|পায়চারি|His evening *perambulation* took him to the market.
+flit|v|fly or dart lightly; pass swiftly by|উড়ে যাওয়া|Butterflies *flit* from flower to flower.
+ensconce|v|settle comfortably|আরাম করে বসা|She *ensconced* herself in the armchair with a book.
+# Air
+aerodynamic|adj|related to an object moving through the air|উড্ডয়নবিদ্যা সংক্রান্ত|The car has an *aerodynamic* shape.
+aerial|adj|having to do with the air|বায়বীয়; বায়ুমণ্ডলজাত|The film showed an *aerial* view of the city.

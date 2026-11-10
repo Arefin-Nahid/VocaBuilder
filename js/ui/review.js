@@ -43,9 +43,9 @@
             + "</div>" : "")
           + "</div>";
         h += '<div class="rv-rate" role="group" aria-label="How well did you remember?">'
-          + '<button data-act="rate" data-r="again" class="again">' + ico(I.again, 20) + "<b>Forgot</b><span>" + gap(1) + "</span></button>"
-          + '<button data-act="rate" data-r="hard" class="hard">' + ico(I.hard, 20) + "<b>Hard</b><span>" + gap(Math.max(1, Math.floor(iv[b - 1] / 2))) + "</span></button>"
-          + '<button data-act="rate" data-r="good" class="good">' + ico(I.good, 20) + "<b>Got it</b><span>" + gap(iv[Math.min(5, b + 1) - 1]) + "</span></button></div>";
+          + '<button data-act="rate" data-r="again" class="again">' + ico(I.again, 20) + "<b>Forgot</b><span>" + gap(cfg.gaps.again) + "</span></button>"
+          + '<button data-act="rate" data-r="hard" class="hard">' + ico(I.hard, 20) + "<b>Hard</b><span>" + gap(cfg.gaps.hard) + "</span></button>"
+          + '<button data-act="rate" data-r="good" class="good">' + ico(I.good, 20) + "<b>Got it</b><span>" + gap(cfg.gaps.good) + "</span></button></div>";
       }
       h += "</section>";
       if (!R.flip) h += '<p class="qkeys">Tip: press Space to show the answer.</p>';
@@ -60,12 +60,12 @@
       h += '<section class="rv-hero"><div class="rv-hn">' + due.length + '</div><div class="rv-hl">' + msg + "</div>"
         + (due.length ? '<button class="rv-go" data-act="startReview">' + ico(I.play, 16) + "<span>Start review</span></button><div class=\"rv-hs\">Up to " + cfg.reviewSize + " cards, hardest first</div>" : '<button class="rv-go" data-act="tab" data-tab="learn"><span>Go to the lesson</span></button>') + "</section>";
       h += '<section class="card"><h2 class="rv-h2">Your boxes</h2><div class="boxes" style="margin-top:12px">';
-      var names = ["Box 1 · tomorrow", "Box 2 · 2 days", "Box 3 · 4 days", "Box 4 · 8 days", "Box 5 · 16 days"];
+      var names = ["Box 1", "Box 2", "Box 3", "Box 4", "Box 5"];
       cnt.forEach(function (c, i) { h += '<div class="box"><b>' + c + "</b><span>" + names[i] + "</span></div>"; });
       h += '</div></section>'
         + '<details class="card how"><summary><span class="how-i" aria-hidden="true">?</span><span>How review works</span></summary><ul class="how-l">'
-        + '<li><b>Remember it</b><span>The word moves up one box and returns after a longer gap.</span></li>'
-        + '<li><b>Forget it</b><span>It drops back to Box 1 and returns tomorrow.</span></li>'
+        + '<li><b>Got it</b><span>The word moves up one box and returns in 7 days.</span></li><li><b>Hard</b><span>It stays in its box and returns in 3 days.</span></li>'
+        + '<li><b>Forgot</b><span>It drops back to Box 1 and returns tomorrow.</span></li>'
         + '<li><b>Mixed on purpose</b><span>Words from different pages are shuffled together, which makes memory stronger.</span></li></ul></details>';
     }
     $("view").innerHTML = h;

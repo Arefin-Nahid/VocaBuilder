@@ -120,7 +120,8 @@
   /* ----- start-up ----- */
   VB.store.load();
   st.cur = VB.progress.upNext();
-  if (!fromHash()) st.view = VB.srs.dueKeys().length ? "review" : "learn";
+  st.view = "learn"; // always open on the lesson page, whatever was open last time
+  setHash();
   render();
   VB.ui.sync.render();
   VB.sync.init();

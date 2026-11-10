@@ -12,13 +12,14 @@ Purpose of this file: give a new Claude session everything needed to continue th
 - A published Claude artifact (a single-file build) also exists for preview. Sync/sign-in only works on the GitHub Pages site, not in the artifact.
 
 ## 2. Current content state
-- **67 pages, 1728 unique words**, in three packs:
+- **83 pages, 2085 unique words**, in four packs:
   - `js/data/pack-001-030.js` pages 1-30 (book pp. 9-38)
   - `js/data/pack-031-042.js` pages 31-42 (book pp. 39-50)
   - `js/data/pack-043-067.js` pages 43-67 (book pp. 51-75) (built from `tools/source/pack-043-067/*.txt`)
+  - `js/data/pack-068-083.js` pages 68-83 (book pp. 76-91) (built from `tools/source/pack-068-083/*.txt`)
 - Rule: **page number n = book page n + 8**. The next pack starts at **page 68 = book page 76**.
 - Page titles so far (a title ending "(continued)" joins the previous head word):
-  1 Abandon; 2 Abundance and Scarcity; 3-4 Add and Subtract; 5 Agreement or Argument; 6 Agree, Argue, Cancel; 7 Consensus and Synergy; 8-9 Animal Planet; 10-11 Beauty and Ugly; 12 Beg Pardon; 13 Calm and Angry; 14-15 Angry; 16-17 Care and Seriousness; 18-19 Clever and Stupid; 20 Cloth; 21 Colors; 22-23 Criticism; 24-26 Economics; 27-28 Environment; 29-30 Fear and Courage; 31 Flattery; 32-34 Food; 35-37 Form and Shape; 38 Friends; 39-40 Geography; 41-42 Government and Politics; 43-46 Happy and Gloomy; 47-48 Hate and Inclination; 49-50 Hesitation and Frustration; 51-52 Insult and Praise; 53 Introduction; 54 Laughter and Humor; 55-57 Law; 58-60 Life and Death; 61-64 Literature, Art and Music; 65-66 Loyalty and Cheating; 67 Luck by Chance.
+  1 Abandon; 2 Abundance and Scarcity; 3-4 Add and Subtract; 5 Agreement or Argument; 6 Agree, Argue, Cancel; 7 Consensus and Synergy; 8-9 Animal Planet; 10-11 Beauty and Ugly; 12 Beg Pardon; 13 Calm and Angry; 14-15 Angry; 16-17 Care and Seriousness; 18-19 Clever and Stupid; 20 Cloth; 21 Colors; 22-23 Criticism; 24-26 Economics; 27-28 Environment; 29-30 Fear and Courage; 31 Flattery; 32-34 Food; 35-37 Form and Shape; 38 Friends; 39-40 Geography; 41-42 Government and Politics; 43-46 Happy and Gloomy; 47-48 Hate and Inclination; 49-50 Hesitation and Frustration; 51-52 Insult and Praise; 53 Introduction; 54 Laughter and Humor; 55-57 Law; 58-60 Life and Death; 61-64 Literature, Art and Music; 65-66 Loyalty and Cheating; 67 Luck by Chance; 68-69 Marriage and Family; 70-74 Medical Terms; 75 Memory and Metals; 76 Mimic; 77 Mind; 78-80 Motions; 81 Name; 82 Newer and Older, Odor; 83 Normal/Abnormal. Next pack starts at page 84 (book p. 92).
 - Book chapters are alphabetical by head word, which is why the app's lesson order and Index are A-Z.
 
 ## 3. Hard rules and preferences from Nahid (never break these)
@@ -26,7 +27,7 @@ Purpose of this file: give a new Claude session everything needed to continue th
 2. The word **"Day" must not appear in the UI**. Use head-word titles ("Food", "Part 2").
 3. **Index is A-Z only** (head words), no book order. Lesson order (Up next, arrows, quiz ranges) is alphabetical by head word.
 4. **No "X of Y finished" totals** and no greyed-out future items.
-5. Quiz progress is a plain segmented bar (no red/green segments); Review boxes show "Box 1 · tomorrow" style tiles (the original design, kept on request).
+5. Quiz progress is a plain segmented bar (no red/green segments); Review gaps are fixed: Forgot = tomorrow, Hard = 3 days, Got it = 7 days (config.gaps); box tiles read "Box 1".."Box 5".
 6. Top bar stays slim (logo, "Word of the day", date, Google icon). Headings are one size smaller than the original.
 7. Give a **flat zip** (files at the root, no outer folder, no `dist/`) he can unzip and push, plus an updated preview artifact. Do not paste the artifact URL; keep replies short and plain.
 8. Do not read or write the claude.ai Project "BCS Journey".

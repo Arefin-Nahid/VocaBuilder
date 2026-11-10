@@ -1,0 +1,27 @@
+N: 81
+T: Name
+S: Mark Twain's real *appellation* was Samuel Clemens, and Twain was his *alias*, a *pseudonym* and a *penname*. A friend's *sobriquet* or *cognomen* is a *nickname*, so *address* him by it. A poet may *allude* to an *eponym* in a sly *allusion*. An *anonymous* writer enjoys *anonymity*, though a *misnomer* can hide the truth. A scientific *nomenclature* may carry a *nominal* or *titular* head, for a *nominal* ruler is only a *titular* leader.
+B: মার্ক টোয়েনের আসল নাম ছিল স্যামুয়েল ক্লেমেন্স, আর টোয়েন ছিল তাঁর ছদ্মনাম, কলমের নাম। এক বন্ধুর ডাকনাম একটি ডাকনাম, তাই তাকে সে নামেই সম্বোধন করো। একজন কবি কোনো নামধারী ব্যক্তির প্রতি চতুর পরোক্ষ উল্লেখে পরোক্ষভাবে উল্লেখ করতে পারেন। এক নামহীন লেখক নামহীনতা উপভোগ করেন, যদিও অসার্থক বা ভুল নাম সত্যকে ঢাকতে পারে। একটি বৈজ্ঞানিক নামকরণ নামেমাত্র বা নামানুযায়ী মাথা বহন করতে পারে, কারণ নামেমাত্র শাসক শুধু নামসর্বস্ব নেতা।
+# Name
+appellation|n|name; title|নাম|His formal *appellation* was Doctor Rahman.
+address|v|direct a speech to; deal with or discuss|সম্বোধন করা|She *addressed* the crowd from the stage.
+allude|v|refer indirectly|পরোক্ষভাবে উল্লেখ করা|He *alluded* to my mistake without naming me.
+allusion|n|indirect reference|পরোক্ষ উল্লেখ|The poem contains an *allusion* to an old legend.
+# Assumed name
+alias|n|an assumed name|ছদ্মনাম|The spy travelled under an *alias*.
+pseudonym|n|an assumed name|ছদ্মনাম|She wrote novels under a *pseudonym*.
+penname|n|an assumed name used by a writer|ছদ্মনাম|His *penname* was known to all readers.
+# Nick name
+nickname|n|an informal name given to a person|ডাকনাম|His *nickname* at school was Tiger.
+sobriquet|n|a nickname|ডাকনাম|The cricketer earned the *sobriquet* Captain Cool.
+cognomen|n|a nickname|ডাকনাম|The king's *cognomen* was the Great.
+# Nameless
+anonymous|adj|having no name|নামহীন|An *anonymous* donor paid the fees.
+anonymity|n|state of being nameless; anonymousness|নামহীনতা|The witness asked for *anonymity*.
+# Naming
+misnomer|n|incorrect designation; wrong name|অসার্থক বা ভুল নাম|"Peacemaker" was a *misnomer* for the angry man.
+nomenclature|n|system of names; terminology|নামকরণ|Medical *nomenclature* is full of Latin words.
+eponym|n|the person after whom something is named|যার নামে কোনো কিছুর নামকরণ করা হয়|Shah Amanat is the *eponym* of Chattogram's airport.
+# Bearing a name only
+nominal|adj|bearing a name; in name only|নামানুযায়ী অথবা নামেমাত্র|The fee was *nominal* and easy to pay.
+titular|adj|bearing a title; in name only|নামানুযায়ী অথবা নামেমাত্র|The king was only a *titular* head of state.

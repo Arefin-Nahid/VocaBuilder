@@ -1,0 +1,42 @@
+N: 68
+T: Marriage and Family
+S: A *nubile* girl and a proud *scion* decided to *betroth* each other, and the *betrothal* was sealed with a *troth* before the elders. Every *ancestor* and *forefather*, each *forebear*, *progenitor* and *predecessor*, an *antecedent* of noble *lineage* and *ancestry*, would have approved. Soon a *nuptial* feast began to celebrate a happy *marital*, *conjugal* and *connubial* life. A *celibate* priest, with no trace of *misogamy*, blessed the bride, the new *consort*, and an *uxorious* groom vowed never to keep a *paramour*. Her *tutelary* guardian, whose *tutelage* was now over, handed her over. *Polygamy* and *polyandry* were strange customs to them, and they hoped a *descendant*, a loving *progeny* and a bright *posterity* would carry the family name. He promised to *espouse* her dreams.
+B: এক বিবাহযোগ্য মেয়ে আর এক গর্বিত বংশধর একে অপরের সঙ্গে বাগদান করার সিদ্ধান্ত নিল, আর বড়দের সামনে বাগদানের বিশ্বাস স্থাপিত হল। প্রত্যেক পূর্বপুরুষ ও পিতামহ, প্রতিটি আদিপুরুষ, আদি জনক ও পূর্বসূরি, মহান বংশধারা ও পূর্বপুরুষের পরম্পরার এক পূর্বসূরি অনুমোদন করতেন। শীঘ্রই এক সুখী বৈবাহিক, দাম্পত্য ও বিবাহ সম্পর্কিত জীবন উদযাপনের জন্য বিয়ের ভোজ শুরু হল। এক অবিবাহিত পুরোহিত, বিবাহ-বিদ্বেষের কোনো চিহ্ন ছাড়াই, কনেকে, নতুন সঙ্গিনীকে আশীর্বাদ করলেন, আর এক স্ত্রৈণ বর শপথ নিল কখনো কোনো প্রেমসংগী রাখবে না। তার অভিভাবকত্ব-বিষয়ক অভিভাবক, যার অভিভাবকত্ব এখন শেষ, তাকে সঁপে দিলেন। বহুবিবাহ আর একাধিক স্বামী গ্রহণ তাদের কাছে অদ্ভুত প্রথা ছিল, আর তারা আশা করল এক বংশধর, এক প্রিয় সন্তান ও উজ্জ্বল ভবিষ্যৎ বংশধারা পরিবারের নাম বহন করবে। সে তার স্বপ্নকে সমর্থন করার প্রতিশ্রুতি দিল।
+# Pertaining to marriage
+conjugal|adj|pertaining to marriage|বিবাহ সম্পর্কিত; দাম্পত্য|They enjoyed a happy *conjugal* life for fifty years.
+connubial|adj|pertaining to marriage|বিবাহ সম্পর্কিত|The couple's *connubial* bliss was the talk of the town.
+nuptial|adj|pertaining to marriage or a wedding|বিবাহ সম্পর্কিত|The *nuptial* ceremony began at noon.
+marital|adj|pertaining to marriage|বিবাহ সম্পর্কিত; বৈবাহিক|Please state your *marital* status on the form.
+# Husband or wife
+consort|n|husband or wife; also associate with|স্বামী বা স্ত্রী; সঙ্গী|The queen's *consort* attended every royal ceremony.
+consort|v|associate with|সঙ্গী হওয়া; মেলামেশা করা|He does not *consort* with people who lie.
+# Ancestors
+ancestor|n|a person from whom one is descended|পূর্বপুরুষ|Our *ancestor* planted this mango tree.
+antecedent|n|a person or thing that came before|পূর্বপুরুষ; পূর্ববর্তী বিষয়|Every *antecedent* of the clan was a farmer.
+forebear|n|an ancestor|পূর্বপুরুষ|Her *forebear* sailed here two centuries ago.
+forefather|n|an ancestor|পূর্বপুরুষ; পিতামহ|We honour our *forefathers* every year.
+progenitor|n|an ancestor; the originator of a line|আদি জনক; আদিপুরুষ|The founder was the *progenitor* of a great family.
+predecessor|n|one who held a position before another; an ancestor|পূর্বসূরি|The new principal praised his *predecessor*.
+# Descendants
+descendant|n|a person who comes from an ancestor|বংশধর|She is a *descendant* of a famous poet.
+posterity|n|all future generations; descendants|ভবিষ্যৎ বংশধর; উত্তরপুরুষ|The record was kept for *posterity*.
+progeny|n|children; offspring|সন্তান; বংশধর|The old farmer was proud of his *progeny*.
+ancestry|n|one's line of ancestors|পূর্বপুরুষের পরম্পরা|He traced his *ancestry* back to a village in Sylhet.
+lineage|n|direct descent from an ancestor|বংশধারা|Her *lineage* goes back to a royal house.
+scion|n|a descendant, especially of a notable family|বংশধর; উত্তরাধিকারী|The *scion* of a rich family opened a school.
+# Guardianship
+tutelage|n|guardianship; training|অভিভাবকত্ব|The boy grew up under his uncle's *tutelage*.
+tutelary|adj|pertaining to a guardianship|অভিভাবকত্ব-বিষয়ক|The village honoured a *tutelary* spirit.
+# Engagement
+betroth|v|promise to marry|বাগদান করা|They *betrothed* their daughter to a doctor.
+betrothal|n|an engagement to marry|বাগদান|The *betrothal* was announced at the family feast.
+espouse|v|marry; also adopt or support|বিয়ে করা; সমর্থন করা|She *espoused* the cause of free education.
+troth|n|a pledge of good faith, especially in betrothal|বাগদানের সময় স্থাপিত বিশ্বাস|He gave his *troth* before all the guests.
+# Marriage words
+nubile|adj|ready for marriage|বিবাহযোগ্য|The village saw her as a *nubile* young woman.
+misogamy|n|hatred of marriage|বিবাহ-বিদ্বেষ|His *misogamy* kept him single for life.
+celibate|adj|unmarried; abstaining from sexual intercourse|অবিবাহিত; কুমার বা কুমারী|The monk lived a *celibate* life.
+paramour|n|an illicit lover who is not the spouse|বিবাহ সম্পর্ক ব্যতীত অন্য কোনো প্রেমসংগী|The novel's villain had a secret *paramour*.
+uxorious|adj|excessively devoted to one's wife|স্ত্রৈণ|The *uxorious* husband obeyed his wife.
+polygamy|n|having more than one husband or wife at a time|বহুবিবাহ|*Polygamy* is illegal in many countries.
+polyandry|n|having more than one husband at a time|একাধিক স্বামী গ্রহণ|*Polyandry* is rare in the world.

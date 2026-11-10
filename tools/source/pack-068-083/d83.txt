@@ -1,0 +1,50 @@
+N: 83
+T: Normal/Abnormal
+S: An *abnormal*, *anomalous*, *antic*, *aberrant*, *atypical*, *preternatural* or *unearthly* event is an *anomaly* or *aberration*. An *erroneous* and *faulty* plan goes *awry* or *askew* and is *amiss*. A *commonplace*, *hackneyed*, *banal*, *trite*, *pedestrian*, *quotidian* and *prosaic* line is a *platitude*, a *cliché*, and *mundane*. An *apposite*, *seemly* and *condign* answer will *ameliorate* things, whereas an *adventitious* *mea culpa* admits a *solecism*, a *blunder*, a *faux pas*, or a *fallacy*. *Inerrancy* is rare, since anyone is *fallible*, and the *quintessence* of a *quintessential* man is rarely perfect.
+B: একটি অস্বাভাবিক, অসংগত, উদ্ভট, পথভ্রষ্ট, অনির্দিষ্ট, অতিপ্রাকৃত বা অলৌকিক ঘটনা এক অস্বাভাবিকতা বা বিচ্যুতি। একটি ভুল ও ত্রুটিযুক্ত পরিকল্পনা তীর্যক বা রীতিবিরুদ্ধ হয়ে যায় এবং ভুল পথে চলে। একটি প্রচলিত, জীর্ণ, একঘেয়ে, মামুলি, সাধারণ, দৈনন্দিন ও কল্পনাহীন বাক্য এক কমন কথাবার্তা, অতিরিক্ত ব্যবহৃত উক্তি, ও পার্থিব। একটি যথার্থ, শোভন ও যথোচিত উত্তর অবস্থা উন্নত করবে, আর আকস্মিক ভুল স্বীকারোক্তি ব্যাকরণগত ভুল, গুরুতর ভুল, সামাজিক আচার-আচরণের ভুল, বা ভ্রান্ত ধারণা স্বীকার করে। যথার্থতা বিরল, কারণ যে কেউ ভুলপ্রবণ, আর একজন সবচেয়ে কমন মানুষের সবচেয়ে বিশুদ্ধ অংশটুকু কদাচিৎ নিখুঁত।
+# Abnormal
+abnormal|adj|different from what is normal|অস্বাভাবিক|The doctor found an *abnormal* heartbeat.
+anomalous|adj|abnormal|অস্বাভাবিক|The result was *anomalous* and needed a recheck.
+antic|adj|abnormal; grotesque or ludicrous|অস্বাভাবিক|The clown's *antic* dance amused the kids.
+aberrant|adj|abnormal; departing from the normal|অস্বাভাবিক|His *aberrant* behaviour alarmed the family.
+atypical|adj|not typical|অস্বাভাবিক|It was an *atypical* day for the season.
+preternatural|adj|beyond what is natural|অস্বাভাবিক|She showed a *preternatural* calm in danger.
+unearthly|adj|supernatural; strange|অস্বাভাবিক|An *unearthly* cry came from the woods.
+# Abnormality
+anomaly|n|irregularity|অস্বাভাবিকতা|The data had one strange *anomaly*.
+aberration|n|a departure from what is normal|অস্বাভাবিকতা|His rudeness was a sudden *aberration*.
+# Containing error
+erroneous|adj|containing error|ভুল; ত্রুটিযুক্ত|The *erroneous* answer cost him a mark.
+faulty|adj|containing a fault|ভুল; ত্রুটিযুক্ত|A *faulty* wire caused the blackout.
+amiss|adj|wrong; out of order|ভুল; ত্রুটিযুক্ত|Something was *amiss* in the accounts.
+# Away from the correct course
+awry|adj|away from the correct or expected course|তীর্যক; রীতিবিরুদ্ধ|The plan went *awry* on the first day.
+askew|adj|crooked; not straight|তীর্যক; রীতিবিরুদ্ধ|The picture hung *askew* on the wall.
+# Ordinary
+commonplace|adj|ordinary; not unusual|প্রচলিত; মামুলি|Mobile phones are *commonplace* now.
+hackneyed|adj|made commonplace by overuse|প্রচলিত; মামুলি|The movie had a *hackneyed* plot.
+banal|adj|lacking originality; dull|প্রচলিত; মামুলি|His speech was full of *banal* remarks.
+trite|adj|made commonplace by overuse|প্রচলিত; মামুলি|The poem used *trite* images of love.
+pedestrian|adj|ordinary; dull|প্রচলিত; মামুলি|The food was *pedestrian* and bland.
+quotidian|adj|daily; ordinary|প্রচলিত; মামুলি|She wrote about *quotidian* village life.
+prosaic|adj|not fanciful or imaginative|প্রচলিত; মামুলি|His *prosaic* mind saw no magic in the sunset.
+platitude|n|a commonplace statement|কমন কথাবার্তা|The speaker offered only *platitudes*.
+cliché|n|an overused expression or idea|অতিরিক্ত ব্যবহৃত উক্তি বা ধারণা|Using a *cliché* like "better than the best" does not convince us.
+mundane|adj|concerned with the world or worldly matters; ordinary; also boring|পার্থিব; সাংসারিক; একঘেয়ে|He escaped *mundane* office work by painting.
+# Appropriate
+appropriate|adj|suitable; proper|যথার্থ|Wear *appropriate* clothes for the interview.
+apposite|adj|appropriate|যথার্থ|She gave an *apposite* reply.
+seemly|adj|appropriate; proper|যথার্থ|It is not *seemly* to shout at elders.
+condign|adj|appropriate; deserved|যথার্থ|The thief received *condign* punishment.
+ameliorate|v|improve; make better|উন্নত করা|New wells will *ameliorate* the water shortage.
+adventitious|adj|added from without; accidental|আকস্মিক; অস্বাভাবিক; অতিরিক্ত|Their meeting was *adventitious*, not planned.
+mea culpa|n|an admission of a personal fault or mistake|ভুল স্বীকারোক্তি|The minister offered a public *mea culpa*.
+# Mistakes
+inerrancy|n|infallibility|যথার্থতা|Few believe in the *inerrancy* of any book.
+fallacy|n|mistaken idea or flawed reasoning|ভ্রান্ত ধারণা; ভুয়া যুক্তি|It is a *fallacy* that bigger always means better.
+fallible|adj|liable to err|ভুলপ্রবণ|All humans are *fallible*.
+solecism|n|grammatical mistake|ব্যাকরণগত ভুল|"He go home" is a *solecism*.
+blunder|n|an embarrassing mistake|গুরুতর ভুল|Calling her by the wrong name was a *blunder*.
+faux pas|n|a social blunder|সামাজিক আচার-আচরণের ভুল|Arriving empty-handed was a *faux pas*.
+quintessence|n|the purest and most concentrated essence of something; also the most typical example|কোনো কিছুর সবচাইতে বিশুদ্ধ অংশটুকু; সারাংশ|He is the *quintessence* of kindness.
+quintessential|adj|most typical|সবচেয়ে কমন|Rice and fish is the *quintessential* Bengali meal.

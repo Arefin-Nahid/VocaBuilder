@@ -13,9 +13,10 @@
 
   function grade(k, res) {
     var today = VB.calendar.today, s = S.srs[k] || { b: 1, d: today };
-    if (res === "good") { s.b = Math.min(5, s.b + 1); s.d = u.addDays(today, cfg.intervals[s.b - 1]); }
-    else if (res === "hard") { s.d = u.addDays(today, Math.max(1, Math.floor(cfg.intervals[s.b - 1] / 2))); }
-    else { s.b = 1; s.d = u.addDays(today, 1); }
+    // Fixed gaps: Forgot = tomorrow, Hard = 3 days, Got it = 7 days.
+    if (res === "good") { s.b = Math.min(5, s.b + 1); s.d = u.addDays(today, cfg.gaps.good); }
+    else if (res === "hard") { s.d = u.addDays(today, cfg.gaps.hard); }
+    else { s.b = 1; s.d = u.addDays(today, cfg.gaps.again); }
     S.srs[k] = s;
   }
 

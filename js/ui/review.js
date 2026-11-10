@@ -29,7 +29,7 @@
       var key = R.deck[R.i], e = VB.vocab.ALL[key], b = S.srs[key].b, iv = cfg.intervals;
       h += '<div class="rv-top"><div class="rv-prog"><span>Card ' + (R.i + 1) + " of " + R.deck.length + '</span><div class="bar" aria-hidden="true"><i style="width:' + (R.i / R.deck.length * 100) + '%"></i></div></div>'
         + '<button class="rv-x" data-act="endReview" aria-label="End session" title="End session">' + ico(I.x, 18) + "</button></div>";
-      h += '<section class="card rv-card"><div class="rv-chips"><span class="rv-chip">Box ' + b + '</span><span class="rv-chip soft">' + esc(VB.vocab.day(e.day).t) + "</span></div>";
+      h += '<section class="card rv-card">';
       h += '<div class="rv-word"><div class="rv-wt">' + esc(e.w) + "</div>" + posTag(e.pos)
         + (VB.speech.supported ? '<button class="spk rv-spk" data-act="sayword" data-w="' + esc(e.w) + '" aria-label="Listen to ' + esc(e.w) + '" title="Listen">' + ico(I.spk, 20) + "</button>" : "") + "</div>";
       if (!R.flip) {
@@ -40,7 +40,7 @@
         h += '<div class="rv-ans"><div class="rv-row"><span class="rv-k">English</span><p>' + esc(e.m) + "</p></div>"
           + '<div class="rv-row"><span class="rv-k">বাংলা</span><p class="bnt">' + esc(BN[key] || "") + "</p></div>"
           + (ex ? '<div class="rv-row"><span class="rv-k">Sentence</span><p class="rv-ex">' + ex + "</p>"
-            + (VB.speech.supported ? '<button class="spk" data-act="saysent" data-k="' + esc(key) + '" aria-label="Listen to the sentence" title="Listen">' + ico(I.spk, 17) + "</button>" : "") + "</div>" : "")
+            + "</div>" : "")
           + "</div>";
         h += '<div class="rv-rate" role="group" aria-label="How well did you remember?">'
           + '<button data-act="rate" data-r="again" class="again">' + ico(I.again, 20) + "<b>Forgot</b><span>" + gap(1) + "</span></button>"

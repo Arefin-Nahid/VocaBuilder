@@ -1,7 +1,7 @@
 N: 62
 T: Literature, Art and Music (continued)
-S: The *overture* opened with a *crescendo*, and the *timbre* of the strings joined in *unison*. A singer began to *warble* a *madrigal*, and the *reprise* followed with the *keynote* of the *syncopation*. The conductor will *orchestrate* the show. In a *fable*, an *allegory* or a *parable*, a *raconteur* tells an *anecdote* in a *narrative*. A *saga* tells of heroes, and a *satire* attacks folly.
-B: সূচনাসুরটি তীব্রতা বাড়িয়ে শুরু হল, আর তারযন্ত্রের সুরের বৈশিষ্ট্য একতানে মিশে গেল। একজন গায়ক পল্লী গীতি গান গাইতে শুরু করলেন, আর পুরনো গান নতুন করে গাওয়া এল তালের বিচ্ছুরণের মূল সুর ধরে। পরিচালক অনুষ্ঠানের জন্য সুর সংগীতায়োজন করবেন। উপকথা, রূপক বা নীতিগল্পে এক গল্প-কথক একটি ক্ষুদ্র সত্য কাহিনী বলে একটি গল্পের আকারে। কিংবদন্তী কাহিনী বীরদের কথা বলে, আর ব্যঙ্গধর্মী রচনা মূর্খতাকে আক্রমণ করে।
+S: The concert began with an *overture* that built to a *crescendo*. Singers in *unison* sang a *madrigal*, and one with a clear *timbre* could *warble* like a bird. The band played with fresh *syncopation*, and the conductor chose to *orchestrate* a lively *reprise*. Between songs, a *raconteur* told an *anecdote*, a short *fable* with a moral, and the *narrative* felt like an *allegory* of the whole *saga*. The *keynote* was joy, and even a little *satire* made people smile.
+B: কনসার্ট শুরু হল এক প্রারম্ভিক সুর দিয়ে যা ক্রমে তুঙ্গে উঠল। গায়করা এক সুরে একটি মাদ্রিগাল গাইলেন, আর পরিষ্কার সুরবৈশিষ্ট্যের একজন পাখির মতো কণ্ঠে সুর তুলতে পারতেন। দল নতুন তাল-বিন্যাসে বাজাল, আর পরিচালক এক প্রাণবন্ত পুনরাবৃত্তি সাজানোর সিদ্ধান্ত নিলেন। গানের ফাঁকে এক গল্পকার একটি ছোট কাহিনি বললেন, নীতিকথাসহ এক রূপকথা, আর বর্ণনাটি পুরো মহাকাব্যের রূপক মনে হল। মূলসুর ছিল আনন্দ, আর সামান্য ব্যঙ্গও মানুষকে হাসাল।
 # Musical
 overture|n|a musical introduction; a proposal|সূচনাসুর|The opera began with a lively *overture*.
 crescendo|n|a gradual increase in volume or intensity|সুরের তীব্রতা|The music rose to a *crescendo*.

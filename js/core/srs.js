@@ -17,6 +17,7 @@
     if (res === "good") { s.b = Math.min(5, s.b + 1); s.d = u.addDays(today, cfg.gaps.good); }
     else if (res === "hard") { s.d = u.addDays(today, cfg.gaps.hard); }
     else { s.b = 1; s.d = u.addDays(today, cfg.gaps.again); }
+    s.r = res; // last rating, used by the Review screen summary
     S.srs[k] = s;
   }
 

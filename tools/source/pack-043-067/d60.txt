@@ -1,7 +1,7 @@
 N: 60
 T: Life and Death (continued)
-S: *Senility* and *dotage* bring *geriatric* troubles in the *senescent*, *hoary* old age, and the face turns *withered*, *wizened* and *shriveled*. For some a doctor offers *euthanasia*, though the *indefatigable* still work on. Doctors *inter* the dead, and detectives may *disinter* or *exhume* the body, while a tyrant may *decimate* a whole people.
-B: বার্ধক্যে ভীমরতি ও জরাগ্রস্ততা আসে, বয়স্ক, অত্যন্ত বৃদ্ধ বয়সে বার্ধক্যজনিত সমস্যা দেখা দেয়, আর মুখ শুকিয়ে, কুঁচকে ও কুঞ্চিত হয়ে যায়। কারো জন্য ডাক্তার যন্ত্রণাহীন মৃত্যুর প্রস্তাব দেন, যদিও অদম্যরা তবু কাজ করে চলে। মৃতদের কবর দেওয়া হয়, আর গোয়েন্দারা লাশ কবর থেকে তুলে আনতে পারে, আর এক অত্যাচারী পুরো একটি জাতিকে হত্যাযজ্ঞে শেষ করে দিতে পারে।
+S: The *hoary* old man, *wizened* and *shriveled*, lived in his *dotage* but was still *indefatigable*, walking daily. His doctor, a *geriatric* specialist, said *senility* had not touched him, though his body looked *withered* and *senescent*. His wife talked of *euthanasia* only in fear, and he laughed at it. A plague once threatened to *decimate* the village, and the dead had to be *interred*, though some graves were later *exhumed* and the bodies *disinterred* for study.
+B: পাকা চুলের বৃদ্ধ, কুঁচকে যাওয়া ও শুকিয়ে যাওয়া, বার্ধক্যে বাস করতেন তবু ছিলেন অক্লান্ত, রোজ হাঁটতেন। তাঁর ডাক্তার, এক বার্ধক্যরোগ বিশেষজ্ঞ, বললেন জরাগ্রস্ততা তাঁকে স্পর্শ করেনি, যদিও তাঁর শরীর দেখাত শুকনো ও বার্ধক্যগ্রস্ত। তাঁর স্ত্রী কেবল ভয়ে সুখমৃত্যুর কথা বলতেন, আর তিনি তা নিয়ে হাসতেন। একবার মহামারী গ্রামকে নির্মূল করার হুমকি দিয়েছিল, আর মৃতদের কবর দিতে হয়েছিল, যদিও কিছু কবর পরে খোঁড়া হল আর দেহ গবেষণার জন্য তোলা হল।
 # Old age
 senility|n|mental infirmity in old age|ভীমরতি|*Senility* made him forget his own name.
 dotage|n|mental infirmity in old age|ভীমরতি; জরাগ্রস্ততা|He spent his *dotage* in the village.

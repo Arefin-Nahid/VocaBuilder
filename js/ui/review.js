@@ -22,8 +22,8 @@
 
   function render() {
     var st = VB.state, R = st.R, due = VB.srs.dueKeys(), h = "", k;
-    var cnt = [0, 0, 0, 0, 0];
-    for (k in S.srs) cnt[S.srs[k].b - 1]++;
+    var cnt = { again: 0, hard: 0, good: 0 };
+    for (k in S.srs) if (VB.vocab.ALL[k]) cnt[S.srs[k].r || "again"]++;
 
     if (R && R.i < R.deck.length) {
       var key = R.deck[R.i], e = VB.vocab.ALL[key], b = S.srs[key].b, iv = cfg.intervals;
@@ -59,12 +59,12 @@
       h += '<div><div class="when">Spaced review</div><h1>Review</h1></div>';
       h += '<section class="rv-hero"><div class="rv-hn">' + due.length + '</div><div class="rv-hl">' + msg + "</div>"
         + (due.length ? '<button class="rv-go" data-act="startReview">' + ico(I.play, 16) + "<span>Start review</span></button><div class=\"rv-hs\">Up to " + cfg.reviewSize + " cards, hardest first</div>" : '<button class="rv-go" data-act="tab" data-tab="learn"><span>Go to the lesson</span></button>') + "</section>";
-      h += '<section class="card"><h2 class="rv-h2">Your boxes</h2><div class="boxes" style="margin-top:12px">';
-      var names = ["Box 1", "Box 2", "Box 3", "Box 4", "Box 5"];
-      cnt.forEach(function (c, i) { h += '<div class="box"><b>' + c + "</b><span>" + names[i] + "</span></div>"; });
+      var cats = [["again", "Forgot", "Review tomorrow", I.again], ["hard", "Hard", "Review in " + cfg.gaps.hard + " days", I.hard], ["good", "Got it", "Review in " + cfg.gaps.good + " days", I.good]];
+      h += '<section class="card"><h2 class="rv-h2">Your words</h2><p class="rv-sub">Where your words sit, by how you last rated them.</p><div class="rv-cats">';
+      cats.forEach(function (c) { h += '<div class="rv-cat"><span class="rv-ci">' + ico(c[3], 18) + '</span><div class="rv-ct"><b>' + c[1] + '</b><span>' + c[2] + '</span></div><div class="rv-cn">' + cnt[c[0]] + '</div></div>'; });
       h += '</div></section>'
         + '<details class="card how"><summary><span class="how-i" aria-hidden="true">?</span><span>How review works</span></summary><ul class="how-l">'
-        + '<li><b>Got it</b><span>The word moves up one box and returns in 7 days.</span></li><li><b>Hard</b><span>It stays in its box and returns in 3 days.</span></li>'
+        + '<li><b>Got it</b><span>The word returns in 7 days.</span></li><li><b>Hard</b><span>It returns in 3 days.</span></li>'
         + '<li><b>Forgot</b><span>It drops back to Box 1 and returns tomorrow.</span></li>'
         + '<li><b>Mixed on purpose</b><span>Words from different pages are shuffled together, which makes memory stronger.</span></li></ul></details>';
     }

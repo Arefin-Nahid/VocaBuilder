@@ -1,7 +1,7 @@
 N: 46
 T: Happy and Gloomy (continued)
-S: The prisoner would *writhe* in pain, and the *welt* from the whip burned on his back. Being put in the *pillory* was a cruel public shame. The judge was a *mawkish* man, and no show could *gratify* him. A *rapt* crowd watched in silence, and a beautiful song could *enrapture* even the guards.
-B: বন্দি যন্ত্রণায় মোচড়াত, আর চাবুকের দাগ তার পিঠে জ্বলত। কাঠের কাঠামোতে বেঁধে রাখা ছিল নির্মম প্রকাশ্য অপমান। বিচারক ছিলেন অতিরিক্ত ভাবপ্রবণ মানুষ, আর কোনো প্রদর্শনীই তাঁকে সন্তুষ্ট করতে পারত না। আবিষ্ট জনতা নীরবে দেখত, আর একটি সুন্দর গান এমনকি প্রহরীদেরও মুগ্ধ করতে পারত।
+S: The sailor would *writhe* in pain from the *welt* the rope left across his back. The crowd had come to *pillory* him, and some seemed to *gratify* their cruelty. Yet a street singer's *mawkish* song left everyone *rapt*, and its tender tune seemed to *enrapture* even the guards. They soon allowed him water, and the crowd quietly turned away, ashamed.
+B: পিঠে দড়ির ফুলে ওঠা দাগের যন্ত্রণায় নাবিক ছটফট করত। ভিড় এসেছিল তাকে প্রকাশ্যে অপমান করতে, আর কেউ কেউ নিজেদের নিষ্ঠুরতা তৃপ্ত করছিল। তবু এক পথগায়কের অতি-আবেগী গান সবাইকে মুগ্ধ করে রাখল, আর কোমল সুরটি যেন প্রহরীদেরও মোহিত করল। শিগগিরই তারা তাকে জল খেতে দিল, আর ভিড় লজ্জায় চুপচাপ সরে গেল।
 # Pain and punishment
 writhe|v|twist the body in pain|যন্ত্রণায় মোচড়ানো|He *writhed* in agony on the floor.
 welt|n|a raised mark left by a blow or whip|চাবুকের আঘাতের দাগ|The belt left a red *welt* on his arm.

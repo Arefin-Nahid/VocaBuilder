@@ -1,7 +1,7 @@
 N: 64
 T: Literature, Art and Music (continued)
-S: Leonardo, a *virtuoso*, could *depict* and *limn* a *vignette*, and almost every one is an *objet d'art*. His *fresco*, 'The Last Supper', is famous, and we regret that his *oeuvre* is not complete. The *choreography* of a dance, the *conservatory*, a *fugue* and a *rhapsody* belong to art. A *philistine* will not *rhapsodize* about them.
-B: লিওনার্দো, একজন শিল্পকর্মে দক্ষ, একটি সংক্ষিপ্ত চিত্র আঁকতে ও বর্ণনা করতে পারতেন, আর প্রায় প্রতিটিই শিল্পমূল্যসম্পন্ন চিত্র। তাঁর দেয়ালচিত্র 'দ্য লাস্ট সাপার' বিখ্যাত, আর আমরা দুঃখ করি যে তাঁর শিল্প সমগ্র সম্পূর্ণ নয়। নৃত্য-পরিকল্পনা, চারুকলা শিক্ষা কেন্দ্র, ঐকতান ও উচ্ছ্বাসপূর্ণ সংগীত শিল্পের অন্তর্গত। একজন শিল্পবোধহীন মানুষ এগুলো নিয়ে প্রবল উদ্দীপনায় কথা বলবে না।
+S: A *virtuoso* from the *conservatory* played a *fugue*, and the audience wanted to *rhapsodize*. His *rhapsody* ended with applause. In the hall, a *fresco* covered the wall, and a painter would *depict* and *limn* village life in a small *vignette*. A rare *objet d'art* stood on a shelf. A *philistine* may ignore such art, but her whole *oeuvre* moved the dancers in the *choreography*.
+B: সংগীত বিদ্যালয়ের এক গুণী শিল্পী একটি ফিউগ বাজালেন, আর দর্শকেরা উচ্ছ্বসিত প্রশংসা করতে চাইল। তাঁর আবেগময় সুররচনা করতালিতে শেষ হল। হলঘরে দেয়ালজুড়ে ছিল এক দেয়ালচিত্র, আর এক চিত্রকর ছোট এক ছবিতে গ্রামজীবন আঁকতেন ও ফুটিয়ে তুলতেন। তাকের ওপর ছিল একটি দুর্লভ শিল্পবস্তু। শিল্পবোধহীন মানুষ এমন শিল্প অগ্রাহ্য করতে পারে, কিন্তু তাঁর সমগ্র শিল্পকর্ম নৃত্যনির্দেশনায় নর্তকদের নাড়া দিল।
 # Making a portrait
 depict|v|make a portrait; describe|চিত্র আঁকা; বর্ণনা করা|The painting *depicts* a village market.
 limn|v|make a portrait; describe|চিত্র আঁকা; বর্ণনা করা|The artist *limned* the king's face.

@@ -1,7 +1,7 @@
 N: 54
 T: Laughter and Humor
-S: You shouldn't mind someone's *jocular* behavior. A *jocose* man may *simper* or *smirk*, and a *waggish*, *zany* friend gives a *wry* remark. Read a *satire* or a *satirical* piece and notice the *irony*. I failed in economics, and the *ironic* part is that it is the subject I understand most.
-B: কারো রসিকতাপূর্ণ আচরণে কিছু মনে করা উচিত নয়। একজন রসিক মানুষ বোকার মতো হাসতে পারে বা বিদ্রূপের হাসি হাসতে পারে, আর কৌতুকপূর্ণ, ভাঁড় বন্ধু দেয় কৌতুকপূর্ণভাবে ঘোরানো মন্তব্য। কোনো ব্যঙ্গধর্মী রচনা বা ব্যঙ্গাত্মক লেখা পড়ো আর শ্লেষটা লক্ষ করো। আমি অর্থনীতিতে ফেল করেছি, আর বিদ্রূপের বিষয় হল, এটাই সেই বিষয় যা আমি সবচেয়ে ভালো বুঝি।
+S: The *jocular* comedian wrote a *satirical* show full of *wry* jokes and *zany* stunts. His *waggish* tone poked fun at politicians in a sharp *satire*. A *jocose* mood filled the hall, and one man began to *smirk* while another began to *simper*, as the *irony* sank in. It was *ironic* that the loudest critic laughed hardest, and the comedian bowed with a *wry* smile.
+B: রসিক কৌতুকশিল্পী লিখলেন ব্যঙ্গাত্মক এক অনুষ্ঠান, ভরা ব্যঙ্গমিশ্রিত রসিকতা ও উদ্ভট কাণ্ডে। তাঁর দুষ্টুমিভরা সুর রাজনীতিবিদদের নিয়ে তীব্র ব্যঙ্গে ঠাট্টা করত। হলঘরে এক হাস্যোজ্জ্বল পরিবেশ ছিল, আর যখন বিদ্রূপ বোঝা গেল, এক লোক ঠোঁট বাঁকিয়ে হাসতে শুরু করল, আরেকজন অর্থহীন হাসি হাসল। মজার ব্যাপার, সবচেয়ে জোরালো সমালোচকই সবচেয়ে বেশি হাসল, আর কৌতুকশিল্পী বাঁকা হাসিতে মাথা নোয়ালেন।
 # Smiles
 simper|v|smile in a silly, self-conscious way|বোকার মতো হাসা|She *simpered* at every compliment.
 smirk|v|smile in a smug or mocking way|আত্মতুষ্ট বা বিদ্রূপের হাসি হাসা|He *smirked* when his rival slipped.

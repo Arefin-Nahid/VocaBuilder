@@ -1,7 +1,7 @@
 N: 63
 T: Literature, Art and Music (continued)
-S: Tagore did *indite* so much that an *anthology* of his work fills volumes. Choosing one *magnum opus* is hard, for he never stayed within a single *genre*. An *excerpt* from his *repertoire* shows a *motif* or a *leitmotif* in every *rendition*. A copy of another's style is a *pastiche*. At the opera, a *diva* sang, and my friend handed me the *libretto*.
-B: রবীন্দ্রনাথ এত বেশি রচনা করেছেন যে তাঁর বাছাই করা সাহিত্য-সংকলন কয়েক খণ্ডে ভরে যায়। একটি শ্রেষ্ঠ কর্ম বাছাই করা কঠিন, কারণ তিনি কোনো নির্দিষ্ট ঘরানায় বাঁধা পড়েননি। তাঁর শিল্পকর্মের তালিকা থেকে একটি উদ্ধৃতাংশ প্রতিটি অনুবাদে একটি মূল উপাদান বা প্রধান প্রসঙ্গ দেখায়। অন্যের শৈলীর অনুকরণে রচিত সাহিত্যকে বলে পাস্তিশ। অপেরায় একজন গায়িকা গাইলেন, আর আমার বন্ধু আমাকে অপেরার বই ধরিয়ে দিল।
+S: The composer chose to *indite* a *libretto* for his *magnum opus*. The *diva* with a wide *repertoire* sang a lovely *rendition*, and a recurring *leitmotif* and a simple *motif* tied the acts together. An *excerpt* appeared in an *anthology* of the best works in the *genre*, though one critic dismissed the work as a *pastiche*. Still, the audience loved the music, and the composer returned to the stage with tears in his eyes.
+B: সুরকার তাঁর শ্রেষ্ঠ কীর্তির জন্য একটি গীতিনাট্যের কথা রচনা করার সিদ্ধান্ত নিলেন। বিস্তৃত গানের তালিকাওয়ালা প্রধান গায়িকা মনোরম পরিবেশনা গাইলেন, আর বারবার ফিরে আসা মূল সুর ও এক সরল মূল ভাবনা অঙ্কগুলিকে জুড়ল। ধারাটির সেরা রচনার এক সংকলনে একটি উদ্ধৃতাংশ ছাপা হল, যদিও এক সমালোচক কাজটিকে অন্যের অনুকরণে রচিত বলে বাতিল করলেন। তবু শ্রোতারা সংগীত ভালোবাসল, আর সুরকার চোখে জল নিয়ে মঞ্চে ফিরে এলেন।
 # Writing
 indite|v|write; compose; produce a literary work|লেখা বা সাহিত্য রচনা করা|He *indited* a long letter to the editor.
 anthology|n|a book of literary selections by various authors|বাছাই করা সাহিত্য-সংকলন|She edited an *anthology* of modern poems.

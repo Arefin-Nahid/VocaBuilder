@@ -1,0 +1,26 @@
+N: 97
+T: Religion (continued)
+S: Visitors admired the old *icon*, a fine piece of *iconography*. The *prelate* of the *ecclesiastical* council called God *omnipotent*, *omniscient* and *omnipresent*. A fraud priest announced his own *apotheosis*, so the council moved to *defrock* him. An *iconoclast* laughed at the show. Even the *pope*, he said, rules a *papacy* of ordinary people. The young nun, safe in her *cloister*, found *monastic* life calm, while the *pontifical* ceremony felt too grand.
+B: দর্শনার্থীরা পুরোনো ধর্মীয় ভক্তির প্রতীকটির প্রশংসা করল, যা ছিল চমৎকার মূর্তিশিল্প। গির্জার পরিষদের উচ্চশ্রেণীর যাজক ঈশ্বরকে সর্বশক্তিমান, সর্বজ্ঞানী ও সর্বত্র বিরাজমান বললেন। এক ভণ্ড পুরোহিত নিজের দেবত্ব পাওয়ার ঘোষণা দিল, তাই পরিষদ তাকে পদ থেকে নামিয়ে দিল। এক সনাতন ধারণার বিরোধিতাকারী এই নাটক দেখে হাসল। সে বলল, এমনকি পোপও সাধারণ মানুষের ওপর পোপের অফিস চালান। তরুণ সন্ন্যাসিনী তার মঠে নিরাপদে থেকে মঠজীবনকে শান্ত পেল, আর পোপসুলভ অনুষ্ঠানটি তার কাছে বেশি জমকালো মনে হলো।
+# All-powerful
+omnipotent|adj|having unlimited power|সর্বশক্তিমান|The king believed himself *omnipotent*.
+omniscient|adj|having unlimited knowledge|সর্বজ্ঞানী|The story is told by an *omniscient* narrator.
+omnipresent|adj|being everywhere simultaneously|সর্বত্র বিরাজমান|Cameras are *omnipresent* in the modern city.
+ubiquitous|adj|being everywhere at once|সর্বত্র বিরাজমান|Mobile phones are now *ubiquitous*.
+universal|adj|being everywhere; of all|সর্বত্র বিরাজমান|Hunger is a *universal* fear.
+# Removing a priest
+defrock|v|remove a priest from his office|পুরোহিত বা যাজকের পদ থেকে নামিয়ে দেওয়া|The church decided to *defrock* the corrupt priest.
+unfrock|v|remove a priest from his office|পুরোহিত বা যাজকের পদ থেকে নামিয়ে দেওয়া|The bishop moved to *unfrock* him.
+apotheosis|n|the elevation of a person to the status of god|দেবত্ব পাওয়া|Her *apotheosis* as a pop star came overnight.
+# Icons
+icon|n|a religious image; idol|ধর্মীয় ভক্তির পাত্র|The church kept a gold *icon* of the saint.
+iconography|n|the traditional images or symbols associated with a subject|প্রতিমা বা মূর্তিশিল্প|The temple wall shows rich *iconography*.
+iconoclast|n|one who attacks traditional or popular ideas or institutions|সনাতন ধারণার বিরোধিতাকারী|The artist was an *iconoclast* who ignored every rule.
+# Church and offices
+ecclesiastical|adj|of or associated with a church|গির্জা সংক্রান্ত|He studied *ecclesiastical* law in Rome.
+cloister|n|a monastery or convent|মঠ|The nuns lived quietly in the *cloister*.
+monastic|adj|related to monks or monasteries|মঠ বা আশ্রম সম্পর্কিত|He chose a simple *monastic* life.
+papacy|n|the office of the pope|পোপের অফিস|The *papacy* has existed for centuries.
+prelate|n|an important or influential person of a church|গির্জার প্রভাবশালী ব্যক্তি; উচ্চশ্রেণীর যাজক|The *prelate* blessed the new cathedral.
+pope|n|the head of the Roman Catholic Church|রোমান ক্যাথলিক চার্চের প্রধান ধর্মগুরু|Thousands waited to see the *pope*.
+pontifical|adj|pertaining to a bishop or pope; pompous; pretentious|ধর্মযাজক বা পোপ সম্বন্ধীয়; ভণ্ড; দাম্ভিক|He spoke in a *pontifical* tone that irritated us.

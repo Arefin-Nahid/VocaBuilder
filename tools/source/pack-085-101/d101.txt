@@ -1,0 +1,52 @@
+N: 101
+T: Rude and Modest
+S: Mr. Rahim was *rude*; his *acerbic* tongue and *impertinence* annoyed everyone. His *churlish*, *surly* manner and sheer *insolence* drove guests away. Beside him, young Sara was *demure*, *diffident* and *unassuming*, yet always *civil* and *suave*. A *prude* may be *prim*, but good *decorum* wins people better than *effrontery*. When a *firebrand* turned *frantic* and a *zealot* grew *frenzied*, Sara calmly offered a cup of tea, a small *amenity* that calmed the room.
+B: মি. রহিম ছিলেন রূঢ়; তাঁর তীক্ষ্ণ জিভ আর ঔদ্ধত্য সবাইকে বিরক্ত করত। তাঁর রুক্ষ, বদমেজাজি আচরণ ও চরম ঔদ্ধত্য অতিথিদের তাড়িয়ে দিত। তাঁর পাশে তরুণী সারা ছিল বিনয়ী, লাজুক ও নম্র, তবু সবসময় ভদ্র ও মার্জিত। অত্যধিক শালীন মানুষ কৃত্রিমভাবে পরিপাটি হতে পারে, কিন্তু ভালো আচার-আচরণবোধ ঔদ্ধত্যের চেয়ে ভালোভাবে মানুষের মন জেতে। যখন এক উগ্রস্বভাবের ব্যক্তি উন্মত্ত হয়ে উঠল আর এক গোঁড়া ধর্মান্ধ ব্যক্তি ক্ষিপ্ত হলো, সারা শান্তভাবে এক কাপ চা এগিয়ে দিল, এক ছোট সৌজন্য যা পুরো ঘরকে শান্ত করে দিল।
+# Rude
+rude|adj|impolite; offensively blunt|রূঢ়; কর্কশ|It is *rude* to interrupt a speaker.
+acerbic|adj|rude; sharp and bitter|রূঢ়; কর্কশ|The critic's *acerbic* wit hurt the actors.
+acrimonious|adj|rude; bitter in manner|রূঢ়; কর্কশ|They had an *acrimonious* argument.
+boorish|adj|rude; rough in manners|রূঢ়; কর্কশ|His *boorish* behaviour embarrassed his wife.
+churlish|adj|rude; mean-spirited|রূঢ়; কর্কশ|It would be *churlish* to refuse their gift.
+curmudgeonly|adj|rude; bad-tempered|রূঢ়; কর্কশ|The *curmudgeonly* neighbour shouted at children.
+pert|adj|rude; cheekily bold|রূঢ়; কর্কশ|The *pert* girl answered back to the teacher.
+impertinent|adj|rude; disrespectful|রূঢ়; কর্কশ|That was an *impertinent* question.
+impudent|adj|rude; shamelessly bold|রূঢ়; কর্কশ|An *impudent* boy mocked the old man.
+astringent|adj|rude; harsh and severe|রূঢ়; কর্কশ|The review was *astringent* but fair.
+crabbed|adj|rude; bad-tempered|রূঢ়; কর্কশ|A *crabbed* old man guarded the gate.
+crass|adj|grossly insensible; lacking culture|সংস্কৃতির ছাপহীন; রূঢ়|It was *crass* to joke at a funeral.
+surly|adj|bad-tempered and unfriendly; grossly insensible|সংস্কৃতির ছাপহীন; রূঢ়|The *surly* waiter ignored our smiles.
+insolent|adj|rude; disrespectful|রূঢ়; কর্কশ|The *insolent* clerk refused to apologize.
+brazen|adj|rude; bold and shameless|রূঢ়; কর্কশ|It was a *brazen* lie told with a smile.
+# Rudeness
+impertinence|n|rudeness|রূঢ়তা; কর্কশভাব|His *impertinence* cost him the job.
+impudence|n|rudeness; shameless boldness|রূঢ়তা; কর্কশভাব|She had the *impudence* to laugh at the judge.
+insolence|n|rudeness; disrespect|রূঢ়তা; কর্কশভাব|The teacher punished the student's *insolence*.
+effrontery|n|rudeness; shameless boldness|রূঢ়তা; কর্কশভাব|He had the *effrontery* to ask for more money.
+haughtiness|n|rudeness; arrogance|রূঢ়তা; কর্কশভাব|Her *haughtiness* kept friends at a distance.
+# Artificially formal
+prim|adj|artificially formal; very proper|কৃত্রিমভাবে পরিপাটি|The *prim* housekeeper frowned at the mess.
+stilted|adj|artificially formal; stiff|কৃত্রিমভাবে পরিপাটি|His *stilted* speech sounded rehearsed.
+amenity|n|courtesies; convenient features|সৌজন্য; ভদ্রতা|The hotel offers every modern *amenity*.
+prude|n|an excessively modest, proper person|অত্যধিক শালীন|Only a *prude* would object to that joke.
+complaisant|adj|overly polite; obliging; trying to please|অত্যধিক বিনয়ী; সন্তুষ্ট করতে চায় এমন|The *complaisant* clerk agreed to every demand.
+# Modest
+modest|adj|humble; not boastful|বিনয়ী|She is *modest* about her great success.
+coy|adj|modest; shy|বিনয়ী; লাজুক|The *coy* girl hid behind her mother.
+coquettish|adj|modest in a flirtatious way|বিনয়ী|She gave a *coquettish* smile and looked away.
+diffident|adj|modest; lacking confidence|বিনয়ী|The *diffident* boy rarely raised his hand.
+demure|adj|modest; quiet and reserved|বিনয়ী|The bride looked *demure* in her red sari.
+retiring|adj|modest; shy of company|বিনয়ী|He was a *retiring* man who avoided crowds.
+unassuming|adj|modest; not showy|বিনয়ী|The *unassuming* hero never sought praise.
+civil|adj|modest; polite|বিনয়ী|Stay *civil* even when you disagree.
+suave|adj|modest and polished in manner|বিনয়ী; মার্জিত|The *suave* host welcomed every guest.
+# Wildly excited
+frantic|adj|wild; madly excited|উন্মত্ত; বুনো|She made a *frantic* search for her keys.
+frenetic|adj|wild; fast and energetic|উন্মত্ত; বুনো|The market was *frenetic* before the festival.
+frenzied|adj|wild; madly excited|উন্মত্ত; বুনো|A *frenzied* crowd rushed the gates.
+berserk|adj|wild; out of control|উন্মত্ত; বুনো|The bull went *berserk* in the field.
+zany|adj|wild; comic|উন্মত্ত; হাস্যকর|He wore a *zany* costume to the party.
+# Others
+decorum|n|propriety in manners and conduct|আচার-আচরণবোধের শিষ্টতা|Please keep *decorum* in the library.
+firebrand|n|a hothead; troublemaker|উগ্রস্বভাবের ব্যক্তি|The young *firebrand* stirred the crowd to anger.
+zealot|n|a fanatic; a person who shows excessive zeal|অতিশয় গোঁড়া, ধর্মান্ধ ব্যক্তি|The *zealot* refused to hear any other view.

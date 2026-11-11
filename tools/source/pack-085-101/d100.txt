@@ -1,0 +1,26 @@
+N: 100
+T: Restrain from Greed (continued)
+S: A *libertarian* friend said *liberation* matters most, but a *liberal* teacher refused to give anyone *carte blanche*. Their talk was *engrossing*, and the crowd stayed *engrossed*. At the party, a *bacchanalian* mood spread. The host tried to *entice* guests with *alluring* drinks, and some began to *swill* them. Followers of *teetotalism* chose *abstinence* and stayed *abstemious*, and the next morning's headache proved *inevitable* for the rest. The pull of the music was *irresistible*, yet they left early.
+B: এক উদার স্বাধীনতাপন্থী বন্ধু বলল, অধীনতা থেকে মুক্তিই সবচেয়ে গুরুত্বপূর্ণ, কিন্তু এক সহনশীল শিক্ষক কাউকে বেহিসাব ক্ষমতা দিতে রাজি হলেন না। তাঁদের আলাপ ছিল মোহাবিষ্ট করার মতো, আর ভিড় মন্ত্রমুগ্ধ হয়ে বসে রইল। পার্টিতে এক প্রচুর মদ্যপান জড়িত উদ্দাম আনন্দোৎসবের আমেজ ছড়িয়ে পড়ল। আয়োজক লোভনীয় পানীয় দিয়ে অতিথিদের আকর্ষণ করতে চাইলেন, আর কেউ কেউ লোভীর মতো ঢকঢক করে পান করতে শুরু করল। মদ্যপান থেকে সম্পূর্ণ দূরে থাকা লোকেরা পানাহার থেকে বিরত থেকে সংযত রইল, আর বাকিদের জন্য পরদিন সকালের মাথাব্যথা অবশ্যম্ভাবী হলো। গানের টান ছিল অপ্রতিরোধ্য, তবু তারা তাড়াতাড়ি চলে গেল।
+# Restraint in food and drink
+abstinence|n|restraining from eating and drinking|পানাহার থেকে বিরত থাকা|Fasting needs strict *abstinence* from food.
+abstemious|adj|sparing in eating and drinking|স্বল্পাহারী; পানাহারে সংযত|The monk led a quiet, *abstemious* life.
+teetotalism|n|the practice of restraining totally from alcoholic drinks|মদ্যপান থেকে সম্পূর্ণ দূরে থাকা|His *teetotalism* surprised his old friends.
+bacchanalian|adj|related to unrestrained merrymaking which involves heavy drinking|প্রচুর মদ্যপান জড়িত উদ্দাম আনন্দোৎসব|The wedding turned into a *bacchanalian* feast.
+swill|v|drink greedily|লোভীর মতো ঢকঢক করে পান করা|The thirsty men *swill* water from the bucket.
+# Irresistible
+irresistible|adj|too strong or attractive to resist|অপ্রতিরোধ্য|The smell of fresh bread was *irresistible*.
+ineluctable|adj|impossible to avoid|অপ্রতিরোধ্য; অবশ্যম্ভাবী|Death is an *ineluctable* part of life.
+inescapable|adj|impossible to escape|অপ্রতিরোধ্য; অবশ্যম্ভাবী|The *inescapable* truth was clear to all.
+inevitable|adj|unavoidable|অবশ্যম্ভাবী|Delay was *inevitable* because of the storm.
+engrossing|adj|holding one's whole attention|অপ্রতিরোধ্য; মোহাবিষ্ট|It was an *engrossing* story from start to end.
+engrossed|adj|marked by complete attention|মন্ত্রমুগ্ধ; মোহাবিষ্ট|She was *engrossed* in her book.
+# Freedom
+liberation|n|freedom; emancipation|অধীনতা থেকে মুক্তি|The *liberation* of the town was celebrated for days.
+libertarian|n|one who believes in unrestricted freedom|উদার স্বাধীনতাপন্থী|A *libertarian* wants minimum control by the state.
+liberal|adj|tolerant, broad-minded; generous|সহনশীল; খরুচে|He holds *liberal* views about education.
+carte blanche|n|unrestrained or unrestricted power|বেহিসাব ক্ষমতা|The director was given *carte blanche* to choose actors.
+# Tempting
+entice|v|lure; attract; tempt|আকর্ষণ করা|Shops *entice* buyers with big discounts.
+alluring|adj|tempting; enticing; attractive|লোভনীয়|The *alluring* offer turned out to be a trap.
+boycott|v|refrain from using and buying|কেনা বা ব্যবহার করা থেকে বিরত থাকা|Customers decided to *boycott* the unfair shop.

@@ -1,0 +1,27 @@
+N: 91
+T: Predict the Future (continued)
+S: The weather in the hills was *capricious*, and so was Grandpa. A *crotchety* man with a *whim* for odd hours, he wore *bizarre* hats and loved every *quirk* of his *eccentric* life. His *antic* jokes made us laugh, though a sudden *tantrum* could follow, and his moods were *erratic* and *incalculable*. Yet his *intuition* about people was sharp, and his *intuitive* hunches were never *devious*. One *whimsical* idea, a *bohemian* picnic in the rain, became our best memory.
+B: পাহাড়ের আবহাওয়া ছিল খামখেয়ালি, দাদুও তাই। অদ্ভুত সময়ে কাজ করার খেয়ালওয়ালা এই বদমেজাজি মানুষটি উদ্ভট টুপি পরতেন আর তাঁর উদ্ভট জীবনের প্রতিটি বৈশিষ্ট্য ভালোবাসতেন। তাঁর অদ্ভুত রসিকতায় আমরা হাসতাম, যদিও হঠাৎ রাগের ঝড় আসতে পারত, আর তাঁর মেজাজ ছিল অনিয়মিত ও হিসাবের অতীত। তবু মানুষ সম্পর্কে তাঁর সুচতুর অনুমান ছিল তীক্ষ্ণ, আর তাঁর সহজাত আন্দাজ কখনো কুটিল ছিল না। একটি আকস্মিক খেয়ালি ধারণা, বৃষ্টিতে এক শিল্পীসুলভ পিকনিক, আমাদের সেরা স্মৃতি হয়ে রইল।
+# Unpredictable / peculiar
+capricious|adj|unpredictable; likely to change suddenly|অনুমান করা যায় না এমন|The *capricious* wind kept changing direction.
+crotchety|adj|unpredictable; peculiar; bad-tempered|অনুমান করা যায় না এমন|The *crotchety* old man scolded the children.
+bizarre|adj|very strange|অনুমান করা যায় না এমন; উদ্ভট|The film had a *bizarre* ending.
+labile|adj|likely to change|অনুমান করা যায় না এমন|His *labile* mood worried the nurse.
+antic|adj|odd; grotesque or ludicrous|অনুমান করা যায় না এমন|The monkey's *antic* leaps made us laugh.
+eccentric|adj|odd; unconventional|অনুমান করা যায় না এমন; উদ্ভট|The *eccentric* artist kept a goat in his studio.
+whimsical|adj|playful, fanciful or peculiar|অনুমান করা যায় না এমন|She wore a *whimsical* hat with feathers.
+incalculable|adj|too great to be counted or predicted|অনুমান করা যায় না এমন|The flood caused *incalculable* damage.
+erratic|adj|not regular or steady|অনুমান করা যায় না এমন|The bus ran on an *erratic* schedule.
+devious|adj|not straightforward; sly|অনুমান করা যায় না এমন; কুটিল|He used *devious* tricks to win.
+bohemian|adj|living an unconventional, artistic way of life|অনুমান করা যায় না এমন; শিল্পীসুলভ|They enjoyed a *bohemian* life in the old city.
+# Unpredictability
+whim|n|a sudden fancy|খামখেয়াল; পরিবর্তনশীলতা|He bought the boat on a *whim*.
+caprice|n|a sudden change of mind or behavior|খামখেয়াল; পরিবর্তনশীলতা|She left the job out of *caprice*.
+quirk|n|a peculiar habit or trait|খামখেয়াল; পরিবর্তনশীলতা|His only *quirk* is eating soup with a fork.
+tantrum|n|a sudden outburst of bad temper|খামখেয়াল; পরিবর্তনশীলতা|The child threw a *tantrum* in the shop.
+whimsy|n|a playful, fanciful or peculiar idea|আকস্মিক খেয়াল|The garden was full of charm and *whimsy*.
+# Intuition
+intuition|n|immediate insight; the power of knowing without reasoning|সুচতুর অনুমান|Her *intuition* told her something was wrong.
+intuitive|adj|obtained through intuition|চতুর অনুমানমূলক|He has an *intuitive* feel for music.
+visceral|adj|obtained through intuition; deeply felt|চতুর অনুমানমূলক|She felt a *visceral* fear of heights.
+apocalyptic|adj|predicting devastation or doom|কেয়ামতের ভবিষ্যদ্বাণী সম্পর্কিত|The film shows an *apocalyptic* future.

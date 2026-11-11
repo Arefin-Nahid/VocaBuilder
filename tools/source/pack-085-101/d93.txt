@@ -1,0 +1,21 @@
+N: 93
+T: Quarrel (continued)
+S: The two clubs had a long *antagonism*, and each old *adversary* seemed a *bane* to the other. After the match an *altercation* began, and some boys, full of *pugnacity*, were *pugnacious* even with the referee. A former *pugilist* tried to stop them, but one angry boy hurled an *imprecation* at him, calling him an *anathema*. The *ombudsman* of the league agreed to *mediate*, hoping to *reconcile* the teams and end the *animosity*.
+B: দুই ক্লাবের মধ্যে দীর্ঘ শত্রুতা ছিল, আর প্রতিটি পুরোনো প্রতিদ্বন্দ্বী অন্যের কাছে অভিশাপ মনে হতো। ম্যাচের পর কোন্দল শুরু হলো, আর যুযুৎসায় ভরা কিছু ছেলে রেফারির সঙ্গেও লড়াইপ্রিয় আচরণ করল। এক প্রাক্তন মুষ্টিযোদ্ধা তাদের থামাতে চাইলেন, কিন্তু এক রাগী ছেলে তাঁর দিকে অভিশাপ ছুড়ে দিল এবং তাঁকে ঘৃণ্য ব্যক্তি বলল। লিগের মধ্যস্থতাকারী মধ্যস্থতা করতে রাজি হলেন, আশা করে যে দল দুটিকে মিটমাট করে শত্রুতা শেষ করবেন।
+# Curse / cause of destruction
+bane|n|a curse; a cause of destruction|অভিশাপ; ধ্বংসের কারণ|Mosquitoes are the *bane* of summer evenings.
+imprecation|n|a curse|অভিশাপ; ধ্বংসের কারণ|He muttered an *imprecation* and slammed the door.
+anathema|n|a curse; a hated person or thing|অভিশাপ; ঘৃণ্য ব্যক্তি|Cheating is *anathema* to our coach.
+# Active enmity
+animosity|n|active enmity; hostility|শত্রুতা|There was deep *animosity* between the rivals.
+antagonism|n|active hostility|শত্রুতা|Years of *antagonism* ruined the partnership.
+adversary|n|opponent; enemy|প্রতিদ্বন্দ্বী; শত্রু|The chess player studied his *adversary* carefully.
+altercation|n|a noisy quarrel; a heated dispute|ঝগড়া; কোন্দল|A brief *altercation* broke out at the gate.
+# Settling a quarrel
+reconcile|v|become friendly after a quarrel; correct inconsistencies|মিটমাট করে ফেলা; ভুল শুধরে নেওয়া|The two sisters decided to *reconcile*.
+ombudsman|n|a person who investigates complaints and mediates settlements between parties|মধ্যস্থতাকারী|The *ombudsman* looked into the customer's complaint.
+mediate|v|settle a dispute through the services of an outsider|মধ্যস্থতা করা|A senior judge agreed to *mediate* the dispute.
+# Fighting words (pug-)
+pugilist|n|someone who fights with his fists for sport|মুষ্টিযোদ্ধা|The retired *pugilist* now trains young boxers.
+pugnacious|adj|eager to fight|লড়াইপ্রিয়; কলহবাদী|The *pugnacious* boy challenged everyone.
+pugnacity|n|disposition to fight|যুযুৎসা; কলহ করার আকুল আকাঙ্ক্ষা|His *pugnacity* got him into trouble.

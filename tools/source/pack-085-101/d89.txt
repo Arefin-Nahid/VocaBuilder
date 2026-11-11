@@ -1,0 +1,30 @@
+N: 89
+T: Plants
+S: The *botanist* led us through the *arboretum*, where each tree told a story. The local *flora* belongs to a single *phylum* of plants. A *deciduous* tree, she said, will *defoliate* in autumn, while the *conifer* keeps its needles. In spring every *verdant* hill is full of fresh *verdure*, and young shoots *burgeon* beside each *frond*. Rich soil gives *fecundity* to *arable* land, and good *horticulture* brings flowers into *fruition*. Even a *sylvan* path, thick with *foliage*, felt calm.
+B: উদ্ভিদবিজ্ঞানী আমাদের উদ্ভিদ উদ্যানের ভেতর দিয়ে নিয়ে গেলেন, যেখানে প্রতিটি গাছ একটি গল্প বলছিল। এখানকার উদ্ভিদকুল উদ্ভিদের একটিমাত্র পর্বের অন্তর্গত। তিনি বললেন, পত্রঝরা গাছ শরতে পাতা ঝরিয়ে দেবে, আর পাইনজাতীয় গাছ তার সূচালো পাতা ধরে রাখে। বসন্তে প্রতিটি সবুজ শ্যামলিমাযুক্ত পাহাড় তাজা সবুজ উদ্ভিদে ভরে ওঠে, আর প্রতিটি পাতার পাশে কচি অঙ্কুর মুকুল ধরে। উর্বর মাটি চাষযোগ্য জমিতে উৎপাদন ক্ষমতা দেয়, আর ভালো উদ্যানবিদ্যা ফুলকে ফলধারণে পৌঁছে দেয়। এমনকি ঘন পল্লবগুচ্ছে ভরা বনের পথটিও শান্ত লাগছিল।
+# Plants in general
+phylum|n|major classification, second to kingdom, of plants and animals|উদ্ভিদ বা প্রাণীর শ্রেণীবিন্যাসের দ্বিতীয় ধাপ|Mosses belong to a different *phylum* from ferns.
+flora|n|plants of a region or era|উদ্ভিদকুল; কোনো অঞ্চলের বা যুগের যাবতীয় উদ্ভিদ|The island's *flora* includes many rare orchids.
+arboretum|n|a place where different varieties of trees are studied and exhibited|উদ্ভিদবিদ্যা অনুশীলনের উপযোগী উদ্যান|We spent Sunday walking in the *arboretum*.
+botanist|n|a scientist who studies plants|উদ্ভিদবিজ্ঞানী|The *botanist* named a new species of fern.
+# Leaves
+foliage|n|masses of leaves|গাছের সকল পাতা; পল্লবগুচ্ছ|The thick *foliage* hid the little bird.
+defoliate|v|destroy leaves|গাছপালা থেকে পাতা ঝরিয়ে দেওয়া|The strong storm will *defoliate* the young trees.
+deciduous|adj|falling off, as leaves|পত্রঝরা বৃক্ষ|Most *deciduous* trees lose leaves in winter.
+whorl|n|a ring of leaves around a stem|ডাঁটার চারপাশে চক্রাকারে জড়ানো পাতা|Each *whorl* on the plant held five leaves.
+frond|n|a fern leaf; a palm or banana leaf|ফার্ন উদ্ভিদের পাতা; তাল বা কলাপাতা|A large *frond* shaded the pond.
+# Pertaining to wood
+ligneous|adj|pertaining to wood|কাঠ বা বন সম্পর্কিত|The shrub has a hard, *ligneous* stem.
+sylvan|adj|pertaining to wood or forest|কাঠ বা বন সম্পর্কিত|They rested in a quiet *sylvan* glade.
+# Green and fruitful
+verdure|n|fresh, green vegetation|তাজা, সবুজ উদ্ভিদের শ্যামলিমা|The *verdure* of the fields calmed her eyes.
+verdant|adj|lush in vegetation|সবুজ শ্যামলিমাযুক্ত|Bangladesh looks *verdant* after the monsoon.
+fruition|n|bearing of fruit; fulfillment; realization|ফলধারণ|Her years of effort finally came to *fruition*.
+fructify|v|bear fruit|ফলধারণ করা|The mango trees *fructify* in early summer.
+fecundity|n|fruitfulness; fertility|উর্বরতা; উৎপাদন ক্ষমতা|The river gave the delta great *fecundity*.
+conifer|n|a pine tree; a cone-bearing tree|পাইন বৃক্ষ|A tall *conifer* stood by the cabin.
+# Gardening and growth
+horticulture|n|cultivation of gardens|উদ্যানবিদ্যা|She studied *horticulture* at agricultural college.
+dichotomy|n|branching into two branches; hesitation between two things|কাণ্ডের দুটো শাখায় বিভাজিত হওয়া; উভয় সংকট|There is a sharp *dichotomy* between theory and practice.
+burgeon|v|send out buds; grow rapidly|মুকুল বা পাতা ধরা; দ্রুত বেড়ে ওঠা|Small shops *burgeon* along the new road.
+arable|adj|fit for growing crops|চাষযোগ্য|Most of the *arable* land lies near the river.

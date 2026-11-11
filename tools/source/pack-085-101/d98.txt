@@ -1,0 +1,13 @@
+N: 98
+T: Religion (continued)
+S: Grandma kept a small *totem* by her door. She believed in *karma* and said each deed shapes the next life. A passing *mystic* shared a *mystical* tale of an *avatar* who came as a fish. A *shaman* from the hills healed the sick, she said, and her *patron saint* guarded travellers. Even the *sibyl* of old stories, she smiled, had no better advice than kindness.
+B: দাদি দরজার পাশে একটি ছোট টোটেম রাখতেন। তিনি কর্মফলে বিশ্বাস করতেন এবং বলতেন, প্রতিটি কাজ পরের জন্মকে গড়ে। এক পথিক অতীন্দ্রিয়বাদী এক অতীন্দ্রিয় গল্প বলল, মাছের রূপে আসা এক অবতারের। তিনি বললেন, পাহাড়ের এক ওঝা রোগ নিরাময় করত, আর তাঁর পৃষ্ঠপোষক সন্ত যাত্রীদের রক্ষা করতেন। হেসে তিনি বললেন, পুরোনো গল্পের ভবিষ্যদ্বক্তা মহিলাও দয়ার চেয়ে ভালো পরামর্শ দিতে পারেননি।
+# Beliefs and holy people
+totem|n|a natural object or animal believed to have spiritual significance|এমন কোনো প্রাণী বা বস্তু যার আধ্যাত্মিক গুরুত্ব আছে বলে মনে করা হয়|The tribe carved a *totem* of an eagle.
+karma|n|a person's life force which determines his destiny in the next life|এ জন্মের কর্ম, যা পরবর্তী জন্মের নিয়তি নির্ধারণ করে|She believes good deeds improve her *karma*.
+avatar|n|the appearance of a Hindu god on the earth in human or animal form|অবতার; দেবতাদের মানুষ বা প্রাণীরূপ|Krishna is an *avatar* of Vishnu.
+sibyl|n|a woman regarded as an oracle or prophet by the ancient Greeks and Romans|প্রাচীন গ্রীক ও রোমানরা যে মহিলাকে ভবিষ্যদ্বক্তা হিসেবে শ্রদ্ধা করত|The *sibyl* of Cumae was famous across Rome.
+mystic|n|a person who undergoes deep spiritual experience|অতীন্দ্রিয়বাদী; আধ্যাত্মবাদী|The *mystic* lived alone in a mountain cave.
+mystical|adj|relating to mystical communion with an ultimate reality|অতীন্দ্রিয়বাদ বা আধ্যাত্মবাদ সম্পর্কিত|He described a *mystical* experience during prayer.
+shaman|n|one who acts as a medium between the natural and supernatural worlds and cures illnesses|যে ব্যক্তি পার্থিব ও অপার্থিব জগতের মধ্যে সম্পর্ক স্থাপন করে ও রোগ নিরাময় করতে পারে|The *shaman* chanted beside the sick child.
+patron saint|n|a saint regarded as a negotiator in heaven for a person, nation etc.|ব্যক্তি বা জাতির স্বর্গলাভের জন্য মধ্যস্থতাকারী ব্যক্তি|Sailors pray to their *patron saint* before a voyage.

@@ -9,13 +9,14 @@
   function wordOfDay() {
     var ALL = VB.vocab.ALL, done = S.done || {}, d = new Date();
     var today = d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
-    var pool = Object.keys(ALL).filter(function (k) { return done[ALL[k].day] && /^[a-z]{4,14}$/.test(k); }).sort();
-    if (!pool.length) pool = Object.keys(ALL).filter(function (k) { return ALL[k].day === VB.state.cur && /^[a-z]{4,14}$/.test(k); }).sort();
-    if (!pool.length) return null;
     try {
       var st = JSON.parse(localStorage.getItem("vb-wod") || "null");
-      if (st && st.d === today && ALL[st.k] && pool.indexOf(st.k) > -1) return ALL[st.k];
+      if (st && st.d === today && ALL[st.k]) return ALL[st.k];
     } catch (e) {}
+    var ok = function (k) { return /^[a-z]{4,14}$/.test(k); };
+    var up = VB.progress.upNext(), head = VB.vocab.headOf(up), pages = head ? head.pages : [up];
+    var pool = Object.keys(ALL).filter(function (k) { return ok(k) && pages.indexOf(ALL[k].day) > -1; }).sort();
+    if (!pool.length) return null;
     var n = Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5);
     var k = pool[(n * 7919) % pool.length];
     try { localStorage.setItem("vb-wod", JSON.stringify({ d: today, k: k })); } catch (e) {}

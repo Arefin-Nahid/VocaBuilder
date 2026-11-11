@@ -1,0 +1,21 @@
+N: 96
+T: Religion (continued)
+S: Before the pilgrimage, the *clergy* explained the journey to the *laity*. The *apostle* of the group, a serious man, would *proselytize* no one. A tired traveller who feared *purgatory* said he would not accept *tonsure*, nor *immolate* a goat. The guide chose *exegesis* over argument and joined a *litany* with the crowd. His *theological* talk about each *sect* was *ecumenical*, and no one spoke of *apostasy* or *theocracy*.
+B: তীর্থযাত্রার আগে পাদ্রীরা সাধারণ মানুষকে যাত্রাটি বুঝিয়ে দিলেন। দলের ধর্মপ্রচারক, এক গম্ভীর মানুষ, কাউকে ধর্মান্তরিত করতে প্ররোচিত করবেন না। আধ্যাত্মিক প্রায়শ্চিত্তের স্থানকে ভয় পাওয়া এক ক্লান্ত যাত্রী বলল, সে মস্তক মুণ্ডন মানবে না, একটি ছাগলও উৎসর্গ করবে না। পথপ্রদর্শক তর্কের বদলে ধর্মীয় ব্যাখ্যা বেছে নিলেন আর ভিড়ের সঙ্গে মুনাজাতে যোগ দিলেন। প্রতিটি সম্প্রদায় নিয়ে তাঁর ধর্মতত্ত্বীয় আলোচনা ছিল সর্বজনীন, আর কেউ ধর্মত্যাগ বা ধর্মীয় গুরুদের সরকার নিয়ে কিছু বলল না।
+# Religious practices
+purgatory|n|a place of spiritual expiation|আধ্যাত্মিক প্রায়শ্চিত্তের স্থান|The poem describes a soul's journey through *purgatory*.
+tonsure|n|shaving of the head, especially by a person entering a religious order|ধর্মীয় কারণে মস্তক মুণ্ডন|The young monk received his *tonsure* at dawn.
+immolate|v|offer as a sacrifice|উৎসর্গ করা বা বলি দেওয়া|Ancient priests would *immolate* a lamb.
+exegesis|n|explanation, especially of a biblical passage|তর্জমা|His *exegesis* of the verse was deep and clear.
+litany|n|a supplicatory prayer led by a priest, with responses from the congregation|মুনাজাত; জনসমাবেশের পক্ষ থেকে ঈশ্বরের কাছে সাহায্য চেয়ে যাজকের প্রার্থনা|The congregation joined the *litany* in low voices.
+# Faith and people
+apostle|n|a missionary who spreads religion|ধর্মপ্রচারকারী|The *apostle* travelled from village to village.
+apostasy|n|renouncing religion|ধর্মত্যাগ|The king punished *apostasy* with exile.
+proselytize|v|induce someone to convert religion or belief|কাউকে ধর্ম বা বিশ্বাস পরিবর্তন করতে প্ররোচনা দেওয়া|The group did not *proselytize* in public.
+ecumenical|adj|concerned with promoting unity among churches or religions; universal|সকল চার্চের মধ্যে সমন্বয় ঘটানোর জন্য সচেষ্ট; সার্বজনীন|The meeting had an *ecumenical* spirit.
+sect|n|a separate religious body|একই ধর্মের মধ্যে ভিন্ন ভিন্ন সম্প্রদায়|Each *sect* followed its own customs.
+# Church and religion
+clergy|n|persons related to the church|পাদ্রী, যাজক প্রভৃতি|The *clergy* led the Sunday service.
+laity|n|persons not related to the church|যাদের ওপর যাজকসুলভ দায়িত্ব নেই|The *laity* sat quietly in the back rows.
+theocracy|n|government ruled by a religious leader|ধর্মীয় গুরু দ্বারা গঠিত সরকার|Iran is often described as a *theocracy*.
+theological|adj|concerning the study of religion|ধর্মতত্ত্বীয়|She attended a *theological* college.

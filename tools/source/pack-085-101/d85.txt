@@ -1,0 +1,18 @@
+N: 85
+T: Philosophy
+S: Rafi joined a late-night talk on *metaphysics*, a *metaphysical* puzzle about what is real. One friend defended *dualism*, saying mind and body are separate. Another preferred *monism*, where everything is one substance. A law student, fond of *jurisprudence*, called *fatalism* a lazy excuse, since *nihilism* offers no meaning at all. The teacher mentioned *deconstructionism*, *essentialism* and even *lamarckism*, smiling at each. Rafi found the *nihilistic* mood gloomy and the *metaphysic* behind it weak. He left tired but curious, with more questions than answers.
+B: রাফি গভীর রাতের এক আলোচনায় যোগ দিল, যেখানে অধিবিদ্যা নিয়ে এক অধিবিদ্যাগত ধাঁধা ছিল—বাস্তব বলতে কী বোঝায়। এক বন্ধু দ্বৈতবাদের পক্ষে বলল, মন আর শরীর আলাদা। আরেকজন অদ্বৈত মতবাদ পছন্দ করল, যেখানে সবকিছু একটিমাত্র পদার্থ। আইনশাস্ত্রপ্রেমী এক ছাত্র নিয়তিবাদকে অলস অজুহাত বলল, কারণ ধ্বংসবাদ কোনো অর্থই দেয় না। শিক্ষক বিনির্মাণবাদ, সারসত্তাবাদ এমনকি ল্যামার্কবাদের কথাও বললেন, প্রতিটির সময় হেসে। রাফির কাছে ধ্বংসবাদী মনোভাবটা বিষণ্ণ আর তার পেছনের মৌলিক দর্শনটা দুর্বল মনে হলো। সে ক্লান্ত কিন্তু কৌতূহলী হয়ে ফিরল, উত্তরের চেয়ে প্রশ্ন নিয়েই বেশি।
+# Metaphysics
+metaphysics|n|speculative philosophy about the nature of reality|অধিবিদ্যা; দর্শনশাস্ত্র|He studies *metaphysics* at the university.
+metaphysic|n|an underlying philosophical or theoretical example|মৌলিক দর্শনগত উদাহরণ|The book rests on a simple *metaphysic* of hope.
+metaphysical|adj|pertaining to speculative philosophy|অধিবিদ্যা সংক্রান্ত|They held a *metaphysical* debate about time.
+# Different philosophies
+dualism|n|belief that reality has two fundamental elements, such as mind and body|দ্বৈতবাদ|*Dualism* separates the mind from the body.
+deconstructionism|n|literary theory exposing hidden contradictions below a text's surface meaning|বিনির্মাণবাদ; লুকানো অসংগতি খোঁজার দর্শন|*Deconstructionism* questions the obvious meaning of a text.
+essentialism|n|theory that every entity has necessary defining characteristics|প্রত্যেক জিনিসের নির্দিষ্ট বৈশিষ্ট্য থাকার দর্শন|*Essentialism* says each thing has a fixed nature.
+fatalism|n|doctrine that all events are predetermined and humans are powerless|অদৃষ্টবাদ; নিয়তিবাদ|His *fatalism* made him stop trying.
+jurisprudence|n|the science or philosophy of law|আইনশাস্ত্র|She teaches *jurisprudence* at the law college.
+lamarckism|n|theory that acquired characteristics are passed to offspring|ল্যামার্কের বিবর্তনবাদ|*Lamarckism* was later rejected by biologists.
+monism|n|belief that reality is made of one fundamental substance|সবকিছু এক মূল পদার্থের রূপ—এই মতবাদ|*Monism* sees all things as one substance.
+nihilism|n|belief that existence and traditional values are meaningless|ধ্বংসবাদ|His *nihilism* left him without any goal.
+nihilistic|adj|relating to nihilism|ধ্বংসবাদী|The film has a dark, *nihilistic* tone.

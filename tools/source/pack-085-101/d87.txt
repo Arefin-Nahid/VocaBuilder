@@ -1,0 +1,31 @@
+N: 87
+T: Philosophy (continued)
+S: An *epistemologist* gave a lecture on how people gain knowledge. He said a *sophist* may win debates with tricks, but a true thinker stays *cognizant* of facts. Without *cognizance* of the evidence, he warned, we only *speculate*. In this *cognitive* study, every *thesis* begins with a *premise*, and each *hypothesis* needs testing. A *truism* such as “practice makes perfect” feels *axiomatic*, yet an *assumption* can mislead. His *hypothetical* example was a spy travelling *incognito* into *terra incognita*, where only *nescience* waited.
+B: একজন জ্ঞানতত্ত্ববিদ মানুষ কীভাবে জ্ঞান অর্জন করে তা নিয়ে বক্তৃতা দিলেন। তিনি বললেন, কুতার্কিক কৌশল দিয়ে তর্কে জিততে পারে, কিন্তু প্রকৃত চিন্তাবিদ তথ্য সম্পর্কে জ্ঞাত থাকেন। প্রমাণ সম্পর্কে জ্ঞান না থাকলে আমরা কেবল অনুমান করি, সতর্ক করলেন তিনি। এই বুদ্ধিবৃত্তিবিষয়ক আলোচনায় প্রতিটি গবেষণামূলক প্রবন্ধ একটি পূর্বসূত্র দিয়ে শুরু হয়, আর প্রতিটি প্রকল্প যাচাই করতে হয়। “অনুশীলনেই পূর্ণতা”-র মতো একটি স্বতঃসত্য কথা স্বত:সিদ্ধ মনে হয়, তবু একটি ধরে নেওয়া বিষয় বিভ্রান্ত করতে পারে। তাঁর কাল্পনিক উদাহরণ ছিল ছদ্মবেশে জ্ঞানের অনাবিষ্কৃত এলাকায় যাওয়া এক গুপ্তচর, যেখানে অপেক্ষা করছিল কেবল জ্ঞানের অভাব।
+# Persons
+epistemologist|n|philosopher who studies the nature of knowledge|জ্ঞানতত্ত্ববিদ|The *epistemologist* asked how we can know anything.
+sophist|n|teacher of philosophy; a quibbler who uses fallacious reasoning|দর্শনের শিক্ষক; কুতার্কিক|The *sophist* twisted every argument to win.
+# Cog = knowledge
+cognizance|n|knowledge|জ্ঞান|He took *cognizance* of the warning at once.
+cognizant|adj|aware; informed|জ্ঞাত|She was *cognizant* of the risks involved.
+cognitive|adj|having to do with knowing or perceiving; related to mental processes|জ্ঞান সম্বন্ধীয়; বুদ্ধিবৃত্তিবিষয়ক|Reading builds *cognitive* skills in children.
+cognate|adj|related linguistically; allied by blood or similar in nature|ভাষাগত দিক থেকে সম্পর্কিত; স্বগোত্রীয়|“Mother” and “Mutter” are *cognate* words.
+terra incognita|n|an unexplored region or area of knowledge|জ্ঞানের অনাবিষ্কৃত এলাকা|Deep space is still *terra incognita* to us.
+incognito|adj|in disguise, concealing one's identity|ছদ্মবেশী|The prince walked *incognito* through the market.
+nescience|n|absence of knowledge; ignorance|জ্ঞানের অভাব|His *nescience* of the law caused trouble.
+# Self-evident truth
+axiom|n|a self-evident truth|স্বীকার্য|It is an *axiom* that two parallel lines never meet.
+postulates|n|self-evident truths|স্বীকার্য|He built his theory on three *postulates*.
+assumption|n|something taken as true without proof|স্বীকার্য|Your *assumption* about the cost was wrong.
+hypothesis|n|a proposed explanation to be tested|স্বীকার্য|The scientist tested her *hypothesis* in the lab.
+supposition|n|something supposed, not proved|স্বীকার্য|The report was based on pure *supposition*.
+truism|n|a statement obviously true and often repeated|স্বীকার্য|“Time is money” is a well-known *truism*.
+premise|n|a statement on which an argument is based|স্বীকার্য|The *premise* of the argument was weak.
+# Based on assumption
+axiomatic|adj|based on a self-evident truth|স্বত:সিদ্ধ|It is *axiomatic* that honesty builds trust.
+assumptive|adj|based on assumption|স্বত:সিদ্ধ|His *assumptive* tone annoyed the audience.
+hypothetical|adj|based on a hypothesis, not on fact|স্বত:সিদ্ধ|She gave a *hypothetical* example to explain.
+suppositious|adj|based on supposition|স্বত:সিদ্ধ|The claim was *suppositious* and had no proof.
+# Others
+thesis|n|a proposition put forward for consideration|গবেষণামূলক প্রবন্ধ; যুক্তিরূপে উপস্থাপিত বিষয়|He defended his *thesis* before the panel.
+speculate|v|take something as true based on insufficient evidence|প্রমাণের অভাবে সত্য বলে ধরে নেওয়া|Experts *speculate* about the cause of the fire.

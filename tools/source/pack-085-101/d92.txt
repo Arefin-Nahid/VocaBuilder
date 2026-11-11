@@ -1,0 +1,57 @@
+N: 92
+T: Quarrel
+S: Two brothers would *quarrel* daily, and their *belligerent* mood filled the house. A silly *squabble* grew into a *brawl*, and their uncle rushed in to *quell* the *fracas*. One tried to *wrest* the toy away, and the other began to *pummel* him. Seeing the *estranged* pair full of *hostility*, Mother feared *revenge* would *alienate* them for years. She asked for a *candid* talk. Soon the once *contentious* boys turned *amiable*, even *affable*, and chose to *grapple* only in a friendly wrestling game.
+B: দুই ভাই রোজ ঝগড়া করত, আর তাদের ঝগড়াটে মেজাজ পুরো বাড়ি ভরে রাখত। একটি তুচ্ছ কলহ হাতাহাতিতে গড়াল, আর চাচা ছুটে এসে সেই গোলমাল থামালেন। একজন খেলনাটা ছিনিয়ে নিতে চাইল, আর অন্যজন তাকে ঘুষি দিতে শুরু করল। বিচ্ছিন্ন হয়ে যাওয়া দুজনকে শত্রুতায় ভরা দেখে মা ভয় পেলেন, প্রতিশোধ তাদের বহু বছরের জন্য আলাদা করে দেবে। তিনি খোলামেলা কথা বলতে বললেন। শিগগিরই এককালের তর্কপ্রিয় ছেলেরা বন্ধুত্বপূর্ণ, এমনকি মিশুক হয়ে উঠল, আর শুধু বন্ধুত্বপূর্ণ কুস্তির খেলায় কুস্তি করতে রাজি হলো।
+# Quarrel
+quarrel|v|argue angrily|ঝগড়া করা|The twins *quarrel* over every small thing.
+bicker|v|quarrel about small things|ঝগড়া করা|The couple *bicker* about the remote control.
+contest|v|argue against; dispute|ঝগড়া করা|He decided to *contest* the unfair result.
+wrangle|v|argue noisily or angrily|ঝগড়া করা|They *wrangle* over money every month.
+# Quarrelsome
+belligerent|adj|hostile and ready to fight|ঝগড়াটে|The *belligerent* driver shouted at everyone.
+disputatious|adj|fond of arguing|ঝগড়াটে|He is a *disputatious* man who loves debate.
+polemical|adj|aggressive in argument|ঝগড়াটে|The writer's *polemical* essay angered many.
+estranged|adj|no longer friendly; separated|ঝগড়াটে|The *estranged* friends refused to speak.
+contentious|adj|likely to cause argument|ঝগড়াটে|Land rights are a *contentious* issue.
+inimical|adj|hostile; unfriendly|ঝগড়াটে; শত্রুভাবাপন্ন|Smoke is *inimical* to good health.
+adverse|adj|hostile; unfavorable|শত্রুতাপূর্ণ; প্রতিকূল|*Adverse* weather delayed the flight.
+# Friendly
+amicable|adj|friendly|বন্ধুত্বপূর্ণ|They reached an *amicable* settlement.
+amiable|adj|friendly and pleasant|বন্ধুত্বপূর্ণ|Our *amiable* host served us tea.
+debonair|adj|charming and confident|বন্ধুত্বপূর্ণ|The *debonair* actor smiled at the crowd.
+congenial|adj|pleasant and friendly|বন্ধুত্বপূর্ণ|It was a *congenial* group of colleagues.
+affable|adj|easily approachable|বন্ধুত্বপূর্ণ|The principal is *affable* and kind.
+gregarious|adj|sociable|বন্ধুত্বপূর্ণ|She is *gregarious* and loves parties.
+candid|adj|honest and frank|বন্ধুত্বপূর্ণ; খোলামেলা|He gave a *candid* answer to the judge.
+# Quarrelsomeness
+quarrelsomeness|n|a quarrelsome attitude|ঝগড়াটে মনোভাব|His *quarrelsomeness* cost him many friends.
+belligerence|n|a hostile and aggressive attitude|ঝগড়াটে মনোভাব|The coach criticized the team's *belligerence*.
+polemic|n|a strong written or spoken attack|ঝগড়াটে মনোভাব|He wrote a fierce *polemic* against the tax.
+hostility|n|unfriendly or aggressive feeling|ঝগড়াটে মনোভাব|There was open *hostility* between the two clans.
+# Fight
+brawl|n|a noisy fight|মারামারি|A *brawl* broke out outside the stadium.
+melee|n|a confused fight|মারামারি|The crowd turned into a wild *melee*.
+fracas|n|a noisy quarrel or fight|মারামারি|Police ended the *fracas* quickly.
+fray|n|a fight or contest|মারামারি|She joined the *fray* with great energy.
+skirmish|n|a minor fight|মারামারি; ছোটখাটো সংঘর্ষ|A brief *skirmish* occurred at the border.
+# Minor dispute
+spat|n|a minor quarrel|সামান্য তর্ক-বিতর্ক|The friends had a silly *spat* over lunch.
+squabble|n|a noisy quarrel about something trivial|সামান্য তর্ক-বিতর্ক|A *squabble* over seats delayed the show.
+bickering|n|petty arguing|সামান্য তর্ক-বিতর্ক|Constant *bickering* tired the whole family.
+# Protest
+protest|n|an expression of strong objection|বিদ্রোহ|Workers held a *protest* outside the factory.
+expostulation|n|a strong protest or reasoning against something|বিদ্রোহ|His *expostulation* went unheard.
+remonstrance|n|a forceful protest|বিদ্রোহ|The teacher's *remonstrance* made him blush.
+protestation|n|a strong declaration or objection|বিদ্রোহ|Despite his *protestations*, they left him behind.
+# Revenge
+revenge|n|harm done in return for an injury|প্রতিশোধ|He swore *revenge* on the thieves.
+retaliation|n|an act of getting back at someone|প্রতিশোধ|The attack was *retaliation* for the insult.
+reprisal|n|an act of revenge|প্রতিশোধ|They feared *reprisal* for speaking out.
+retribution|n|punishment as revenge|প্রতিশোধ|He faced *retribution* for his crimes.
+requite|v|take revenge; repay|প্রতিশোধ নেওয়া|She would *requite* every wrong done to her.
+# Actions
+wrest|v|pull away; take by violence|ছিনিয়ে নেওয়া|Rebels tried to *wrest* control of the town.
+quell|v|extinguish, put down|দমন করা; নেভানো; প্রশমিত করা|Soldiers moved in to *quell* the riot.
+alienate|v|make hostile; separate|শত্রুতে পরিণত করা; আলাদা করে দেওয়া|His rude words *alienate* his best friends.
+pummel|v|beat or pound with fists|ঘুষি দেওয়া|The boxer began to *pummel* his rival.
+grapple|v|wrestle; come to grips with|কুস্তি করা; আঁকড়ে ধরা|They had to *grapple* with a tough problem.

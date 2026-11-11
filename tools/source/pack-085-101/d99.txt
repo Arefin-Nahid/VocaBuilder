@@ -1,0 +1,45 @@
+N: 99
+T: Restrain from Greed
+S: Rafi's *voracity* for sweets was well known, and his *avidity* for gifts too. A *covetous*, *avaricious* neighbour showed him the *allure* of easy money, but he learned to *refrain*. *Temperance* became his rule: he would *abstain* from waste, *subdue* his urges and *stifle* every *intemperate* wish. Once a *wayward*, *self-indulgent* boy, he now stayed *temperate* and *reserved*. Only at festivals did he turn *ebullient*, since no *fetter* can *restrain* joy forever.
+B: রাফির মিষ্টির প্রতি লোভ সবার জানা ছিল, উপহারের প্রতি তার আগ্রহও। লোভী ও অর্থলোলুপ এক প্রতিবেশী তাকে সহজ টাকার মোহ দেখাল, কিন্তু সে বিরত থাকতে শিখল। সংযম হলো তার নিয়ম: সে অপচয় থেকে বিরত থাকবে, প্রবৃত্তি দমন করবে আর প্রতিটি অসংযত ইচ্ছাকে চেপে দেবে। একসময় বেপরোয়া ও আত্মসংযমহীন ছেলে, এখন সে সংযত ও চাপা স্বভাবের। কেবল উৎসবেই সে বাঁধভাঙা আনন্দিত হয়ে উঠত, কারণ কোনো শিকলই আনন্দকে চিরকাল দমিয়ে রাখতে পারে না।
+# Restrain
+restrain|v|keep under control; hold back|সংযম বা দমন করা|He could not *restrain* his laughter.
+refrain|v|hold oneself back from doing something|সংযম বা দমন করা|Please *refrain* from smoking here.
+abstain|v|voluntarily do without something|সংযম বা দমন করা|She decided to *abstain* from sugar.
+inhibit|v|hold back; restrain|সংযম বা দমন করা|Fear can *inhibit* a child's learning.
+suppress|v|put down by force; hold back|সংযম বা দমন করা|Police tried to *suppress* the protest.
+subdue|v|bring under control; overcome|সংযম বা দমন করা|He tried to *subdue* his anger.
+stifle|v|smother; hold back|সংযম বা দমন করা|She tried to *stifle* a yawn.
+pinion|v|restrain by binding the arms|সংযম বা দমন করা; বেঁধে ফেলা|Guards *pinion* the thief's arms behind him.
+bate|v|restrain; moderate|সংযম বা দমন করা|We waited with *bated* breath for the result.
+temper|v|moderate; soften|সংযম বা দমন করা|Kindness will *temper* justice.
+# Greed
+greed|n|a strong wish for more than one needs|লোভ|*Greed* destroyed the merchant's business.
+voracity|n|greed; great hunger|লোভ|The *voracity* of the wolves amazed the hunters.
+cupidity|n|greed for money|লোভ|His *cupidity* led him to steal.
+avidity|n|greed; keen eagerness|লোভ|He read the letter with *avidity*.
+avarice|n|greed for wealth|অর্থের লোভ|*Avarice* turned the miser into a lonely man.
+allure|n|the power to attract by charm|মোহাবিষ্ট বা প্রলুব্ধ করার ক্ষমতা|The *allure* of the city drew many villagers.
+# Greedy
+avaricious|adj|greedy for wealth|লোভী|The *avaricious* landlord raised the rent again.
+covetous|adj|greedy; wanting what others have|লোভী|He cast a *covetous* eye on his neighbour's land.
+voracious|adj|greedy; eating or wanting very much|লোভী|She is a *voracious* reader of novels.
+rapacious|adj|greedy and grasping|লোভী|The *rapacious* trader cheated every farmer.
+prehensile|adj|capable of grasping|লোভী; আঁকড়ে ধরতে সক্ষম|A monkey hangs by its *prehensile* tail.
+avid|adj|eager for|লোভী; আগ্রহী|He is an *avid* fan of cricket.
+# Restraint and freedom
+fetter|v|make someone restrained or confined; chain|বাধা দেওয়া; শিকল পরানো|Poverty can *fetter* a child's dreams.
+manacle|v|chain the hands|বাধা দেওয়া; শিকল পরানো|Police *manacle* the prisoner's wrists.
+unfetter|v|make someone free from restraints|মুক্ত করে দেওয়া|The new law will *unfetter* small businesses.
+temperate|adj|restrained; moderate|সংযত|He lives a quiet, *temperate* life.
+tempered|adj|restrained; moderated|সংযত|Her joy was *tempered* by worry.
+reserved|adj|restrained; not showing feelings|সংযত|The *reserved* boy rarely spoke in class.
+untrammeled|adj|unrestrained; not limited|অসংযত; বেসামাল; উদ্দাম|The children enjoyed *untrammeled* freedom.
+rampant|adj|unrestrained; spreading wildly|অসংযত; বেসামাল; উদ্দাম|Corruption was *rampant* in the old regime.
+inordinate|adj|unrestrained; excessive|অসংযত; বেসামাল; উদ্দাম|He spent an *inordinate* amount of time online.
+intemperate|adj|unrestrained; lacking self-control|অসংযত; বেসামাল; উদ্দাম|His *intemperate* remarks angered the crowd.
+wayward|adj|unrestrained; difficult to control|অসংযত; বেসামাল; উদ্দাম|The *wayward* child ignored every rule.
+irrepressible|adj|uncontrollable|অসংযত; বেসামাল; উদ্দাম|Her *irrepressible* spirit cheered everyone.
+temperance|n|restraint; self-control|আত্মসংযম|He praised *temperance* in food and drink.
+self-indulgent|adj|indulgent of one's own appetites and desires|আত্মসংযমহীন|A *self-indulgent* life left him unhealthy.
+ebullient|adj|joyously unrestrained|বাঁধভাঙ্গা আনন্দিত|The *ebullient* crowd cheered the winners.

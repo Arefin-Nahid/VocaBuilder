@@ -1,0 +1,16 @@
+N: 86
+T: Philosophy (continued)
+S: In the seminar, Professor Hasan asked what *ontology* really studies. A student trusting *positivism* wanted only facts from the senses. Another loved *postmodernism* for doubting old assumptions. The class mocked a *reductionistic* view that breaks everything into small parts, yet admitted *reductionism* helps science. Hasan warned against *reification*, treating ideas like objects, and against *solipsism*, a *solipsistic* belief that only the self exists. *Semiotics* taught them to read signs, while *teleology* asked about purpose. Each person's *weltanschauung*, he said, quietly shapes every answer.
+B: সেমিনারে অধ্যাপক হাসান জিজ্ঞেস করলেন, অস্তিত্ববিদ্যা আসলে কী নিয়ে পড়ে। দৃষ্টবাদে বিশ্বাসী এক ছাত্র কেবল ইন্দ্রিয়লব্ধ তথ্য চাইল। আরেকজন উত্তরাধুনিকতা ভালোবাসত, কারণ তা পুরোনো ধারণাকে সন্দেহ করে। ক্লাস সবকিছুকে ছোট অংশে ভাঙার এক ক্ষুদ্রীকরণবাদী ধারণাকে ঠাট্টা করল, তবু মানল যে ক্ষুদ্রীকরণবাদ বিজ্ঞানে কাজে লাগে। হাসান সতর্ক করলেন ধারণাকে বস্তুর মতো ভাবার প্রবণতা থেকে, আর আত্মজ্ঞানবাদ থেকেও, যে আত্মজ্ঞানবাদী বিশ্বাস বলে কেবল নিজেই বাস্তব। চিহ্নবিদ্যা তাদের সংকেত পড়তে শেখাল, আর উদ্দেশ্যবাদ জানতে চাইল উদ্দেশ্য কী। তিনি বললেন, প্রত্যেকের বিশ্বদৃষ্টি নীরবে প্রতিটি উত্তরকে গড়ে তোলে।
+# Different philosophies
+ontology|n|theory about the nature of existence|অস্তিত্ববাদ|*Ontology* asks what it means to exist.
+positivism|n|doctrine that sense perception is the only valid basis of knowledge|দৃষ্টবাদ|*Positivism* trusts evidence, not intuition.
+postmodernism|n|radical reappraisal of modern assumptions about culture, identity, history or language|উত্তরাধুনিকতা; সনাতন ধারণাকে নতুন করে ব্যাখ্যা করার দর্শন|*Postmodernism* challenges old ideas of truth.
+reductionism|n|attempt to explain complex phenomena by reducing them to simpler things|জটিল জিনিসকে ছোট অংশে ভাগ করে ব্যাখ্যা করার দর্শন|*Reductionism* explains a machine by its parts.
+reductionistic|adj|related to reductionism|ক্ষুদ্রীকরণবাদ সম্পর্কিত|His *reductionistic* view ignored the whole picture.
+reification|n|regarding something abstract as a material thing|অবস্তুগত জিনিসকে বস্তুগত ভাবার দর্শন|*Reification* treats an idea as a real object.
+semiotics|n|theory of the functions of signs and symbols in communication|চিহ্ন বা প্রতীক ব্যবহার করে যোগাযোগের দর্শন|*Semiotics* studies how road signs carry meaning.
+solipsism|n|belief that the self is the only reality|আত্মজ্ঞানবাদ|*Solipsism* doubts that anyone else exists.
+solipsistic|adj|pertaining to solipsism|আত্মজ্ঞানবাদ সম্পর্কিত|He held a *solipsistic* view of the world.
+teleology|n|doctrine explaining phenomena by their ends or purposes|উদ্দেশ্যবাদ; ফলাফলের ভিত্তিতে ঘটনা ব্যাখ্যা|*Teleology* asks what a thing is for.
+weltanschauung|n|a comprehensive view of the world and its relation with humanity|বিশ্বদৃষ্টি; বিশ্বের সর্বাঙ্গীন পর্যবেক্ষণ|Her *weltanschauung* was shaped by travel.

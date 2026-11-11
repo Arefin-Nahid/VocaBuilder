@@ -1,0 +1,42 @@
+N: 95
+T: Religion (continued)
+S: *Devoutness* is praised in our village. Old Karim was *devout* and *reverent*, and his *piety* made people *venerate* him. He knew the *creed* and *catechism* by heart. His nephew, a young *skeptic*, left the faith, and some branded him an *apostate*, a *heretic*, even an *infidel*. The boy said *heresy* is only a question. He denied any *impiety* or *irreverence*, and *idolatry* was never his fear. Karim, *incredulous* at the rumours, simply hugged him.
+B: আমাদের গ্রামে ধর্মপ্রাণতার প্রশংসা করা হয়। বৃদ্ধ করিম ছিলেন ধার্মিক ও শ্রদ্ধাশীল, আর তাঁর ধর্মনিষ্ঠা মানুষকে তাঁকে শ্রদ্ধা করতে বাধ্য করত। তিনি ধর্মমত ও ধর্মীয় প্রশ্নোত্তর মুখস্থ জানতেন। তাঁর ভাতিজা, এক তরুণ সংশয়ী, বিশ্বাস ছেড়ে দিল, আর কেউ কেউ তাকে ধর্মত্যাগী, ধর্মবিরোধী, এমনকি কাফির বলে দাগিয়ে দিল। ছেলেটি বলল, ধর্মবিরোধী মতবাদ কেবল একটি প্রশ্ন। সে অধার্মিকতা বা অভক্তির কথা অস্বীকার করল, আর মূর্তিপূজা কখনো তার ভয় ছিল না। গুজবে অবিশ্বাসী করিম শুধু তাকে জড়িয়ে ধরলেন।
+# Religious
+devout|adj|religious; deeply committed to faith|ধার্মিক|A *devout* woman prays five times a day.
+pious|adj|religious; devout|ধার্মিক|The *pious* man gave alms every Friday.
+reverent|adj|showing deep respect|ধার্মিক; শ্রদ্ধাশীল|The crowd stood *reverent* during the prayer.
+# Religiousness
+devoutness|n|religiousness|ধার্মিকতা|His *devoutness* inspired the whole village.
+piety|n|religiousness; devotion to God|ধার্মিকতা|She was known for her *piety* and charity.
+# System of religious belief
+credo|n|a system of religious belief|ধর্মমত|The group's *credo* was peace and service.
+creed|n|a system of religious belief|ধর্মমত|People of every *creed* live in the town.
+# Non-believer
+apostate|n|a non-believer; one who abandons his faith|নাস্তিক; ধর্মবিরোধী|He was called an *apostate* for leaving the faith.
+atheist|n|a non-believer in God|নাস্তিক; ধর্মবিরোধী|The *atheist* politely declined the prayer.
+heretic|n|a non-believer; one whose opinion opposes accepted religion|নাস্তিক; ধর্মবিরোধী|The *heretic* was driven out of the city.
+infidel|n|a non-believer|নাস্তিক; ধর্মবিরোধী|The crusaders called their enemies *infidels*.
+heresy|n|opinion contrary to accepted religion|ধর্মবিরোধী মতবাদ|He was punished for *heresy*.
+# Doubter
+agnostic|n|a doubter about the existence of God|সংশয়বাদী ব্যক্তি|The *agnostic* said he could not be sure.
+cynic|n|a doubter who distrusts people's motives|সংশয়বাদী ব্যক্তি|The *cynic* believed no one did good for free.
+skeptic|n|a doubter|সংশয়বাদী ব্যক্তি|A *skeptic* asks for proof before believing.
+# Doubtful
+incredulous|adj|doubtful; unwilling to believe|ঈশ্বরের অস্তিত্ব নিয়ে সংশয়ী|She gave him an *incredulous* look.
+skeptical|adj|doubtful|ঈশ্বরের অস্তিত্ব নিয়ে সংশয়ী|We were *skeptical* about the miracle story.
+# Lack of respect toward God
+impiety|n|lack of respect toward God|ঈশ্বরের প্রতি অভক্তি|The priest condemned the *impiety* of the crowd.
+irreverence|n|lack of respect|ঈশ্বরের প্রতি অভক্তি|His *irreverence* shocked the elders.
+impious|adj|not devout in religion|অধার্মিক|They called the joke *impious*.
+# Worship
+revere|v|worship; regard with deep respect|আরাধনা বা পূজা করা|Many people *revere* their teachers.
+venerate|v|worship; respect deeply|আরাধনা বা পূজা করা|Villagers *venerate* the old saint's grave.
+reverence|n|worship; deep respect|আরাধনা|They bowed in *reverence* before the altar.
+veneration|n|worship; deep respect|আরাধনা|The temple is an object of *veneration*.
+idolatry|n|worship of idols|আরাধনা; মূর্তিপূজা|The prophet warned against *idolatry*.
+# Sacred texts
+veda|n|any of the oldest and most authoritative sacred texts of Hinduism|বেদ|The *Veda* is chanted in ancient Sanskrit.
+vedic|adj|relating to the Veda|বৈদিক|He studies *Vedic* literature at the university.
+canon|n|a rule or principle; frequently religious|ধর্মশাস্ত্র|The council added the book to the *canon*.
+catechism|n|a book for religious instruction by question and answer|প্রশ্নোত্তরের মাধ্যমে ধর্মীয় শিক্ষা দেয় এমন বই|Children learned the *catechism* every Sunday.

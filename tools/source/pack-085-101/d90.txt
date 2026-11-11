@@ -1,0 +1,38 @@
+N: 90
+T: Predict the Future
+S: The old *sibyl* was a *clairvoyant* known across the village. Some called her *divination* a gift; others blamed every change of weather on her. She would *foretell* rain, *portend* a bad harvest, and *presage* a wedding. One day an odd *premonition* troubled her, a *foreboding* she could not shake. Her *oracular* words sounded *portentous*, and the *augury* of crows seemed a dark *portent*. The headman gave one *caveat*: trust *prescience* less than a careful plan. Still, many hoped the *prediction* would *bode* well.
+B: প্রাচীন মহিলা ভবিষ্যদ্বক্তা গ্রামজুড়ে পরিচিত এক ভবিষ্যদ্দ্রষ্টা ছিলেন। কেউ তাঁর ভবিষ্যদ্বাণীকে বলত এক দান, আবার কেউ আবহাওয়ার প্রতিটি বদলের দায় তাঁর ঘাড়ে চাপাত। তিনি বৃষ্টির ভবিষ্যদ্বাণী করতেন, খারাপ ফসলের অশুভ আভাস দিতেন, আর বিয়ের পূর্বাভাস দিতেন। একদিন এক অদ্ভুত পূর্বাভাস তাঁকে বিচলিত করল, এক অশুভ আশঙ্কা যা তিনি ঝেড়ে ফেলতে পারলেন না। তাঁর দৈববাণীসম্পন্ন কথাগুলো অশুভ লক্ষণযুক্ত শোনাল, আর কাকের শকুন-বিচার এক কালো অশুভ লক্ষণ মনে হলো। মোড়ল একটি সাবধানবাণী দিলেন: ভবিষ্যদ্বাণীর ক্ষমতার চেয়ে সতর্ক পরিকল্পনায় বেশি ভরসা রাখো। তবু অনেকেই আশা করল ভবিষ্যদ্বাণী শুভ ইঙ্গিত দেবে।
+# Prediction
+prediction|n|a statement about what will happen|ভবিষ্যদ্বাণী|His *prediction* about the match came true.
+prognosis|n|a prediction, especially of the course of a disease|ভবিষ্যদ্বাণী|The doctor gave a good *prognosis*.
+divination|n|the art of foretelling the future|ভবিষ্যদ্বাণী|*Divination* by cards was popular in the old town.
+vision|n|a prediction; a mental image produced by the imagination|ভবিষ্যদ্বাণী; কল্পনায় তৈরি ছবি|The saint had a *vision* of war.
+# Ability to foretell the future
+clairvoyance|n|the ability to foretell the future|ভবিষ্যদ্বাণী করার ক্ষমতা|She claimed *clairvoyance* but never proved it.
+prescience|n|knowledge of events before they happen|ভবিষ্যদ্বাণী করার ক্ষমতা|His *prescience* saved the firm from ruin.
+clairvoyant|n|a fortune teller; as adj, having foresight|ভবিষ্যদ্বক্তা; ভবিষ্যদ্বাণী করার ক্ষমতাসম্পন্ন|The *clairvoyant* read the lines on his palm.
+# Predict
+predict|v|say what will happen in the future|অনুমান করা; ভবিষ্যদ্বাণী করা|No one can *predict* tomorrow's news.
+foretell|v|predict|অনুমান করা; ভবিষ্যদ্বাণী করা|The old man could *foretell* the storm.
+foreshadow|v|give a hint of a future event|অনুমান করা; ভবিষ্যদ্বাণী করা|Dark clouds *foreshadow* heavy rain.
+presage|v|be a sign of something to come|অনুমান করা; ভবিষ্যদ্বাণী করা|The cold wind may *presage* a harsh winter.
+portend|v|be a sign of something bad to come|অনুমান করা; ভবিষ্যদ্বাণী করা|The sudden silence seemed to *portend* trouble.
+prognosticate|v|predict from present signs|অনুমান করা; ভবিষ্যদ্বাণী করা|Experts *prognosticate* a rise in prices.
+bode|v|be a sign of a future result|অনুমান করা; ভবিষ্যদ্বাণী করা|The early results *bode* well for the team.
+divine|v|discover or guess by intuition|অনুমান করা; ভবিষ্যদ্বাণী করা|She could *divine* his plan from his smile.
+intuit|v|know by intuition|অনুমান করা; ভবিষ্যদ্বাণী করা|He could *intuit* her sadness at once.
+adumbrate|v|outline faintly; foreshadow|অনুমান করা; ভবিষ্যদ্বাণী করা|The speech will *adumbrate* the plans for next year.
+# Forewarning
+forewarning|n|a warning given in advance|পূর্বাভাস|A siren gave early *forewarning* of the flood.
+premonition|n|a feeling that something bad will happen|পূর্বাভাস|She had a *premonition* of danger.
+augury|n|a sign of what will happen; the art of reading omens|পূর্বাভাস; শুভাশুভ লক্ষণ|The old man read the *augury* in the sky.
+presentiment|n|a feeling that something bad will happen|পূর্বাভাস|A *presentiment* of loss kept him awake.
+portent|n|a sign of something bad to come|পূর্বাভাস; অশুভ লক্ষণ|The red moon was seen as a *portent*.
+foreboding|n|a fearful feeling of coming trouble|পূর্বাভাস; অশুভ আশঙ্কা|He felt a deep *foreboding* before the exam.
+# Warning and change
+oracular|adj|prophetic; uttered as if with divine authority; mysterious or ambiguous|দৈববাণী সম্পর্কিত; রহস্যময়|The wise man gave an *oracular* reply.
+premonitory|adj|serving to warn|পূর্বাভাসসূচক|A *premonitory* tremor shook the house.
+portentous|adj|foreboding; ominously prophetic|অশুভ লক্ষণ যুক্ত|The sky had a *portentous* red glow.
+sibyl|n|a woman regarded as an oracle or prophet by the ancient Greeks and Romans|প্রাচীন গ্রীক ও রোমানরা যে মহিলাকে ভবিষ্যদ্বক্তা হিসেবে শ্রদ্ধা করত|The *sibyl* spoke in riddles to the king.
+vagary|n|an unpredictable and inexplicable change in a situation or a person's behavior|অননুমেয় ও ব্যাখ্যার অতীত পরিবর্তন|We planned around the *vagaries* of the weather.
+caveat|n|a warning|সাবধানবাণী|He signed the deal with one *caveat*.

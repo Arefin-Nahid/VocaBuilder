@@ -1,0 +1,14 @@
+N: 88
+T: Philosophy (continued)
+S: Mina's *raison d'être* was teaching, and every child was a *tabula rasa* to her. She practised *yoga* each dawn to stay calm. Her friend, fond of the *Freudian* view, read dreams like riddles, while she preferred *Ockham's razor* and the simplest answer. In class she used a *syllogism*: all humans learn; Rafi is human; so Rafi learns. Her *syncretistic* lessons mixed folk tales and science, and her *typology* of learners grouped each by style. Even a favourite *genre*, like mystery, could teach logic.
+B: মিনার বেঁচে থাকার উদ্দেশ্যই ছিল শেখানো, আর প্রতিটি শিশু তার কাছে ছিল এক অলিখিত শ্লেট। শান্ত থাকতে সে প্রতি ভোরে যোগশাস্ত্র চর্চা করত। ফ্রয়েডীয় ধারণাপ্রেমী তার বন্ধু স্বপ্নকে ধাঁধার মতো পড়ত, আর সে পছন্দ করত অকহামের ক্ষুর নীতি ও সবচেয়ে সহজ উত্তর। ক্লাসে সে একটি ন্যায়ানুমান ব্যবহার করত: সব মানুষ শেখে; রাফি মানুষ; তাই রাফি শেখে। তার মিশ্র পদ্ধতির পাঠে লোককথা আর বিজ্ঞান মিলত, আর তার শিক্ষার্থী-শ্রেণিবিন্যাস প্রত্যেককে ধরন অনুযায়ী ভাগ করত। এমনকি প্রিয় ঘরানা, যেমন রহস্য, যুক্তি শেখাতে পারত।
+# Philosophy and mind
+raison d'être|n|the purpose that justifies a thing's existence|কোনো জিনিসের অস্তিত্বের কারণ|Helping others became her *raison d'être*.
+tabula rasa|n|a young mind not yet affected by experience; a mind free from ideas or impressions|আরোপিত বিদ্যা দ্বারা আক্রান্ত নয় এমন মন|A newborn is often called a *tabula rasa*.
+yoga|n|a school of Hindu philosophy advocating physical and mental disciplines|যোগশাস্ত্র|He finds peace through daily *yoga*.
+syllogism|n|logical formula of a major premise, a minor premise and a conclusion; a deceptive argument|দুটো অনুমানের ভিত্তিতে উপসংহার; ধোঁকামূলক যুক্তি|The teacher explained a classic *syllogism* on the board.
+freudian|adj|relating to Sigmund Freud or his psychoanalytic ideas|বিজ্ঞানী সিগমুন্ড ফ্রয়েড বা তার মনস্তত্ত্ব-বিষয়ক আলোচনা সংক্রান্ত|He gave a *Freudian* reading of the dream.
+ockham's razor|n|the principle that only necessary assumptions be made in explaining a phenomenon|কম সংখ্যক তথ্যকে সত্য বলে ধরে নেওয়ার নীতি|*Ockham's razor* favours the simplest explanation.
+syncretistic|adj|composed of different systems or beliefs|বিভিন্ন পদ্ধতি বা বিশ্বাস দ্বারা তৈরি|The festival has a *syncretistic* character.
+typology|n|the systematic classification of types that share traits|সমগোত্রীয় বৈশিষ্ট্যের ভিত্তিতে ক্যাটাগরি নির্ধারণ করার বিদ্যা|The study offers a *typology* of leaders.
+genre|n|type, class; a distinct literary or artistic category|ঘরানা; গোত্র; ধরন; প্রকার|Horror is her favourite film *genre*.

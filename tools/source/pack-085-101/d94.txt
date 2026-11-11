@@ -1,0 +1,25 @@
+N: 94
+T: Religion
+S: Our teacher began with *theism* and *atheism*, and everyone listened. *Monotheism* teaches one God, *polytheism* many, and *pantheism* finds God in all things. A shy girl asked about *agnosticism*, and he said *deism* rests on reason. He spoke briefly of *brahmanism*, *lamaism* and *zoroastrianism*, and noted that *paganism* is older than most faiths. Calling someone *heathen* is rude, he warned. Seeking *nirvana*, perfect peace, is like gathering *manna* for the spirit.
+B: আমাদের শিক্ষক শুরু করলেন আস্তিক্যবাদ ও নাস্তিক্যবাদ দিয়ে, আর সবাই মন দিয়ে শুনল। একেশ্বরবাদ শেখায় এক ঈশ্বর, বহুশ্বরবাদ অনেক ঈশ্বর, আর সর্বেশ্বরবাদ সবকিছুর মধ্যেই ঈশ্বরকে খুঁজে পায়। এক লাজুক মেয়ে সংশয়বাদ নিয়ে জিজ্ঞেস করলে তিনি বললেন, দেববাদ যুক্তির ওপর দাঁড়িয়ে আছে। তিনি সংক্ষেপে হিন্দুত্ববাদ, তিব্বতীয় বৌদ্ধধর্ম ও জরথুস্ত্রীয় ধর্মের কথা বললেন, আর জানালেন পৌত্তলিকতা বেশিরভাগ ধর্মের চেয়ে পুরোনো। কাউকে পৌত্তলিক বলা অভদ্রতা, সতর্ক করলেন তিনি। নির্বাণ, পরম শান্তি, খোঁজা মানে আত্মার জন্য অমৃত কুড়ানোর মতো।
+# Different beliefs
+theism|n|belief in the existence of God|আস্তিক্যবাদ|*Theism* is the belief that God exists.
+atheism|n|the doctrine or belief that there is no God|নাস্তিক্যবাদ|*Atheism* rejects belief in any god.
+monotheism|n|belief in a single God|একেশ্বরবাদ|Islam is a religion of *monotheism*.
+polytheism|n|belief in multiple gods|বহুশ্বরবাদ|Ancient Greece practised *polytheism*.
+pantheism|n|worship that admits or tolerates all gods|সর্বেশ্বরবাদ|*Pantheism* sees God in nature itself.
+agnosticism|n|a religious orientation of doubt|সংশয়বাদ|His *agnosticism* made him question every claim.
+skepticism|n|an attitude of doubt|সংশয়বাদ|She met the claim with healthy *skepticism*.
+brahmanism|n|Hinduism|হিন্দুত্ববাদ|*Brahmanism* shaped much of ancient India.
+lamaism|n|Tibetan Buddhism|তিব্বতীয় বৌদ্ধধর্ম|*Lamaism* is practised in the high Himalayas.
+nestorianism|n|belief that Christ is both the son of God and the man Jesus|যীশুর ভেতরে মানবিক ও ঐশ্বরিক উভয় সত্তা ছিল, এই মতবাদ|*Nestorianism* was once widespread in Asia.
+paganism|n|any religion other than Christianity, Judaism and Islam|পৌত্তলিকতা|*Paganism* honoured many gods of nature.
+voodooism|n|a religion derived from African polytheism and ancestor worship, practised chiefly in Haiti|বহুশ্বরবাদ ও পূর্বপুরুষ পূজার সংমিশ্রণে মিলিত ধর্ম|*Voodooism* is widely practised in Haiti.
+manichaeism|n|a dualistic religious philosophy taught by the Persian prophet Manes|দ্বৈতবাদী ধর্মীয় মতবাদ|*Manichaeism* divides the world into light and dark.
+zoroastrianism|n|religion founded in Persia by Zoroaster, based on the struggle between good and evil|দ্বৈতবাদ; ভালো ও খারাপের দ্বন্দ্বভিত্তিক ধর্ম|*Zoroastrianism* worships one wise god.
+deism|n|belief in God on the basis of reason, not revelation|যুক্তির ভিত্তিতে ঈশ্বরের ওপর বিশ্বাস|*Deism* relies on reason, not scripture.
+# Related words
+delphic|adj|related to Delphi or the oracle of Apollo at Delphi|প্রাচীন ডেলফি শহরের এপোলোর ভবিষ্যদ্বক্তা সংক্রান্ত|The priest gave a *Delphic* answer no one understood.
+heathen|adj|pagan; uncivilized and irreligious|পৌত্তলিক; বর্বর|The old poem calls the invaders *heathen*.
+nirvana|n|an ideal condition of rest, harmony or joy|নির্বাণ|The monk sought *nirvana* through meditation.
+manna|n|spiritual nourishment|অমৃত; আধ্যাত্মিক সন্তুষ্টি|Music was *manna* to the tired soul.

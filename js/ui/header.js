@@ -4,11 +4,22 @@
   var VB = window.VB, u = VB.utils, $ = u.$, S = VB.store.S;
 
   // One word per calendar day, the same on every device (picked from the sorted word list by the date).
+  // Word of the day: a new word each day, taken from the chapters you have finished.
+  // Before any chapter is finished it comes from the page you are on.
   function wordOfDay() {
-    var ALL = VB.vocab.ALL, keys = Object.keys(ALL).filter(function (k) { return /^[a-z]{5,12}$/.test(k); }).sort();
-    var d = new Date(), n = Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5);
-    var k = keys[(n * 7919) % keys.length];
-    return k ? ALL[k] : null;
+    var ALL = VB.vocab.ALL, done = S.done || {}, d = new Date();
+    var today = d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
+    var pool = Object.keys(ALL).filter(function (k) { return done[ALL[k].day] && /^[a-z]{4,14}$/.test(k); }).sort();
+    if (!pool.length) pool = Object.keys(ALL).filter(function (k) { return ALL[k].day === VB.state.cur && /^[a-z]{4,14}$/.test(k); }).sort();
+    if (!pool.length) return null;
+    try {
+      var st = JSON.parse(localStorage.getItem("vb-wod") || "null");
+      if (st && st.d === today && ALL[st.k] && pool.indexOf(st.k) > -1) return ALL[st.k];
+    } catch (e) {}
+    var n = Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5);
+    var k = pool[(n * 7919) % pool.length];
+    try { localStorage.setItem("vb-wod", JSON.stringify({ d: today, k: k })); } catch (e) {}
+    return ALL[k];
   }
 
   function brand() {

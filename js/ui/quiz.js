@@ -167,7 +167,6 @@
       h += '<button class="btn primary qgo" data-act="nextQ">' + (Q.i + 1 >= Q.items.length ? "See results" : "Next question") + "</button>";
     }
     h += "</section>";
-    if (Q.ans === null) h += '<p class="qkeys">Tip: press 1 to ' + it.opts.length + " to answer.</p>";
     $("view").innerHTML = h;
   }
 

@@ -1,0 +1,26 @@
+N: 70
+T: Medical Terms
+S: Old Mr Karim's *infirmity* grew after a fall. A deep *laceration* and a *contusion* caused a *hemorrhage*, and *anemia* followed. A strange *malaise* and a bout of *amnesia* worried his doctor, who also noted *aphasia* and feared *apoplexy*. A *canker* in his mouth made eating hard. In a *paroxysm* of coughing he remembered the *epidemic* that once struck the village, a *pestilence* spread by *contagion*, and told his grandson that a *pandemic* is worse than any *malady*.
+B: বৃদ্ধ করিম সাহেবের দুর্বলতা পড়ে যাওয়ার পর বাড়ল। গভীর ক্ষত আর থেঁতলানো থেকে রক্তক্ষরণ হল, তারপর এল রক্তাল্পতা। এক অদ্ভুত অস্বস্তি আর স্মৃতিলোপের ঘটনা তাঁর ডাক্তারকে চিন্তায় ফেলল, ডাক্তার বাক্‌শক্তি লোপেরও লক্ষণ দেখলেন আর স্ট্রোকের আশঙ্কা করলেন। মুখের এক ঘা খাওয়া কঠিন করে তুলল। কাশির এক প্রবল দমকে তাঁর মনে পড়ল গ্রামে একবার হানা দেওয়া মহামারীর কথা, ছোঁয়াচে ছড়ানো এক মড়ক, আর তিনি নাতিকে বললেন বিশ্বব্যাপী মহামারী যেকোনো রোগের চেয়ে ভয়ংকর।
+# Diseases
+infirmity|n|disease; weakness|রোগ; দুর্বলতা|Old age brought him *infirmity*.
+malady|n|illness|অসুখ|A strange *malady* kept the child in bed.
+malaise|n|uneasiness; a vague feeling of ill health|অসুস্থতা; অস্বস্তি|A *malaise* came over him before the exam.
+# Memory and speech
+amnesia|n|loss of memory|সম্পূর্ণ বা আংশিক স্মৃতিলোপ|He woke up with *amnesia* after the accident.
+aphasia|n|loss of speech due to injury|বাকশক্তি লোপ|The injury left her with *aphasia*.
+# Blood
+anemia|n|a condition in which the blood lacks red corpuscles|রক্তাল্পতা|Iron-rich food helps against *anemia*.
+hemorrhage|n|heavy bleeding|রক্তক্ষরণ|The surgeon stopped the *hemorrhage* quickly.
+# Spreading disease
+contagion|n|a contagious disease|ছোঁয়াচে রোগ|A *contagion* closed the school for a week.
+epidemic|n|a widespread disease|মহামারী|An *epidemic* of flu hit the town.
+pestilence|n|a widespread disease; a deadly plague|মহামারী|The *pestilence* killed thousands in the old city.
+pandemic|n|a disease spread over a whole area|বড় এলাকা জুড়ে মহামারী|The *pandemic* changed how we live.
+# Wounds
+canker|n|any ulcerous sore; any evil|ক্ষত; খারাপ প্রভাব|A *canker* on his tongue made eating painful.
+laceration|n|a torn, ragged wound|ক্ষত|The *laceration* on his arm needed stitches.
+contusion|n|an injury underneath the skin|চামড়ার নিচে যে ক্ষত; কালশিটে|The fall left a dark *contusion* on her knee.
+# Sudden attacks
+apoplexy|n|a sudden loss of consciousness due to impairment in neurological functions|হঠাৎ অচেতন হয়ে যাওয়া|*Apoplexy* struck him while he was reading.
+paroxysm|n|a sudden uncontrollable attack of pain, laughter or rage|ব্যথা, হাসি বা রাগের আকস্মিক প্রকোপ|He fell into a *paroxysm* of laughter.

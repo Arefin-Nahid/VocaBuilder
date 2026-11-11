@@ -1,0 +1,30 @@
+N: 76
+T: Mimic
+S: A young painter wanted to *emulate* the old masters, so he made a *replica* of a famous portrait. It was only an *imitation*, and he would never sell a *counterfeit*. His friend could *mimic* any teacher, and even added a *parody* of her own. Soon the *pastiche* felt *derivative*, and he learned that a *template* is no substitute for an *inimitable* voice. A *scrivener* made a neat *transcription* of the old poem, and a *facsimile* of the page sold well. A clever *automaton* could *ape* a clock, an *analog* of a human hand, but *mimicry* alone lacked soul.
+B: এক তরুণ চিত্রকর পুরনো ওস্তাদদের সমকক্ষ হতে চাইল, তাই সে একটি বিখ্যাত প্রতিকৃতির অবিকল প্রতিরূপ আঁকল। সেটা ছিল কেবল নকল, আর সে কখনও জাল ছবি বিক্রি করত না। তার বন্ধু যেকোনো শিক্ষককে নকল করতে পারত, এমনকি নিজের এক হাস্যকর অনুকরণও যোগ করত। শিগগিরই অন্যের অনুকরণে আঁকা ছবিটি অমৌলিক মনে হল, আর সে শিখল যে কোনো ছাঁচ অনুকরণ করা অসাধ্য নিজস্ব কণ্ঠের বিকল্প হতে পারে না। এক মুসাবিদাকারী পুরনো কবিতার সুন্দর লিখিত রূপ তৈরি করলেন, আর পাতাটির অবিকল প্রতিলিপি ভালো বিক্রি হল। এক চতুর যন্ত্রমানব ঘড়ির অনুকরণ করতে পারত, মানুষের হাতের সদৃশ এক জিনিস, কিন্তু শুধু অনুকরণে প্রাণ ছিল না।
+# Imitation
+imitation|n|a copy; an act of copying|নকল|The cheap bag was only an *imitation* of the famous brand.
+mimicry|n|the act of imitating|নকল; অনুকরণ|His *mimicry* of the teacher made everyone laugh.
+counterfeit|n|a fake copy made to deceive|নকল|He was caught with a *counterfeit* of the ticket.
+# To imitate
+imitate|v|copy someone or something|নকল করা|Children *imitate* what they see their parents do.
+ape|v|imitate someone, often in a foolish way|নকল করা; বানরের মতো অনুকরণ করা|He *aped* the manners of rich people.
+mimic|v|imitate someone, especially to amuse|নকল করা|The parrot can *mimic* the doorbell perfectly.
+emulate|v|try to equal or surpass by imitating|অনুকরণ করে সমকক্ষ হতে চাওয়া|She hopes to *emulate* her famous aunt.
+# Harshly distorted imitation
+parody|n|a harshly distorted imitation for humour|হাস্যকর অনুকরণ|The comedian performed a *parody* of the news.
+travesty|n|an absurd or distorted imitation|হাস্যকর অনুকরণ; বিকৃত রূপ|The trial was a *travesty* of justice.
+# Exact copy
+facsimile|n|an exact copy|অবিকল প্রতিরূপ|The museum sells a *facsimile* of the ancient map.
+replica|n|an exact copy|অবিকল প্রতিরূপ|A *replica* of the Shaheed Minar stood on his desk.
+inimitable|adj|not able to be imitated; matchless|অনুকরণ করা অসাধ্য এমন|Her *inimitable* voice filled the hall.
+template|n|a pattern for making a copy|ছাঁচ|Use this *template* to cut the same shape each time.
+transcription|n|a copy or record in a different medium|কোনো বক্তব্যের লিখিত রূপ|The *transcription* of the speech took two hours.
+pastiche|n|an imitation of another's style in musical composition or writing|অন্য গ্রন্থকার বা শিল্পীর অনুকরণে রচিত সাহিত্য বা শিল্প|The novel is a *pastiche* of old detective stories.
+# Similarity
+analogy|n|similarity|সাদৃশ্য|He explained electricity with an *analogy* to water.
+analogous|adj|comparable|তুলনীয়|A heart is *analogous* to a pump.
+analog|n|something that is comparable to something else|সদৃশ|The robot is an *analog* of a human worker.
+derivative|adj|derived from something else, usually by imitating|অন্য কিছু থেকে নকল করে বানানো অমৌলিক জিনিস|The film felt *derivative* and had no fresh ideas.
+automaton|n|a mechanism that imitates the action of a human|যন্ত্রমানব; রোবট|The clockmaker built an *automaton* that could write.
+scrivener|n|a professional copyist|দলিলপত্রের মুসাবিদাকারী|A *scrivener* wrote letters for people who could not write.

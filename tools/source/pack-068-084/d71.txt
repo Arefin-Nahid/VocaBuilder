@@ -1,0 +1,24 @@
+N: 71
+T: Medical Terms (continued)
+S: Dr Anwar treated all kinds of patients. A girl with *dyslexia* and a boy with *autism* needed patience, an old woman's *cataract* clouded her sight, and a student with *myopia* and *astigmatism* needed glasses. A man with *insomnia* and *dyspepsia* feared he had *paranoia*, but it was only *neurosis*. A feverish patient in *delirium* seemed *psychopathic*, but it was a rare *aberration* of fever, not *psychosis*. The mountaineer's *hypothermia* was the real emergency.
+B: ডাক্তার আনোয়ার সব ধরনের রোগী দেখতেন। পড়তে অসুবিধা হয় এমন এক মেয়ে আর অটিজমে আক্রান্ত এক ছেলের দরকার ছিল ধৈর্য, এক বৃদ্ধার ছানি তাঁর দৃষ্টি ঘোলা করেছিল, আর হ্রস্বদৃষ্টি ও দৃষ্টিবিভ্রমে ভোগা এক ছাত্রের দরকার ছিল চশমা। অনিদ্রা আর বদহজমে ভোগা এক লোক ভাবলেন তাঁর সন্দেহবাতিক রোগ হয়েছে, কিন্তু সেটা ছিল কেবল স্নায়বিক চাপ। জ্বরের ঘোরে প্রলাপ বকা এক রোগীকে মনে হল মনোবিকারগ্রস্ত, কিন্তু সেটা ছিল জ্বরের এক বিরল বিচ্যুতি, মানসিক রোগ নয়। পর্বতারোহীর অতিশীতলতাই ছিল আসল জরুরি অবস্থা।
+# Mental diseases
+neurosis|n|a mental disorder that cannot be recognised as any known neurological dysfunction|মানসিক বাতুলতা; যেসব মানসিক রোগের অন্য কোনো নাম নেই|Stress can lead to *neurosis* in some people.
+psychopathic|adj|pertaining to mental instability|মানসিক অসুস্থতাজনিত|The film's villain is a *psychopathic* killer.
+# Mental irregularity or disorder
+aberration|n|a departure from the norm|বিপথগামিতা; স্বাভাবিকের ব্যতিক্রম|His rude reply was an *aberration*, not his habit.
+psychosis|n|a serious mental disorder|মানসিক সমস্যা; মনোবিকার|The patient was treated for *psychosis*.
+# Psychosis marked by delusions of grandeur or persecution
+paranoia|n|a mental condition marked by delusions of persecution|মতিভ্রম; অকারণ সন্দেহবাতিক|His *paranoia* made him distrust his own friends.
+delirium|n|a state of wild confusion and raving|মতিভ্রম; প্রলাপ|The fever sent him into *delirium*.
+# Disorders of learning and contact
+autism|n|a psychiatric disorder characterised by serious impairments in communication and social interaction|সামাজিক যোগাযোগে অক্ষমতা|Early help is important for a child with *autism*.
+dyslexia|n|inability to associate letter symbols with sounds|অক্ষর ও ধ্বনির মধ্যে মিল করতে না পারা|*Dyslexia* made reading a slow task for him.
+# Eye diseases
+astigmatism|n|a lack of proper focus of the eyes|বিষমদৃষ্টি|The optician said she had *astigmatism*.
+cataract|n|an eye abnormality; also a great waterfall|চোখের ছানি পড়া; বৃহৎ জলপ্রপাত|Grandfather had surgery to remove a *cataract*.
+myopia|n|a near-sight problem of the eyes|ক্ষীণদৃষ্টি ত্রুটি|*Myopia* makes distant signs look blurry.
+# Body disorders
+dyspepsia|n|suffering from indigestion|বদহজম|Spicy food gives him *dyspepsia*.
+insomnia|n|wakefulness; inability to sleep|অনিদ্রা|Worry before the exam gave her *insomnia*.
+hypothermia|n|abnormally low body temperature|অত্যন্ত নিম্ন দেহ-তাপমাত্রা|The hikers were treated for *hypothermia*.

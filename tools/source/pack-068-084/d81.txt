@@ -1,0 +1,27 @@
+N: 81
+T: Name
+S: Samuel Clemens is better known by his *pseudonym*, Mark Twain, though few use his real *appellation*. In his books he liked to *allude* to old stories, and readers loved each sly *allusion*. When he travelled, he enjoyed the *anonymity* of an *alias*, and friends gave him a *sobriquet* that stuck, a friendly *nickname* or *cognomen*. A town can be named after such a man, making him its *eponym*. To call such a famous writer *anonymous* would be a *misnomer*, and no *titular* head of letters ever matched him, though a *nominal* ruler may carry a grand title. A *penname* can hide a face, but not talent.
+B: স্যামুয়েল ক্লেমেন্স তাঁর ছদ্মনাম মার্ক টোয়েন নামেই বেশি পরিচিত, যদিও তাঁর আসল নাম খুব কম মানুষই ব্যবহার করে। তাঁর বইয়ে তিনি পুরনো গল্পের দিকে পরোক্ষভাবে ইঙ্গিত করতে ভালোবাসতেন, আর পাঠকেরা প্রতিটি চতুর পরোক্ষ উল্লেখ পছন্দ করত। ভ্রমণের সময় তিনি ছদ্মনামের আড়ালে নামহীনতা উপভোগ করতেন, আর বন্ধুরা তাঁকে এমন ডাকনাম দিল যা থেকে গেল, এক বন্ধুত্বপূর্ণ ডাকনাম বা উপনাম। এমন মানুষের নামে কোনো শহরের নামকরণ হতে পারে, আর তিনি হন তার নামদাতা। এমন বিখ্যাত লেখককে নামহীন বলা হবে অসার্থক নাম, আর সাহিত্যে কোনো নামেমাত্র প্রধান তাঁর সমকক্ষ হয়নি, যদিও নামেমাত্র শাসকও জমকালো উপাধি পরতে পারেন। কলমের নাম মুখ ঢাকতে পারে, কিন্তু প্রতিভা নয়।
+# Name
+appellation|n|name; title|নাম|His formal *appellation* was Doctor Rahman.
+address|v|direct a speech to; deal with or discuss|সম্বোধন করা|She *addressed* the crowd from the stage.
+allude|v|refer indirectly|পরোক্ষভাবে উল্লেখ করা|He *alluded* to my mistake without naming me.
+allusion|n|indirect reference|পরোক্ষ উল্লেখ|The poem contains an *allusion* to an old legend.
+# Assumed name
+alias|n|an assumed name|ছদ্মনাম|The spy travelled under an *alias*.
+pseudonym|n|an assumed name|ছদ্মনাম|She wrote novels under a *pseudonym*.
+penname|n|an assumed name used by a writer|ছদ্মনাম|His *penname* was known to all readers.
+# Nick name
+nickname|n|an informal name given to a person|ডাকনাম|His *nickname* at school was Tiger.
+sobriquet|n|a nickname|ডাকনাম|The cricketer earned the *sobriquet* Captain Cool.
+cognomen|n|a nickname|ডাকনাম|The king's *cognomen* was the Great.
+# Nameless
+anonymous|adj|having no name|নামহীন|An *anonymous* donor paid the fees.
+anonymity|n|state of being nameless; anonymousness|নামহীনতা|The witness asked for *anonymity*.
+# Naming
+misnomer|n|incorrect designation; wrong name|অসার্থক বা ভুল নাম|"Peacemaker" was a *misnomer* for the angry man.
+nomenclature|n|system of names; terminology|নামকরণ|Medical *nomenclature* is full of Latin words.
+eponym|n|the person after whom something is named|যার নামে কোনো কিছুর নামকরণ করা হয়|Shah Amanat is the *eponym* of Chattogram's airport.
+# Bearing a name only
+nominal|adj|bearing a name; in name only|নামানুযায়ী অথবা নামেমাত্র|The fee was *nominal* and easy to pay.
+titular|adj|bearing a title; in name only|নামানুযায়ী অথবা নামেমাত্র|The king was only a *titular* head of state.

@@ -1,0 +1,41 @@
+N: 79
+T: Motions (continued)
+S: A river in *flux* began to *meander* across the valley. After a *spate* of rain it turned into a *juggernaut* that swept away a bridge. An *ambulatory* old man took an *amble* along the bank, enjoying a slow *perambulation*. He saw a bird *flit* past and chose to *ensconce* himself on a bench, where a kite floated *aloft* and a breeze began to *waft* over the field. Engineers later used a line to *plumb* the depth, and drivers learned to *decelerate* on the steep *declivity* and to *accelerate* on the *acclivity*. The *aerodynamic* kite showed the *celerity* of the wind.
+B: নিরন্তন প্রবাহে থাকা এক নদী উপত্যকা জুড়ে এঁকেবেঁকে বইতে লাগল। জলোচ্ছ্বাসের পর সেটা এক ধ্বংসাত্মক শক্তিতে পরিণত হয়ে একটি সেতু ভাসিয়ে নিল। হাঁটতে পারে এমন এক বৃদ্ধ তীর ধরে স্বচ্ছন্দগতিতে হাঁটলেন, ধীর পায়চারি উপভোগ করে। তিনি একটি পাখিকে উড়ে যেতে দেখলেন আর আরাম করে এক বেঞ্চে বসলেন, যেখানে একটি ঘুড়ি ঊর্ধ্বে ভাসছিল আর এক হাওয়া মাঠের ওপর দিয়ে ভেসে এল। প্রকৌশলীরা পরে দড়ি ফেলে গভীরতা মাপলেন, আর চালকেরা খাড়া উৎরাইয়ে গতিহ্রাস করতে ও চড়াইয়ে গতি বাড়াতে শিখল। উড্ডয়নবিদ্যা-সংক্রান্ত আকৃতির ঘুড়িটি হাওয়ার গতি দেখাল।
+# Motion and force
+kinetic|adj|related to motion or movement|গতিসংক্রান্ত|A moving car has *kinetic* energy.
+locomotion|n|the power or ability to move|চলনশক্তি|Birds use wings for *locomotion* in air.
+centrifugal|adj|radiating; departing from the center|কেন্দ্রবিমুখী|*Centrifugal* force pushes water out of a spinning bucket.
+centrifuge|n|a machine that separates substances by whirling them swiftly|ঘূর্ণনের মাধ্যমে উপাদান আলাদা করে এমন মেশিন|The lab used a *centrifuge* to separate the blood.
+centripetal|adj|tending toward the center|কেন্দ্রমুখী|*Centripetal* force keeps the moon in orbit.
+torque|n|a twisting force|ঘূর্ণন সঞ্চারক বল|The engine produces a great deal of *torque*.
+torsion|n|the act of twisting and turning|ঘূর্ণন|The metal rod broke under *torsion*.
+tortuous|adj|having many twists and turns|অনেক প্যাঁচযুক্ত|A *tortuous* path wound up the hill.
+# Wearing away
+abrasive|adj|rubbing away; tending to grind down|ঘষায় ঘষায় উঠে যাচ্ছে এমন|Use an *abrasive* cloth to clean the rust.
+abrade|v|wear off or down by scraping or rubbing|ঘষে ঘষে তুলে ফেলা|Sand can *abrade* a smooth stone.
+# Flow
+flux|n|a continuous flowing|নিরন্তন প্রবাহ|Prices are in a constant state of *flux*.
+juggernaut|n|a huge force destroying everything in its path|তীব্র শক্তি যা তার পথে সব ধ্বংস করে দেয়|The army rolled on like a *juggernaut*.
+spate|n|a sudden forceful flow; a water flow resulting from sudden rain or melting snow|জলোচ্ছ্বাস|A *spate* of rain flooded the lowlands.
+meander|v|wind or turn in its course|সর্পিলপথে এঁকেবেঁকে চলা|The river *meanders* through the green fields.
+waft|v|blow gently by wind or waves; float|জল বা বাতাসের মধ্য দিয়ে ভাসানো বা ভাসা|The smell of curry *wafted* from the kitchen.
+# Vertical and slopes
+plumb|adj|vertical|খাড়া|The builder checked that the wall was *plumb*.
+plumb|v|measure depth; examine critically|গভীরতা নির্ণয় করা|Divers *plumbed* the depths of the lake.
+acclivity|n|a sharp upslope of a hill|চড়াই|The cart slowed on the steep *acclivity*.
+declivity|n|a downward slope|উৎরাই|They rolled down the grassy *declivity*.
+aloft|adv|upward|ঊর্ধ্বে|The balloon floated *aloft* in the sky.
+# Speed
+celerity|n|speed; rapidity|গতি|The clerk handled the work with *celerity*.
+accelerate|v|move faster|গতিবৃদ্ধি করা|The bus *accelerated* on the open road.
+decelerate|v|slow down|গতিহ্রাস করা|Drivers must *decelerate* near a school.
+# Moving about
+amble|n|moving at an easy pace|স্বচ্ছন্দগতি|They went for a slow *amble* along the river.
+ambulatory|adj|able to walk; not bedridden|হাঁটতে পারে এমন|The patient is *ambulatory* and can go home.
+perambulation|n|walking about|পায়চারি|His evening *perambulation* took him to the market.
+flit|v|fly or dart lightly; pass swiftly by|উড়ে যাওয়া|Butterflies *flit* from flower to flower.
+ensconce|v|settle comfortably|আরাম করে বসা|She *ensconced* herself in the armchair with a book.
+# Air
+aerodynamic|adj|related to an object moving through the air|উড্ডয়নবিদ্যা সংক্রান্ত|The car has an *aerodynamic* shape.
+aerial|adj|having to do with the air|বায়বীয়; বায়ুমণ্ডলজাত|The film showed an *aerial* view of the city.

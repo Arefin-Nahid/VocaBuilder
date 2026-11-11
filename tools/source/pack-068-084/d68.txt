@@ -1,0 +1,42 @@
+N: 68
+T: Marriage and Family
+S: The village *scion* married at a grand *nuptial* feast, where his happy *consort* spoke of their *betrothal* and the *troth* they had pledged. A *marital* bond is *conjugal* joy, they said, and the *connubial* home should honour his proud *ancestry* and *lineage*. They would *espouse* the old values of their *forebears* and *forefathers*, and the young *nubile* bride listened with care. The *celibate* priest smiled, while an *uxorious* uncle teased the groom. Their *descendants* and *progeny* would remember this day for all *posterity*.
+B: গ্রামের বংশধর এক জমকালো বিয়ের ভোজে বিয়ে করলেন, যেখানে তাঁর সুখী সঙ্গিনী তাঁদের বাগদান আর প্রতিশ্রুত বিশ্বস্ততার কথা বললেন। তাঁরা বললেন, বৈবাহিক বন্ধন দাম্পত্য আনন্দ, আর বিবাহিত সংসারে তাঁর গর্বিত বংশপরিচয় ও কুলের সম্মান রক্ষা করা উচিত। তাঁরা পূর্বপুরুষদের পুরনো মূল্যবোধ গ্রহণ করবেন, আর বিয়ের যোগ্যা তরুণী বধূ মনোযোগ দিয়ে শুনল। অবিবাহিত পুরোহিত হাসলেন, আর স্ত্রীর প্রতি অতি অনুরক্ত এক চাচা বরকে খেপালেন। তাঁদের বংশধর ও সন্তানেরা ভবিষ্যৎ প্রজন্মের জন্য এই দিনটি মনে রাখবে।
+# Pertaining to marriage
+conjugal|adj|pertaining to marriage|বিবাহ সম্পর্কিত; দাম্পত্য|They enjoyed a happy *conjugal* life for fifty years.
+connubial|adj|pertaining to marriage|বিবাহ সম্পর্কিত|The couple's *connubial* bliss was the talk of the town.
+nuptial|adj|pertaining to marriage or a wedding|বিবাহ সম্পর্কিত|The *nuptial* ceremony began at noon.
+marital|adj|pertaining to marriage|বিবাহ সম্পর্কিত; বৈবাহিক|Please state your *marital* status on the form.
+# Husband or wife
+consort|n|husband or wife; also associate with|স্বামী বা স্ত্রী; সঙ্গী|The queen's *consort* attended every royal ceremony.
+consort|v|associate with|সঙ্গী হওয়া; মেলামেশা করা|He does not *consort* with people who lie.
+# Ancestors
+ancestor|n|a person from whom one is descended|পূর্বপুরুষ|Our *ancestor* planted this mango tree.
+antecedent|n|a person or thing that came before|পূর্বপুরুষ; পূর্ববর্তী বিষয়|Every *antecedent* of the clan was a farmer.
+forebear|n|an ancestor|পূর্বপুরুষ|Her *forebear* sailed here two centuries ago.
+forefather|n|an ancestor|পূর্বপুরুষ; পিতামহ|We honour our *forefathers* every year.
+progenitor|n|an ancestor; the originator of a line|আদি জনক; আদিপুরুষ|The founder was the *progenitor* of a great family.
+predecessor|n|one who held a position before another; an ancestor|পূর্বসূরি|The new principal praised his *predecessor*.
+# Descendants
+descendant|n|a person who comes from an ancestor|বংশধর|She is a *descendant* of a famous poet.
+posterity|n|all future generations; descendants|ভবিষ্যৎ বংশধর; উত্তরপুরুষ|The record was kept for *posterity*.
+progeny|n|children; offspring|সন্তান; বংশধর|The old farmer was proud of his *progeny*.
+ancestry|n|one's line of ancestors|পূর্বপুরুষের পরম্পরা|He traced his *ancestry* back to a village in Sylhet.
+lineage|n|direct descent from an ancestor|বংশধারা|Her *lineage* goes back to a royal house.
+scion|n|a descendant, especially of a notable family|বংশধর; উত্তরাধিকারী|The *scion* of a rich family opened a school.
+# Guardianship
+tutelage|n|guardianship; training|অভিভাবকত্ব|The boy grew up under his uncle's *tutelage*.
+tutelary|adj|pertaining to a guardianship|অভিভাবকত্ব-বিষয়ক|The village honoured a *tutelary* spirit.
+# Engagement
+betroth|v|promise to marry|বাগদান করা|They *betrothed* their daughter to a doctor.
+betrothal|n|an engagement to marry|বাগদান|The *betrothal* was announced at the family feast.
+espouse|v|marry; also adopt or support|বিয়ে করা; সমর্থন করা|She *espoused* the cause of free education.
+troth|n|a pledge of good faith, especially in betrothal|বাগদানের সময় স্থাপিত বিশ্বাস|He gave his *troth* before all the guests.
+# Marriage words
+nubile|adj|ready for marriage|বিবাহযোগ্য|The village saw her as a *nubile* young woman.
+misogamy|n|hatred of marriage|বিবাহ-বিদ্বেষ|His *misogamy* kept him single for life.
+celibate|adj|unmarried; abstaining from sexual intercourse|অবিবাহিত; কুমার বা কুমারী|The monk lived a *celibate* life.
+paramour|n|an illicit lover who is not the spouse|বিবাহ সম্পর্ক ব্যতীত অন্য কোনো প্রেমসংগী|The novel's villain had a secret *paramour*.
+uxorious|adj|excessively devoted to one's wife|স্ত্রৈণ|The *uxorious* husband obeyed his wife.
+polygamy|n|having more than one husband or wife at a time|বহুবিবাহ|*Polygamy* is illegal in many countries.
+polyandry|n|having more than one husband at a time|একাধিক স্বামী গ্রহণ|*Polyandry* is rare in the world.

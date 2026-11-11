@@ -22,8 +22,6 @@
 
   function render() {
     var st = VB.state, R = st.R, due = VB.srs.dueKeys(), h = "", k;
-    var cnt = { again: 0, hard: 0, good: 0 };
-    for (k in S.srs) if (VB.vocab.ALL[k]) cnt[S.srs[k].r || "again"]++;
 
     if (R && R.i < R.deck.length) {
       var key = R.deck[R.i], e = VB.vocab.ALL[key], b = S.srs[key].b, iv = cfg.intervals;
@@ -48,8 +46,6 @@
           + '<button data-act="rate" data-r="good" class="good">' + ico(I.good, 20) + "<b>Got it</b><span>" + gap(cfg.gaps.good) + "</span></button></div>";
       }
       h += "</section>";
-      if (!R.flip) h += '<p class="qkeys">Tip: press Space to show the answer.</p>';
-      else h += '<p class="qkeys">Tip: press 1, 2 or 3 to rate.</p>';
     } else if (R) {
       h += '<div><div class="when">Review</div><h1>Session complete</h1></div><section class="card rv-done"><div class="rv-tick">' + ico(I.good, 34) + '</div><div class="score">' + R.deck.length + '</div><p>cards reviewed</p>'
         + '<div class="qstats"><span class="s no">Forgot ' + R.st.again + '</span><span class="s">Hard ' + R.st.hard + '</span><span class="s ok">Got it ' + R.st.good + '</span></div>'
@@ -59,13 +55,9 @@
       h += '<div><div class="when">Spaced review</div><h1>Review</h1></div>';
       h += '<section class="rv-hero"><div class="rv-hn">' + due.length + '</div><div class="rv-hl">' + msg + "</div>"
         + (due.length ? '<button class="rv-go" data-act="startReview">' + ico(I.play, 16) + "<span>Start review</span></button><div class=\"rv-hs\">Up to " + cfg.reviewSize + " cards, hardest first</div>" : '<button class="rv-go" data-act="tab" data-tab="learn"><span>Go to the lesson</span></button>') + "</section>";
-      var cats = [["again", "Forgot", "Review tomorrow", I.again], ["hard", "Hard", "Review in " + cfg.gaps.hard + " days", I.hard], ["good", "Got it", "Review in " + cfg.gaps.good + " days", I.good]];
-      h += '<section class="card"><h2 class="rv-h2">Your words</h2><p class="rv-sub">Where your words sit, by how you last rated them.</p><div class="rv-cats">';
-      cats.forEach(function (c) { h += '<div class="rv-cat"><span class="rv-ci">' + ico(c[3], 18) + '</span><div class="rv-ct"><b>' + c[1] + '</b><span>' + c[2] + '</span></div><div class="rv-cn">' + cnt[c[0]] + '</div></div>'; });
-      h += '</div></section>'
-        + '<details class="card how"><summary><span class="how-i" aria-hidden="true">?</span><span>How review works</span></summary><ul class="how-l">'
-        + '<li><b>Got it</b><span>The word returns in 7 days.</span></li><li><b>Hard</b><span>It returns in 3 days.</span></li>'
-        + '<li><b>Forgot</b><span>It drops back to Box 1 and returns tomorrow.</span></li>'
+      h += '<details class="card how"><summary><span class="how-i" aria-hidden="true">?</span><span>How review works</span></summary><ul class="how-l">'
+        + '<li><b>Got it</b><span>The word returns in ' + cfg.gaps.good + ' days.</span></li><li><b>Hard</b><span>It returns in ' + cfg.gaps.hard + ' days.</span></li>'
+        + '<li><b>Forgot</b><span>It returns tomorrow.</span></li>'
         + '<li><b>Mixed on purpose</b><span>Words from different pages are shuffled together, which makes memory stronger.</span></li></ul></details>';
     }
     $("view").innerHTML = h;

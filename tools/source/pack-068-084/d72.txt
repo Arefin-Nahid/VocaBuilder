@@ -1,0 +1,32 @@
+N: 72
+T: Medical Terms (continued)
+S: The village *apothecary* knew his *pharmacopoeia* well and sold a *balm* for the skin and a *liniment* for sore muscles. Nearby, a *quack*, a *charlatan* and a *mountebank* sold fake cures. When a snake bit a child, only the right *antidote* would work. The *pediatrician* closed the wound with a *suture*, then gave an *analgesic* for the pain and a *soporific* to help her sleep. Later an *oculist* and an *optician* fitted her glasses, and a *cardiologist* and *dermatologist* checked her, while *prophylaxis* kept infection away.
+B: গ্রামের ওষুধ-বিক্রেতা তাঁর ওষুধতালিকা ভালো করে জানতেন, আর বিক্রি করতেন ত্বকের জন্য মলম ও ব্যথার পেশির জন্য মালিশ। কাছেই এক হাতুড়ে ডাক্তার, এক ভণ্ড আর এক প্রতারক নকল ওষুধ বিক্রি করত। সাপ কামড়ালে শিশুর জন্য শুধু সঠিক প্রতিষেধকই কাজ করত। শিশুরোগ বিশেষজ্ঞ ক্ষত সেলাই করলেন, তারপর ব্যথার জন্য ব্যথানাশক আর ঘুমের জন্য ঘুমের ওষুধ দিলেন। পরে এক চক্ষু-চিকিৎসক ও এক চশমা-বিক্রেতা তার চশমা মাপলেন, আর এক হৃদরোগ বিশেষজ্ঞ ও এক চর্মরোগ বিশেষজ্ঞ তাকে পরীক্ষা করলেন, আর প্রতিরোধমূলক ব্যবস্থা সংক্রমণ দূরে রাখল।
+# Persons related to medicine
+apothecary|n|a druggist; one who makes or sells medicines|ঔষধ তৈরি বা বিক্রি করে এমন লোক|The village *apothecary* mixed herbs into a syrup.
+obstetrician|n|a physician who specialises in the delivery of babies|ধাত্রীবিদ্যাবিশারদ|The *obstetrician* arrived just before the baby was born.
+cardiologist|n|a doctor specialising in ailments of the heart|হৃদরোগ বিশেষজ্ঞ|The *cardiologist* checked his heartbeat carefully.
+dermatologist|n|one who studies the skin and its diseases|চর্মরোগ বিশেষজ্ঞ|A *dermatologist* treated her skin allergy.
+pediatrician|n|a physician specialising in children's diseases|শিশুরোগ বিশেষজ্ঞ|The *pediatrician* gave the toddler a vaccine.
+podiatrist|n|a physician who treats ailments of the feet|পদরোগ বিশেষজ্ঞ|A *podiatrist* fixed his painful heel.
+psychiatrist|n|a doctor who treats mental diseases|মানসিক রোগের চিকিৎসক|The *psychiatrist* listened to her patiently.
+# Eye specialists
+optician|n|a maker and seller of eyeglasses|চশমা প্রস্তুতকারক ও বিক্রেতা|The *optician* adjusted the frame of my new glasses.
+optometrist|n|an eyeglass specialist|চশমা বিশেষজ্ঞ|An *optometrist* tested my eyesight.
+oculist|n|a physician who specialises in the treatment of eyes|চক্ষুরোগ বিশেষজ্ঞ|The *oculist* removed a speck from his eye.
+# Pretenders of medical knowledge
+quack|n|a pretender of medical knowledge|হাতুড়ে ডাক্তার|The *quack* sold coloured water as a cure.
+charlatan|n|a person who falsely claims skill or knowledge|হাতুড়ে ডাক্তার; প্রতারক|Don't trust a *charlatan* who promises miracles.
+mountebank|n|a person who sells false cures; a trickster|হাতুড়ে ডাক্তার; ধাপ্পাবাজ|A *mountebank* sold magic oil at the fair.
+# Medicines
+antidote|n|a remedy that counteracts a poison or disease|প্রতিষেধক|The doctor gave him an *antidote* for the snake bite.
+soporific|n|a drug that produces sleep|ঘুমের ওষুধ|The *soporific* made her drowsy within minutes.
+pharmacopoeia|n|a collection or stock of drugs|ওষুধের ভাণ্ডার|The hospital keeps a full *pharmacopoeia*.
+prophylaxis|n|any control measure used to prevent disease|রোগ প্রতিরোধমূলক চিকিৎসা|Washing hands is the simplest *prophylaxis*.
+suture|n|stitches sewn to hold the cut edges of a wound; material used in sewing|কাটা জায়গায় করা সেলাই; সেলাইয়ের উপকরণ|The nurse removed the *suture* after a week.
+# Pain-relieving drugs
+analgesic|n|a drug that relieves pain|বেদনানাশক|He took an *analgesic* for his headache.
+anodyne|n|a drug that eases pain|বেদনানাশক|Music was an *anodyne* for her grief.
+opiate|n|a pain-relieving medicine that induces sleep|ঘুমের ওষুধ; বেদনানাশক|The patient was given an *opiate* after surgery.
+balm|n|a soothing pain-relieving ointment|বেদনানাশক; প্রলেপ|She rubbed a *balm* on his sore shoulder.
+liniment|n|a medicinal liquid used externally to ease pain|মালিশের তেল|The athlete used a *liniment* on his aching leg.

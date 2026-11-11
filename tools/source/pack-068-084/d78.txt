@@ -1,0 +1,43 @@
+N: 78
+T: Motions
+S: A *headlong* rider had to *swerve* and *veer* when a snake began to *slither* across the road, and his heart seemed to *plummet*. By the river, a *whirlpool* spun into a deep *vortex*, a small *maelstrom*, and a *foolhardy* boy wanted to *plunge* in. A sudden *wrench* pulled him back. Nearby, some boys *clambered* over the rocks to *scale* the hill and *ascend* to the top. The winner *swaggered* back and would *strut* proudly, glad that he had *surpassed* and *outstripped* them all, while a thief *skulked* behind a tree.
+B: এক অত্যন্ত দ্রুতগামী ঘোড়সওয়ারকে মোড় নিতে ও দিক বদলাতে হল যখন একটি সাপ রাস্তা জুড়ে বুকে ভর দিয়ে চলতে শুরু করল, আর তার হৃদয় যেন ঝাঁপ দিয়ে নেমে গেল। নদীর ধারে এক জলঘূর্ণি পাক খেয়ে গভীর ঘূর্ণি হয়ে উঠল, এক ছোট প্রবল আবর্ত, আর এক হঠকারী ছেলে ঝাঁপ দিতে চাইল। এক আকস্মিক মোচড় তাকে পিছনে টেনে আনল। কাছেই কিছু ছেলে পাথর বেয়ে উঠে পাহাড়ে চড়ল আর চূড়ায় পৌঁছল। বিজয়ী মাথা উঁচু করে ফিরল আর গর্বে বুক ফুলিয়ে হাঁটত, খুশি যে সে সবাইকে ছাড়িয়ে গেছে ও পিছনে ফেলেছে, আর এক চোর গাছের আড়ালে গোপনে ঘুরে বেড়াল।
+# Turn aside
+shunt|v|turn aside; move to a different track|দিক পরিবর্তন করা|The driver *shunted* the train onto another track.
+veer|v|turn aside; change direction suddenly|দিক পরিবর্তন করা|The car *veered* off the road.
+swerve|v|turn aside suddenly|দিক পরিবর্তন করা|He *swerved* to avoid a stray dog.
+# Drop steeply or fall
+plummet|v|drop steeply|ঝাঁপ দেয়া|Prices *plummeted* after the news.
+plunge|v|drop steeply or fall; jump in|ঝাঁপ দেয়া|The boys *plunged* into the cool pond.
+lunge|v|make a sudden forward movement|ঝাঁপ দেয়া|The goalkeeper *lunged* for the ball.
+slither|v|pass or move smoothly; slip or slide|বুকে ভর দিয়ে চলা|A snake *slithered* under the rock.
+wrench|v|make a sudden twisting motion|মোচড়ানো|He *wrenched* the handle off the door.
+# Exceed
+surpass|v|exceed|অতিক্রম করা|Her marks *surpassed* everyone's expectations.
+outstrip|v|exceed; go faster than|অতিক্রম করা|The young runner *outstripped* all rivals.
+transcend|v|exceed; rise above|অতিক্রম করা|True art *transcends* time and place.
+eclipse|v|exceed; also darken or extinguish|অতিক্রম করা; ম্লান করে দেওয়া|His fame *eclipsed* that of his teacher.
+# Roll in
+wallow|v|roll in; indulge in or become helpless|গড়াগড়ি খাওয়া; অসহায় হয়ে যাওয়া|Buffaloes *wallow* in the mud to keep cool.
+welter|v|roll about; wallow|গড়াগড়ি খাওয়া|Ships *weltered* in the stormy sea.
+# Excessively quick
+headlong|adj|excessively quick; rushing|অত্যন্ত দ্রুত|He ran *headlong* down the stairs.
+foolhardy|adj|having no regard for danger or consequences|ভবিষ্যৎ চিন্তা না করেই কাজ করে এমন|It is *foolhardy* to swim in a flooded river.
+# Circular rushing motion of water
+vortex|n|a circular rushing motion of water|ঘূর্ণি|A *vortex* formed near the bridge pillar.
+maelstrom|n|a powerful whirlpool|ঘূর্ণি; প্রবল আবর্ত|The boat was pulled into a *maelstrom*.
+whirlpool|n|a circular rushing motion of water|ঘূর্ণি|Swimmers avoid the *whirlpool* near the cliff.
+# Backward movement
+regression|n|a movement backward; return to an earlier state|পশ্চাদপসরণ|The child's *regression* worried his parents.
+reversion|n|a return to an earlier state|পশ্চাদপসরণ|There was a *reversion* to the old rules after the vote.
+# Climb
+scale|v|climb|বেয়ে ওঠা|Climbers *scaled* the steep north face.
+ascend|v|climb; move upward|বেয়ে ওঠা|They *ascended* the stairs slowly.
+ascendant|adj|rising; moving upward|উদীয়মান; আরোহণরত|The party was *ascendant* after the election.
+clamber|v|climb by crawling|বুকে ভর দিয়ে বেয়ে ওঠা|The kids *clambered* over the rocks.
+# Walk with pride
+strut|v|walk with pride|মাথা উঁচু করে হাঁটা|The rooster *strutted* across the yard.
+strut|n|a pompous walk; also a supporting bar|গর্বিত পদক্ষেপ; ঠেস দিয়ে রাখার ডাণ্ডা|He walked with a proud *strut*.
+swagger|v|walk with pride|মাথা উঁচু করে হাঁটা|The winner *swaggered* onto the stage.
+skulk|v|move furtively or secretly|গোপনভাবে চলাফেরা করা|A thief *skulked* behind the fence.
+grovel|v|crawl or creep on the ground with fear|ভয়ে মাটিতে শুয়ে শুয়ে চলা|He *grovelled* at the tyrant's feet.

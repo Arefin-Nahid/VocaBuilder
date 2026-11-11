@@ -1,0 +1,29 @@
+N: 74
+T: Medical Terms (continued)
+S: After an accident, the doctors had to *amputate* the farmer's leg and *cauterize* the wound in an *aseptic* room. His *prognosis* was good, though the muscles would *atrophy* without exercise. A *pathological* fear made him *hyperventilate*, but a *pulmonary* test showed his lungs were fine, and the *pathology* report found no *systemic* disease. *Immunological* checks and a *genome* study ruled out any *syndrome*, so the damage was not *irremediable*. The *tactile* sense of his foot returned, and *somatic* pain slowly faded.
+B: দুর্ঘটনার পর ডাক্তারদের কৃষকের পা কেটে ফেলতে হল আর জীবাণুমুক্ত ঘরে ক্ষত পুড়িয়ে সিল করতে হল। তাঁর পূর্বাভাস ছিল ভালো, তবে ব্যায়াম ছাড়া পেশি শুকিয়ে যাবে। রোগগ্রস্ত ভয় তাঁকে দ্রুত শ্বাস নিতে বাধ্য করত, কিন্তু ফুসফুসের পরীক্ষায় দেখা গেল তাঁর ফুসফুস ঠিক আছে, আর রোগবিজ্ঞানের রিপোর্টে সারা শরীরের কোনো রোগ পাওয়া গেল না। রোগ-প্রতিরোধ বিষয়ক পরীক্ষা আর জিনোম গবেষণা কোনো লক্ষণসমষ্টি বাদ দিল, তাই ক্ষতি আর অপূরণীয় ছিল না। পায়ের স্পর্শবোধ ফিরে এল, আর শারীরিক ব্যথা ধীরে ধীরে মিলিয়ে গেল।
+# Organs and senses
+pulmonary|adj|pertaining to the lungs|ফুসফুস সংক্রান্ত|The doctor suspected a *pulmonary* infection.
+vacuole|n|a small cavity in the cell cytoplasm, bound by a single membrane and containing water, food or metabolic waste|কোষ গহবর|A plant cell has a large *vacuole* full of water.
+tactile|adj|pertaining to the organs or sense of touch|স্পর্শানুভূতি সংক্রান্ত|Braille depends on the *tactile* sense.
+visceral|adj|felt in one's inner organs; also intuitive|নাড়িভুঁড়ি সংক্রান্ত; চতুর অনুমানমূলক|He felt a *visceral* fear when the lights went out.
+# Surgery
+abscission|n|removal of body parts by cutting off, as in surgery|অপারেশনের মাধ্যমে অঙ্গ কাটার প্রক্রিয়া|The *abscission* of the infected toe saved his foot.
+amputate|v|cut off body parts, as in surgery|অপারেশনের মাধ্যমে অঙ্গ কেটে ফেলা|Surgeons had to *amputate* his leg below the knee.
+atrophy|n|wasting away of organs due to disease or lack of use|পুষ্টি বা ব্যবহারের অভাবে ক্ষয়|Months in bed caused *atrophy* of the muscles.
+atrophy|v|waste away because of disease or lack of use|পুষ্টি বা ব্যবহারের অভাবে ক্ষয় হওয়া|Unused muscles *atrophy* quickly.
+cauterize|v|burn with hot iron or caustic to prevent infection|সংক্রমণের হাত থেকে বাঁচার জন্য ছেঁকা দেয়া|The doctor *cauterized* the wound to stop the bleeding.
+aseptic|adj|preventing infection; free from disease-causing germs|সংক্রমণ প্রতিরোধক; রোগজীবাণুমুক্ত|Operations must be done in an *aseptic* room.
+# Body systems and conditions
+immunological|adj|relating to the immune system|রোগ প্রতিরোধ ব্যবস্থা সংক্রান্ত|She works in an *immunological* laboratory.
+genome|n|the genetic material of an organism|জীনগত উপকরণ|Scientists have mapped the human *genome*.
+syndrome|n|a group of symptoms that indicate a disease or an abnormal condition|রোগের লক্ষণসমূহ|Down *syndrome* is a genetic condition.
+irremediable|adj|incapable of being reformed or remedied|চিকিৎসার অসাধ্য|The damage to the old bridge was *irremediable*.
+gestation|n|the growth process from conception to birth|গর্ভধারণ কাল|The *gestation* of an elephant lasts nearly two years.
+somatic|adj|relating to or affecting the body; bodily|অঙ্গজ|Fear can cause *somatic* symptoms such as sweating.
+hyperventilate|v|breathe abnormally fast|দ্রুত নিঃশ্বাস নেয়া|She began to *hyperventilate* before the big speech.
+systemic|adj|affecting the entire body; relating to systems|সমগ্র দেহ-সংক্রান্ত|It is a *systemic* disease that affects every organ.
+# Diagnosis
+prognosis|n|the forecasted course of a disease|রোগের গতিপথ অনুমান করা|The doctor said the *prognosis* was good.
+pathology|n|the manifestation of a disease; the study of diseases|রোগনির্ণয়বিদ্যা|The *pathology* report came back normal.
+pathological|adj|pertaining to disease|রোগবিদ্যাগত|He is a *pathological* liar who cannot stop.

@@ -1,0 +1,25 @@
+N: 82
+T: Newer and Older
+S: In a *quaint* old village, the *archive* held *archaic* letters and an *antiquated*, now *obsolete* printing press. A young student of *archeology* loved the place, though her own taste was *contemporary* and she stayed *au courant*. An *outmoded* machine and a *superannuated* clerk worked beside an *obsolescent* stove, and a *primeval* tree stood in the yard. She compared a *prototype* with an *archetype* and found a *passé* idea behind every *archetypal* hero, one *antediluvian*, *self-perpetuating* myth after another.
+B: এক মনোরম পুরনো গ্রামে ঐতিহাসিক বস্তুসংরক্ষণাগারে ছিল সেকেলে চিঠি আর এক পুরনো ধাঁচের, এখন অচল ছাপাখানা। প্রত্নতত্ত্ববিদ্যার এক তরুণ ছাত্রী জায়গাটি ভালোবাসত, যদিও তার নিজের রুচি ছিল আধুনিক আর সে থাকত হালনাগাদ। এক অপ্রচলিত যন্ত্র আর এক অবসরপ্রাপ্ত কেরানি এক লুপ্তপ্রায় চুলার পাশে কাজ করত, আর উঠোনে ছিল এক আদিম গাছ। সে একটি আদিরূপ ছাঁচের সঙ্গে একটি মূল আদর্শের তুলনা করল আর প্রতিটি আদি নায়কের পেছনে এক পুরনো ধারণা খুঁজে পেল, একের পর এক পুরনো, নিজেকে বিলুপ্ত হওয়ার হাত থেকে রক্ষা করা ক্ষমতাসম্পন্ন কিংবদন্তি।
+# Old
+antediluvian|adj|very old; before the Flood|পুরনো|The museum holds an *antediluvian* machine.
+archaic|adj|very old; no longer used|পুরনো|He used an *archaic* word for friend.
+antiquated|adj|old-fashioned|পুরনো|The school still has *antiquated* desks.
+obsolete|adj|no longer used or needed|পুরনো|Floppy disks are *obsolete* today.
+outmoded|adj|out of fashion|পুরনো|They rejected the *outmoded* method.
+superannuated|adj|too old to be useful|পুরনো|The *superannuated* clerk finally retired.
+passé|adj|old-fashioned; out of date|পুরনো|Long skirts seemed *passé* that season.
+quaint|adj|attractively old-fashioned|পুরনো|We stayed in a *quaint* village inn.
+primeval|adj|primitive; very ancient|প্রারম্ভিক|A *primeval* forest covered the land.
+obsolescent|adj|becoming obsolete|লুপ্তপ্রায়|The *obsolescent* rule was soon dropped.
+self-perpetuating|adj|having the power to renew or continue itself|নিজেকে বিলুপ্ত হওয়ার হাত থেকে রক্ষা করার ক্ষমতাসম্পন্ন|A *self-perpetuating* myth never dies.
+# Original model
+archetype|n|primitive pattern used as a model by others|আদিরূপ; ছাঁচ|Hamlet is an *archetype* of the thoughtful prince.
+prototype|n|primitive pattern used as a model by others|আদিরূপ; ছাঁচ|Engineers tested the first *prototype* of the car.
+archetypal|adj|characteristic of an original model after which others are patterned|আদি; মৌলিক|He is the *archetypal* absent-minded professor.
+archeology|n|the study of material evidence of past human life|প্রত্নতত্ত্ববিদ্যা|*Archeology* uncovered an ancient city.
+archive|n|place or collection containing records of historical interest|ঐতিহাসিক বস্তুসংরক্ষণাগার|The *archive* holds letters from the war.
+# Present time
+contemporary|adj|belonging to the present time|বর্তমান যুগে অবস্থিত|She writes *contemporary* poems about city life.
+au courant|adj|up-to-date; informed on current affairs|হালনাগাদ|He stays *au courant* by reading daily news.

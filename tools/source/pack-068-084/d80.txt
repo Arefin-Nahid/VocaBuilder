@@ -1,0 +1,41 @@
+N: 80
+T: Motions (continued)
+S: The lake lay in *quiescence*, and the boat sat *motionless*, held by *inertia*. A sudden breeze gave it *impetus*, and it gathered *momentum*. The captain began to *gesticulate*, and a sailor would *saunter* and then *scurry* to *stanch* a leak. After a *cessation* of the rain, the crew lay *supine* on the deck while gentle waves went *undulating* past. A *mobile* crane stood in *stasis* at the dock, until at that *juncture* a *hiatus* in the storm brought *abeyance* of work.
+B: হ্রদ নিশ্চলতায় স্থির ছিল, আর নৌকা জড়তায় আটকে অনড় দাঁড়িয়ে ছিল। হঠাৎ এক দমকা হাওয়া তাকে চালিকা শক্তি দিল, আর সে ভরবেগ পেল। ক্যাপ্টেন ইঙ্গিত দিয়ে বোঝাতে লাগলেন, আর এক নাবিক হেলেদুলে হেঁটে তারপর দৌড়ে গিয়ে ফুটোর প্রবাহ থামাত। বৃষ্টির বিরামের পর নাবিকেরা ডেকে চিৎ হয়ে শুয়ে রইল, আর মৃদু ঢেউ ঢেউ খেলে বয়ে গেল। ঘাটে এক ভ্রমণক্ষম ক্রেন নিশ্চলতায় স্থির দাঁড়িয়ে ছিল, ঠিক সেই জংশনের মুহূর্তে ঝড়ের এক বিরতি কাজকে মুলতবি অবস্থায় আনল।
+# Inactivity
+quiescence|n|inactivity; stillness|নিশ্চলতা|The *quiescence* of the village at night was complete.
+stasis|n|inactivity; stillness|নিশ্চলতা|The economy was in a state of *stasis*.
+inertia|n|resistance to move or change; a disposition to remain inactive|জড়তা|*Inertia* kept the heavy cart from moving.
+# Motionless
+motionless|adj|not moving|অনড়; নিশ্চল|The deer stood *motionless* in the light.
+inert|adj|motionless; without power to move|অনড়; নিশ্চল|An *inert* body lay on the sand.
+static|adj|not moving or changing|অনড়; নিশ্চল|The picture stayed *static* on the screen.
+transfixed|adj|motionless from awe, terror or amazement|বিস্ময়ে বা ভয়ে নিশ্চল|The crowd stood *transfixed* by the fire.
+# Stop
+occlude|v|shut; block|বন্ধ করে দেয়া|A fat clot may *occlude* an artery.
+cessation|n|stoppage; halt|বিরাম; ক্ষান্তি|The *cessation* of fighting brought peace.
+nautical|adj|pertaining to ships or navigation|জাহাজ বা নৌ-সংক্রান্ত|He studied *nautical* maps before the trip.
+saunter|v|stroll slowly|হেলেদুলে হাঁটা|They *sauntered* along the beach.
+scurry|v|move or proceed briskly|দ্রুতবেগে ছোটা|Mice *scurried* across the floor.
+# Movable
+mobile|adj|able to move; not fixed|ভ্রমণে সক্ষম|A *mobile* library visits the village weekly.
+mobility|n|the state of being movable|ভ্রমণক্ষমতা|Old age reduced his *mobility*.
+immobility|n|the state of being immovable|অচলতা|The *immobility* of the patient worried the nurse.
+equable|adj|steady; uniform; tranquil|স্থির; সুষম|Chattogram has an *equable* climate.
+# Force
+impetus|n|moving force; incentive; stimulus|চালিকা শক্তি|The grant gave new *impetus* to the project.
+momentum|n|quantity of motion of a moving body|ভরবেগ|The train gathered *momentum* downhill.
+gesticulate|v|show, express or direct through movement|ইঙ্গিত দিয়ে বোঝানো|He *gesticulated* wildly to stop the bus.
+# Pause
+abeyance|n|temporary pause; suspension|মুলতবি অবস্থা|The law remained in *abeyance* for a year.
+hiatus|n|pause; gap|বিরতি|After a long *hiatus* the band returned.
+# Joint and shake
+palpitation|n|a shaky motion; a rapid irregular heartbeat|কম্পন; বুক ধড়ফড় করা|Fear caused *palpitation* in her chest.
+juncture|n|point where two things are joined; turning point|জংশন|At this *juncture* we must choose a path.
+# Lying down
+supine|adj|lying face upward|চিৎ হয়ে শোওয়া|He lay *supine* on the grass looking at stars.
+prostrate|adj|lying face downward|উপুড় হয়ে শোওয়া|The pilgrim lay *prostrate* before the shrine.
+# Check the flow of a liquid
+stem|v|check the flow of a liquid|প্রবাহ থামিয়ে দেয়া|She used a cloth to *stem* the bleeding.
+stanch|v|check the flow of a liquid|প্রবাহ থামিয়ে দেয়া|The nurse *stanched* the wound at once.
+undulating|adj|moving in a wavy pattern with rising and falling motion|ঢেউ খেলানো|*Undulating* hills stretched to the horizon.

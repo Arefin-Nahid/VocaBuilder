@@ -1,0 +1,22 @@
+N: 83
+T: Odor
+S: On a summer morning, *fragrant* roses and *aromatic* herbs perfumed the garden, and the kitchen was *redolent* of fresh bread. A *balmy* breeze made the air *odorous* and *odoriferous* with a hundred scents. But beside the wall a *fetid* pond would *reek* in the heat, and a *malodorous* drain and a *noisome* ditch spread a *rancid* *effluvium*. The girl who lived there had a sharp *olfactory* sense, so she cleaned the pond and fixed the drain, and the garden smelled sweet again.
+B: এক গ্রীষ্মের সকালে সুগন্ধযুক্ত গোলাপ আর সুগন্ধি ভেষজ বাগান সুবাসিত করল, আর রান্নাঘর তাজা রুটির গন্ধে ভরে ছিল। এক মনোরম হাওয়া বাতাসকে শত গন্ধে গন্ধযুক্ত ও সুবাসিত করল। কিন্তু দেয়ালের পাশে এক দুর্গন্ধযুক্ত পুকুর গরমে গন্ধ ছড়াত, আর এক দুর্গন্ধযুক্ত নর্দমা ও এক বিশ্রী খানা বিস্বাদ চর্বির মতো বিশ্রী দুর্গন্ধ ছড়াল। যে মেয়েটি সেখানে থাকত তার ঘ্রাণশক্তি ছিল প্রখর, তাই সে পুকুর পরিষ্কার করল আর নর্দমা মেরামত করল, আর বাগান আবার মিষ্টি গন্ধে ভরে উঠল।
+# Having an odor
+odorous|adj|having an odor|গন্ধযুক্ত|The *odorous* cheese filled the room.
+odoriferous|adj|having an odor|গন্ধযুক্ত|*Odoriferous* spices hung in the shop.
+# Foul-smelling
+malodorous|adj|foul-smelling|দুর্গন্ধযুক্ত|The *malodorous* drain was blocked.
+fetid|adj|foul-smelling|দুর্গন্ধযুক্ত|A *fetid* smell rose from the rotten fish.
+noisome|adj|foul-smelling; harmful|দুর্গন্ধযুক্ত|The *noisome* pond bred mosquitoes.
+# Fragrant
+fragrant|adj|sweet-smelling|সুগন্ধযুক্ত|The *fragrant* roses perfumed the garden.
+redolent|adj|fragrant; suggestive of|সুগন্ধযুক্ত|The kitchen was *redolent* of baking bread.
+balmy|adj|fragrant; mild and soothing|সুগন্ধযুক্ত|A *balmy* breeze blew from the sea.
+aromatic|adj|fragrant|সুগন্ধযুক্ত|*Aromatic* tea steamed in the cups.
+# Odor
+reek|v|emit odor|গন্ধ নির্গমন করা|The old shoes *reeked* of sweat.
+rancid|adj|having the odor of stale fat|বিস্বাদ চর্বির গন্ধযুক্ত|The *rancid* butter was thrown away.
+effluvium|n|noxious smell|বিশ্রী দুর্গন্ধ|An *effluvium* rose from the factory drain.
+olfactory|adj|concerning the sense of smell|ঘ্রাণসংক্রান্ত|Dogs have a keen *olfactory* sense.
+

@@ -21,7 +21,7 @@ Plain HTML, CSS and JavaScript. No framework, no build step, and no server. Inst
 Opening `index.html` from disk also works (without offline install and sync).
 
 ## Cloud sync
-Firebase settings are in `js/core/firebase-config.js`. One-time console steps (authorized domain, Firestore rules) are in `FIREBASE-SETUP.md`. Rules are in `firebase/firestore.rules`. Sync runs only on the hosts listed in `VB.syncHosts`.
+Firebase settings are in `js/core/firebase-config.js`; security rules are in `firebase/firestore.rules`. Sync runs only on the hosts listed in `VB.syncHosts`.
 
 ## Structure
 ```

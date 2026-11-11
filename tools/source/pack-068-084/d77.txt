@@ -1,0 +1,24 @@
+N: 77
+T: Mind
+S: Every morning Mina sat in *meditation* and would *ruminate* on her day. She was *resolute* and would *resolve* to drop every *preconception* about her new job. Her *pragmatism* helped, and an *insular* mind was never her style. She would *cogitate* on each plan, and an *emotive* speech never swayed her. She once believed in a *chimerical* plan to get rich overnight, a pure *chimera*, but now she kept her *psyche* calm, and she smiled at the *psychic* who promised her fortune.
+B: প্রতি সকালে মিনা ধ্যানে বসত আর নিজের দিনটি নিয়ে ভাবত। সে ছিল স্থিরসংকল্প, আর নতুন চাকরি নিয়ে সব কুসংস্কার ঝেড়ে ফেলার সংকল্প করত। তার বাস্তববাদী দৃষ্টিভঙ্গি কাজে লাগত, আর সংকীর্ণ মন কখনও তার স্বভাব ছিল না। সে প্রতিটি পরিকল্পনা ভালো করে ভেবে দেখত, আর অনুভূতিপ্রবণ কোনো বক্তৃতা তাকে কখনও টলাতে পারত না। একসময় সে রাতারাতি ধনী হওয়ার এক কাল্পনিক পরিকল্পনায় বিশ্বাস করত, এক নিছক মায়া, কিন্তু এখন সে নিজের মন শান্ত রাখত, আর যে অনুভূতিজাত ক্ষমতার দাবিদার তার ভাগ্য বলার প্রতিশ্রুতি দিত তাকে দেখে সে হাসত।
+# Mind
+psyche|n|the mind|মন|Stress can wound the *psyche*.
+psychic|adj|originating in the mind; perceptive of non-material, spiritual forces|অনুভূতিজাত|She claimed to have *psychic* powers.
+psychosis|n|a mental disorder|মানসিক সমস্যা|The patient was treated for *psychosis*.
+# Thinking
+meditation|n|reflection; thought|ধ্যান|Daily *meditation* helps him stay calm.
+ruminate|v|think deeply about a subject or question over a period of time; contemplate|ধ্যান করা; রোমন্থন করা|He sat alone to *ruminate* on his future.
+cogitate|v|think carefully; ponder|ভালো করে ভেবে দেখা|Let me *cogitate* on your offer overnight.
+# Fancy
+chimera|n|something fantastic; a fanciful mental illusion|চমৎকার কিছু; কল্পনাপ্রসূত মানসিক বিভ্রম|Their dream of a perfect world was a *chimera*.
+chimerical|adj|fantastic; highly imaginative|কাল্পনিক|The plan to fly by flapping arms was *chimerical*.
+# Determination
+resolution|n|determination|স্থিরসংকল্প|Her *resolution* to pass never weakened.
+resolute|adj|determined; with a clear purpose|স্থিরসংকল্পধারী|The *resolute* captain refused to give up.
+resolve|v|determine to do something|সংকল্প করা|He *resolved* to wake up early every day.
+# Attitude
+pragmatism|n|a practical way of approaching situations or solving problems|বাস্তববাদী দৃষ্টিভঙ্গি|*Pragmatism* helped the manager cut costs wisely.
+preconception|n|an idea formed in advance without adequate evidence; prejudice|কুসংস্কার|Drop every *preconception* before you meet him.
+emotive|adj|appealing to or expressing emotion|অনুভূতিপ্রবণ|The writer used *emotive* words to move readers.
+insular|adj|narrow-minded; isolated|সংকীর্ণমনা|An *insular* village rarely welcomed strangers.

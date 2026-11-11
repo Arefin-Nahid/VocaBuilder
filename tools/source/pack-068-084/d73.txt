@@ -1,0 +1,33 @@
+N: 73
+T: Medical Terms (continued)
+S: The old healer promised an *elixir* that was a *panacea* for every illness, but it was only a *nostrum* and a *placebo*. A *hypochondriac* bought it anyway, trusting the *unctuous* salesman. One sip made him *bilious*, and an *emetic* was needed. A real doctor would prefer a soothing *emollient*, an *unguent* or a *poultice*, some *therapeutic* rest, and time to *convalesce* and *recuperate* after a *virus*. A daily *ablution* kept the *pathogen* away, and a *carcinogenic* habit like smoking was stopped.
+B: বুড়ো কবিরাজ এমন এক অমৃত দেওয়ার প্রতিশ্রুতি দিলেন যা সব রোগের মহৌষধ, কিন্তু সেটা ছিল কেবল হাতুড়ে ওষুধ আর ভুয়া ওষুধ। এক বাতিকগ্রস্ত রোগী তবু সেটা কিনলেন, তেলতেলে বিক্রেতাকে বিশ্বাস করে। এক চুমুকে তাঁর পিত্তের অস্বস্তি হল, আর বমির ওষুধ লাগল। প্রকৃত ডাক্তার বরং পছন্দ করতেন আরামদায়ক নরমকারক, মলম বা প্রলেপ, কিছু নিরাময়মূলক বিশ্রাম, আর ভাইরাসের পর সেরে ওঠার ও শক্তি ফিরে পাওয়ার সময়। প্রতিদিন গা ধোয়া জীবাণুকে দূরে রাখত, আর ধূমপানের মতো ক্যানসার-সৃষ্টিকারী অভ্যাস বন্ধ করা হল।
+# Hypothetical medicines that cure all diseases
+elixir|n|an imaginary medicine said to cure all diseases|অমৃত|The old tale speaks of an *elixir* of life.
+panacea|n|a hypothetical remedy for all diseases|অমৃত; সর্বরোগহর ওষুধ|No single pill is a *panacea* for every illness.
+nostrum|n|a questionable medicine|হাতুড়ে ওষুধ|The pedlar sold a *nostrum* made of honey and ash.
+placebo|n|a harmless substance prescribed as a dummy pill|রোগীর মন রাখার জন্য বা গবেষণার নিমিত্তে প্রদত্ত ভুয়া ওষুধ|Half the group took a *placebo* in the trial.
+# Medicines applied to sore and inflamed parts of the body
+emollient|n|a medicine that softens and soothes the skin|ত্বক নরমকারী ওষুধ|This *emollient* keeps dry skin soft.
+poultice|n|a soft, hot medicinal pack applied to a sore part|পুড়ে গেলে যে ঔষধ লাগানো হয়|She put a hot *poultice* on the swollen knee.
+unguent|n|an ointment|মলম|He applied an *unguent* to the burn.
+unction|n|an ointment; the act of anointing|মলম|The priest performed the *unction* with fragrant oil.
+unctuous|adj|oily; also marked by insincere flattery|তেলতেলে; তোষামোদীপূর্ণ|The *unctuous* salesman praised everything we said.
+# Miscellaneous
+autopsy|n|an examination of a dead body; postmortem|ময়না তদন্ত|The *autopsy* showed the cause of death.
+necropsy|n|an examination of a dead body|ময়না তদন্ত|A *necropsy* was done on the animal.
+carcinogenic|adj|causing cancer|ক্যান্সার ঘটাতে সক্ষম এমন|Tobacco smoke is *carcinogenic*.
+clavicle|n|the collar bone|কণ্ঠার হাড়|He broke his *clavicle* in a fall from his bike.
+emetic|n|a substance causing vomiting|বমি উদ্রেককর|The doctor gave an *emetic* after the poisoning.
+bilious|adj|suffering from a liver complaint|লিভারের সমস্যাযুক্ত|Fatty food made him feel *bilious*.
+euthanasia|n|mercy killing; the act of killing someone painlessly to stop his suffering from incurable disease|যন্ত্রণাহীনভাবে মৃত্যু ঘটানো|The law forbids *euthanasia* in our country.
+hypochondriac|adj|a person unduly worried about his health|সবসময় অসুস্থ হবার ভয়ে ভোগে এমন স্নায়বিক রোগী|A *hypochondriac* visits the doctor every week.
+pestilential|adj|causing plague; baneful|মহামারী ঘটাতে সক্ষম এমন|A *pestilential* swamp spread fever through the camp.
+pathogen|n|an agent that causes disease|রোগজীবাণু|Boiling water kills most *pathogens*.
+virus|n|a disease communicator|ভাইরাস|A *virus* spread quickly through the school.
+# Recover after illness
+convalesce|v|recover after illness|সুস্থ হয়ে ওঠা|She *convalesced* at her aunt's house.
+recuperate|v|recover after illness|সুস্থ হয়ে ওঠা|It took him a month to *recuperate* from the surgery.
+therapeutic|adj|curative; having healing power|রোগ নিরাময়কারী|A walk in the park can be *therapeutic*.
+ablution|n|the act of cleansing|ধৌতকরণ প্রক্রিয়া|He performed his morning *ablutions* in the river.
+catharsis|n|purging or cleansing of any part of the body|বিশোধন|Crying gave her a sense of *catharsis*.

@@ -1,0 +1,36 @@
+N: 107
+T: Shame and Pride
+S: Meera was no *coy* girl. She was *pretentious* and *ostentatious*, wearing *gaudy* clothes and *tawdry* jewels. Her *bombastic* speeches were *grandiloquent* and *vainglorious*, and she would *flaunt* her riches without any *chagrin*. Her *egotistical*, *narcissistic* habits and *barefaced* boasts left the *demure* girls *abashed*, but she stayed *unabashed*. Her *vanity* fell only when failure made her *abject*, and she learned to be *unassuming*. Her friends were glad to see the change, and they invited her to dinner at last.
+B: মীরা মোটেই লাজুক মেয়ে ছিল না। সে ছিল লোক দেখানো ও আড়ম্বরপ্রিয়, চকচকে জমকালো পোশাক আর সস্তা জাঁকজমকপূর্ণ গয়না পরত। তার ফাঁপা বক্তৃতা ছিল আড়ম্বরপূর্ণ ও অহংকারী, আর সে কোনো লজ্জা ছাড়াই নিজের ধন-সম্পদ জাঁকালোভাবে প্রদর্শন করত। তার অত্যন্ত আত্মকেন্দ্রিক, আত্মমুগ্ধ অভ্যাস আর বেহায়া বড়াই বিনয়ী মেয়েদের বিব্রত করত, কিন্তু সে নিজে নির্লজ্জই থাকত। ব্যর্থতা তাকে শোচনীয় করে তোলার পরই কেবল তার অহমিকা ভাঙল, আর সে নম্র হতে শিখল। তার বন্ধুরা এই পরিবর্তন দেখে খুশি হলো, আর অবশেষে তাকে নৈশভোজে ডাকল।
+# Shy
+coy|adj|shy; modest|লাজুক|The *coy* girl smiled and looked away.
+demure|adj|shy; grave; serious|লাজুক|The *demure* bride kept her eyes lowered.
+diffident|adj|shy; lacking self-confidence|লাজুক|The *diffident* boy spoke in a whisper.
+retiring|adj|shy; avoiding company|লাজুক|The *retiring* poet shunned parties.
+unassuming|adj|shy; modest and not showy|লাজুক|The *unassuming* teacher never boasted.
+coquettish|adj|shy in a flirtatious way|লাজুক; ঢঙ্গী মেয়ে বোঝানো হয়েছে|She gave a *coquettish* laugh.
+coquette|n|a woman who flirts|যে পুরুষদের সাথে ঢং বা ছিনালি করে|The *coquette* teased every suitor.
+# Showy
+pretentious|adj|showy; claiming importance one does not have|লোক দেখানো|The *pretentious* menu confused the diners.
+ostentatious|adj|showy; meant to impress|লোক দেখানো|He lived in an *ostentatious* mansion.
+vainglorious|adj|showy; boastful|লোক দেখানো|The *vainglorious* king ordered a huge statue of himself.
+pompous|adj|showy; self-important|লোক দেখানো|The *pompous* speaker bored the audience.
+bombastic|adj|showy; using inflated language|লোক দেখানো|His *bombastic* speech lacked real ideas.
+gaudy|adj|showy; brightly colored but tasteless|লোক দেখানো|She wore a *gaudy* scarf with big flowers.
+tawdry|adj|showy; cheap and tasteless|লোক দেখানো|The shop sold *tawdry* souvenirs.
+vaunted|adj|showy; boasted about|লোক দেখানো|The *vaunted* new bridge cracked in a year.
+grandiose|adj|showy; too grand|লোক দেখানো|He announced a *grandiose* plan to build a tower.
+grandiloquent|adj|showy; using lofty, pompous language|লোক দেখানো|The *grandiloquent* mayor loved long words.
+pontifical|adj|showy; pertaining to a bishop or pope; pompous|লোক দেখানো; যাজক বা পোপ সংক্রান্ত|He spoke in a *pontifical* tone.
+# Shameless
+barefaced|adj|shameless; open and without disguise|বেহায়া|It was a *barefaced* lie.
+unabashed|adj|shameless; not embarrassed|বেহায়া|He remained *unabashed* after his mistake.
+effrontery|n|shamelessness|বেহায়াপনা|He had the *effrontery* to demand a refund.
+chagrin|n|shame; a strong feeling of embarrassment|লজ্জা; বিব্রতকর অনুভূতি; মর্মবেদনা|To her *chagrin*, she forgot his name.
+# Self-centered
+egotistical|adj|excessively self-centered|অত্যন্ত আত্মকেন্দ্রিক|The *egotistical* actor talked only of himself.
+narcissistic|adj|excessively self-centered; in love with oneself|অত্যন্ত আত্মকেন্দ্রিক|A *narcissistic* man posts a hundred selfies a day.
+vanity|n|a feeling of excessive pride|অহমিকা; আত্মশ্লাঘা|Her *vanity* kept her before the mirror for hours.
+flaunt|v|display flashily|জাঁকালোভাবে প্রদর্শন করা|Do not *flaunt* your wealth before the poor.
+abash|v|embarrass|বিব্রত করা|Her sharp reply did *abash* the speaker.
+abject|adj|wretched; lacking pride|শোচনীয়; অতীব দুর্দশাগ্রস্ত|The family lived in *abject* poverty.

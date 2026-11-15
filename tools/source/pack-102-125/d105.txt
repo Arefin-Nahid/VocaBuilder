@@ -1,0 +1,34 @@
+N: 105
+T: Sex
+S: In the old village play, the hero kept *chastity* as his vow, and his *platonic* friendship with Rina was pure. The villain was *lecherous* and *licentious*, and his *lewd* jokes and *ribald* songs shocked the audience. The elders called the show *indecent* and its *scurrilous* script *obscene*, and a *prurient* fan was thrown out. Only the monk, devoted to *celibacy* and *continence*, watched calmly, since he was never *amorous* or *lustful*. The hero's *chaste* heart won.
+B: পুরোনো গ্রামের পালায় নায়ক শুদ্ধতাকেই তার ব্রত করেছিল, আর রিনার সঙ্গে তার শারীরিক আকর্ষণবিহীন বন্ধুত্ব ছিল নির্মল। খলনায়ক ছিল কামুক ও উচ্ছৃঙ্খল, আর তার অশ্লীল রসিকতা ও অশালীন গান দর্শকদের স্তম্ভিত করল। প্রবীণরা পালাটিকে অশালীন বলল আর এর কুরুচিপূর্ণ কাহিনিকে অশ্লীল, আর এক কামুক দর্শককে বের করে দেওয়া হলো। কেবল সন্ন্যাসী, যিনি ব্রহ্মচর্য ও ইন্দ্রিয়সংযমে নিবেদিত, শান্তভাবে দেখলেন, কারণ তিনি কখনো প্রেমাসক্ত বা লালসাগ্রস্ত ছিলেন না। নায়কের সতী হৃদয়ই জিতল।
+# Unrestrained sexuality
+lechery|n|unrestrained sexuality|অদম্য যৌনক্ষুধা|The king's *lechery* was known across the court.
+lewdness|n|unrestrained sexuality; vulgar behavior|অদম্য যৌনক্ষুধা|The film was banned for its *lewdness*.
+lustfulness|n|unrestrained sexual desire|অদম্য যৌনক্ষুধা|His *lustfulness* ruined his marriage.
+# Abstinence from sexual desire
+celibacy|n|abstinence from sexual desire|ইন্দ্রিয়সংযম|Priests of that order take a vow of *celibacy*.
+chastity|n|abstinence from sexual desire; purity|ইন্দ্রিয়সংযম|The nun lived a life of *chastity*.
+continence|n|self-restraint, especially of sexual desire|ইন্দ্রিয়সংযম|He praised *continence* as a virtue.
+# Marked by sexual desire
+incontinent|adj|lacking self-restraint; marked by sexual desire|কামুক|The prince was *incontinent* and reckless.
+lewd|adj|vulgar; marked by sexual desire|কামুক|Teachers punished the boy for his *lewd* remarks.
+lustful|adj|marked by sexual desire|কামুক|The *lustful* glances made her uneasy.
+amorous|adj|showing sexual or romantic desire|কামুক|The *amorous* poet wrote her love letters.
+lascivious|adj|marked by sexual desire|কামুক|He gave her a *lascivious* look.
+lecherous|adj|marked by unrestrained sexual desire|কামুক|The *lecherous* old man annoyed the maids.
+licentious|adj|morally unrestrained, especially sexually|কামুক|The poem criticizes a *licentious* court.
+salacious|adj|marked by sexual desire; indecent|কামুক|The paper printed *salacious* gossip.
+libidinous|adj|marked by sexual desire|কামুক|The play shows a *libidinous* king.
+libidinal|adj|related to sexual desire|কামুক|Freud wrote about *libidinal* energy.
+wanton|adj|marked by sexual desire; willfully malicious; deliberately harmful|কামুক; ইচ্ছাকৃতভাবে বিদ্বেষপূর্ণ|The mob did *wanton* damage to the shops.
+prurient|adj|marked by excessive interest in sexual matters|কামুক|The tabloid fed a *prurient* public.
+# Pure
+chaste|adj|pure; virginal|সতী, কৌমার্যবিশিষ্ট|The heroine stayed *chaste* until marriage.
+platonic|adj|without physical desire; spiritual; theoretical|শারীরিক আকর্ষণবিহীন; আদর্শমূলক|They share a *platonic* friendship.
+# Obscene
+obscene|adj|offensive to modesty; indecent|অশ্লীল|The *obscene* poster was torn down.
+indecent|adj|offensive to modesty; obscene|অশ্লীল|It is *indecent* to shout in a hospital.
+ribald|adj|obscene; vulgarly humorous|অশ্লীল|The sailors sang a *ribald* song.
+scurrilous|adj|obscene; abusive and false|অশ্লীল|A *scurrilous* rumour hurt her career.
+incest|n|sexual intercourse between persons not allowed to marry, as between a parent and a child|অজাচার; অত্যন্ত নিকট আত্মীয়দের সাথে অবৈধ শারীরিক সম্পর্ক|The law strictly forbids *incest*.

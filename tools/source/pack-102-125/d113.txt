@@ -1,0 +1,27 @@
+N: 113
+T: Small and Large (continued)
+S: Nina did not have an *iota* of fear when she opened her shop. A *bonanza* of customers brought *scads* of orders and a *slew* of emails. Her *squat* clerk could not manage the *minutia*, so Nina decided to *abridge* the menu and *curtail* the opening hours. She would *abbreviate* long names into an *acronym* and *truncate* every note to a short *snippet*. The *brevity* paid off: the *diminution* of waste was clear, and not a *whit* of quality was lost.
+B: নিনা দোকান খোলার সময় এক বিন্দুও ভয় পায়নি। ক্রেতাদের এক বিশাল প্রাপ্তি এনে দিল প্রচুর অর্ডার আর অগণিত ইমেইল। তার বেঁটে অথচ মোটা কেরানি খুঁটিনাটি সামলাতে পারত না, তাই নিনা মেনু সংক্ষিপ্ত করে খোলার সময় কমানোর সিদ্ধান্ত নিল। সে লম্বা নামগুলোকে আদ্যক্ষর দ্বারা গঠিত শব্দে সংক্ষেপ করত আর প্রতিটি নোট কেটে ছোট অংশে নামিয়ে আনত। সংক্ষিপ্ততা ফল দিল: অপচয় হ্রাস স্পষ্ট ছিল, আর মানের এক কণাও কমেনি।
+# Small quantity
+iota|n|a very small quantity|সামান্য পরিমাণ|There is not an *iota* of truth in the rumour.
+whit|n|a very small quantity|সামান্য পরিমাণ|He did not care a *whit* about the result.
+scintilla|n|a very small quantity; a spark|সামান্য পরিমাণ|There was not a *scintilla* of proof.
+# Large quantity
+scads|n|a large quantity|ব্যাপক পরিমাণ|She has *scads* of books on the shelf.
+slew|n|a large quantity|ব্যাপক পরিমাণ|A *slew* of complaints reached the office.
+bonanza|n|a large quantity; a source of great wealth|ব্যাপক পরিমাণ; আকস্মিক বিরাট লাভ|The festival was a *bonanza* for local sellers.
+# Shorten
+abridge|v|shorten|সংক্ষিপ্ত করা|The editor will *abridge* the long novel.
+curtail|v|shorten; reduce|সংক্ষিপ্ত করা|Rain forced us to *curtail* the trip.
+abbreviate|v|shorten|সংক্ষিপ্ত করা|People *abbreviate* "Doctor" to "Dr.".
+truncate|v|shorten by cutting off|সংক্ষিপ্ত করা; কেটে ছোট করা|Software may *truncate* a very long name.
+# Others
+mite|n|a very small object or creature|অত্যন্ত ক্ষুদ্র বস্তু বা প্রাণী|A tiny *mite* lives in dust.
+mote|n|a small speck|ক্ষুদ্র কণা|A *mote* of dust floated in the sunlight.
+squat|adj|short and thick; stocky|বেঁটে, কিন্তু মোটা; হোঁৎকা; গাট্টাগোট্টা|A *squat* wrestler stood at the door.
+enormity|n|great wickedness; hugeness in a bad sense|বিশালতা, সাধারণত খারাপ অর্থে|He did not grasp the *enormity* of his crime.
+brevity|n|conciseness|সংক্ষিপ্ততা|*Brevity* is the soul of wit.
+acronym|n|a word formed from the initial letters of a name or series of words|আদ্যক্ষর দ্বারা গঠিত শব্দ|SAARC is an *acronym* for a regional group.
+diminution|n|lessening; reduction in size|হ্রাস; অবনতি|The *diminution* of the forest worried everyone.
+minutia|n|small details|ক্ষুদ্র বা গৌণ বিবরণ|Lawyers argue over every *minutia* of the contract.
+snippet|n|a small piece of anything; a tiny part|কেটে নেওয়া ক্ষুদ্র অংশ|He heard a *snippet* of their talk.

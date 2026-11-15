@@ -1,0 +1,16 @@
+N: 118
+T: Society and People (continued)
+S: Mr. Chowdhury was *insular*, proud of belonging to the *gentry* of his town. His family kept a *fiefdom* of rice fields in the *hinterland* and held *hegemony* over local sellers. *Bureaucracy* bored him, and his *xenophobia* grew whenever strangers came *unheralded* into his *locus* of influence. One day a *virile* young stranger reminded him that *genocide* in history had often begun with such narrow fear. The stranger smiled, and the old man, for the first time, invited him to tea.
+B: মি. চৌধুরী ছিলেন সংকীর্ণমনা, নিজের শহরের মধ্যবিত্ত অভিজাত শ্রেণিতে গর্বিত। তাঁর পরিবারের ছিল রাষ্ট্রের অনুন্নত অংশে ধানখেতের জমিদারি আর স্থানীয় বিক্রেতাদের ওপর আধিপত্য। আমলাতন্ত্র তাঁকে বিরক্ত করত, আর অচেনা মানুষ অঘোষিতভাবে তাঁর প্রভাবের ব্যস্ত জায়গায় এলেই তাঁর বিদেশিদের সম্বন্ধে অহেতুক ভয় বাড়ত। একদিন এক পুরুষোচিত তরুণ আগন্তুক তাঁকে মনে করিয়ে দিল, ইতিহাসে গণহত্যা প্রায়ই এমন সংকীর্ণ ভয় থেকেই শুরু হয়েছে। আগন্তুক হাসল, আর বৃদ্ধ লোকটি প্রথমবারের মতো তাকে চায়ে আমন্ত্রণ জানালেন।
+# Society and power
+insular|adj|narrow-minded; isolated|সংকীর্ণমনা|His *insular* views blocked new ideas.
+gentry|n|people of standing; the class of people just below nobility|অভিজাত সম্প্রদায়ের ঠিক নিম্নবর্তী স্তর; মধ্যবিত্ত লোক|The local *gentry* attended the grand dinner.
+hegemony|n|dominance, especially of one nation over others|এক দেশের ওপর আরেক দেশের আধিপত্য|The empire tried to keep its *hegemony* over the region.
+bureaucracy|n|an overregulated administrative system marked by red tape|আমলাতন্ত্র|*Bureaucracy* delayed the permit for months.
+xenophobia|n|fear or hatred of foreigners|বিদেশিদের সম্বন্ধে অহেতুক ভয়|*Xenophobia* rises when jobs are scarce.
+unheralded|adj|unannounced; unexpected; not publicized|অঘোষিত; অপ্রত্যাশিত|The guest arrived *unheralded* at midnight.
+locus|n|a locality; the center of great activity|ব্যস্ত জায়গা|The market was the *locus* of village life.
+hinterland|n|the remote or less developed part of a country|রাষ্ট্রের অনুন্নত অংশ|Roads were poor in the *hinterland*.
+fiefdom|n|the estate of a feudal lord|সামন্তপ্রভুদের জমিদারি বা তালুক|The landlord ruled his *fiefdom* like a king.
+virile|adj|having the qualities of an adult male|পুরুষোচিত|The *virile* athlete lifted the heavy log.
+genocide|n|the systematic killing of a people or nation|গণহত্যা|The world condemned the *genocide*.

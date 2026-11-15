@@ -1,0 +1,26 @@
+N: 109
+T: Skill (continued)
+S: A *peerless* young singer, a *prodigy*, rose with *meteoric* speed. Critics called her *unique* and *singular*, a *paragon* of her art. Her *felicitous* lyrics and *avant-garde* style set a new *paradigm*, and her voice was *unprecedented*. A *layman* may simply enjoy it, but an *artisan* of music admires her *prowess*. A *technocrat* designed her stage lights, and a *technophile* friend built the sound system. Her honesty became a *touchstone* for her fans.
+B: এক অতুলনীয় তরুণ গায়িকা, এক অত্যন্ত প্রতিভাধর শিশু, উল্কার মতো দ্রুত উপরে উঠল। সমালোচকরা তাকে অনন্য ও অদ্বিতীয় বললেন, তার শিল্পের পরিপূর্ণতার আদর্শ। তার যথাযথ গানের কথা আর প্রগতির পুরোধা ভঙ্গি এক নতুন আদর্শ গড়ল, আর তার কণ্ঠ ছিল নজিরবিহীন। অপেশাদার লোক হয়তো কেবল উপভোগ করে, কিন্তু সংগীতের দক্ষ কারিগর তার দক্ষতার প্রশংসা করে। এক প্রযুক্তিবিদ তার মঞ্চের আলো নকশা করল, আর এক প্রযুক্তিপ্রেমী বন্ধু সাউন্ড সিস্টেম বানাল। তার সততা ভক্তদের কাছে কষ্টিপাথর হয়ে উঠল।
+# Unmatchable
+peerless|adj|unmatchable in quality; one of a kind|অতুলনীয়; অনন্য|The chef's skill was *peerless*.
+singular|adj|unmatchable in quality; one of a kind|অতুলনীয়; অনন্য|She showed *singular* courage in the flood.
+sui generis|adj|unmatchable; of its own kind|অতুলনীয়; অনন্য|His art is *sui generis* and defies labels.
+unique|adj|unmatchable; one of a kind|অতুলনীয়; অনন্য|Every snowflake is *unique*.
+unprecedented|adj|unmatchable; not seen before|অতুলনীয়; অনন্য|The city saw an *unprecedented* flood.
+# Model of excellence
+paragon|n|a model of excellence or perfection|পরিপূর্ণতা বা উৎকর্ষের আদর্শ|She was a *paragon* of patience.
+ne plus ultra|n|the highest point of excellence|পরিপূর্ণতা বা উৎকর্ষের আদর্শ; সর্বোচ্চ সীমা|The car was the *ne plus ultra* of luxury.
+paradigm|n|a model; example; pattern|উদাহরণ; ছাঁচ বা আদর্শ|The study offers a new *paradigm* for teaching.
+touchstone|n|a basis for comparison; a quality used to test the genuineness of others|কষ্টিপাথর; তুলনার ভিত্তি|Honesty is the *touchstone* of friendship.
+# Skilled people
+artisan|n|a manually skilled worker|দক্ষ মিস্ত্রি|An *artisan* carved the wooden door.
+prowess|n|superior skill gained by practice; military bravery|অধ্যবসায়ের ফলে অর্জিত দক্ষতা; সামরিক সাহসিকতা|He showed great *prowess* on the cricket field.
+layman|n|a nonprofessional|অপেশাদার লোক|A *layman* can follow this simple guide.
+prodigy|n|a highly gifted person; marvel|অত্যন্ত প্রতিভাধর|The child *prodigy* played the violin at five.
+meteoric|adj|very rapid and brilliant, like a meteor|উল্কার মতো দ্রুত; ক্ষণস্থায়ী উজ্জ্বল|We all wondered at his *meteoric* rise to fame.
+felicitous|adj|apt; suitably expressed; well-chosen|যথাযথ|She made a *felicitous* choice of words.
+# Modern minds
+avant-garde|n|a group active in the invention of new techniques; relating to that group|প্রগতির পুরোধা; যারা নিত্যনতুন উদ্ভাবনের সাথে যুক্ত|The *avant-garde* artists shocked the old critics.
+technocrat|n|a scientist or technical expert who has a lot of power in politics or industry|রাজনৈতিক প্রভাবসম্পন্ন বিজ্ঞানী|The minister is a *technocrat*, not a politician.
+technophile|n|a person who is enthusiastic about technology|প্রযুক্তিপ্রেমী|Every *technophile* queued for the new phone.

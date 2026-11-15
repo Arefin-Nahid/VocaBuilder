@@ -1,0 +1,39 @@
+N: 119
+T: Sounds
+S: A *mellifluous* hymn drifted from the school, its *dulcet* tones soothing the whole street. Then a *raucous* band arrived with a *cacophonous* song. Its *strident* horns and *stentorian* singer made a *din* that rose to *pandemonium*. The *clamor* and *hubbub* grew into *tumult*, and the *boisterous* boys turned *obstreperous*. At last the *sonorous* school bell began to *reverberate*, and the *commotion* faded into calm silence. The next morning the street was quiet, and the children sang softly again.
+B: স্কুল থেকে এক সুমিষ্ট স্তবগান ভেসে এল, তার শ্রুতিমধুর সুর পুরো রাস্তাকে শান্ত করছিল। তারপর এক কর্কশ ব্যান্ডদল এল এক বেসুরো গান নিয়ে। তার তীক্ষ্ণ শিঙা আর বজ্রকণ্ঠ গায়ক এমন এক একটানা উচ্চ শব্দ তুলল যা তুমুল বিশৃঙ্খলায় পৌঁছাল। হইচই আর গোলমাল বাড়তে বাড়তে হট্টগোলে পরিণত হলো, আর হৈচৈকারী ছেলেরা হয়ে উঠল দুরন্ত। অবশেষে স্কুলের প্রতিধ্বনিময় ঘণ্টা বাজতে শুরু করল, আর প্রতিধ্বনিত হতে থাকল, আর কোলাহল মিলিয়ে গিয়ে শান্ত নীরবতা নেমে এল। পরদিন সকালে রাস্তা শান্ত ছিল, আর শিশুরা আবার মৃদুস্বরে গান গাইল।
+# Sweet sounds
+mellifluous|adj|sounding sweet|শ্রুতিমধুর|The singer has a *mellifluous* voice.
+euphonious|adj|sounding sweet and pleasant|শ্রুতিমধুর|The poem has *euphonious* lines.
+dulcet|adj|sounding sweet and soothing|শ্রুতিমধুর|The mother hummed in *dulcet* tones.
+# Harsh sounds
+raucous|adj|harsh and rough-sounding|কর্কশ|The *raucous* crowd booed the referee.
+cacophonous|adj|harsh and unpleasant-sounding|কর্কশ|The *cacophonous* traffic hurt my ears.
+strident|adj|harsh; loud and shrill|কর্কশ|Her *strident* voice cut through the room.
+stentorian|adj|extremely loud and powerful|কর্কশ; অত্যন্ত উচ্চস্বর|The sergeant gave a *stentorian* command.
+staccato|adj|sharp, short and abrupt, as notes or sounds|কর্কশ; ছেদযুক্ত|The *staccato* typing echoed in the office.
+# Noise
+bustle|n|noisy, busy activity|হৈচৈ; গোলমাল|The *bustle* of the market woke us early.
+clamor|n|a loud, confused noise|হৈচৈ; গোলমাল|The *clamor* of the crowd rose at the gate.
+hubbub|n|a confused uproar|হৈচৈ; গোলমাল|A *hubbub* of voices filled the hall.
+commotion|n|noisy disturbance|হৈচৈ; গোলমাল|A sudden *commotion* broke out in the street.
+blare|n|a loud, harsh sound; a dazzling blaze of light|হৈচৈ; আলোর ঝলকানি|The *blare* of horns annoyed the neighbours.
+# Continued loud noise
+din|n|a continued loud noise|একটানা উচ্চ শব্দ|The *din* of machines made talking hard.
+clangor|n|a continued loud ringing noise|একটানা উচ্চ শব্দ|The *clangor* of bells filled the town.
+# Great commotion
+pandemonium|n|great commotion and confusion|তুমুল বিশৃঙ্খলা|*Pandemonium* broke out when the lights failed.
+welter|n|a confused mass; disorder|তুমুল বিশৃঙ্খলা|A *welter* of rules confused the new clerk.
+tumult|n|great commotion and confusion|তুমুল বিশৃঙ্খলা|The speech ended in *tumult*.
+turbulence|n|violent, confused movement|তুমুল বিশৃঙ্খলা|The plane shook in heavy *turbulence*.
+turmoil|n|great commotion and confusion|তুমুল বিশৃঙ্খলা|The country was in *turmoil* after the coup.
+# Noisy
+boisterous|adj|noisy; violent, rough|গোলমালপূর্ণ|The *boisterous* children ran through the house.
+obstreperous|adj|noisy; troublesome|গোলমালপূর্ণ|The *obstreperous* guest refused to leave.
+vociferous|adj|noisy; loudly insistent|গোলমালপূর্ণ|She was a *vociferous* critic of the plan.
+clamorous|adj|noisy; loudly demanding|গোলমালপূর্ণ|A *clamorous* crowd demanded answers.
+uproarious|adj|noisy; very funny|গোলমালপূর্ণ|The comedy drew *uproarious* laughter.
+# Echoing
+resonant|adj|echoing; deep and full of sound|প্রতিধ্বনি হচ্ছে এমন|He has a deep, *resonant* voice.
+sonorous|adj|echoing; having a deep, rich sound|প্রতিধ্বনি হচ্ছে এমন|The priest's *sonorous* chant filled the temple.
+reverberate|v|echo; resound|প্রতিধ্বনি হওয়া|Thunder will *reverberate* in the valley.

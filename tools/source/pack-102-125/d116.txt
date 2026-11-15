@@ -1,0 +1,26 @@
+N: 116
+T: Society and People (continued)
+S: Mr. Rahman was *urbane*, with the *savoir faire* of a diplomat, always *suave* and *civil*. Born among the *hoi polloi*, he had a *plebeian* childhood, so his *demotic* speech still charmed ordinary people. As a student of *demography*, he fought to *enfranchise* the poor, since to *disenfranchise* anyone seemed wrong. His view was not *subjective* but *objective*, built on facts. In old age he turned *reclusive* and *aloof*, chose *seclusion*, and decided to *sequester* himself in a quiet village, though his *civility* was long remembered.
+B: মি. রহমান ছিলেন মার্জিত, কূটনীতিকের মতো সামাজিক পরিস্থিতিতে ভদ্র ব্যবহারের ক্ষমতা নিয়ে, সবসময় ভদ্র ও সভ্য। আমজনতার মাঝে জন্ম নিয়ে তাঁর ছিল জনসাধারণের মতো শৈশব, তাই তাঁর জনগণসংক্রান্ত ভাষা এখনো সাধারণ মানুষকে মুগ্ধ করত। জনসংখ্যাবিদ্যার ছাত্র হিসেবে তিনি গরিবকে নাগরিক অধিকার দিতে লড়েছিলেন, কারণ কাউকে অধিকার থেকে বঞ্চিত করা তাঁর কাছে অন্যায্য মনে হতো। তাঁর দৃষ্টিভঙ্গি ব্যক্তিগত নয়, বরং নিরপেক্ষ, তথ্যের ওপর গড়া। বৃদ্ধ বয়সে তিনি নির্জনতাপ্রিয় ও নির্লিপ্ত হয়ে উঠলেন, নিঃসঙ্গতা বেছে নিলেন এবং এক শান্ত গ্রামে নিজেকে জনজীবন থেকে আলাদা করার সিদ্ধান্ত নিলেন, যদিও তাঁর সভ্যতা বহুদিন স্মরণীয় ছিল।
+# Mind and judgment
+subjective|adj|occurring or taking place within the mind; particular to a person|মানসিক; ব্যক্তিগত|Taste in music is *subjective*.
+objective|adj|not influenced by emotions; fair|নিরপেক্ষ|A judge must stay *objective*.
+# Courteous
+suave|adj|smoothly agreeable and sophisticatedly courteous|ভদ্র; আদব-কায়দা জানে এমন|The *suave* waiter charmed every guest.
+urbane|adj|smoothly agreeable and sophisticatedly courteous|ভদ্র; আদব-কায়দা জানে এমন|The *urbane* host welcomed us warmly.
+savoir faire|n|the ability to behave properly in social situations|সামাজিক পরিস্থিতিতে ভদ্র ব্যবহার করার ক্ষমতা|The diplomat handled the crisis with *savoir faire*.
+# The people
+demography|n|the study of human population|জনসংখ্যা বিষয়ক বিদ্যা|*Demography* shows that the city is growing.
+demotic|adj|pertaining to the people|জনগণসংক্রান্ত|The writer used lively, *demotic* speech.
+hoi polloi|n|the common people|আমজনতা|The theatre was open to the *hoi polloi*.
+plebeian|adj|associated with ordinary, common people; vulgar, low-class|জনসাধারণ সম্পর্কিত; ইতর|He was proud of his *plebeian* roots.
+# Solitude
+reclusive|adj|seeking solitude|নির্জনতাপ্রিয়|The *reclusive* author never gave interviews.
+aloof|adj|apart; reserved|নির্লিপ্ত; সংযত; দূরে দূরে থাকে এমন|She stayed *aloof* from office gossip.
+seclusion|n|isolation; solitude|নিঃসঙ্গতা|The poet lived in *seclusion* by the lake.
+sequester|v|isolate; retire from public life; segregate|আলাদা করা; জনজীবন থেকে বিচ্ছিন্ন বা নিঃসঙ্গ হওয়া|The jury must *sequester* itself during the trial.
+# Citizens
+civil|adj|having to do with citizens or the state; courteous and polite|বেসামরিক; নাগরিক-সংক্রান্ত; সভ্য|Voting is a *civil* right.
+civility|n|politeness; courtesy|সভ্যতা|He treated everyone with *civility*.
+enfranchise|v|admit to the right of citizenship, especially the right to vote|নাগরিক অধিকার দেওয়া; ভোটাধিকার দেওয়া|The new law will *enfranchise* young voters.
+disenfranchise|v|deprive of a civil right|নাগরিক অধিকার থেকে বঞ্চিত করা|Unfair rules *disenfranchise* poor citizens.

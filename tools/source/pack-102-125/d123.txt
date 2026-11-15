@@ -1,0 +1,27 @@
+N: 123
+T: Study Time (continued)
+S: A *preceptor* named Hasan was no *pedant*. His *pedagogy* avoided *pedantry*, and he was never *pedantic* about rules. Each *tenet* of his *doctrine* was simple: *inculcate* curiosity and let students *pore* over books, not learn by *rote*. A visiting *anthropologist*, a *cartographer* and a *taxonomist* shared their tips, and a *bibliophile* donated a heavy *tome*. The *intelligentsia* praised him as a *sage*, and he added an *addendum* to his notes each year.
+B: হাসান নামের এক শিক্ষক মোটেই কেতাবি বিদ্যার অনুসারী ছিলেন না। তাঁর শিক্ষকতা শুধু কেতাবি বিদ্যা অনুসরণ এড়িয়ে চলত, আর তিনি নিয়ম নিয়ে কখনো কেবল কেতাবি বিদ্যা-সম্বলিত ছিলেন না। তাঁর মতবাদের প্রতিটি তত্ত্ব ছিল সহজ: কৌতূহল শেখাও আর ছাত্রদের মুখস্থ নয়, মনোযোগ সহকারে বই পড়তে দাও। এক আগন্তুক নৃবিজ্ঞানী, এক মানচিত্রকার ও এক শ্রেণীবিন্যাসবিদ তাঁদের পরামর্শ জানালেন, আর এক বইপ্রেমী একটি মোটা বই দান করলেন। আঁতেল সমাজ তাঁকে মহাজ্ঞানী বলে প্রশংসা করল, আর তিনি প্রতি বছর নিজের নোটে একটি সংযোজন যোগ করতেন।
+# Teaching
+preceptor|n|a teacher|শিক্ষক|The old *preceptor* taught the boys music.
+pedagogue|n|a teacher|শিক্ষক|The strict *pedagogue* demanded silence.
+pedagogy|n|teaching; the art of education|শিক্ষকতা|Modern *pedagogy* values student activity.
+pedantic|adj|showing off learning; bookish|কেবল কেতাবি বিদ্যা সম্বলিত|His *pedantic* corrections annoyed everyone.
+pedantry|n|pedantic attention to learning or formal rules|শুধু কেতাবি বিদ্যা অনুসরণ|The critic's *pedantry* spoiled the discussion.
+pedant|n|a boring academic; a person who pays more attention to formal rules than to merit|বিদ্যাবাগীশ; মেধার বিকাশ না ঘটিয়ে কেবলমাত্র বই অনুসরণ করে যে শিক্ষক|The *pedant* corrected every comma.
+# Teachings
+doctrine|n|a teaching or taught subject; a belief|তত্ত্ব; মতবাদ|The church spread its *doctrine* across the land.
+tenet|n|a principle or belief taught|তত্ত্ব; মতবাদ|Honesty is a basic *tenet* of our school.
+inculcate|v|teach by repeating|শিক্ষা দেওয়া|Parents *inculcate* good habits in children.
+pore|v|study industriously; ponder|মনোযোগ সহকারে পড়া|She would *pore* over maps for hours.
+rote|n|memorization by repetition|বারংবার পড়ার মাধ্যমে মুখস্থ করা|Children learned the tables by *rote*.
+# Persons
+anthropologist|n|a student of the history and science of humankind|নৃবিজ্ঞানী|The *anthropologist* lived among the tribe.
+intelligentsia|n|intellectuals; members of the educated elite|আঁতেল|The *intelligentsia* criticized the new law.
+sage|n|a person celebrated for wisdom|পরম বিজ্ঞ; মহাজ্ঞানী|The village *sage* settled every dispute.
+cartographer|n|a map maker|মানচিত্রকার|The *cartographer* drew the coast in detail.
+taxonomist|n|a specialist in classifying plants, animals, etc.|শ্রেণীবিন্যাসবিদ|The *taxonomist* named a new beetle.
+# Books
+addendum|n|an appendix to a book; an addition|সংযোজন; বইয়ের শেষে সংযুক্ত অংশ|He wrote an *addendum* to the contract.
+tome|n|a book, usually large and academic|মোটা বই|He carried a heavy *tome* on history.
+bibliophile|n|a book lover|বইপ্রেমী|The *bibliophile* owned ten thousand books.

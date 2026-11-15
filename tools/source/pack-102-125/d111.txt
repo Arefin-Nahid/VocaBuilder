@@ -1,0 +1,51 @@
+N: 111
+T: Sleep/Boredom
+S: After weeks of *insomnia*, Rafiq felt *drowsy* and *lethargic* all day. *Lassitude* and *torpor* made him *sluggish*, and a *soporific* lecture left him *somnolent*. His *humdrum* routine bred *tedium* and *ennui*, and his *vapid* talk sounded *listless* and *lackadaisical*. A *vigilant* friend saw his *doldrums* and warned him not to *vegetate* like a *sluggard*. He soon cured his *languor* with a morning run. Within a month he felt fresh again and returned to his studies with a smile.
+B: সপ্তাহের পর সপ্তাহ অনিদ্রার পর রফিক সারাদিন তন্দ্রাচ্ছন্ন ও অলস বোধ করত। ক্লান্তি আর জড়তা তাকে ধীরগতির করে তুলল, আর একটি ঘুমপাড়ানি বক্তৃতা তাকে আধো তন্দ্রাচ্ছন্ন করে ফেলল। তার একঘেয়ে রুটিন ক্লান্তি ও বিরক্তি জন্ম দিল, আর তার নীরস কথাবার্তা নিস্তেজ ও অমনোযোগী শোনাত। এক সতর্ক বন্ধু তার স্থবিরতা দেখে সতর্ক করল, অলস ব্যক্তির মতো একঘেয়ে জীবন কাটিও না। সে শিগগিরই সকালের দৌড় দিয়ে নিজের অবসাদ সারিয়ে ফেলল। এক মাসের মধ্যেই সে আবার সতেজ বোধ করল এবং হাসিমুখে পড়াশোনায় ফিরে গেল।
+# Sleepy
+drab|adj|sleepy; dull and colorless|তন্দ্রাচ্ছন্ন; একঘেয়ে|The *drab* office had no windows.
+drowsy|adj|sleepy|তন্দ্রাচ্ছন্ন|The medicine made her *drowsy*.
+lethargic|adj|sleepy; lacking energy|তন্দ্রাচ্ছন্ন|He felt *lethargic* after the big meal.
+sluggish|adj|sleepy; slow-moving|তন্দ্রাচ্ছন্ন|The river was *sluggish* in the dry season.
+torpid|adj|sleepy; inactive|তন্দ্রাচ্ছন্ন|The snake was *torpid* in the cold.
+comatose|adj|extremely sleepy; in a coma|তন্দ্রাচ্ছন্ন; অচেতন|The patient lay *comatose* for a week.
+# Sleepiness
+lethargy|n|sleepiness; lack of energy|নিদ্রালুতা; ঝিমুনি|A strange *lethargy* came over the class.
+dormancy|n|a sleeping or inactive state|নিদ্রালুতা; ঝিমুনি|The seeds end their *dormancy* in spring.
+sluggishness|n|slowness and lack of energy|নিদ্রালুতা; ঝিমুনি|Heat caused *sluggishness* among workers.
+torpor|n|sleepiness; inactivity|নিদ্রালুতা; ঝিমুনি|The hot afternoon filled him with *torpor*.
+vertigo|n|a feeling of dizziness|মাথা ঘোরা; ঝিমুনি|Climbing the tower gave him *vertigo*.
+# Boredom
+languor|n|tiredness; lack of energy|ক্লান্তি|A summer *languor* settled on the town.
+lassitude|n|tiredness; lack of energy|ক্লান্তি|*Lassitude* made her skip the morning walk.
+tedium|n|boredom|ক্লান্তি; একঘেয়েমি|The *tedium* of the long trip made us sleepy.
+ennui|n|boredom; weariness|ক্লান্তি|Rich and idle, he suffered from *ennui*.
+uniformity|n|sameness; monotony|সাদৃশ্য; একঘেয়েমি|The *uniformity* of the houses was depressing.
+# Dull
+vapid|adj|dull; lacking interest|ক্লান্তিকর; একঘেয়ে|The talk show was *vapid* and shallow.
+insipid|adj|dull; lacking flavor or interest|ক্লান্তিকর; একঘেয়ে|The soup was *insipid* without salt.
+languid|adj|dull; slow and relaxed|ক্লান্তিকর; একঘেয়ে|She waved a *languid* hand.
+lackluster|adj|dull; lacking brightness|ক্লান্তিকর; একঘেয়ে|The team gave a *lackluster* performance.
+lackadaisical|adj|dull; lacking enthusiasm|ক্লান্তিকর; একঘেয়ে|His *lackadaisical* attitude annoyed the coach.
+listless|adj|dull; without energy or interest|ক্লান্তিকর; একঘেয়ে|The sick child was pale and *listless*.
+dingy|adj|dull; dirty and faded|ক্লান্তিকর; একঘেয়ে|They rented a *dingy* room above the shop.
+dispirited|adj|dull; low in spirits|ক্লান্তিকর; একঘেয়ে|The *dispirited* team left the field.
+languorous|adj|dull; dreamy and relaxed|ক্লান্তিকর; একঘেয়ে|A *languorous* breeze drifted over the river.
+tedious|adj|dull; boring|ক্লান্তিকর; একঘেয়ে|The meeting was long and *tedious*.
+humdrum|adj|dull; ordinary and boring|ক্লান্তিকর; একঘেয়ে|He escaped his *humdrum* job by travelling.
+slothful|adj|dull; lazy|ক্লান্তিকর; অলস|The *slothful* servant avoided every task.
+crestfallen|adj|dull; sad and disappointed|ক্লান্তিকর; মনমরা|She looked *crestfallen* after the defeat.
+mundane|adj|dull; ordinary; concerned with the world or worldly matters|ক্লান্তিকর; পার্থিব; সাংসারিক|She hated *mundane* chores like washing dishes.
+# Half-asleep and awake
+somnolent|adj|half asleep|আধো তন্দ্রাচ্ছন্ন|The *somnolent* cat lay in the sun.
+somnambulist|n|a sleep-walker; one who walks in sleep|যে ঘুমের মধ্যে হাঁটে|The *somnambulist* wandered into the garden.
+somniloquy|n|speaking while asleep|ঘুমের মধ্যে কথা বলা|His *somniloquy* made his roommates laugh.
+insomnia|n|inability to sleep|অনিদ্রা|Stress gave her months of *insomnia*.
+doldrums|n|listlessness; a slack period|স্থিরাবস্থা; মনমরা ভাব|The economy was in the *doldrums*.
+sluggard|n|a lazy person|অলস ব্যক্তি|The *sluggard* stayed in bed until noon.
+stodgy|adj|boringly conservative|বিরক্তিকর রকম রক্ষণশীল|The *stodgy* firm rejected all new ideas.
+blasé|adj|bored with pleasure or dissipation; unimpressed|বীতস্পৃহ; সুখে থাকলে ভূতে কিলায়'-টাইপ অবস্থা|He was *blasé* about his fame.
+vigilant|adj|watchfully awake|অতন্দ্র প্রহরী|The *vigilant* guard noticed the thief.
+hibernate|v|sleep throughout the winter|শীতনিদ্রা যাওয়া|Bears *hibernate* from December to March.
+soporific|n|a drug or something that produces sleep|ঘুমের ওষুধ|The warm milk was a gentle *soporific*.
+vegetate|v|live in a monotonous way|একঘেয়ে জীবনযাপন করা|He did not want to *vegetate* in a quiet village.

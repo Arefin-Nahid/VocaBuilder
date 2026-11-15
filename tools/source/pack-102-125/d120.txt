@@ -1,0 +1,15 @@
+N: 120
+T: Sounds (continued)
+S: The village band played with a steady *cadence*, led by *percussion* drums. A *clarion* trumpet rang through the hall, whose *acoustics* were excellent. A *sonic* engineer, also a student of *phonetics*, checked each sound while a crystal lamp would *refract* the light onto the stage. Then the *knell* of the old church bell told of a death, and the music stopped. The announcer's *spoonerism*, “a well-boiled icicle”, would have made people laugh, but the sad news did *grate* on everyone.
+B: গ্রামের ব্যান্ডদল স্থির লয়ে বাজাত, নেতৃত্বে ছিল আঘাত করে বাজানোর যন্ত্র ড্রামস। হলঘরজুড়ে এক তীক্ষ্ণ শিঙাধ্বনির মতো ট্রাম্পেট বাজল, যে হলের শ্রবণযোগ্য ব্যবস্থা ছিল চমৎকার। এক ধ্বনি-সম্পর্কিত প্রকৌশলী, যিনি ভাষার ধ্বনিবিজ্ঞানেরও ছাত্র, প্রতিটি শব্দ যাচাই করছিলেন, আর এক স্ফটিকের বাতি মঞ্চে আলো প্রতিসরিত করছিল। তখনই পুরোনো গির্জার ঘণ্টার অন্ত্যেষ্টিক্রিয়ার ঘণ্টাধ্বনি এক মৃত্যুর খবর দিল, আর গান থেমে গেল। ঘোষকের শব্দ উল্টে ফেলা, “a well-boiled icicle”, সাধারণত মানুষকে হাসাত, কিন্তু দুঃখের খবর সবাইকে বিরক্ত করল।
+# Sound words
+cadence|n|a rhythmic rise and fall of sounds or words|লয়|The poet read with a gentle *cadence*.
+percussion|n|striking one object against another sharply, as in drums|আঘাত করে বাজানোর যন্ত্র, যেমন- তবলা, ড্রামস|The *percussion* section kept the beat.
+acoustics|n|the science of sound; the quality that makes a room easy or hard to hear in|শব্দবিদ্যা; শ্রবণযোগ্য করার ব্যবস্থা|The hall's *acoustics* made every word clear.
+sonic|adj|relating to sound|ধ্বনি সম্পর্কিত|The jet broke the *sonic* barrier.
+phonetics|n|the study of speech sounds|ভাষার ধ্বনিবিজ্ঞান|*Phonetics* explains how vowels are made.
+knell|n|the tolling of a bell, especially to indicate a funeral or disaster|ঘণ্টা বাজানো, বিশেষ করে অন্ত্যেষ্টিক্রিয়া বা দুর্যোগ বোঝানোর জন্য; অন্ত্যেষ্টিক্রিয়ার ঘণ্টাধ্বনি|The *knell* of the bell told the village of his death.
+spoonerism|n|an accidental swapping of sounds in successive words|পরপর দুটি শব্দের মধ্যে ব্যঞ্জনবর্ণের স্থান পরিবর্তন|"Our queer old dean" is a famous *spoonerism*.
+clarion|adj|shrill; trumpet-like in sound|তীক্ষ্ণ, শিঙাধ্বনির মতো|A *clarion* call summoned the soldiers.
+grate|v|make a harsh noise; have an unpleasant effect|তীব্র শব্দ করা; বিরক্ত হওয়া|His loud laugh began to *grate* on my nerves.
+refract|v|deflect sound or light|প্রতিসরিত হওয়া|A prism will *refract* sunlight into colors.

@@ -1,0 +1,55 @@
+N: 108
+T: Skill
+S: Young Imran had rare *flair* and *aptitude* for painting. His *dexterity* amazed the *seasoned* artists, and his *deft* brush was *impeccable*. Drawing was his *forte*, but he was *inept* with numbers, *maladroit* even at simple sums. At an *impromptu* contest he had to *improvise* a portrait, and the result was *spontaneous*, *immaculate* and *consummate*. Rivals found it *futile* to copy him, and their *abortive* attempts showed how *adroit* he was. The young painter smiled quietly and went back to his canvas.
+B: তরুণ ইমরানের ছবি আঁকায় ছিল বিরল প্রতিভা ও সহজাত দক্ষতা। তার নিপুণ হাত অভিজ্ঞ শিল্পীদের চমকে দিত, আর তার দক্ষ তুলি ছিল নিখুঁত। আঁকাই ছিল তার বিশেষ গুণ, কিন্তু সংখ্যায় সে অদক্ষ, এমনকি সহজ যোগেও আনাড়ি। এক আকস্মিক প্রতিযোগিতায় তাকে প্রস্তুতি ছাড়াই একটি প্রতিকৃতি আঁকতে হলো, আর ফলটি ছিল স্বতঃস্ফূর্ত, নিখুঁত ও চূড়ান্ত। প্রতিদ্বন্দ্বীরা তাকে নকল করা বৃথা মনে করল, আর তাদের ব্যর্থ চেষ্টা দেখাল সে কতটা দক্ষ। তরুণ চিত্রশিল্পী চুপচাপ হাসল এবং নিজের ক্যানভাসে ফিরে গেল।
+# Skill
+dexterity|n|skill|দক্ষতা|Her *dexterity* with a needle amazed everyone.
+sleight|n|skill; cleverness in using the hands|দক্ষতা|The magician's *sleight* of hand fooled the crowd.
+finesse|n|delicate skill|দক্ষতা; সূক্ষ্ম কৌশল|She handled the talks with great *finesse*.
+# Skillful
+dexterous|adj|skillful with the hands|দক্ষ|The *dexterous* tailor stitched in minutes.
+adroit|adj|skillful; clever|দক্ষ|An *adroit* player dodged every tackle.
+deft|adj|skillful; quick and neat|দক্ষ|With a *deft* move he caught the falling cup.
+adept|adj|skillful; highly able|দক্ষ|She is *adept* at solving puzzles.
+seasoned|adj|experienced|অভিজ্ঞ|A *seasoned* guide led the trek.
+# Talent
+flair|n|a natural talent|বুদ্ধিমত্তা; সহজাত প্রতিভা|He has a *flair* for languages.
+aptitude|n|a natural ability to learn|বুদ্ধিমত্তা|The test measures your *aptitude* for maths.
+bent|n|a natural talent or inclination|বুদ্ধিমত্তা; সহজাত ঝোঁক|She has a musical *bent*.
+forte|n|a special talent|বুদ্ধিমত্তা; বিশেষ গুণ|Cooking is not my *forte*.
+# Lacking skill
+ineptness|n|lack of skill|অদক্ষতা|His *ineptness* with tools caused many accidents.
+effete|adj|lacking vigor; sterile; weak|অদক্ষতা; দুর্বল|The *effete* old regime fell without a fight.
+# Unskilled
+inept|adj|unskilled; clumsy|অদক্ষ|He was *inept* at fixing machines.
+maladroit|adj|unskilled; clumsy|অদক্ষ|A *maladroit* waiter spilled the soup.
+unfledged|adj|unskilled; inexperienced|অদক্ষ|The *unfledged* coach lost his first match.
+fledgling|adj|inexperienced; just beginning|অদক্ষ; অনভিজ্ঞ|The *fledgling* company needs more funds.
+callow|adj|inexperienced; immature|অদক্ষ; অনভিজ্ঞ|A *callow* youth joined the army.
+# Without preparation
+spontaneous|adj|without previous preparation; not planned|স্বতঃস্ফূর্ত|The crowd broke into *spontaneous* applause.
+extemporaneous|adj|without previous preparation; not planned|স্বতঃস্ফূর্ত|He gave an *extemporaneous* speech.
+impromptu|adj|without previous preparation; not planned|স্বতঃস্ফূর্ত|We held an *impromptu* party in the yard.
+improvise|v|perform without preparation|প্রস্তুতি ছাড়াই সম্পাদন করা|The singer had to *improvise* a verse.
+# Faultless
+immaculate|adj|faultless; perfectly clean|নিখুঁত|Her room was always *immaculate*.
+impeccable|adj|faultless|নিখুঁত|He spoke *impeccable* English.
+unerring|adj|faultless; never making a mistake|নিখুঁত|The archer had *unerring* aim.
+infallible|adj|faultless; incapable of error|নিখুঁত|No doctor is *infallible*.
+# Complete
+consummate|adj|complete in all respects; perfect in skill|চূড়ান্ত; পরিপূর্ণ|He is a *consummate* professional.
+plenary|adj|complete in all respects; full|চূড়ান্ত; পরিপূর্ণ|The *plenary* session was open to all members.
+ultimate|adj|final; complete in all respects|চূড়ান্ত; পরিপূর্ণ|Winning the cup was their *ultimate* goal.
+# Useless
+abortive|adj|useless; failing to succeed|অকেজো; নিষ্ফল|The army made an *abortive* attempt to cross the river.
+futile|adj|useless; having no effect|অকেজো; নিষ্ফল|It is *futile* to argue with him.
+sisyphean|adj|useless; endless and fruitless like the task of Sisyphus|অকেজো; নিষ্ফল|Cleaning the flooded street was a *Sisyphean* task.
+unavailing|adj|useless; without result|অকেজো; নিষ্ফল|All their efforts were *unavailing*.
+# Workable
+feasible|adj|workable; able to be done|সম্ভবপর, সম্পাদনযোগ্য|The engineers found the plan *feasible*.
+viable|adj|workable; able to succeed|সম্ভবপর, সম্পাদনযোগ্য|The shop was not *viable* without customers.
+# Method
+modus operandi|n|a method of operating or proceeding|কার্যপ্রণালী|The police studied the thief's *modus operandi*.
+methodology|n|a method or system of methods|কার্যপ্রণালী|The study explains its research *methodology*.
+systematic|adj|based on a system or method|নিয়মানুযায়ী|She made a *systematic* search of the room.
+idiot savant|n|an outdated term for a person with a disability who shows extraordinary talent in one field|প্রতিবন্ধী হয়েও একটি বিশেষ ক্ষেত্রে অসাধারণ দক্ষ ব্যক্তি|He was once called an *idiot savant* for his memory.

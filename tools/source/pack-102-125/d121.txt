@@ -1,0 +1,48 @@
+N: 121
+T: Stubborn
+S: The ship's captain was *adamant*: no one would leave the route. The crew grew *restive*, and a *recalcitrant* cook, *obstinate* and *headstrong*, led a *mutiny*. The *mutinous* men were *insolent*, *presumptuous* and *haughty*, and their *insubordination* turned into *defiance*. Even a *dour* sailor, no *insurgent*, kept silent. The *intransigent* captain refused to bargain, and his loyal men crushed the *insurrection*. He later blamed *hubris* for the *rebellion*. The ship reached the harbour safely, and the captain never forgot the lesson.
+B: জাহাজের ক্যাপ্টেন ছিলেন একগুঁয়ে: কেউ পথ ছাড়তে পারবে না। নাবিকেরা অস্থির হয়ে উঠল, আর এক অবাধ্য বাবুর্চি, জেদি ও একরোখা, এক বিদ্রোহের নেতৃত্ব দিল। বিদ্রোহী লোকেরা ছিল উদ্ধত, ধৃষ্ট ও দাম্ভিক, আর তাদের অবাধ্যতা প্রকাশ্য অমান্যতায় পরিণত হলো। এমনকি এক গম্ভীর নাবিক, যে বিদ্রোহী ছিল না, চুপ করে রইল। একগুঁয়ে ক্যাপ্টেন আপস করতে রাজি হলেন না, আর তাঁর অনুগত লোকেরা অভ্যুত্থান দমন করল। তিনি পরে বিদ্রোহের জন্য অহংকারকে দায়ী করলেন। জাহাজ নিরাপদে বন্দরে পৌঁছাল, আর ক্যাপ্টেন সেই শিক্ষা কখনো ভোলেননি।
+# Stubborn
+adamant|adj|stubborn; refusing to change one's mind|একগুঁয়ে|She was *adamant* about going to college.
+intransigent|adj|stubborn; refusing to compromise|একগুঁয়ে|The *intransigent* leader refused all talks.
+recalcitrant|adj|stubborn; resisting authority|একগুঁয়ে|The *recalcitrant* student ignored every warning.
+obstinate|adj|stubborn; refusing to change|একগুঁয়ে|The *obstinate* mule would not move.
+obdurate|adj|stubborn; hard-hearted|একগুঁয়ে|He remained *obdurate* despite their pleas.
+headstrong|adj|stubborn; determined to have one's own way|একগুঁয়ে|The *headstrong* girl ignored her parents' advice.
+tenacious|adj|stubborn; holding on firmly|একগুঁয়ে|The *tenacious* lawyer never gave up.
+pertinacious|adj|stubborn; persistent|একগুঁয়ে|A *pertinacious* reporter kept asking questions.
+supercilious|adj|stubborn; haughty and contemptuous|একগুঁয়ে; অহংকারী|The clerk gave a *supercilious* smile.
+contumacious|adj|disobedient; resisting authority|একগুঁয়ে; অবাধ্য|The *contumacious* witness defied the court.
+fractious|adj|unmanageable; disobedient|একগুঁয়ে; অবাধ্য|A *fractious* child screamed in the shop.
+refractory|adj|stubborn; hard to manage|একগুঁয়ে|The *refractory* horse refused the saddle.
+froward|adj|stubbornly contrary|একগুঁয়ে|The *froward* boy did the opposite of every request.
+perverse|adj|stubbornly contrary|একগুঁয়ে|It is *perverse* to refuse help when drowning.
+dour|adj|stern and gloomy; stubborn|একগুঁয়ে; গম্ভীর|The *dour* clerk never smiled.
+unruly|adj|disorderly; hard to control|একগুঁয়ে; উচ্ছৃঙ্খল|The *unruly* crowd pushed past the police.
+unyielding|adj|stubborn; firm|একগুঁয়ে|The *unyielding* dictator ignored the protests.
+restive|adj|restless; hard to control|একগুঁয়ে; অস্থির|The *restive* horses stamped in the barn.
+willful|adj|stubborn; deliberate|একগুঁয়ে|A *willful* child never accepts a no.
+# Arrogant
+insolent|adj|arrogant; rude and disrespectful|দাম্ভিক, উদ্ধত|The *insolent* boy mocked his teacher.
+overweening|adj|arrogant; excessively proud|দাম্ভিক, উদ্ধত|His *overweening* pride led to his downfall.
+overbearing|adj|arrogant; domineering|দাম্ভিক, উদ্ধত|An *overbearing* boss shouted at his staff.
+imperious|adj|arrogant; commanding|দাম্ভিক, উদ্ধত|She gave an *imperious* wave of her hand.
+presumptuous|adj|arrogant; too bold|দাম্ভিক, উদ্ধত|It was *presumptuous* to sit in his chair.
+haughty|adj|arrogant; proud and scornful|দাম্ভিক, উদ্ধত|The *haughty* princess ignored the beggar.
+cavalier|adj|arrogant; showing careless disregard|দাম্ভিক, উদ্ধত|His *cavalier* attitude towards rules angered the staff.
+haughtiness|n|arrogance|দাম্ভিকতা, অহংকার|His *haughtiness* made him lonely.
+hubris|n|arrogance; excessive pride|দাম্ভিকতা, অহংকার|*Hubris* led the king to ruin.
+# Rebellion
+rebellion|n|open resistance to authority; an organized uprising|বিদ্রোহ|The *rebellion* spread from town to town.
+mutiny|n|a rebellion, especially by soldiers or sailors against their officers|বিদ্রোহ|The sailors planned a *mutiny* at sea.
+insurgency|n|an organized rebellion against authority|বিদ্রোহ|The army fought an *insurgency* in the hills.
+insurrection|n|a violent uprising against authority|বিদ্রোহ|Troops crushed the *insurrection*.
+mutinous|adj|rebelling against authority|বিদ্রোহপূর্ণ|The *mutinous* crew seized the ship.
+insurgent|adj|rebelling against authority; a rebel|বিদ্রোহপূর্ণ|*Insurgent* forces captured the town.
+bigotry|n|stubborn intolerance|গোঁড়ামি|*Bigotry* has no place in a school.
+intransigence|n|stubbornness|একগুঁয়েমি|The leader's *intransigence* blocked the peace talks.
+maverick|adj|independent in behavior or thought|মুক্তমনা|The *maverick* scientist ignored popular theories.
+# Disobedience
+insubordination|n|disobedience; refusal to obey authority|অবাধ্যতা|He was fired for *insubordination*.
+sedition|n|conduct that incites rebellion against the state|অবাধ্যতা; রাষ্ট্রদ্রোহ|The editor was charged with *sedition*.
+defiance|n|open disobedience|অবাধ্যতা|She acted in *defiance* of the order.

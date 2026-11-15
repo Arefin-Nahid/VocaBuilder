@@ -1,0 +1,21 @@
+N: 117
+T: Society and People (continued)
+S: The *indigenous* village lay in an *ethnic* region where *segregation* once divided people. A young teacher believed in *egalitarianism* and *parity* for all, and treated every *peer* with respect. She had no *megalomania* and wore no grand *persona*; a *poseur* would soon be found out. *Acculturation* was slow, but a local *renaissance* of music and crafts followed, and the *renascent* pride was clear. A children's play on the *personification* of the river, spoken in a special *shibboleth* of the village, won first prize.
+B: আদিবাসী গ্রামটি এক জাতিগত অঞ্চলে অবস্থিত ছিল, যেখানে একসময় পৃথকীকরণ মানুষকে বিভক্ত করেছিল। এক তরুণ শিক্ষিকা সবার জন্য সাম্যবাদ ও সমতায় বিশ্বাস করতেন, আর প্রত্যেক সমমানের মানুষকে সম্মান করতেন। তাঁর নিজেকে ক্ষমতাবান ভাবার বাতিক ছিল না, জনগণের কাছে কোনো জমকালো প্রকাশ্য রূপও ছিল না; ভান ধরে পটানোর চেষ্টাকারী তো শিগগিরই ধরা পড়ত। সাংস্কৃতিক অভিযোজন ধীর ছিল, কিন্তু সংগীত ও কারুশিল্পের এক স্থানীয় পুনর্জাগরণ এল, আর নবজাগ্রত গৌরব স্পষ্ট ছিল। নদীর মানবীয় রূপায়ণ নিয়ে শিশুদের নাটক, গ্রামের বিশেষ বাক-বৈশিষ্ট্যে বলা, প্রথম পুরস্কার জিতল।
+# Culture and renewal
+shibboleth|n|a belief, custom or manner of speaking of a particular group that differentiates them from others|বাক-বৈশিষ্ট্য অথবা দলীয় বিশেষ কোনো আচরণ যা একমাত্র তাদেরই নিজস্ব|The old greeting was a *shibboleth* of the tribe.
+acculturation|n|adoption of the cultural patterns of another group|সাংস্কৃতিক অভিযোজন|*Acculturation* helps immigrants settle in a new land.
+renaissance|n|the revival of learning and culture|সংস্কৃতির পুনর্জাগরণ|Europe saw a great *renaissance* of art.
+renascent|adj|rising again as to new life and strength|নবজাগ্রত|The *renascent* economy created many jobs.
+# Equality
+peer|n|a person of equal standing with another in a group|সমান মাপের ব্যক্তি|She is respected by her *peers*.
+parity|n|equality|সাম্য|Women demand *parity* in pay.
+egalitarianism|n|the doctrine of equal rights for all people|সাম্যবাদ; সমান অধিকারের মতবাদ|*Egalitarianism* shaped the new constitution.
+segregation|n|separation from others; policy of separating races in society|পৃথকীকরণ; জাতির ভিত্তিতে আলাদা করা|Schools ended racial *segregation*.
+ethnic|adj|related to races|জাতিগত|The city has many *ethnic* communities.
+indigenous|adj|native; occurring naturally in an area|দেশীয়; আদি|*Indigenous* people have lived here for centuries.
+# Self and image
+megalomania|n|a delusion of power and importance|নিজেকে ক্ষমতাবান ও গুরুত্বপূর্ণ ভাবার বাতিক|The dictator's *megalomania* ruined the country.
+persona|n|a person's public image|জনগণের কাছে প্রকাশ্য রূপ|The star keeps a cheerful public *persona*.
+personification|n|the act of attributing human qualities to objects|বস্তুর মধ্যে মানবীয় গুণাবলী প্রদান করা|The poem uses *personification* of the wind.
+poseur|n|a person who tries to impress others by pretending to be something he is not|ভান ধরে পটানোর চেষ্টা করা|The *poseur* claimed to know every famous artist.

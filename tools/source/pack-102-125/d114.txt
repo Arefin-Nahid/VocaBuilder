@@ -1,0 +1,25 @@
+N: 114
+T: Society and People
+S: At the *soiree*, a *philanthropist* spoke of *humane* ideals. An *anthropology* teacher blamed *anthropogenic* damage on *anthropocentrism*, and a *humanist* agreed. A *misanthrope* sneered that he hated all people, a rude *misogynist* was shown the door, and the host said *misanthropy* had no place there. The club's *ethos* was open to every *stratum* of society, and its *ambit* included even a *radical* thinker. Next day the *caucus* met but lacked a *quorum*.
+B: সান্ধ্যভোজে এক লোকহিতৈষী মানবিক আদর্শের কথা বললেন। এক নৃবিজ্ঞান শিক্ষক মনুষ্যসৃষ্ট ক্ষতির জন্য মানবকেন্দ্রিকতাকে দায়ী করলেন, আর এক মানবতাবাদী একমত হলেন। এক মনুষ্যবিদ্বেষী ব্যক্তি ব্যঙ্গ করে বলল সে সব মানুষকে ঘৃণা করে, এক রূঢ় নারীবিদ্বেষী অতিথিকে দরজা দেখানো হলো, আর আয়োজক বললেন মনুষ্যবিদ্বেষের এখানে কোনো স্থান নেই। ক্লাবের মূল ভিত্তি ছিল সমাজের প্রতিটি স্তরের জন্য উন্মুক্ত, আর তার পরিধিতে এমনকি একজন সমাজের আমূল সংস্কারপন্থী চিন্তাবিদও ছিলেন। পরদিন রুদ্ধদ্বার বৈঠক বসল, কিন্তু প্রয়োজনীয় সদস্যসংখ্যা পূর্ণ হলো না।
+# Study of man
+anthropology|n|the scientific study of the origin, behavior and development of humans|নৃবিজ্ঞান; মানুষের উৎপত্তি, স্বভাব ও অগ্রগতি বিষয়ক বিদ্যা|She studies *anthropology* at the university.
+anthropogenic|adj|caused by humans|মনুষ্যসৃষ্ট|*Anthropogenic* pollution is warming the planet.
+anthropocentrism|n|considering man as the center of the universe|মানবকেন্দ্রিকতা|*Anthropocentrism* ignores the value of other species.
+philanthropist|n|a lover of mankind; a doer of good|লোকহিতৈষী; জনকল্যাণ সহযোগী|The *philanthropist* built a free hospital.
+misanthrope|n|one who hates mankind|মনুষ্যবিদ্বেষী ব্যক্তি|The old *misanthrope* avoided all visitors.
+misanthropy|n|hatred of mankind|মনুষ্যবিদ্বেষ|Years of betrayal bred his *misanthropy*.
+misogynist|n|one who hates women|নারীবিদ্বেষী ব্যক্তি|The *misogynist* refused to work under a woman.
+# Humanity
+humane|adj|merciful; kindly|মানবিক|A *humane* judge reduced the sentence.
+humanism|n|a system of ideas and values emphasizing human value over belief in God|মানবতাবাদ; ঈশ্বরের চেয়ে মানুষ বেশি জরুরি, এমন মতবাদ|*Humanism* places human dignity at the center.
+humanist|n|one who believes in humanism|মানবতাবাদী|The *humanist* defended every person's rights.
+# Society
+stratum|n|a layer of society; a layer of earth|সমাজের স্তর; পৃথিবীর স্তর|Poverty touches every *stratum* of the city.
+ethos|n|the underlying character of a culture or group|সংস্কৃতির মূল ভিত্তি|The school's *ethos* is respect for others.
+radical|adj|favoring great change in society; far beyond the norm|সমাজের আমূল সংস্কারমূলক; প্রচলিত ধ্যানধারণা বিবর্জিত|She proposed a *radical* reform of the exam system.
+hellenism|n|the culture and civilization of ancient Greece|প্রাচীন গ্রীসের সংস্কৃতি ও সভ্যতা|*Hellenism* spread across the Mediterranean.
+ambit|n|an area in which something acts, operates or has power|এলাকা, ব্যাপ্তি, বা পরিধি|The matter falls outside the court's *ambit*.
+caucus|n|a private meeting of party members to select officers or determine policy|নীতি নির্ধারণী রুদ্ধদ্বার বৈঠক|The party *caucus* chose its new leader.
+quorum|n|the number of members necessary to conduct a meeting|মিটিং শুরু করতে বা চালাতে যতজন সদস্য প্রয়োজন হয়|The meeting failed for want of a *quorum*.
+soiree|n|an evening party|সান্ধ্যভোজ|She wore silk to the *soiree*.

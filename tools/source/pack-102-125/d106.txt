@@ -1,0 +1,15 @@
+N: 106
+T: Sex (continued)
+S: In the old novel, a famous *Casanova* spent his youth chasing pleasure. A rival *lothario*, said to be *promiscuous*, used every *aphrodisiac* to boost his *libido*. The writer's *sensual* style and *carnal* scenes *titillate* readers, while a *prurient* critic called the book shameful. Yet it was *seminal*, shaping many later romances, and readers remember its wit more than its heat. Years later, a student found the book in the library and read it twice, smiling at every page.
+B: পুরোনো উপন্যাসে এক বিখ্যাত কামুক পুরুষ তার যৌবন কাটাত আনন্দের পেছনে ছুটে। এক প্রতিদ্বন্দ্বী কামুক পুরুষ, যার সম্পর্কে বলা হতো সে যৌন সম্পর্কে বাছবিচারহীন, কামলালসা বাড়াতে সব কামোদ্দীপক বস্তু ব্যবহার করত। লেখকের ইন্দ্রিয়পরায়ণ ভঙ্গি আর দৈহিক দৃশ্য পাঠকদের যৌনভাবে উদ্দীপ্ত করে, আর এক কামোদ্দীপক চিন্তায় আচ্ছন্ন সমালোচক বইটিকে লজ্জাজনক বললেন। তবু এটি ছিল পরবর্তী উন্নয়নের সম্ভাবনাযুক্ত ও প্রভাবশালী, যা পরের বহু প্রেমকাহিনিকে গড়েছে, আর পাঠকেরা এর উত্তাপের চেয়ে বুদ্ধির কথাই বেশি মনে রাখে। বহু বছর পরে এক ছাত্র লাইব্রেরিতে বইটি খুঁজে পেল এবং প্রতিটি পাতায় হেসে হেসে দুবার পড়ল।
+# Desire
+libido|n|emotional urges behind human activity; sexual urge or desire|কামলালসা|His *libido* dropped when he fell ill.
+aphrodisiac|n|a substance that intensifies sexual desire|কামোদ্দীপক বস্তু|Oysters are often called an *aphrodisiac*.
+prurient|adj|having or causing lustful thoughts|কামোদ্দীপক|The film tried to attract a *prurient* audience.
+promiscuous|adj|mixed indiscriminately or haphazard in sexual relationship|যৌন সম্পর্কের ক্ষেত্রে বাছবিচারহীন|The novel's hero is *promiscuous* and careless.
+casanova|n|a man who is amorously attentive to women; a promiscuous man|কামুক পুরুষ|The village *Casanova* flirted with every girl.
+lothario|n|a man who is amorously attentive to women; a promiscuous man|কামুক পুরুষ|The *Lothario* broke many hearts.
+seminal|adj|relating to semen; containing seeds of later development; strongly influencing later work|বীর্য-সংক্রান্ত; পরবর্তী উন্নয়নের সম্ভাবনাযুক্ত|Her *seminal* paper changed the field.
+titillate|v|excite pleasurably or erotically|যৌনভাবে উদ্দীপ্ত করা|The gossip column aims to *titillate* readers.
+sensual|adj|devoted to the pleasure of the senses; voluptuous|ইন্দ্রিয়পরায়ণ|The *sensual* music made the room warm.
+carnal|adj|fleshly; relating to the appetite of the body|দৈহিক; যৌনসঙ্গকামী|The monk renounced *carnal* pleasures.

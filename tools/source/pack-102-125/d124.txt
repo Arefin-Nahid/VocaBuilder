@@ -1,0 +1,22 @@
+N: 124
+T: Study Time (continued)
+S: Ayesha dreamed of becoming a *lexicographer*. She planned to *matriculate* in an *academic* course after a year at a village *seminary*. She loved the *lexis* of old books and kept a *thesaurus* and a *lexicon* beside her *lectern*. Her *terminology* was careful, and the *nomenclature* of every science excited her. One day she found a *palimpsest*, and her *ratiocination* about its first text was *rational*. Her *rationale* was clear, with no *rationalization* of mistakes.
+B: আয়েশা শব্দকোষ লেখক হওয়ার স্বপ্ন দেখত। এক বছর গ্রামের এক যাজক তৈরির স্কুলে কাটিয়ে সে একটি বিদ্যালয়-সংক্রান্ত পাঠক্রমে কলেজ বা বিশ্ববিদ্যালয়ে ভর্তি হওয়ার পরিকল্পনা করেছিল। সে পুরোনো বইয়ের শব্দসম্ভার ভালোবাসত এবং তার পড়ার টেবিলের পাশে একটি প্রতিশব্দ ও বিপরীত শব্দের বই আর একটি শব্দকোষ রাখত। তার পরিভাষা ছিল সতর্ক, আর প্রতিটি বিজ্ঞানের নামকরণ তাকে উত্তেজিত করত। একদিন সে এক নতুন করে লেখার জন্য আসল লেখা মুছে ফেলা চামড়ার পাণ্ডুলিপি পেল, আর তার প্রথম লেখা নিয়ে তার যুক্তিসম্মত চিন্তা ছিল যুক্তিযুক্ত। তার মূলনীতি ছিল স্পষ্ট, ভুলের জোর করে যুক্তিযুক্ত বানানোর চেষ্টা ছাড়াই।
+# Words and dictionaries
+lexis|n|vocabulary; the set of words in a language|শব্দসম্ভার|The *lexis* of this poem is quite old-fashioned.
+lexicon|n|a dictionary|শব্দকোষ|The scholar consulted an Arabic *lexicon*.
+lexicographer|n|a writer of a dictionary|শব্দকোষ লেখক|The *lexicographer* spent years on one volume.
+thesaurus|n|a book of synonyms and antonyms|প্রতিশব্দ ও বিপরীত শব্দের বই|A *thesaurus* helps you find a better word.
+terminology|n|terms used in a science or art|পরিভাষা|Medical *terminology* is hard for beginners.
+nomenclature|n|terminology; a system of names|নামকরণ|Chemistry has a strict *nomenclature*.
+# Schools
+seminary|n|a school for training future ministers or priests; a secondary school|যাজক তৈরি করার স্কুল; মাধ্যমিক স্কুল|He studied at a *seminary* before becoming a priest.
+academic|adj|related to school; not practical or directly useful|বিদ্যালয় -সংক্রান্ত; ব্যবহারিক নয়, এমন|The debate was purely *academic*.
+matriculate|v|enroll in a college or graduate school|কলেজ বা বিশ্ববিদ্যালয়ে ভর্তি হওয়া|She hopes to *matriculate* at Dhaka University.
+palimpsest|n|parchment used a second time after the original writing has been erased|যে পাণ্ডুলিপিতে নতুন করে লেখার জন্য আসল লেখা মুছে ফেলা হয়েছে, এমন কাগজ বা চামড়া|Scholars read the old text under the *palimpsest*.
+lectern|n|a reading desk|পড়ার টেবিল|The speaker placed his notes on the *lectern*.
+# Reasoning
+ratiocination|n|reasoning; the act of drawing conclusions from premises|যুক্তিসম্মত চিন্তা; অনুমান থেকে সিদ্ধান্তে পৌঁছানোর প্রক্রিয়া|The detective's *ratiocination* solved the case.
+rationale|n|the fundamental reason or justification; grounds for an action|মূলনীতি; যুক্তিসহ ব্যাখ্যা|Explain the *rationale* behind your decision.
+rational|adj|logical; reasonable|যুক্তিযুক্ত|A *rational* person weighs the facts.
+rationalization|n|the practice of providing self-satisfying but incorrect reasons for something|জোর করে যুক্তিযুক্ত বানানোর চেষ্টা|His excuse was just a *rationalization*.

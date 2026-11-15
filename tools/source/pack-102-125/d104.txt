@@ -1,0 +1,50 @@
+N: 104
+T: Secrets
+S: A *clandestine* club met in an old cellar, and its *arcane* rituals were *recondite* to outsiders. Members would *skulk* through the lanes with *furtive* glances and *lurk* near the gate to *waylay* spies. They would *secrete* a *cache* of old maps and write notes in *cipher*. A *cryptic* message and an *enigmatic* smile were all a newcomer got. A young reporter, using *stealth*, tried to *ferret* out the truth, but no member would *divulge* a word, and she could not *elucidate* what she had seen.
+B: এক গোপন ক্লাব এক পুরোনো মাটির নিচের ঘরে বসত, আর তাদের দুর্বোধ্য রীতিনীতি বাইরের লোকদের কাছে অজানা ছিল। সদস্যরা অলক্ষ্য দৃষ্টিতে গলির ভেতর দিয়ে গোপনে চলাফেরা করত এবং গুপ্তচরদের ওপর ওঁত পাততে ফটকের কাছে ঘাপটি মেরে থাকত। তারা পুরোনো মানচিত্রের একটি ভাণ্ডার লুকিয়ে রাখত এবং সংকেতলিপিতে নোট লিখত। এক দুর্বোধ্য বার্তা আর এক রহস্যময় হাসিই নবাগত পেত। এক তরুণ সাংবাদিক গোপনীয়তার সঙ্গে সত্য খুঁড়ে বের করার চেষ্টা করল, কিন্তু কোনো সদস্য একটি কথাও প্রকাশ করল না, আর সে যা দেখেছে তা ব্যাখ্যা করতে পারল না।
+# Secret
+occult|adj|secret; supernatural|গোপন; অতিপ্রাকৃত|He studied *occult* books in secret.
+covert|adj|secret; hidden|গোপন|The spies ran a *covert* mission.
+surreptitious|adj|secret; done quietly to avoid notice|গোপন|She took a *surreptitious* glance at the clock.
+privy|adj|secret; sharing in private knowledge|গোপন|Only two aides were *privy* to the plan.
+cryptic|adj|secret; having a hidden meaning|গোপন; দুর্বোধ্য|He left a *cryptic* note on the desk.
+clandestine|adj|secret; kept hidden, often for illicit reasons|গোপন|They held *clandestine* meetings at night.
+subterranean|adj|secret; underground|গোপন; ভূগর্ভস্থ|A *subterranean* tunnel linked the two houses.
+esoteric|adj|secret; known to a chosen few|গোপন|The professor wrote on *esoteric* subjects.
+arcane|adj|secret; known to a chosen few|গোপন|The *arcane* rules baffled newcomers.
+arcana|n|secrets; mysteries|গোপন রহস্য|He mastered the *arcana* of ancient medicine.
+# Mysterious
+recondite|adj|mysterious; hard to understand|রহস্যময়|The book deals with *recondite* theories.
+runic|adj|mysterious; written in ancient letters|রহস্যময়|*Runic* symbols covered the stone.
+enigmatic|adj|mysterious; puzzling|রহস্যময়|The Mona Lisa has an *enigmatic* smile.
+uncanny|adj|mysterious; strangely unnatural|রহস্যময়|She had an *uncanny* ability to guess answers.
+unaccountable|adj|mysterious; impossible to explain|রহস্যময়|An *unaccountable* fear gripped him.
+inexplicable|adj|mysterious; impossible to explain|রহস্যময়|His *inexplicable* absence worried us all.
+indeterminate|adj|mysterious; uncertain|রহস্যময়; অনির্দিষ্ট|The date of the trip is *indeterminate*.
+# Explain
+evince|v|explain; show clearly|ব্যাখ্যা করা; পরিষ্কার করে দেখানো|She did *evince* great talent in music.
+unravel|v|explain; disentangle|ব্যাখ্যা করা; জট খোলা|Detectives *unravel* the mystery of the theft.
+elucidate|v|explain; make clear|ব্যাখ্যা করা|Please *elucidate* your point with an example.
+illuminate|v|explain; make clear|ব্যাখ্যা করা|The lecture helped *illuminate* the topic.
+explicate|v|explain in detail|ব্যাখ্যা করা|The scholar will *explicate* the difficult poem.
+construe|v|explain; interpret|ব্যাখ্যা করা|Do not *construe* my silence as consent.
+gloss over|v|explain superficially; hide a fault|ব্যাখ্যা করা; এড়িয়ে যাওয়া|Do not *gloss over* the real problems.
+demystify|v|explain; make less mysterious|ব্যাখ্যা করা|The guide tries to *demystify* tax rules.
+# Reveal
+divulge|v|reveal a secret|উন্মোচিত করা|He refused to *divulge* the password.
+disclose|v|reveal; make known|উন্মোচিত করা|The company must *disclose* its profits.
+# Lie in wait
+ambush|v|stealthily lie in waiting; attack by surprise|গুপ্তভাবে ওঁত পেতে থাকা|Bandits tried to *ambush* the travellers.
+lurk|v|stealthily lie in waiting|গুপ্তভাবে ওঁত পেতে থাকা|A cat *lurk* behind the bushes.
+waylay|v|stealthily lie in waiting; stop someone on the way|গুপ্তভাবে ওঁত পেতে থাকা|Thieves tried to *waylay* the postman.
+skulk|v|move furtively or secretly|গোপনভাবে চলাফেরা করা|Burglars *skulk* around the empty house.
+stealth|n|sneakiness; secretiveness|গোপনীয়তা|The fox moved with great *stealth*.
+furtive|adj|stealthy; sneaky|অলক্ষ্যে বা লুকিয়ে আছে এমন|He cast a *furtive* look at the guard.
+# Others
+incognito|adj|in disguise, concealing one's identity|ছদ্মবেশী|The celebrity travelled *incognito* to avoid fans.
+secrete|v|hide away|লুকিয়ে ফেলা|The squirrel will *secrete* nuts in a hollow tree.
+cache|n|a hiding place; things hidden there|লুকানোর জায়গা|Police found a *cache* of weapons.
+cipher|n|a secret code; a worthless person or thing|সংকেতলিপি; অপদার্থ ব্যক্তি বা বস্তু|The message was written in *cipher*.
+ferret|v|drive or hunt out of hiding|লুকোনো অবস্থা থেকে বের করে নিয়ে আসা|Reporters *ferret* out hidden facts.
+rebus|n|a puzzle in which pictures stand for words|এমন ধাঁধা যেখানে শব্দের পরিবর্তে ছবি ব্যবহার করা হয়|The riddle was a *rebus* of a bee and a leaf.
+cabal|n|a small group united secretly to promote their business, often political|ক্ষুদ্র রাজনৈতিক গুপ্তসমিতি|A *cabal* of officers plotted the coup.

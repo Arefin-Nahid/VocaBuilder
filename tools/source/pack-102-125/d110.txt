@@ -1,0 +1,24 @@
+N: 110
+T: Skill (continued)
+S: The young magician was *precocious*, a *cerebral* boy who could *premeditate* every trick. His *legerdemain* and *prestidigitation* amazed the crowd, and he was *ambidextrous*, using either hand with ease. He loved the *nicety* of a perfect move. Once he did *bungle* a trick, proving he was *fallible*, yet he was never *mediocre*. A *latent* gift for teaching soon appeared, and a *qualified* coach helped him *qualify* for the national stage, where he was never *indifferent* to his audience.
+B: তরুণ জাদুকর ছিল চিন্তায় এগিয়ে থাকা এক মেধাবী ছেলে, যে প্রতিটি কৌশল আগেভাগে পরিকল্পনা করতে পারত। তার হস্তকৌশল ও ভেলকিবাজি দর্শকদের চমকে দিত, আর সে ছিল সব্যসাচী, দুই হাতই সমান স্বচ্ছন্দে ব্যবহার করত। সে একটি নিখুঁত চালের যথার্থতা ভালোবাসত। একবার সে একটি কৌশল তালগোল পাকিয়ে ফেলেছিল, যা প্রমাণ করে সে ভ্রান্তিপ্রবণ, তবু সে কখনো মামুলি ছিল না। শিগগিরই তার সুপ্ত শেখানোর প্রতিভা দেখা দিল, আর একজন যোগ্য প্রশিক্ষক তাকে জাতীয় মঞ্চের যোগ্য করে তুললেন, যেখানে সে কখনো দর্শকদের প্রতি উদাসীন ছিল না।
+# Planning and early skill
+premeditate|v|plan in advance|আগেভাগে পরিকল্পনা করা|The police say he did *premeditate* the crime.
+precocious|adj|advanced in development|চিন্তার দিক থেকে এগিয়ে থাকা; ইঁচড়ে পাকা|The *precocious* child read novels at six.
+legerdemain|n|skill of hand; an illusory feature that seems magical to naive observers|বিভ্রান্তিকারী হস্তকৌশল, যা সাধারণ মানুষের কাছে জাদু বলে মনে হয়|The conjurer used *legerdemain* to hide the coin.
+prestidigitation|n|skill of hand; magical sleight of hand|বিভ্রান্তিকারী হস্তকৌশল; ভেলকিবাজি|His *prestidigitation* astonished the children.
+ambidextrous|adj|able to use both hands with equal ease|সব্যসাচী; দুই হাতই সমানভাবে ব্যবহার করতে পারে এমন|An *ambidextrous* bowler can use either arm.
+nicety|n|an elegant or delicate feature; a minute distinction|যথার্থতা; সূক্ষ্ম পার্থক্য|She explained the *nicety* of the grammar rule.
+fallible|adj|liable to err|ভ্রান্তিপ্রবণ|All humans are *fallible*.
+bungle|v|mismanage; do badly|তালগোল পাকানো|Do not *bungle* this important interview.
+# Ordinary and hidden ability
+mediocre|adj|ordinary in skill|মামুলি|The team gave a *mediocre* performance.
+indifferent|adj|mediocre; unmoved or unconcerned|মামুলি; উদাসীন|He was *indifferent* to the criticism.
+cerebral|adj|involving intelligence|মস্তিষ্ক বা মেধা সংক্রান্ত|Chess is a *cerebral* game.
+latent|adj|existing but not yet developed or visible; dormant|সুপ্ত|The boy had a *latent* talent for music.
+# Qualify
+qualify|v|provide with needed skills; modify; limit|গুণ আরোপ করা; বৈশিষ্ট্যযুক্ত করা; নিয়ন্ত্রণ করা|A short course will *qualify* you as a guide.
+qualification|n|a skill or limitation; restriction|বিধিনিষেধ; যোগ্যতা|The offer came with a strict *qualification*.
+qualified|adj|having the needed skills; limited or restricted|সীমিত; যোগ্য|He gave only *qualified* approval to the plan.
+qualitative|adj|related to quality|গুণগত|The report offers *qualitative* data about school life.
+utilitarian|adj|concerned with utility or usefulness rather than beauty|উপযোগিতা সংক্রান্ত|The room had *utilitarian* furniture, plain but sturdy.

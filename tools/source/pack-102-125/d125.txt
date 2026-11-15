@@ -1,0 +1,19 @@
+N: 125
+T: Study Time (continued)
+S: At the *symposium*, a historian read from the *annals* of an old kingdom. She showed *hieroglyphics* on a stone and explained how the king would *promulgate* his laws. A guest spoke on *alchemy*, and his *alchemical* tales of turning lead to gold amused everyone. Another used an *algorithm* to read faded letters, and he explained a rare *solecism* and an *ellipsis* in the text. A short *synopsis* in a *synoptic* handout helped latecomers follow, and the *abstract* debate ended with applause.
+B: সম্মেলনে এক ইতিহাসবিদ এক পুরোনো রাজ্যের ঘটনাবিবরণী থেকে পড়লেন। তিনি পাথরের ওপর ছবি দিয়ে লিখে ভাব প্রকাশের পদ্ধতি দেখালেন আর ব্যাখ্যা করলেন রাজা কীভাবে আইন ঘোষণা করতেন। এক অতিথি মধ্যযুগীয় রসায়নশাস্ত্র নিয়ে বললেন, আর ধাতুকে সোনা বানানোর তাঁর আলকেমি-সংক্রান্ত গল্প সবাইকে মজা দিল। আরেকজন ঝাপসা অক্ষর পড়তে সমাধান করার প্রক্রিয়া ব্যবহার করলেন, আর পাঠ্যের এক বিরল ব্যাকরণগত ভুল ও শব্দ উহ্য রাখার উদাহরণ ব্যাখ্যা করলেন। একটি সারসংক্ষেপ তুলে ধরা হ্যান্ডআউটের সংক্ষিপ্ত সারসংক্ষেপ দেরিতে আসাদের অনুসরণ করতে সাহায্য করল, আর তত্ত্বগত বিতর্ক করতালিতে শেষ হলো।
+# Conferences and writings
+symposium|n|a conference; a meeting on some topic in which presentations are made|সম্মেলন, যেখানে বক্তব্য উপস্থাপন করা হয়|Experts met at a *symposium* on climate.
+synopsis|n|a brief summary|সারসংক্ষেপ|Read the *synopsis* before you buy the novel.
+synoptic|adj|presenting a summary|সারসংক্ষেপ তুলে ধরা|The report gives a *synoptic* view of the year.
+abstract|adj|theoretical; not concrete; non-representational|তত্ত্বগত; ভাবগত; বিমূর্ত|Justice is an *abstract* idea.
+# Old sciences
+alchemy|n|medieval chemical philosophy based on changing metal into gold; a seemingly magical process of change|মধ্যযুগীয় রসায়নশাস্ত্র; ধাতুকে সোনা বানানোর জাদুকরি প্রক্রিয়া|Medieval *alchemy* was a quest to turn lead into gold.
+alchemical|adj|related to or concerned with alchemy|আলকেমি সংক্রান্ত|He found an *alchemical* manuscript in the library.
+algorithm|n|mathematical language; a problem-solving procedure|গাণিতিক পরিভাষা; সমাধান করার প্রক্রিয়া|The *algorithm* sorts names in seconds.
+# History and language
+promulgate|v|proclaim a doctrine or law; make known by official publication|ঘোষণা করা; প্রচার করা|The government will *promulgate* the new law.
+annals|n|records; history|ঘটনাবিবরণী; ইতিহাস|His name is recorded in the *annals* of the city.
+hieroglyphics|n|a writing system using picture symbols|ছবি দিয়ে লিখে ভাব প্রকাশের পদ্ধতি|Egyptian *hieroglyphics* covered the temple walls.
+solecism|n|a grammatical mistake|ব্যাকরণগত ভুল|Saying "he don't" is a *solecism*.
+ellipsis|n|the omission of words from a text|শব্দ উহ্য রাখা|The poet used *ellipsis* to leave a pause.

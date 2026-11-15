@@ -1,0 +1,53 @@
+N: 102
+T: Sanctity
+S: The *hallowed* temple stood on a hill, its *sublime* peace known to all. Priests would *consecrate* it each spring and *anoint* the idol with oil. Visitors felt a *beatific* calm in the *elysian* garden. One night a thief tried to *desecrate* the shrine, a *sacrilegious* act that would *defile* a *sacrosanct* place. His *blasphemy* shocked the village, yet the priest forgave him. The thief chose *penance* to *atone*, and the *benediction* that followed was a *boon* that renewed him.
+B: পবিত্র মন্দিরটি এক পাহাড়ের ওপর দাঁড়িয়ে ছিল, তার মহিমান্বিত শান্তি সবার জানা। পুরোহিতরা প্রতি বসন্তে সেটিকে পবিত্র করে তুলত এবং মূর্তিতে পবিত্র তেল মাখাত। দর্শনার্থীরা স্বর্গীয় বাগানে এক পবিত্র ও স্বর্গীয় প্রশান্তি অনুভব করত। এক রাতে এক চোর মন্দিরটি অপবিত্র করতে চাইল, যা এক অপবিত্র কাজ এবং পরম পবিত্র স্থানকে কলুষিত করত। তার অধার্মিক কথাবার্তা গ্রামকে স্তম্ভিত করল, তবু পুরোহিত তাকে ক্ষমা করলেন। চোর প্রায়শ্চিত্তের পথ বেছে নিল, আর এরপর পাওয়া আশীর্বাদ ছিল এক দান যা তাকে নতুন করে গড়ল।
+# Make holy
+sanctify|v|make holy|পবিত্র করে তোলা|The priest will *sanctify* the new chapel.
+anoint|v|make holy by applying oil|পবিত্র তেল মাখিয়ে পবিত্র করা|They *anoint* the king with sacred oil.
+consecrate|v|make holy; dedicate to a sacred purpose|পবিত্র করে তোলা|Monks *consecrate* the ground before building.
+sublimate|v|make holy or refined; channel into a higher purpose|পবিত্র করে তোলা|He tried to *sublimate* his anger into art.
+beatify|v|bless; declare blessed|পবিত্র করে তোলা; আশীর্বাদ করা|The church may *beatify* the late nun.
+distill|v|purify; concentrate|পবিত্র করে তোলা; ঘনীভূত বা পাতন করা|Monks *distill* water to make the oil.
+# Violate the sanctity
+besmirch|v|violate the sanctity of; stain|কলংকিত করা|Lies will *besmirch* his good name.
+defile|v|make dirty or unholy|কলংকিত করা|Rioters *defile* the holy shrine.
+desecrate|v|treat a holy place with disrespect|কলংকিত করা|Thieves *desecrate* the old graves.
+taint|v|spoil or contaminate|কলংকিত করা|One scandal can *taint* a whole career.
+profane|v|treat something holy with disrespect|কলংকিত করা|It is wrong to *profane* a place of worship.
+sully|v|spoil the purity of|কলংকিত করা|He would never *sully* his family's name.
+adulterate|v|make impure by adding another substance|কলংকিত করা; ভেজাল মিশ্রিত করা|Some sellers *adulterate* milk with water.
+sacrilege|n|violation of the sanctity of something holy|পবিত্র কিছুকে অপবিত্রকরণ|Burning the holy book was an act of *sacrilege*.
+sacrilegious|adj|desecrating; profane; ribald|অপবিত্র|Such a joke would be *sacrilegious* in a temple.
+# Blessed / sacred
+hallowed|adj|blessed; sacred|পবিত্র|They walked on *hallowed* ground.
+consecrated|adj|made sacred|পবিত্র|The *consecrated* church was filled with flowers.
+anointed|adj|made sacred with oil|পবিত্র|The *anointed* king bowed before the altar.
+beatific|adj|blessed; showing great happiness|পবিত্র; স্বর্গীয় সুখে ভরা|A *beatific* smile spread over her face.
+sacrosanct|adj|too sacred to be violated|পবিত্র|The family considered their privacy *sacrosanct*.
+# Blessing
+boon|n|a blessing; a great benefit|আশীর্বাদ|The new well was a *boon* to the village.
+benison|n|a blessing|আশীর্বাদ|The old priest gave his *benison* to the couple.
+benediction|n|a blessing; a prayer asking for blessing|আশীর্বাদ|The service ended with a *benediction*.
+# Not violated
+inviolate|adj|not violated; untouched|অকলংকিত|The shrine remained *inviolate* for centuries.
+unadulterated|adj|not mixed with anything impure|অকলংকিত|It was *unadulterated* joy to see her.
+undefiled|adj|not made dirty or unholy|অকলংকিত|The lake stayed *undefiled* by waste.
+untainted|adj|not spoiled or contaminated|অকলংকিত|The water was *untainted* by chemicals.
+unsullied|adj|not spoiled; pure|অকলংকিত|Her *unsullied* record impressed the judges.
+# Heavenly
+elysian|adj|heavenly; blissful|স্বর্গীয়|The meadow had an *Elysian* calm.
+paradisiacal|adj|heavenly; like paradise|স্বর্গীয়|The island offered a *paradisiacal* holiday.
+supernal|adj|heavenly; divine|স্বর্গীয়|The choir sang with *supernal* beauty.
+beatitude|n|blessedness; a state of bliss|পবিত্র এবং স্বর্গীয় সুখ|He prayed for the *beatitude* of the soul.
+# Free from sin or guilt
+atone|v|make free from sin or guilt|প্রায়শ্চিত্ত করা|He tried to *atone* for his crime.
+purge|v|cleanse of sin or guilt|প্রায়শ্চিত্ত করা|Prayer helped him *purge* his guilt.
+expiate|v|make amends for wrongdoing|প্রায়শ্চিত্ত করা|She worked years to *expiate* her mistake.
+penance|n|an act showing regret for wrongdoing|প্রায়শ্চিত্ত|He fasted as *penance* for his sins.
+# Others
+blasphemy|n|profanity; irreverence toward the sacred|অধার্মিক কথাবার্তা|Insulting the holy book is *blasphemy*.
+risqué|adj|bordering on being inappropriate or indecent|শালীনতা বোধে ঘা দিতে পারে এমন|His *risqué* joke made the elders frown.
+inviolable|adj|safe from violation or assault|অনতিক্রম্য; অলংঘনীয়|Human rights should be *inviolable*.
+sublime|adj|of high spiritual or moral value; majestic|মহিমান্বিত; মহোত্তম|The view of the snowy peaks was *sublime*.
+sublimity|n|high spirituality or moral value; nobility; majesty|মাহাত্ম্য|The *sublimity* of the poem moved everyone.

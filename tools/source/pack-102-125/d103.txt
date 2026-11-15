@@ -1,0 +1,47 @@
+N: 103
+T: Scold
+S: Mrs. Banu, a famous *shrew*, would *rant* at her students and *rail* against every mistake. She would *berate* the lazy and *upbraid* the late, and her *tirade* could last an hour. Her *sarcastic* jokes and *sardonic* smile hurt, and her *vituperative* words made children cry. The principal had to *rebuke* her, and a *reprimand* followed. She felt the *censure* of the whole staff. Soon she learned that to *chasten* with kindness is wiser than to *hector* anyone, and that her *comeuppance* was a lonely staffroom.
+B: মিসেস বানু, এক বিখ্যাত ঝগড়াটে মহিলা, ছাত্রছাত্রীদের ওপর চেঁচামেচি করতেন আর প্রতিটি ভুলের বিরুদ্ধে গালমন্দ করতেন। তিনি অলসদের তীব্র ভর্ৎসনা করতেন আর দেরিতে আসাদের তিরস্কার করতেন, আর তাঁর দীর্ঘ জোরালো বক্তৃতা এক ঘণ্টা চলতে পারত। তাঁর বিদ্রূপাত্মক ঠাট্টা আর ব্যঙ্গাত্মক হাসি আঘাত করত, আর তাঁর কটূক্তিতে শিশুরা কাঁদত। অধ্যক্ষকে তাঁকে ভর্ৎসনা করতে হলো, আর পরে তিরস্কারও এল। তিনি পুরো স্টাফের নিন্দা অনুভব করলেন। শিগগিরই তিনি শিখলেন, দয়া দিয়ে শোধরানো কাউকে নির্যাতন করার চেয়ে বুদ্ধিমানের কাজ, আর তাঁর প্রাপ্য শাস্তি ছিল এক নির্জন শিক্ষকক্ষ।
+# Scold
+scold|v|speak angrily to someone about a fault|বকা দেওয়া|Mother will *scold* him for being late.
+rant|v|speak loudly and angrily|বকা দেওয়া|He began to *rant* about the bad service.
+rail|v|complain or criticize strongly|বকা দেওয়া|Farmers *rail* against the new tax.
+reproach|v|express disapproval or disappointment|বকা দেওয়া|She did not *reproach* him for his error.
+chide|v|scold mildly|বকা দেওয়া|The teacher gently *chide* the noisy boys.
+chastise|v|scold or punish severely|বকা দেওয়া|The coach will *chastise* players for carelessness.
+browbeat|v|bully or intimidate|বকা দেওয়া; ভয় দেখানো|Do not *browbeat* witnesses into silence.
+admonish|v|scold gently; warn|বকা দেওয়া; সতর্ক করা|The judge will *admonish* the careless driver.
+# Bitter scolding
+denunciation|n|public criticism of someone or something|প্রচণ্ড বকুনি; কঠোর তিরস্কার|The speech was a fierce *denunciation* of greed.
+diatribe|n|a bitter verbal attack|প্রচণ্ড বকুনি; কঠোর তিরস্কার|He delivered a *diatribe* against the council.
+invective|n|harsh abusive language|প্রচণ্ড বকুনি; কঠোর তিরস্কার|The crowd hurled *invective* at the referee.
+comeuppance|n|a deserved punishment|প্রাপ্য শাস্তি|The cheat finally got his *comeuppance*.
+reprimand|n|a formal scolding|প্রচণ্ড বকুনি; কঠোর তিরস্কার|The officer received a *reprimand* for being late.
+# Scold strongly
+berate|v|scold strongly|তীব্র ভর্ৎসনা করা|The manager began to *berate* the careless clerk.
+excoriate|v|criticize very harshly|তীব্র ভর্ৎসনা করা|Critics *excoriate* the film's poor script.
+upbraid|v|scold strongly|তীব্র ভর্ৎসনা করা|She did *upbraid* her son for lying.
+censure|v|express strong disapproval|তীব্র ভর্ৎসনা করা|The senate voted to *censure* the minister.
+denounce|v|publicly condemn|তীব্র ভর্ৎসনা করা|Leaders *denounce* the attack on the school.
+rebuke|v|scold sharply|তীব্র ভর্ৎসনা করা|The captain had to *rebuke* his team.
+reprove|v|scold or correct|তীব্র ভর্ৎসনা করা|He gently *reprove* the child for rudeness.
+# Marked by scolding
+abusive|adj|marked by scolding or insulting language|গালাগালিপূর্ণ|The *abusive* caller was cut off.
+denouncing|adj|publicly condemning|গালাগালিপূর্ণ|A *denouncing* letter appeared in the paper.
+vituperative|adj|bitterly abusive|গালাগালিপূর্ণ|His *vituperative* attack shocked the audience.
+# Scold with abusive language
+abuse|v|speak to someone in a cruel or insulting way|গালাগালি করা|Never *abuse* a child with harsh words.
+inveigh|v|speak or write with strong protest|গালাগালি করা|Writers *inveigh* against false news.
+revile|v|criticize in an abusive way|গালাগালি করা|Crowds *revile* the corrupt official.
+vilify|v|speak ill of someone in a nasty way|গালাগালি করা|Rivals tried to *vilify* the candidate.
+# Scornful and mocking
+sarcastic|adj|scornful and mocking|বিদ্রূপাত্মক|His *sarcastic* reply made her angry.
+sardonic|adj|scornful and mocking|বিদ্রূপাত্মক|The old man gave a *sardonic* smile.
+disdainful|adj|scornful; showing contempt|বিদ্রূপাত্মক|She gave a *disdainful* glance at the shabby coat.
+ironic|adj|humorously sarcastic|বিদ্রূপাত্মক|Her *ironic* tone hid a smile.
+mordant|adj|harshly ironic; biting|বিদ্রূপাত্মক|The comic's *mordant* wit stung the mayor.
+# Others
+hector|v|bully; torment|যন্ত্রণা দেওয়া; পীড়ন করা|Bosses should not *hector* their staff.
+shrew|n|a scolding woman|ঝগড়াটে মহিলা|The play shows a witty *shrew* and her suitor.
+tirade|n|an extended scolding; a long angry speech|বিশেষতঃ অপবাদপূর্ণ দীর্ঘ জোরালো বক্তৃতা|He launched into a *tirade* about the noise.
+chasten|v|correct by punishment or scolding; restrain|সংশোধন করার উদ্দেশ্যে শাস্তি দেওয়া|Failure may *chasten* a proud man.

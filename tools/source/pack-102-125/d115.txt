@@ -1,0 +1,21 @@
+N: 115
+T: Society and People (continued)
+S: Karim was always a little *unorthodox*, a real *maverick* in the village. When he broke a *taboo*, the elders chose *ostracism* and decided to *ostracize* him. He dreamed of a *utopia*, a *utopian* town where no one was cast out, while his own life felt like *dystopia*. A *patrician* neighbour, proud of an old *aristocracy* yet faithful to *noblesse oblige*, gave him shelter. Even a *brahmin* priest and a *semitic* scholar spoke up for him, and the village slowly changed its mind.
+B: করিম সবসময় একটু প্রচলিত ধারাবিরোধী ছিল, গ্রামে এক সত্যিকারের স্বাধীনচেতা। যখন সে এক সামাজিক নিষেধ ভাঙল, প্রবীণরা বহিষ্কারের পথ বেছে নিল এবং তাকে সমাজ থেকে বহিষ্কার করে দিল। সে স্বপ্ন দেখত এক আদর্শরাষ্ট্রের, এক কল্পনাপ্রবণ শহরের যেখানে কাউকে তাড়ানো হয় না, অথচ তার নিজের জীবন ছিল নৈরাজ্যময় রাষ্ট্রের মতো। এক অভিজাত প্রতিবেশী, পুরোনো অভিজাতবর্গ নিয়ে গর্বিত হলেও অভিজাত হওয়ার কারণে দয়ালু ভাব দেখানোর বাধ্যবাধকতায় বিশ্বস্ত, তাকে আশ্রয় দিল। এমনকি এক ব্রাহ্মণ পুরোহিত ও এক সেমাইটস-সম্পর্কিত পণ্ডিতও তার পক্ষে কথা বললেন, আর গ্রাম ধীরে ধীরে মত বদলাল।
+# Breaking tradition
+unorthodox|adj|breaking with tradition|প্রচলিত ধারাবিরোধী|His *unorthodox* teaching methods surprised the school.
+maverick|adj|breaking with tradition; independent-minded|প্রচলিত ধারাবিরোধী; স্বাধীনচেতা|The *maverick* director ignored the studio's rules.
+taboo|n|a ban, as a result of a social custom|সামাজিক প্রথানুযায়ী নিষিদ্ধ, এমন কাজ|Speaking of death was a *taboo* in their home.
+ostracism|n|exclusion; temporary banishment|সাময়িক বহিষ্কার|The cheat faced *ostracism* from his team.
+ostracize|v|expel from a society|সমাজ থেকে বহিষ্কার করে দেওয়া|The village chose to *ostracize* the thief.
+# Ideal and bad societies
+utopia|n|an ideal place, state or society|আদর্শরাষ্ট্র|Thinkers have long dreamed of a *utopia*.
+utopian|adj|visionary; referring to a utopia|কল্পনাপ্রবণ; ভাবিলাসী|His plan was too *utopian* to work.
+dystopia|n|an imaginary place in which life is extremely bad from deprivation, oppression or terror|নৈরাজ্যময় রাষ্ট্র|The novel describes a bleak *dystopia*.
+# Social class
+brahmin|n|a member of a cultural and social elite; a Hindu of the priestly class|সমাজের অভিজাত সদস্য; ব্রাহ্মণ|A *Brahmin* family hosted the ceremony.
+aristocracy|n|hereditary nobility; the privileged class|আভিজাত্য; অভিজাতবর্গ|The *aristocracy* owned most of the land.
+patrician|adj|aristocratic|অভিজাত|He spoke with a *patrician* accent.
+noblesse oblige|n|the obligation of persons of high birth or rank to act nobly or benevolently|অভিজাত হওয়ার কারণে দয়ালু ভাব দেখানোর বাধ্যবাধকতা|She gave to charity out of *noblesse oblige*.
+semites|n|members of the peoples of ancient southwestern Asia, including Hebrews and Arabs, and their descendants|প্রাচীন দক্ষিণ-পূর্ব এশিয়া এবং মধ্য এশিয়ার মানুষজন ও তাদের বংশধর|Arabs and Jews are both counted among the *Semites*.
+semitic|adj|related to the Semites|সেমাইটস-দের সাথে সম্পর্কিত|Hebrew is a *Semitic* language.

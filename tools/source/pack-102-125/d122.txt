@@ -1,0 +1,32 @@
+N: 122
+T: Study Time
+S: Professor Sen was an *erudite* *savant*, a *pundit* among the *literati*. He taught *philology* and *etymology*, and drew on *archaeology*, *paleontology* and *cosmology* for rich examples. His *dissertation* became a *treatise*, and a *disquisition* on *orthography* followed. A *mentor* to many students, he kept a *miscellany* of notes and loved to *document* every claim. His *compilation* of old words filled whole shelves. Students loved his stories, and many of them became teachers themselves.
+B: অধ্যাপক সেন ছিলেন এক পণ্ডিত ও জ্ঞানী ব্যক্তি, সাহিত্যিক সমাজের এক পণ্ডিত। তিনি ভাষাতত্ত্ব ও শব্দের উৎপত্তিগত বিদ্যা পড়াতেন, আর সমৃদ্ধ উদাহরণের জন্য প্রত্নতত্ত্ববিদ্যা, জীবাশ্মবিজ্ঞান ও সৃষ্টিতত্ত্বের সাহায্য নিতেন। তাঁর গবেষণাপ্রবন্ধ হয়ে উঠল এক পাণ্ডিত্যপূর্ণ প্রবন্ধ, আর বানানপদ্ধতি নিয়ে এক দীর্ঘ আলোচনা এল। অনেক ছাত্রের পথপ্রদর্শক হিসেবে তিনি বিভিন্ন বিষয়ের নোটের সমাহার রাখতেন আর প্রতিটি দাবির লিখিত দলিল পেশ করতে ভালোবাসতেন। পুরোনো শব্দের তাঁর সংকলন পুরো তাকজুড়ে ছিল। ছাত্ররা তাঁর গল্প ভালোবাসত, আর তাদের অনেকেই নিজেরাও শিক্ষক হলো।
+# Study of...
+anthropology|n|the history and science of humankind|নৃবিজ্ঞান|*Anthropology* helps us study ancient tribes.
+cosmology|n|the study of the origin and nature of the universe|সৃষ্টিতত্ত্ব|*Cosmology* asks how the universe began.
+ethology|n|the study of animal behavior|প্রাণীচরিত্রবিদ্যা|*Ethology* explains why birds migrate.
+ethnology|n|the study of human races and cultures|জাতিতত্ত্ব|*Ethnology* compares customs of different peoples.
+paleontology|n|the study of prehistoric life through fossil remains|জীবাশ্মবিজ্ঞান|*Paleontology* revealed a new dinosaur species.
+paleoseismology|n|the study of the timing, location and size of prehistoric earthquakes|প্রাচীন ভূ-কম্পবিদ্যা|*Paleoseismology* helps predict future earthquakes.
+archaeology|n|the study of artifacts and relics of early mankind|প্রত্নতত্ত্ববিদ্যা|*Archaeology* uncovered the buried city.
+epistemology|n|the study of knowledge|জ্ঞানতত্ত্ব|*Epistemology* asks how we know what we know.
+jurisprudence|n|the science or philosophy of law|আইনশাস্ত্র|She taught *jurisprudence* at the law school.
+philology|n|the study of language and words|ভাষাতত্ত্ব; শব্দতত্ত্ব|*Philology* traces how languages change.
+etymology|n|the study of the origin of words|শব্দের উৎপত্তিগত বিদ্যা|The *etymology* of "salary" goes back to salt.
+orthography|n|the study of spelling|বানানপদ্ধতি|English *orthography* is hard for learners.
+phonetics|n|the study of speech sounds|ধ্বনিবিজ্ঞান|*Phonetics* explains how vowels are made.
+# Scholarly writing
+dissertation|n|a long scholarly writing|পাণ্ডিত্যপূর্ণ প্রবন্ধ|He submitted his *dissertation* on river erosion.
+disquisition|n|a long, formal scholarly talk or writing|পাণ্ডিত্যপূর্ণ প্রবন্ধ|The *disquisition* on poetry lasted an hour.
+treatise|n|a formal scholarly writing on a subject|পাণ্ডিত্যপূর্ণ প্রবন্ধ|He wrote a *treatise* on moral duty.
+miscellany|n|a mixture of writings on various subjects|বিভিন্ন বিষয়ের ওপর লেখা প্রবন্ধের সমাহার|The magazine is a *miscellany* of essays and poems.
+document|v|provide written evidence|লিখিত দলিল পেশ করা|Reporters *document* every case of abuse.
+compilation|n|a listing of statistical information in tabular or book form|সংকলন|The book is a *compilation* of old folk songs.
+# Scholar
+savant|n|a scholar; a learned person|পণ্ডিত|The *savant* knew twelve languages.
+pundit|n|a scholar; an expert who gives opinions|পণ্ডিত|A political *pundit* spoke on television.
+erudite|adj|scholarly; having great learning|পণ্ডিত; বিদ্বান|His *erudite* lecture impressed the scholars.
+literati|n|learned people; scholars|পণ্ডিত|The *literati* gathered at the book fair.
+mentor|n|a wise advisor|পণ্ডিত; জ্ঞানী উপদেষ্টা|Her *mentor* guided her through college.
+idiot savant|n|an outdated term for a person with a disability who shows extraordinary talent in one field|প্রতিবন্ধী হয়েও একটি বিশেষ ক্ষেত্রে অসাধারণ দক্ষ ব্যক্তি|He was once called an *idiot savant* for his memory.

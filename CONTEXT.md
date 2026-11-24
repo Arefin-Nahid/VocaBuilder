@@ -151,3 +151,6 @@ Purpose: a story gives the words a memory context; Nahid reads the highlighted w
 
 ## 13. Copy-paste prompt for the next update
 > Here is the project zip and `CONTEXT.md`. I attached the next PDF pages (book pages 76-100). Add them as pages 68-92 following CONTEXT.md sections 5-11: transcribe every word, write a story and Bangla translation per page, a Bangla meaning and a new English example sentence for each word, build the pack with `tools/build-pack.js`, run the checks and tests, then give me the flat zip and update the preview.
+
+## 14. Content review (Nov 2026)
+All 125 pages were reviewed once for spelling, part of speech, meanings, Bangla glosses, example sentences and stories (about 190 corrections). The JS files in `js/data/` are now the source of truth: the `tools/source/pack-043-*` ... `pack-102-125` text files are the pre-review drafts, so do not rebuild old packs from them (new packs are still built with `build-pack.js`, which reuses meanings from `js/data/`).

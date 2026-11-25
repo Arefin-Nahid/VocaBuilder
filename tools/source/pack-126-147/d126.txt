@@ -1,0 +1,40 @@
+N: 126
+T: The Good, The Bad
+S: The *infamous* gang would *plunder* villages, and their *depredation* left farmers ruined. They would *fleece* traders, *pillage* barns and *ravage* the crops. A *rapacious* leader dared to *usurp* the chief's seat and *encroach* on every field. Yet the village judge, a man of *probity*, refused any *embezzlement* or *larceny* from the tax fund. Many thieves, driven by *depravity* and *recidivism*, would *pilfer* again, but he hoped to *rectify* them, since nobody is truly *incorrigible*.
+B: কুখ্যাত দলটি গ্রামে লুট করত, আর তাদের লুটপাট কৃষকদের সর্বস্বান্ত করে ছাড়ত। তারা ব্যবসায়ীদের ঠকাত, গোলাঘর লুট করত আর ফসল তছনছ করত। এক লোভী নেতা সর্দারের আসন জবরদখল করার এবং প্রতিটি খেতে জবরদখল করার সাহস দেখাল। তবু গ্রামের বিচারক, এক ন্যায়পরায়ণ মানুষ, কর-তহবিল থেকে কোনো আত্মসাৎ বা চুরি মেনে নিলেন না। চরম দুর্নীতি আর অপরাধপ্রবণতায় চালিত বহু চোর আবার চুরি করত, কিন্তু তিনি তাদের শুদ্ধ করতে চাইতেন, কারণ কেউই সত্যিই সংশোধনের অসাধ্য নয়।
+# Plunder
+plunder|v|rob by force, especially in war|লুট করা|Pirates would *plunder* the ships along the coast.
+flay|v|strip off the skin; criticize harshly|লুট করা; চামড়া ছাড়ানো|The critic would *flay* the writer in his review.
+fleece|v|rob or swindle someone|লুট করা; ঠকিয়ে নেওয়া|Dishonest agents *fleece* poor migrant workers.
+foray|n|a sudden raid or attack|লুট করা; হঠাৎ আক্রমণ|The soldiers made a *foray* into enemy land.
+pillage|v|rob violently, especially in war|লুট করা|Invaders would *pillage* the village and burn it.
+ravage|v|destroy completely; plunder|লুট করা; তছনছ করা|Floods *ravage* the coast every monsoon.
+despoil|v|rob of valuables; plunder|লুট করা|Miners *despoil* the forest for coal.
+depredation|n|plunder|লুট; আত্মসাৎ|The *depredation* of the coast left it bare.
+rapacious|adj|plundering; greedy and grasping|লোভী; আত্মসাৎকারী চরিত্রবিশিষ্ট|The *rapacious* landlord took every grain.
+# Encroach
+encroach|v|intrude on another's rights or property|জবরদখল করা|Do not *encroach* on your neighbour's land.
+impinge|v|encroach; have an effect on|জবরদখল করা|New rules *impinge* on our freedom.
+infringe|v|break a law or violate a right|জবরদখল করা; অধিকার লঙ্ঘন করা|Copying the song would *infringe* the copyright.
+usurp|v|seize a position or power by force|জবরদখল করা; জোর করে দখল নেওয়া|The general tried to *usurp* the throne.
+# Steal
+larceny|n|theft of personal property|চুরি|He was jailed for *larceny*.
+embezzlement|n|theft of money or property entrusted to one's care|চুরি; আমানত আত্মসাৎ|The clerk was jailed for *embezzlement* of school funds.
+peculation|n|embezzlement of public funds|চুরি; আমানত আত্মসাৎ|The minister was charged with *peculation*.
+pilfer|v|steal small amounts or items|চুরি করা|Workers *pilfer* pens and paper from the office.
+# Integrity
+probity|n|honesty; strong moral principles|ন্যায়পরায়ণতা; নৈতিকতা|The judge was admired for his *probity*.
+rectitude|n|morally correct behavior|ন্যায়পরায়ণতা; নৈতিকতা|She is known for her moral *rectitude*.
+scruple|n|a feeling of doubt about whether an action is morally right|ন্যায়পরায়ণতা; নৈতিক দ্বিধা|He had no *scruple* about lying to a friend.
+rectify|v|set right; correct|শুদ্ধ করা|The bank will *rectify* the error at once.
+propriety|n|correct or appropriate behavior|যথাযথ ব্যবহার|She spoke with perfect *propriety* at the dinner.
+# Corruption
+depravity|n|extreme corruption; moral wickedness|চরম দুর্নীতি|The film shows the *depravity* of a cruel ruler.
+turpitude|n|extreme corruption; vile wickedness|চরম দুর্নীতি|He was dismissed for moral *turpitude*.
+incorrigible|adj|uncorrectable|সংশোধনের অসাধ্য|The *incorrigible* boy ignored every warning.
+recidivism|n|habitual return to crime|অপরাধপ্রবণতা|Education can help reduce *recidivism*.
+debauch|v|corrupt morally|নীতিনষ্ট করা|Bad company can *debauch* a young man.
+vitiate|v|corrupt morally; spoil or weaken|নীতিনষ্ট করা; দুর্বল করা|Greed may *vitiate* the best of leaders.
+infamous|adj|notoriously bad|কুখ্যাত|He is *infamous* for betraying his friends.
+infamy|n|reputation for bad deeds|কুখ্যাতি|The traitor's name lives in *infamy*.
+iniquity|n|wickedness; an evil act|অন্যায় তৎপরতা; অপরাধ|The preacher spoke against *iniquity*.

@@ -1,0 +1,18 @@
+N: 137
+T: True Lies (continued)
+S: The rumour was a *canard*, yet it looked *plausible*. A *mendacious* neighbour spread it, and the *amiss* details were hidden behind clever *casuistry*. His facts could not *warrant* such blame, so the charge was *unwarranted*. The story seemed *implausible* to the teacher, who found a *paradox* in it: the more he insisted, the less she believed. Her calm answers began to *belie* his claims. In the end the *warranted* apology came from him, not from her.
+B: গুজবটি ছিল এক মিথ্যা খবর, তবু তা আপাতদৃষ্টিতে বিশ্বাসযোগ্য মনে হচ্ছিল। এক স্বভাবসিদ্ধ মিথ্যাবাদী প্রতিবেশী তা ছড়াল, আর ত্রুটিপূর্ণ খুঁটিনাটিগুলো ধূর্ত কুতর্কের আড়ালে ঢাকা পড়ল। তার তথ্য এমন দোষারোপকে নিশ্চিত করতে পারত না, তাই অভিযোগটি ছিল অননুমোদিত। গল্পটি শিক্ষিকার কাছে অবিশ্বাস্য মনে হলো, আর তিনি তাতে এক আপাত-বিরোধ খুঁজে পেলেন: সে যত জোর দিল, তিনি তত কম বিশ্বাস করলেন। তাঁর শান্ত উত্তরগুলো তার দাবিকে মিথ্যা প্রতিপন্ন করতে শুরু করল। শেষে ন্যায্য ক্ষমা চাওয়ার কথা তার মুখ থেকেই এল, তাঁর থেকে নয়।
+# False impressions
+belie|v|to give a false impression of; to prove false|মিথ্যা বলে প্রতিপন্ন করা|A calm smile cannot *belie* a deep fear.
+paradox|n|something that seems contradictory but may be true|আপাতদৃষ্টিতে ভুল মনে হলেও আসলে সত্য; আপাত-বিরোধ|It is a *paradox* that the richest man felt poor.
+plausible|adj|seems true or believable|আপাতদৃষ্টিতে বিশ্বাসযোগ্য|Her excuse sounded *plausible* at first.
+implausible|adj|unlikely; hard to believe|অবিশ্বাস্য|The *implausible* tale made everyone laugh.
+# Justified
+warrant|v|to attest to accuracy or quality; to justify|মান সম্পর্কে নিশ্চিত করা; ন্যায্য প্রমাণ করা|A small mistake does not *warrant* such anger.
+warranted|adj|justified; authorized|অনুমোদিত; ন্যায্য|The doctor's worry was *warranted*.
+unwarranted|adj|unjustified; groundless; undeserved|অননুমোদিত; অযৌক্তিক|The coach's rude remarks were *unwarranted*.
+amiss|adj|wrong; faulty|ত্রুটিযুক্ত|Something was *amiss* in the accounts.
+# Dishonest talk
+mendacious|adj|lying; habitually dishonest|স্বভাবসিদ্ধভাবেই অসৎ; মিথ্যাবাদী|The *mendacious* seller lied about the price.
+casuistry|n|false or overly subtle reasoning|মিথ্যা বা অত্যধিক ধূর্ত যুক্তি|He used *casuistry* to defend his greed.
+canard|n|a false or unfounded story; a fabricated report|মিথ্যা গুজব|The news of his death was a *canard*.

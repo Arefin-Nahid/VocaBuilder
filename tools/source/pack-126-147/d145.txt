@@ -1,0 +1,19 @@
+N: 145
+T: War (continued)
+S: In the *antebellum* years, a *parley* between the two kings failed. Each king hired a *mercenary* and an *amazon* to guard the *bastion*. A *sentinel* stood by every *arsenal*. At dawn a *cavalcade* rode out of the camp, and every *cohort* made its *bivouac* by the river. The great *armada* sailed up the coast, and a *phalanx* of spears formed under the *aegis* of the crown. Soon both kings grew tired and wished only for peace.
+B: যুদ্ধ-পূর্ববর্তী বছরগুলোতে দুই রাজার মধ্যে আলোচনা ব্যর্থ হলো। প্রত্যেক রাজা দুর্গ পাহারা দিতে একজন ভাড়াটে যোদ্ধা ও একজন নারী যোদ্ধা নিয়োগ করলেন। প্রতিটি অস্ত্রাগারের পাশে একজন প্রহরী দাঁড়িয়ে থাকল। ভোরে শিবির থেকে এক কুচকাওয়াজ বেরোল, আর প্রতিটি সশস্ত্র বাহিনী নদীর ধারে অস্থায়ী শিবির স্থাপন করল। বিশাল রণতরীর বহর উপকূল ধরে এগোল, আর মুকুটের সুরক্ষায় বর্শার এক ব্যূহ গড়ে উঠল। শীঘ্রই দুই রাজাই ক্লান্ত হয়ে কেবল শান্তি চাইলেন।
+# Before the fight
+antebellum|adj|belonging to a period before a war, especially the American Civil War|যুদ্ধ-পূর্ববর্তী সময় সংক্রান্ত|The *antebellum* mansion still stands in the town.
+parley|n|a discussion, usually between enemies|আলোচনা, সচরাচর শত্রুদের মধ্যে|The two chiefs met for a *parley* under a white flag.
+bivouac|n|a temporary encampment|অস্থায়ী শিবিরস্থাপন|The climbers set up a *bivouac* on the cliff.
+bastion|n|a stronghold; something seen as a source of protection|বেষ্টনী; দুর্গ; কেল্লা|The old fort was the last *bastion* of the kingdom.
+arsenal|n|a storage place for military equipment|অস্ত্রাগার|Rebels raided the army *arsenal* at night.
+# Fighters
+mercenary|n|a soldier hired for battle|ভাড়াটে যোদ্ধা|The *mercenary* fought only for money.
+amazon|n|a female warrior|নারী যোদ্ধা|The *amazon* rode into battle with a spear.
+sentinel|n|a sentry; a lookout|প্রহরী|A lone *sentinel* watched the gate.
+armada|n|a fleet of warships|রণতরীর বহর|A huge *armada* anchored off the coast.
+cohort|n|an armed band; a group|অস্ত্রসজ্জিত বাহিনী; দল|A *cohort* of soldiers marched into the town.
+cavalcade|n|a procession; a parade|কুচকাওয়াজ|A *cavalcade* of horsemen passed the village.
+phalanx|n|a group of soldiers in close formation|সৈন্যশ্রেণী; ব্যূহ|A *phalanx* of shields blocked the narrow road.
+aegis|n|a shield; protection; sponsorship|বর্ম; সুরক্ষা; প্রতিপালন|The project runs under the *aegis* of the university.

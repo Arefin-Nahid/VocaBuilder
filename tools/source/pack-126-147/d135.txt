@@ -1,0 +1,36 @@
+N: 135
+T: Travel
+S: On a long *odyssey*, a *nomadic* family left its *sedentary* life behind. Their *itinerary* promised a *sojourn* in every town, but the road was *impassable* after the rain. A *vagabond* lent them his *skiff* to *traverse* the river. The youngest girl loved to *saunter* along the bank, and the elders loved to *ramble* in talk. An *equestrian* passed by on a short *jaunt* to the *terminus* of the line. The *peripatetic* family called their cart a *conveyance*, and every *trek* felt like a gift.
+B: এক দীর্ঘ দুঃসাহসিক অভিযানে এক যাযাবর পরিবার তাদের বসে থাকা জীবন পেছনে ফেলে এল। তাদের ভ্রমণ পরিকল্পনায় প্রতিটি শহরে সাময়িক অবস্থানের কথা ছিল, কিন্তু বৃষ্টির পর রাস্তা অনতিক্রম্য হয়ে গেল। এক ভবঘুরে নদী পার হতে তাদের নিজের ছোট নৌকা ধার দিল। সবচেয়ে ছোট মেয়েটি নদীর পাড়ে আস্তে আস্তে হাঁটতে ভালোবাসত, আর প্রবীণরা কথায় এলোমেলো ঘুরতে ভালোবাসতেন। এক অশ্বারোহী রেলপথের শেষ স্টেশন পর্যন্ত ছোট এক ভ্রমণে পাশ দিয়ে গেল। ভ্রাম্যমাণ পরিবারটি তাদের গাড়িকে যানবাহন বলত, আর প্রতিটি দীর্ঘ পথচলা ছিল উপহারের মতো।
+# Journey
+peregrination|n|a journey, especially a long one|ভ্রমণ; পরিভ্রমণ|His *peregrination* took him across three continents.
+trek|n|a long, hard journey|দীর্ঘ কঠিন ভ্রমণ|The *trek* to the village took two full days.
+jaunt|n|a short pleasure trip|ছোট আনন্দভ্রমণ|We took a quick *jaunt* to the seaside.
+amble|n|a walk at an easy pace|আরামে হাঁটা|They went for a slow *amble* through the park.
+# Vehicles
+skiff|n|a small light sailboat or rowboat|গাদাবোট; ছোট নৌকা|The fisherman rowed his *skiff* out at dawn.
+dinghy|n|a small boat, often carried by a ship|ডিঙ্গি নৌকা|The crew lowered the *dinghy* to reach the shore.
+conveyance|n|a vehicle|যানবাহন|A bullock cart was the only *conveyance* in the village.
+# Wandering
+itinerant|adj|travelling from place to place|ভ্রমণশীল; ভ্রাম্যমাণ|An *itinerant* teacher visits the remote schools.
+errant|adj|wandering; straying from the proper course|পথভ্রষ্ট; ভ্রমণশীল|The *errant* sheep wandered into the neighbour's field.
+nomadic|adj|moving from place to place with no fixed home|যাযাবর; ভ্রামণশীল|The *nomadic* tribe follows the herds each season.
+discursive|adj|wandering from topic to topic|অসংলগ্ন; ইতঃস্তত বিচরণশীল|His *discursive* speech lost the audience.
+migrant|adj|moving from one place or habitat to another|বাসস্থান পরিবর্তনকারী; অভিবাসী|The *migrant* birds fly south every winter.
+transient|adj|staying only a short time; temporary|অস্থায়ী; ক্ষণস্থায়ী|The hotel mostly serves *transient* guests.
+ramble|v|to wander aimlessly; to talk without direction|ইতঃস্তত ঘোরাঘুরি করা; এলোমেলো বকা|We like to *ramble* through the hills on Sundays.
+digress|v|to wander away from the main subject|প্রসঙ্গ থেকে সরে যাওয়া|Please do not *digress* from the topic of the report.
+vagabond|n|a homeless wanderer|ভবঘুরে|The *vagabond* slept under the bridge each night.
+vagrant|n|a homeless person who wanders with no job|ভবঘুরে; ঘরছাড়া|The police sent the *vagrant* to a shelter.
+# Travel plans
+itinerary|n|a plan of a trip|ভ্রমণ পরিকল্পনা|Our *itinerary* includes Dhaka, Sylhet and Cox's Bazar.
+junket|n|a pleasure trip, often by an official at public expense|প্রমোদভ্রমণ, সাধারণত অন্যের টাকায়|The minister's *junket* abroad angered the voters.
+traverse|v|to go through or across|অতিক্রম করা|The hikers *traverse* the desert in three days.
+peripatetic|adj|walking about; moving from place to place|ভ্রাম্যমাণ|The *peripatetic* salesman lived out of his car.
+sedentary|adj|requiring much sitting and little activity|বসে করতে হয় এমন; অলস|A *sedentary* job can harm your back.
+sojourn|n|a temporary stay|সাময়িক অবস্থান|Her *sojourn* in Paris lasted only a month.
+odyssey|n|a long, eventful journey|দীর্ঘ দুঃসাহসিক অভিযান|Their *odyssey* across the ocean took a year.
+impassable|adj|not able to be travelled or crossed|অনতিক্রম্য|Floods left the road *impassable* for days.
+terminus|n|the last stop of a railway or bus line|রেলপথের শেষ স্টেশন|The train stops at the *terminus* at noon.
+saunter|v|to stroll slowly|আস্তে আস্তে হাঁটা|They *saunter* along the river after dinner.
+equestrian|n|a rider on horseback|অশ্বারোহী|The *equestrian* jumped the fence with ease.

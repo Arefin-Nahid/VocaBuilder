@@ -1,0 +1,56 @@
+N: 138
+T: Understand the Meanings
+S: Many students found the author's article *hermetic*, though not *unfathomable*. The teacher chose to *plumb* its meaning, and she began to *unravel* each *convoluted* paragraph. Her *lucid* talk helped to *elucidate* the *abstruse* ideas, and the *vague* parts became *manifest*. She did not *gloss over* the *obscure* words. Instead, she tried to *demystify* the *recondite* terms and *evince* the writer's plan. Her *explicit* notes were *perspicuous*, so the *enigmatic* essay was no longer *opaque*. The class finally understood.
+B: অনেক ছাত্রছাত্রী লেখকের প্রবন্ধটিকে দুর্বোধ্য মনে করল, যদিও তা একেবারে বোঝার অসাধ্য ছিল না। শিক্ষিকা এর অর্থ গভীরভাবে খুঁজে দেখার সিদ্ধান্ত নিলেন, এবং প্রতিটি জটিল অনুচ্ছেদের জট খুলতে লাগলেন। তাঁর স্বচ্ছ আলোচনা দুরূহ ভাবনাগুলো ব্যাখ্যা করতে সাহায্য করল, আর অস্পষ্ট অংশগুলো স্পষ্ট হয়ে উঠল। তিনি দুর্বোধ্য শব্দগুলো এড়িয়ে গেলেন না। বরং তিনি গূঢ় পরিভাষাগুলোর রহস্য ভাঙতে এবং লেখকের পরিকল্পনা পরিষ্কার করে দেখাতে চেষ্টা করলেন। তাঁর স্পষ্ট নোটগুলো ছিল সহজবোধ্য, তাই রহস্যময় রচনাটি আর অস্বচ্ছ রইল না। ক্লাস অবশেষে বুঝল।
+# Easy to understand
+discernible|adj|able to be seen or recognized|বোধগম্য; দৃশ্যমান|A faint path was *discernible* in the grass.
+ostensible|adj|apparent; given as the reason but often not real|আপাত; বাহ্যিক|His *ostensible* reason for leaving was illness.
+unambiguous|adj|clear; having only one meaning|দ্ব্যর্থহীন|The sign gave an *unambiguous* warning.
+limpid|adj|clear and transparent|স্বচ্ছ; সহজবোধ্য|We drank from a *limpid* mountain stream.
+lucid|adj|clear and easy to understand|সহজবোধ্য; স্বচ্ছ|The teacher gave a *lucid* explanation of the rule.
+pellucid|adj|very clear; easy to understand|অতি স্বচ্ছ; সুস্পষ্ট|Her *pellucid* prose is a pleasure to read.
+conspicuous|adj|easy to see; standing out|সহজে দৃশ্যমান; সুস্পষ্ট|The red flag was *conspicuous* on the white wall.
+perspicuous|adj|clearly expressed and easily understood|সুস্পষ্ট; সহজবোধ্য|He gave a *perspicuous* account of the plan.
+picturesque|adj|charming and vivid like a picture|ছবির মতো সুন্দর|We stayed in a *picturesque* hill village.
+blatant|adj|obvious in an unpleasant, shameless way|প্রকট; নির্লজ্জভাবে স্পষ্ট|It was a *blatant* lie, and everyone knew it.
+manifest|adj|clear; evident; visible|সুস্পষ্ট; প্রকট|His anger was *manifest* to everyone.
+unequivocal|adj|clear and firm; leaving no doubt|দ্ব্যর্থহীন; সুনির্দিষ্ট|She gave an *unequivocal* refusal.
+explicit|adj|stated clearly; definite and outspoken|স্পষ্ট; খোলাখুলি|The teacher gave *explicit* instructions for the test.
+notable|adj|worthy of notice; remarkable|উল্লেখযোগ্য|Her *notable* work won many prizes.
+obtrusive|adj|noticeable in an unwelcome way|দৃষ্টিকটু; বিরক্তিকরভাবে প্রকট|The loud billboard was an *obtrusive* sight.
+# Hard to understand
+hermetic|adj|hard to understand; secret and closed to outsiders|দুর্বোধ্য; গূঢ়|The poet wrote in a *hermetic* style.
+enigmatic|adj|mysterious; hard to understand|রহস্যময়; দুর্বোধ্য|The painting's *enigmatic* smile puzzled critics.
+ponderous|adj|heavy, slow and dull|ভারী; নীরস ও ধীর|The speaker's *ponderous* style put us to sleep.
+ambiguous|adj|having more than one possible meaning|দ্ব্যর্থক; অস্পষ্ট|The *ambiguous* reply left us confused.
+nebulous|adj|unclear; vague|অস্পষ্ট; ঝাপসা|He had only a *nebulous* idea of the plan.
+sinuous|adj|winding; complicated|আঁকাবাঁকা; জটিল|A *sinuous* path led down to the river.
+inconspicuous|adj|not easy to notice|অস্পষ্ট; অপ্রকট|The shy boy sat in an *inconspicuous* corner.
+obscure|adj|not clear; hard to understand|অস্পষ্ট; দুর্বোধ্য|The meaning of the old poem is *obscure*.
+abstruse|adj|hard to understand; deep|দুরূহ; গূঢ়|The professor's *abstruse* theory baffled his class.
+unobtrusive|adj|not drawing attention|অপ্রকট; নিরীহ|The waiter was quiet and *unobtrusive*.
+elusive|adj|hard to find, catch or understand|দুর্লভ; ধরা-ছোঁয়ার বাইরে|The *elusive* answer escaped us again.
+elliptical|adj|oval; leaving out words so the meaning is unclear|ডিম্বাকার; সংক্ষিপ্ত ও দুর্বোধ্য|Her *elliptical* note was hard to follow.
+equivocal|adj|having a double meaning; unclear|দ্ব্যর্থক; অস্পষ্ট|His *equivocal* answer made us doubt him.
+inscrutable|adj|impossible to read or understand|দুর্জ্ঞেয়; অভেদ্য|The judge's *inscrutable* face showed no emotion.
+opaque|adj|not transparent; hard to understand|অস্বচ্ছ; দুর্বোধ্য|The legal letter was *opaque* to most readers.
+profound|adj|deep; of great importance|গভীর; অত্যন্ত গুরুত্বপূর্ণ|The book had a *profound* effect on her.
+recondite|adj|little known; hard to understand|দুর্বোধ্য; গূঢ়|The scholar loved *recondite* facts about old languages.
+vague|adj|not clear or exact|অস্পষ্ট; অনির্দিষ্ট|He gave only a *vague* reply.
+convoluted|adj|very complicated; twisted|জটিল; পেঁচানো|The plot of the film was too *convoluted*.
+# Impossible to understand
+unfathomable|adj|impossible to understand or measure|বোঝার অসাধ্য; অতল|The depth of her grief was *unfathomable*.
+# Explain
+evince|v|to show clearly|পরিষ্কার করে দেখানো|Her answers *evince* a deep love of books.
+unravel|v|to untangle; to solve a mystery|জট খোলা|The detective began to *unravel* the mystery.
+elucidate|v|to make clear; to explain|ব্যাখ্যা করা; স্পষ্ট করা|Please *elucidate* the meaning of this term.
+illuminate|v|to light up; to make clear|আলোকিত করা; স্পষ্ট করা|A good example can *illuminate* a hard idea.
+explicate|v|to explain in detail|বিশদ ব্যাখ্যা করা|The critic will *explicate* the poem line by line.
+construe|v|to interpret the meaning of|ব্যাখ্যা করা; অর্থ করা|Do not *construe* my silence as consent.
+gloss over|v|to hide or treat lightly a fault or problem|ঢেকে দেওয়া; হালকাভাবে এড়িয়ে যাওয়া|Do not *gloss over* the real problems in the plan.
+demystify|v|to make easier to understand|রহস্য ভেঙে সহজ করা|The guide aims to *demystify* online banking.
+# Reveal
+divulge|v|to reveal a secret|উন্মোচিত করা; ফাঁস করা|I promised not to *divulge* the secret.
+disclose|v|to make known; to reveal|প্রকাশ করা|The bank must *disclose* all hidden charges.
+# Examine
+plumb|v|to examine critically in order to understand; to measure depth|ভালোভাবে পর্যবেক্ষণ করা; গভীরতা নির্ণয় করা|Divers *plumb* the lake to measure its depth.

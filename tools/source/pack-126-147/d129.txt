@@ -1,0 +1,45 @@
+N: 129
+T: Tick-Talk
+S: The village speaker would *utter* every word with care. His *parlance* was *colloquial*, rich in *vernacular* *idiom* instead of *jargon*, so even the *taciturn* farmers listened. He was *glib* but never *garrulous* or *verbose*, and he hated *circumlocution*. An *interlocutor* in the crowd began to *prattle* and *babble*, hoping for a *tête-à-tête*, yet the speaker's *banter* kept the mood light. A good *discourse* is short, and *verbosity* only spoils it. The whole village learned to speak with care.
+B: গ্রামের বক্তা প্রতিটি শব্দ যত্ন করে উচ্চারণ করতেন। তাঁর বাচনভঙ্গি ছিল কথ্য ভাষা সম্বন্ধীয়, পরিভাষার বদলে স্থানীয় ভাষার বাগধারায় সমৃদ্ধ, তাই এমনকি স্বল্পভাষী কৃষকেরাও শুনত। তিনি ছিলেন বক্তৃতাদানে পটু কিন্তু কখনো বাচাল বা শব্দবহুল নন, আর ঘুরিয়ে পৌঁছিয়ে লম্বা করে বলা তিনি ঘৃণা করতেন। ভিড়ের মধ্যে সংলাপে অংশগ্রহণকারী এক ব্যক্তি দুজনের মধ্যে ব্যক্তিগত কথোপকথনের আশায় বকবক ও অনর্থক বলতে শুরু করল, তবু বক্তার রংতামাশামূলক কথোপকথন পরিবেশ হালকা রাখল। ভালো আলোচনা সংক্ষিপ্ত হয়, আর শব্দবাহুল্য কেবল তা নষ্ট করে। গোটা গ্রাম সাবধানে কথা বলতে শিখল।
+# Speak
+utter|v|speak; say aloud|বলা|He did not *utter* a single word.
+vent|v|express strong feelings freely|বলা; আবেগ প্রকাশ করা|She called a friend to *vent* her anger.
+enunciate|v|pronounce clearly|বলা; স্পষ্ট উচ্চারণ করা|Teachers should *enunciate* every word clearly.
+# Speech language
+parlance|n|a particular way of speaking|কথন; বাচনভঙ্গি|In legal *parlance*, the word means something else.
+jargon|n|special words used by a profession|কথন; বাচনভঙ্গি; পেশাগত শব্দাবলি|The manual was full of technical *jargon*.
+idiom|n|a fixed expression whose meaning is not literal; a style of speech|কথন; বাচনভঙ্গি|"Break a leg" is a common *idiom*.
+# Informal speech
+colloquial|adj|characteristic of informal spoken language|কথ্য ভাষা সম্বন্ধীয়|The novel is written in *colloquial* Bangla.
+vernacular|adj|characteristic of the everyday language of a place|কথ্য ভাষা সম্বন্ধীয়; স্থানীয় ভাষার|She wrote poems in the *vernacular* language of her village.
+colloquy|n|dialogue; conversation|কথোপকথন|The two scholars had a long *colloquy*.
+# Fluent speaker
+glib|adj|fluent, but often insincere or superficial|বক্তৃতাদানে পটু; বাগ্মী|The *glib* salesman talked us into buying it.
+facile|adj|fluent; achieved easily, often without depth|বক্তৃতাদানে পটু; বাগ্মী|He gave a *facile* answer without thinking.
+# Talkative
+garrulous|adj|talkative|বাচাল|The *garrulous* barber chatted all day.
+loquacious|adj|talkative|বাচাল|The *loquacious* guest talked for an hour.
+voluble|adj|talkative; speaking fluently and at length|বাচাল|The *voluble* host kept the party lively.
+# Silent
+taciturn|adj|habitually silent|স্বল্পভাষী|The *taciturn* farmer spoke only when asked.
+reticent|adj|habitually silent; reluctant to speak|স্বল্পভাষী|She was *reticent* about her private life.
+# Chatter
+babble|v|chatter idly|বকবক করা|The baby began to *babble* happily.
+prattle|v|chatter idly|বকবক করা|Children *prattle* all the way to school.
+prate|v|chatter idly; speak foolishly|বকবক করা; আবোলতাবোল বকা|He would *prate* about his wealth for hours.
+prattle|n|meaningless, foolish talk|অনর্থক কথাবার্তা|We ignored his empty *prattle*.
+# Wordiness
+verbosity|n|unnecessary usage of words|শব্দবাহুল্য|The *verbosity* of the report tired the readers.
+verbiage|n|unnecessary usage of words|শব্দবাহুল্য|Cut the *verbiage* and get to the point.
+verbose|adj|unnecessarily wordy|শব্দবহুল|The *verbose* speaker bored the audience.
+prolix|adj|unnecessarily wordy|শব্দবহুল|The writer's *prolix* style tired the readers.
+diffuse|adj|unnecessarily wordy; spread out|শব্দবহুল|The essay was too *diffuse* to follow.
+periphrastic|adj|unnecessarily wordy; roundabout|শব্দবহুল|His *periphrastic* reply never answered the question.
+circumlocution|n|a lengthy expression; an indirect way of saying something|ঘুরিয়ে পৌঁছিয়ে লম্বা করে বলা|Stop the *circumlocution* and say what you want.
+# Conversation
+tête-à-tête|n|a private conversation between two people|দুজনের মধ্যে ব্যক্তিগত কথোপকথন|The friends had a quiet *tête-à-tête* in the garden.
+discourse|n|formal discussion; conversation|আলোচনা; কথোপকথন|The professor gave a *discourse* on freedom.
+badinage|n|teasing conversation|হাসিঠাট্টামূলক কথোপকথন|Their playful *badinage* amused the guests.
+banter|n|playful conversation|রংতামাশামূলক কথোপকথন|The friends enjoyed friendly *banter* at lunch.
+interlocutor|n|someone taking part in a dialogue|সংলাপে অংশগ্রহণকারী ব্যক্তি|The reporter thanked his *interlocutor* for the interview.

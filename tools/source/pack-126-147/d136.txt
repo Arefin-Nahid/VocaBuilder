@@ -1,0 +1,52 @@
+N: 136
+T: True Lies
+S: The judge was *veracious*, and his *probity* was known to all. When a *fraudulent* clerk tried to *fabricate* a *specious* claim, the *spurious* papers were soon exposed. The lawyer tried to *adduce* proof, but it was only *sophistry*, and his *sophistical* tricks fooled no one. A *candid* witness helped to *disabuse* the court and *exonerate* the accused. Under the oath, the clerk dared not *perjure* himself again. The papers could not *authenticate* his story, and the *bona fide* record became a clear *axiom* of the case.
+B: বিচারক ছিলেন সত্যবাদী, এবং তাঁর সততা সবাই জানত। এক প্রতারক কেরানি যখন একটি আপাত-সত্য দাবি বানাতে চাইল, জাল কাগজপত্র শীঘ্রই ধরা পড়ল। উকিল প্রমাণ উপস্থাপন করতে চাইলেন, কিন্তু তা ছিল শুধু কুতর্ক, আর তাঁর কুতর্কসুলভ চাল কাউকে ঠকাল না। এক খোলামেলা সাক্ষী আদালতের ভুল ধারণা ভাঙতে এবং অভিযুক্তকে নির্দোষ প্রমাণ করতে সাহায্য করল। শপথের পর কেরানি আর মিথ্যা সাক্ষ্য দিতে সাহস করল না। কাগজপত্র তার গল্প প্রমাণ করতে পারল না, আর খাঁটি নথিটি মামলার এক পরিষ্কার স্বতঃসিদ্ধ হয়ে উঠল।
+# Truthful
+veracious|adj|truthful|সত্যবাদী; সত্যতাপূর্ণ|A *veracious* witness always tells the whole story.
+veritable|adj|real; genuine|প্রকৃত; যথার্থ|The garden was a *veritable* paradise.
+verisimilar|adj|having the appearance of truth|সত্যের মতো দেখতে|The film gave a *verisimilar* picture of village life.
+trustworthy|adj|deserving of trust|বিশ্বস্ত|A *trustworthy* friend keeps every secret.
+candid|adj|honest and direct|খোলামেলা; সৎ|Please give me your *candid* opinion of the plan.
+# Truthfulness
+veracity|n|truthfulness|সত্যতা|No one doubted the *veracity* of her report.
+verity|n|truth|সত্য|He spoke of the eternal *verity* of the old saying.
+verisimilitude|n|the appearance of being true|সত্যসদৃশতা|Small details gave the novel its *verisimilitude*.
+probity|n|honesty and strong moral principles|সততা|The mayor was praised for his *probity*.
+candor|n|honest and open speech|সরলতা; খোলামেলা ভাব|She answered with surprising *candor*.
+# Self-evident truth
+axiom|n|a self-evident truth|স্বতঃসিদ্ধ; স্বীকার্য|It is an *axiom* that every action has a cost.
+postulate|n|a basic idea accepted as true without proof|স্বীকার্য; ধরে নেওয়া সত্য|Each theory begins with a basic *postulate*.
+assumption|n|something accepted as true without proof|অনুমান|Your plan rests on a risky *assumption*.
+hypothesis|n|a proposed explanation to be tested|প্রাক্কল্প; অনুমিত সিদ্ধান্ত|The scientist tested her *hypothesis* in the lab.
+supposition|n|a belief held without proof|অনুমান; ধারণা|That claim is mere *supposition*, not fact.
+truism|n|an obvious truth that is often repeated|সর্বজনবিদিত সত্য|"Time is money" is a well-worn *truism*.
+premise|n|a statement from which a conclusion is drawn|যুক্তির ভিত্তি; পূর্বপক্ষ|The *premise* of your argument is wrong.
+# False
+false|adj|not true|মিথ্যা|The rumour proved to be *false*.
+fallacious|adj|based on a mistaken belief; misleading|ভ্রান্ত; মিথ্যা|His *fallacious* argument fooled no one.
+spurious|adj|not genuine; fake|ভুয়া; জাল|The shop sold *spurious* copies of the brand.
+fraudulent|adj|deceitful; criminal in its deception|প্রবঞ্চনাপূর্ণ; জালিয়াতিপূর্ণ|The bank caught a *fraudulent* claim.
+# Clearing from a false impression
+absolve|v|to declare free from blame|দায়মুক্ত করা; রেহাই দেওয়া|The priest will *absolve* him of his guilt.
+acquit|v|to declare not guilty in court|খালাস দেওয়া; নির্দোষ ঘোষণা করা|The jury voted to *acquit* the farmer.
+disabuse|v|to free someone from a false belief|ভুল ধারণা ভাঙানো|Let me *disabuse* you of that silly notion.
+exonerate|v|to clear of blame|নির্দোষ প্রমাণ করা|New evidence will *exonerate* the driver.
+exculpate|v|to show to be not guilty|দোষমুক্ত করা|The tape could *exculpate* the young clerk.
+vindicate|v|to clear of blame by proof|নির্দোষ প্রমাণ করা; সমর্থন করা|The final report will *vindicate* our decision.
+# Genuine
+bona fide|adj|genuine; sincere|নির্ভেজাল; খাঁটি|She made a *bona fide* offer for the house.
+unfeigned|adj|real; not pretended|আন্তরিক; অকৃত্রিম|He stared at the gift with *unfeigned* joy.
+authenticate|v|to prove to be genuine|বিশুদ্ধতা প্রমাণ করা|Experts will *authenticate* the old painting.
+adduce|v|to provide as evidence|প্রমাণস্বরূপ উল্লেখ করা|She can *adduce* three facts to support her claim.
+# Lying
+equivocate|v|to use vague words to avoid the truth|ঘুরিয়ে-পেঁচিয়ে বলা; এড়িয়ে যাওয়া|Do not *equivocate*; answer the question plainly.
+fabricate|v|to invent in order to deceive|বানানো; মিথ্যা তৈরি করা|He tried to *fabricate* an excuse for being late.
+prevaricate|v|to avoid the truth by evasive talk|এড়িয়ে গিয়ে মিথ্যা বলা|The witness began to *prevaricate* under questioning.
+perjure|v|to lie under oath in court|শপথ নিয়ে মিথ্যা বলা|He would not *perjure* himself to save a friend.
+perjury|n|false testimony given under oath|মিথ্যা সাক্ষ্য|He was jailed for *perjury*.
+# Seems true but false
+sophistic|adj|cleverly but falsely argued|কুতর্কমূলক|His *sophistic* speech sounded wise but proved empty.
+specious|adj|seems true but is false|আপাতদৃষ্টিতে সত্য মনে হলেও আসলে মিথ্যা|The *specious* argument convinced only the young.
+sophistry|n|deceptive reasoning or argument|কুতর্ক|Do not hide the facts behind *sophistry*.
+sophistical|adj|relating to sophistry|কুতর্কসুলভ|The *sophistical* reply avoided the real issue.

@@ -1,0 +1,38 @@
+N: 143
+T: War
+S: The *bellicose* general was a *militant* man, and his *bellicosity* alarmed the land. His *combative* troops fired a *volley* of every *projectile*, while the old *mace* and *bludgeon* hung unused on the wall. A *blitzkrieg* would *maim* and *mutilate* soldiers, *raze* towns and *obliterate* roads. The *havoc* was a *scourge* on the people. After a scout's *reconnaissance* showed an enemy *incursion*, a *putsch* by his own officers ended the war. Peace came slowly, and the people began to rebuild.
+B: যুদ্ধবাজ সেনাপতি ছিলেন এক রণলিপ্সু মানুষ, আর তাঁর মারমুখিতা দেশকে আতঙ্কিত করল। তাঁর সংগ্রামপ্রিয় সৈন্যরা সব ধরনের ক্ষেপণাস্ত্র একসঙ্গে ছুড়ল, আর পুরোনো গদা ও মুগুর দেয়ালে অব্যবহৃত ঝুলে রইল। এক ঝটিকা অভিযান সৈন্যদের পঙ্গু ও বিকৃত করত, শহর মাটিতে মিশিয়ে দিত আর রাস্তা মুছে ফেলত। সেই ব্যাপক ধ্বংস ছিল মানুষের জন্য অভিশাপ। এক গুপ্তচরের প্রাথমিক নিরীক্ষণে শত্রুর চকিত আক্রমণ ধরা পড়ার পর তাঁর নিজের অফিসারদের এক অভ্যুত্থান যুদ্ধ শেষ করল। শান্তি ধীরে ধীরে এল, আর মানুষ আবার গড়তে শুরু করল।
+# Fighting
+combative|adj|eager to fight; aggressive|সংগ্রামপ্রিয়; রণলিপ্সু|The *combative* player argued with the referee.
+militant|adj|aggressive in support of a cause; warlike|সংগ্রামপ্রিয়; উগ্র|A *militant* group blocked the main road.
+bellicose|adj|eager to fight; warlike|যুদ্ধবাজ; রণলিপ্সু|The *bellicose* leader threatened his neighbours.
+bellicosity|n|the condition of being warlike or aggressive|রণলিপ্সুতা; মারমুখিতা|The *bellicosity* of the crowd frightened the police.
+# Weapons
+projectile|n|a missile|মিসাইল; নিক্ষিপ্ত অস্ত্র|The *projectile* flew over the wall.
+volley|n|a flight of missiles; a round of gunshots|একসাথে অনেক আগ্নেয়াস্ত্র ও মিসাইলের সমন্বয়|The soldiers fired a *volley* into the air.
+mace|n|a club-like medieval weapon|গদা|The knight swung his heavy *mace*.
+bludgeon|n|a short, heavy-headed club|গদা; মুগুর|The thief carried a *bludgeon* in his coat.
+# Injure
+mutilate|v|to injure by cutting off or damaging a part|অঙ্গহানি করা; বিকৃত করা|Landmines can *mutilate* innocent farmers.
+maim|v|to wound so that a part of the body is useless|পঙ্গু করা|The accident could *maim* him for life.
+mangle|v|to crush or damage badly|থেঁতলে দেওয়া|The machine can *mangle* a careless hand.
+impair|v|to weaken or damage|ক্ষতিগ্রস্ত করা; দুর্বল করা|Loud noise can *impair* your hearing.
+# Destroy completely
+obliterate|v|to destroy completely; to wipe out|সমূলে ধ্বংস করা; মুছে ফেলা|The flood will *obliterate* the footpath.
+annihilate|v|to destroy completely|সমূলে ধ্বংস করা|The army tried to *annihilate* the enemy.
+pulverize|v|to crush into powder; to destroy completely|গুঁড়ো করা|The machine will *pulverize* the old rocks.
+raze|v|to destroy to the ground|মাটিতে মিশিয়ে দেওয়া|They plan to *raze* the old factory.
+subvert|v|to undermine or overthrow|ধ্বংস করা; উৎখাত করা|Spies tried to *subvert* the government.
+# Complete destruction
+annihilation|n|complete destruction|সমূলে বিনাশ|The war led to the *annihilation* of the city.
+perdition|n|complete ruin; damnation|সর্বনাশ; নরকবাস|Greed led the merchant to *perdition*.
+pogrom|n|an organized massacre or persecution of a minority group|সুসংগঠিতভাবে সংখ্যালঘুদের হত্যা ও লুণ্ঠন|The village still remembers the terrible *pogrom*.
+havoc|n|widespread destruction; chaos|ব্যাপকধ্বংস; বিশৃঙ্খলা|The storm wreaked *havoc* on the harvest.
+scourge|n|a source of widespread destruction or suffering|ব্যাপকধ্বংসের কারণ; অভিশাপ|Malaria remains a *scourge* in many regions.
+blitzkrieg|n|a swift and violent military offensive with air attack and mobile land forces|বিমান ও পদাতিক সৈন্যবাহিনীর যৌথ আক্রমণে ঝটিকা সামরিক অভিযান|The *blitzkrieg* took the town in a single day.
+# Takeover and scouting
+coup|n|a sudden and decisive change of government by force|সামরিক ক্যু; অভ্যুত্থান|The generals planned a *coup* at midnight.
+coup d'état|n|a sudden seizure of power from a government|রাষ্ট্রক্ষমতা দখল|The president was ousted in a *coup d'état*.
+putsch|n|a sudden attempt to overthrow a government|সশস্ত্র অভ্যুত্থান|The *putsch* failed within a day.
+reconnaissance|n|a survey of the enemy by soldiers|শত্রুদের অবস্থার প্রাথমিক নিরীক্ষণ|The pilot flew a *reconnaissance* mission over the border.
+incursion|n|a sudden invasion|চকিত আক্রমণ|The border guards stopped an *incursion* at dawn.

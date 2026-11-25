@@ -1,0 +1,34 @@
+N: 144
+T: War (continued)
+S: An *insurgent* band began a *rebellion* against the king. The *mutiny* grew into an *insurrection*, led by a *jingoist* and a *chauvinist* who thought their cause *invincible*. Their *indomitable* chief, behind a *stockade* and *palisade*, swore to *champion* the poor. The king's *martial* force would *conscript* every man and *commandeer* every cart. A spy tried to *infiltrate* the camp, but the *cordon* held until the *detonation* of one bomb ended the fight. The chief's *nemesis* had won at last.
+B: এক বিদ্রোহী দল রাজার বিরুদ্ধে বিদ্রোহ শুরু করল। সেই সামরিক বিদ্রোহ গণঅভ্যুত্থানে রূপ নিল, যার নেতৃত্বে ছিল এক উগ্র দেশপ্রেমিক ও এক উগ্র জাতীয়তাবাদী, যারা নিজেদের উদ্দেশ্যকে অজেয় ভাবত। তাদের অদম্য প্রধান, খুঁটির বেষ্টনী ও কাঠের বেড়ার আড়ালে, গরিবদের পক্ষে লড়ার শপথ নিল। রাজার সামরিক বাহিনী প্রতিটি পুরুষকে বাহিনীতে ভর্তি করত এবং প্রতিটি গাড়ি জোর করে দখল করত। এক গুপ্তচর শিবিরে অনুপ্রবেশ করতে চাইল, কিন্তু বেষ্টনী টিকে রইল, যতক্ষণ না একটি বোমার বিস্ফোরণ লড়াইটি শেষ করল। প্রধানের অপরাজেয় শত্রু শেষ পর্যন্ত জিতে গেল।
+# Rebellion
+rebellion|n|an open armed resistance against authority|বিদ্রোহ|The *rebellion* began in the northern provinces.
+mutiny|n|a revolt by soldiers or sailors against their officers|সামরিক বিদ্রোহ|The sailors planned a *mutiny* against the captain.
+insurgency|n|an armed rebellion against a government|বিদ্রোহ|The *insurgency* lasted for ten long years.
+insurrection|n|a violent uprising against authority|গণঅভ্যুত্থান; বিদ্রোহ|Soldiers crushed the *insurrection* in a week.
+insurgent|n|a person who takes part in an armed rebellion|বিদ্রোহকারী|An *insurgent* hid in the hills near the border.
+jihad|n|a struggle or holy war in the cause of Islam; a crusade|জিহাদ|The scholar wrote about the inner meaning of *jihad*.
+# Fanatical patriots
+jingoism|n|extreme and aggressive patriotism|উগ্র জাতীয়তাবাদ|*Jingoism* spread across the country before the war.
+chauvinism|n|fanatical and aggressive patriotism; prejudiced belief in a group's superiority|উগ্র জাতীয়তাবাদ; শ্রেষ্ঠত্ববাদ|Male *chauvinism* still exists in some offices.
+jingoist|n|an extremely aggressive and militant patriot|অত্যন্ত আগ্রাসী মনোভাবের দেশপ্রেমিক|The *jingoist* cheered at every call for war.
+chauvinist|n|a person prejudiced in the belief that their own group is superior|একটি নির্দিষ্ট দলের শ্রেষ্ঠত্বে বিশ্বাস করে যে|The *chauvinist* laughed at the idea of a woman leader.
+# Unbeatable
+unconquerable|adj|impossible to defeat or overcome|অদম্য; অজেয়|The team showed an *unconquerable* spirit.
+indomitable|adj|impossible to defeat; fearless|অদম্য; অকুতোভয়|Her *indomitable* will carried her through the war.
+invincible|adj|too strong to be defeated|অজেয়|The champion seemed *invincible* in the ring.
+nemesis|n|an unbeatable enemy; a source of downfall|অপরাজেয় শত্রু; আঘাতের কারণ|Maths was always his *nemesis* at school.
+# Sword and fence
+scabbard|n|a case for a sword blade; a sheath|তরবারির খাপ|He drew the sword from its *scabbard*.
+sheathe|v|to put a sword into its case|তরবারিকে খাপে ঢোকানো|The soldier will *sheathe* his sword after the fight.
+stockade|n|a defensive fence made of upright stakes|খুঁটি দ্বারা তৈরি বেষ্টনী|The settlers built a *stockade* around the village.
+palisade|n|a fence of strong pointed stakes|খুঁটি দিয়ে তৈরি প্রতিরক্ষা বেড়া|A wooden *palisade* guarded the fort.
+cordon|n|an extended line of men or fortifications to prevent entry or exit|বেষ্টনী|Police formed a *cordon* around the building.
+detonation|n|an explosion|বিস্ফোরণ|A loud *detonation* shook the whole valley.
+# Military action
+champion|v|to support militantly or firmly|সামরিক সহায়তা দেওয়া; সমর্থন করা|She will *champion* the rights of poor farmers.
+conscript|v|to enrol in military service by law|সামরিক বাহিনীতে যোগ দেওয়ানো|The state may *conscript* young men in time of war.
+commandeer|v|to take for military purposes; to seize|সামরিক কাজের জন্য অধিকারে নেওয়া|The army will *commandeer* the school for a hospital.
+infiltrate|v|to pass secretly into enemy territory|শত্রু এলাকায় অনুপ্রবেশ করা|Spies tried to *infiltrate* the enemy camp.
+martial|adj|relating to war; military|সামরিক; যুদ্ধসংক্রান্ত|The country was placed under *martial* law.

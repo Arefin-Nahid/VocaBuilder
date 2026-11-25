@@ -1,0 +1,34 @@
+N: 133
+T: Time
+S: Our museum guide took us back to *yore*. An *eon* ago, in a distant *epoch*, dinosaurs ruled the earth, long before *antiquity* and the *medieval* age. Their kind would *antecede* humans by millions of years, so no *chronicle* records them. The *pristine* fossils are older than any *precedent* we know. Today's *zeitgeist* is curious about them, and *ephemeral* human fame looks small beside them. A dinosaur in today's street would be an *anachronism*, because our age is not *synchronous* with theirs.
+B: আমাদের জাদুঘরের গাইড আমাদের অতীতে নিয়ে গেলেন। বহু যুগ আগে, এক সুদূর যুগে, ডাইনোসররা পৃথিবী শাসন করত, প্রাচীন যুগ আর মধ্যযুগীয় সময়ের অনেক আগে। তাদের প্রজাতি মানুষের লক্ষ লক্ষ বছর আগে অস্তিত্বে ছিল, তাই কোনো ঘটনাবলি তাদের কথা লেখেনি। আদিম জীবাশ্মগুলো আমাদের জানা যেকোনো পূর্ববর্তী নিদর্শনের চেয়ে প্রাচীন। আজকের যুগের মানসিকতা তাদের নিয়ে কৌতূহলী, আর ক্ষণস্থায়ী মানবখ্যাতি তাদের পাশে ক্ষুদ্র দেখায়। আজকের রাস্তায় একটি ডাইনোসর হবে কালবৈষম্য, কারণ আমাদের যুগ তাদের যুগের সমকালীন নয়।
+# Time periods
+epoch|n|a period of time or history|যুগ; কাল|The invention of the wheel marked a new *epoch*.
+eon|n|a very long period of time|দীর্ঘ সময়; যুগযুগান্ত|It felt like an *eon* before the bus arrived.
+millennium|n|a period of one thousand years|এক হাজার বছর|The temple has stood for a *millennium*.
+# Duration
+ephemeral|adj|short-lived; fleeting|ক্ষণজীবী|The *ephemeral* beauty of the blossoms lasted a day.
+perennial|adj|long-lasting|দীর্ঘজীবী|Hunger is a *perennial* problem in the region.
+temporal|adj|not eternal; relating to or limited by time|নশ্বর; চিরন্তন নয় এমন|Kings hold *temporal* power, not eternal power.
+# Ancient times
+antiquity|n|the ancient times|প্রাচীন যুগ; অনাদিকাল|The ruins date back to *antiquity*.
+yore|n|long ago; the ancient times|প্রাচীন যুগ; অনাদিকাল|Heroes of *yore* fought dragons, the tales say.
+# Preceding in time
+precedent|n|an earlier occurrence that may be used as an authority or guide for future action|পূর্ববর্তী নিদর্শন; পূর্ববর্তী|The judge cited a *precedent* from 1990.
+anterior|adj|preceding in time|পূর্ববর্তী|The *anterior* event led to the later war.
+antecedent|n|something preceding in time; a precedent|পূর্ববর্তী নিদর্শন|The *antecedent* of the pronoun is unclear.
+antecede|v|precede in time|পূর্ববর্তী হওয়া|Dinosaurs *antecede* humans by millions of years.
+antedate|v|precede in time; come before|পূর্ববর্তী হওয়া|This temple *antedate* the city by centuries.
+# Long and simultaneous
+chronic|adj|of long duration|দীর্ঘস্থায়ী|He suffers from *chronic* back pain.
+inveterate|adj|of long duration; deeply rooted by habit|দীর্ঘস্থায়ী; পুরোনো অভ্যাসগত|He is an *inveterate* gambler.
+synchronous|adj|similarly timed; simultaneous with|সমকালীন; সমসাময়িক|The two clocks are *synchronous*.
+contemporary|adj|similarly timed; belonging to the present time|সমকালীন; বর্তমান যুগে অবস্থিত|She writes about *contemporary* life in Dhaka.
+# Records and periods
+chronicle|n|a record of historical events|ঘটনাবলী|The *chronicle* describes the king's reign year by year.
+chronicle|v|record historical events|ঘটনাবলী লিপিবদ্ধ করা|Historians *chronicle* the rise of empires.
+anachronism|n|something or someone misplaced in time|কালবৈষম্য|A wristwatch in the film was an *anachronism*.
+pristine|adj|having the characteristics of earlier times; pure, clean|আদিম; বিশুদ্ধ|The valley remains in a *pristine* state.
+posterior|adj|later in time|পরবর্তী|The *posterior* chapters were weaker than the first.
+zeitgeist|n|the outlook characteristics of a period|যুগের মানসিকতা বা ভাবধারা|The film captured the *zeitgeist* of the 1990s.
+medieval|adj|pertaining to the middle ages|মধ্যযুগীয়|The *medieval* castle still stands on the hill.

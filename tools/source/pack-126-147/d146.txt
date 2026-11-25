@@ -1,0 +1,52 @@
+N: 146
+T: Book of Synonyms
+S: The old poet reached the *pinnacle* of fame, and his *witticism* and *pithy* *quip* were loved by all. Then a *whiff* of *innuendo* spread that he stole his *aphorism* from others. Rivals tried to *oust* him and *ostracize* him, so he faced a *predicament* at the *precipice* of ruin. At his *nadir*, *sporadic* rain fell, but he stayed calm. A *viscid* mud stuck to his boots, and he shared a *maxim* with a young poet: even the *apex* of success is fleeting.
+B: বুড়ো কবি খ্যাতির শিখরে পৌঁছালেন, আর তাঁর রসিকতা ও সংক্ষিপ্ত সারগর্ভ কথা সবাই ভালোবাসত। তারপর একটা ইঙ্গিত ছড়িয়ে পড়ল যে তিনি অন্যের কাছ থেকে নিজের জ্ঞানগর্ভ উক্তি চুরি করেছেন। প্রতিদ্বন্দ্বীরা তাঁকে তাড়িয়ে দিতে ও একঘরে করতে চাইল, ফলে তিনি সর্বনাশের কিনারায় এক উভয় সংকটে পড়লেন। তাঁর পাদবিন্দুতে মাঝে মাঝে বৃষ্টি পড়ল, কিন্তু তিনি শান্ত থাকলেন। আঠালো কাদা তাঁর জুতোয় লেগে রইল, আর তিনি এক তরুণ কবিকে একটি নীতিবাক্য শোনালেন: সাফল্যের চূড়াও ক্ষণস্থায়ী।
+# Peak and lowest point
+apex|n|the peak; the highest point|শিখর|The climbers reached the *apex* of the mountain.
+apogee|n|the highest point|শিখর; চরম বিন্দু|The empire reached its *apogee* in the third century.
+acme|n|the highest point; perfection|শিখর; পরাকাষ্ঠা|She is the *acme* of grace and charm.
+pinnacle|n|the highest point; a peak|শিখর|He reached the *pinnacle* of his career at forty.
+summit|n|the top of a mountain; the highest point|শিখর; চূড়া|The *summit* was hidden in clouds.
+zenith|n|the highest point|শিখর; চরম উৎকর্ষ|The sun reached its *zenith* at noon.
+nadir|n|the lowest point; an extreme state of adversity|পাদবিন্দু; চরম দারিদ্র্য|The team hit its *nadir* after the fifth loss.
+# Witty sayings
+maxim|n|a witty saying|জ্ঞানগর্ভ উক্তি|"Haste makes waste" is an old *maxim*.
+apothegm|n|a short, witty and instructive saying|জ্ঞানগর্ভ উক্তি|The wise teacher loved to quote an *apothegm*.
+aphorism|n|a short, witty saying that states a truth|জ্ঞানগর্ভ উক্তি|"Knowledge is power" is a famous *aphorism*.
+adage|n|a traditional saying|প্রবাদ; জ্ঞানগর্ভ উক্তি|The old *adage* says that honesty is the best policy.
+epigram|n|a short, witty saying|জ্ঞানগর্ভ উক্তি; ব্যঙ্গোক্তি|The poet's *epigram* made the whole hall laugh.
+dictum|n|a formal statement or saying|জ্ঞানগর্ভ উক্তি; সূত্র|The judge's *dictum* became a rule for later courts.
+witticism|n|a witty remark|জ্ঞানগর্ভ উক্তি; রসিকতা|Her sharp *witticism* ended the argument.
+quip|n|a clever, witty remark|জ্ঞানগর্ভ উক্তি; ঠাট্টা|He made a funny *quip* about the weather.
+pithy|adj|brief and full of meaning|সংক্ষিপ্ত ও সারগর্ভ|Her *pithy* reply said it all.
+gnomic|adj|expressed in short, pithy sayings|সংক্ষিপ্ত নীতিবাক্য সম্পর্কিত|The old poem is *gnomic* and full of advice.
+# Hints
+whiff|n|a slight trace or hint|ইঙ্গিত; আভাস|There was a *whiff* of fear in his voice.
+innuendo|n|an indirect hint, usually a bad one|ইঙ্গিত; কুটিল ইশারা|The article was full of *innuendo* about the mayor.
+inkling|n|a slight idea or hint|ইঙ্গিত; আভাস|I had no *inkling* of the surprise.
+insinuate|v|to hint at something unpleasant|ইঙ্গিত দেওয়া; আভাসে বলা|Are you trying to *insinuate* that I cheated?
+intimate|v|to hint; to make known indirectly|ইঙ্গিত দেওয়া|She will *intimate* her wish without asking.
+# Sticky
+viscid|adj|sticky|আঠালো|Honey is a *viscid* liquid.
+adhesive|adj|sticky; able to stick|আঠালো|Use *adhesive* tape to seal the box.
+viscous|adj|thick and sticky like syrup|আঠালো; ঘন|Honey is *viscous* and flows slowly.
+glutinous|adj|sticky like glue|আঠালো; চটচটে|The rice turned *glutinous* after long boiling.
+# Stopping and starting
+intermittent|adj|stopping and starting at irregular intervals|অনিয়মিত বিরতিতে চলছে এমন|*Intermittent* rain spoiled the picnic.
+fitful|adj|starting and stopping; irregular|অনিয়মিত; থেমে থেমে|The baby had a *fitful* sleep.
+spasmodic|adj|happening in sudden short bursts|অনিয়মিত; হঠাৎ হঠাৎ|He felt *spasmodic* pains in his leg.
+sporadic|adj|happening at irregular intervals|অনিয়মিত; মাঝে মাঝে ঘটে এমন|*Sporadic* gunfire was heard in the night.
+# Dangerous situation
+plight|n|a dangerous or difficult situation|ভয়ানক অবস্থা; দুরবস্থা|The *plight* of the flood victims moved us all.
+precipice|n|a steep cliff; a dangerous situation|খাড়া খাদ; ভয়ানক অবস্থা|The company stood at the *precipice* of ruin.
+predicament|n|a difficult situation; a dilemma|উভয় সংকট; বিপদজনক অবস্থা|I am in a *predicament* because I lost my keys.
+# Rotten
+putrid|adj|rotten and foul-smelling|পচাগলা|A *putrid* smell came from the old drain.
+septic|adj|rotten; infected with harmful bacteria|পচাগলা; সংক্রমিত|The deep wound turned *septic* without care.
+rancid|adj|having the odour of rotten fat|পচা চর্বির দুর্গন্ধযুক্ত|The *rancid* butter was thrown away.
+# Ban and drive out
+oust|v|to drive out; to force from a position|বের করে দেওয়া; উৎখাত করা|Voters wanted to *oust* the mayor.
+proscribe|v|to ban or forbid officially|নিষিদ্ধ করা|The law will *proscribe* the sale of fireworks.
+ostracize|v|to exclude from a group or society|একঘরে করা|Villagers might *ostracize* a thief.
+relegate|v|to move to an inferior position|নিম্নপদে নামিয়ে দেওয়া|The club may *relegate* the weak team.

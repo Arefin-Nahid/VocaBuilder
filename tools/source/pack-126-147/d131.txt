@@ -1,0 +1,24 @@
+N: 131
+T: Tick-Talk (continued)
+S: Rafi tended to *blurt* out answers. His *rejoinder* to any question was quick, and he would *reiterate* the same point until his teacher sighed. His uncle, once an orator of great *eloquence*, had lost his words to *aphasia*. Rafi's own *malapropism* made the class laugh. At night he would *expatiate* on cricket, and his *palaver* never ended. In his village *patois* he could *elicit* old stories, and his love of them was *ineffable*. His *syntax* stayed correct, though one *tautological* phrase slipped in.
+B: রাফি ঝোঁকের বশে উত্তর বলে ফেলত। যেকোনো প্রশ্নে তার প্রত্যুত্তর ছিল দ্রুত, আর সে একই কথা পুনরায় বলতে থাকত যতক্ষণ না তার শিক্ষক দীর্ঘশ্বাস ফেলতেন। তার চাচা, একসময় মহান বাগ্মিতার অধিকারী বক্তা, বাকশক্তিলোপে নিজের কথা হারিয়েছিলেন। রাফির নিজের একই ধ্বনিবিশিষ্ট শব্দের মধ্যে গুলিয়ে ফেলার ভুল ক্লাসকে হাসাত। রাতে সে ক্রিকেট নিয়ে বিস্তারিত বলত, আর তার বাজে বকবক শেষ হতো না। গ্রামের প্রাদেশিক ভাষায় সে পুরোনো গল্প বের করে আনতে পারত, আর সেগুলোর প্রতি তার ভালোবাসা ছিল অনির্বচনীয়। তার পদবিন্যাস ঠিক ছিল, যদিও একটি দ্বিরুক্তিপূর্ণ বাক্যাংশ ঢুকে পড়ল।
+# Quick talk
+rejoinder|n|a response; a quick reply to a question or remark|প্রত্যুত্তর|Her sharp *rejoinder* silenced the critic.
+blurt|v|utter impulsively|ঝোঁকের বশে বলে ফেলা|Children often *blurt* out secrets.
+reiterate|v|say or do again|পুনরায় বলা বা করা|Let me *reiterate* the main rule once more.
+palaver|n|idle talk|বাজে বকবক করা|Stop the *palaver* and start working.
+expatiate|v|talk at length|বিস্তারিত বলা|He loved to *expatiate* on his travels.
+elicit|v|draw out by discussion|প্রকাশ করা; সিদ্ধান্ত টানা|A good teacher can *elicit* answers from shy pupils.
+# Speech and language
+aphasia|n|loss of speech due to injury|বাকশক্তিলোপ|The stroke left him with *aphasia*.
+eloquence|n|persuasive speech; expressiveness|বাগ্মিতা|Her *eloquence* moved the whole crowd.
+malapropism|n|the comic misuse of a word with one that sounds similar|একই ধ্বনিবিশিষ্ট শব্দের মধ্যে গুলিয়ে ফেলা|Saying “escape goat” is a classic *malapropism*.
+patois|n|a local or provincial dialect|প্রাদেশিক ভাষা|The villagers spoke a rich local *patois*.
+larynx|n|the organ containing the vocal cords|স্বরযন্ত্র; বাকযন্ত্র|Cold air irritated her *larynx*.
+ineffable|adj|too great to be expressed in words|অনির্বচনীয়; অকথ্য|They felt *ineffable* joy at the birth.
+soliloquy|n|talking to oneself; a speech alone on stage|নিজে নিজে কথা বলা|The actor's *soliloquy* silenced the theatre.
+# Grammar
+syntax|n|the grammatical arrangement of words in phrases or sentences; a systematic orderly arrangement|পদবিন্যাস; শৃংখলাবদ্ধ বিন্যাস|Bad *syntax* makes a sentence confusing.
+syntactic|adj|related to syntax|পদবিন্যাস সংক্রান্ত|The student made a *syntactic* error in the essay.
+tautology|n|repetition of the same sense in different words; unnecessary repetition|দ্বিরুক্তি|“Free gift” is a *tautology*.
+tautological|adj|needlessly repetitious|প্রয়োজনহীনভাবে বারবার ব্যবহৃত|The editor cut the *tautological* phrases.

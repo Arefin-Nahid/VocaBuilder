@@ -1,0 +1,21 @@
+N: 134
+T: Time (continued)
+S: The village formed an *ad hoc* committee to plan its fiftieth *jubilee*. In the *interim*, the chairman, *au courant* with every rumour, warned that the budget could not *protract* the feast beyond a week. A *pubescent* drummer, newly proud, played *ad infinitum* until a *belated* guest begged for *respite*. His short *stint* on stage ended at last. The elders vowed to *perpetuate* the festival for *perpetuity*, a *perpetual* joy and a *self-perpetuating* custom. Everyone agreed it was a night to remember.
+B: গ্রামবাসীরা তাদের পঞ্চাশতম জয়ন্তীর পরিকল্পনা করতে একটি তাৎক্ষণিক কমিটি গঠন করল। ইতোমধ্যে, প্রতিটি গুজব সম্পর্কে হালনাগাদ চেয়ারম্যান সতর্ক করলেন যে বাজেটে ভোজ এক সপ্তাহের বেশি টানা যাবে না। নতুন গর্বিত এক কিশোর ঢুলি অনন্তকাল ধরে বাজাতে থাকল, যতক্ষণ না এক বিলম্বে আসা অতিথি বিরামের জন্য মিনতি করলেন। মঞ্চে তার সংক্ষিপ্ত সময় অবশেষে শেষ হলো। প্রবীণরা শপথ করলেন চিরকালের জন্য উৎসবটি টিকিয়ে রাখবেন, যা এক অবিরাম আনন্দ ও নিজেকে বাঁচিয়ে রাখা রীতি। সবাই একমত হলো যে সেটি মনে রাখার মতো এক রাত ছিল।
+# Now and then
+interim|n|the time between two events; the meantime|ইতোমধ্যে; অন্তর্বর্তী সময়|In the *interim*, please wait quietly in the hall.
+ad hoc|adj|made for the present purpose only|বিশেষ উদ্দেশ্যে তৈরি; তাৎক্ষণিক|The principal formed an *ad hoc* team to fix the problem.
+au courant|adj|up to date; informed on current affairs|হালনাগাদ|She stays *au courant* by reading the news every morning.
+jubilee|n|a special anniversary|জয়ন্তী|The school celebrated its golden *jubilee* with a big fair.
+pubescent|adj|reaching puberty|বয়ঃসন্ধি বা কৈশোরকালে পৌঁছানো|The *pubescent* boy was shy about his changing voice.
+# Length of time
+protract|v|to lengthen in time|বিলম্ব করানো; দীর্ঘায়িত করা|Do not *protract* the meeting with needless questions.
+respite|n|a pause for relaxation|বিরাম; অবকাশ|The cool evening brought a brief *respite* from the heat.
+stint|n|a period of time spent doing something; an assigned portion of work|কাজ করতে ব্যয়কৃত সময়; প্রদত্ত কাজের পরিমাণ|He did a long *stint* as a volunteer nurse.
+# Without end
+ad infinitum|adv|forever; without limit|চিরতরে; অন্তহীনভাবে|Rules cannot be added *ad infinitum* without confusing everyone.
+belated|adj|late|বিলম্বিত|Please accept my *belated* wishes on your birthday.
+perpetuity|n|eternity|অনন্তকাল|The land was granted to the family in *perpetuity*.
+perpetuate|v|to cause to continue indefinitely|চিরস্থায়ী করা; বিলোপ হতে রক্ষা করা|Such stories *perpetuate* old fears about the forest.
+perpetual|adj|endless; lasting|শাশ্বত; অবিরাম; অনন্ত|The mountain top is covered in *perpetual* snow.
+self-perpetuating|adj|having the power to renew or continue itself|নিজেকে বিলুপ্ত হওয়ার হাত থেকে রক্ষা করার ক্ষমতাসম্পন্ন|Poverty can become a *self-perpetuating* cycle.

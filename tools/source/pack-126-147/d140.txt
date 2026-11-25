@@ -1,0 +1,23 @@
+N: 140
+T: Understand the Meanings (continued)
+S: The young lawyer's case looked sound *prima facie*, but his client began to *waffle* about that night. The judge, a lover of *nuance*, noticed every *subtlety* and the *irony* in the tale. The man was *inarticulate*, and the mystery felt *insoluble*. Some tried to *romanticize* his story, while others chose to *misconstrue* it, which made the *imbroglio* worse. Using *induction*, the judge let *Ockham's razor* guide her. She did not *opine* or *posit* wild theories, and her *inductive* logic cut through the fog.
+B: তরুণ উকিলের মামলাটি আপাতদৃষ্টিতে ঠিক মনে হচ্ছিল, কিন্তু তাঁর মক্কেল সেই রাত নিয়ে দ্বিধান্বিতভাবে কথা বলতে লাগল। সূক্ষ্ম পার্থক্য ভালোবাসা বিচারক প্রতিটি ধূর্ততা এবং গল্পটির বিদ্রূপ লক্ষ্য করলেন। লোকটি নিজের কথা গুছিয়ে বলতে পারছিল না, আর রহস্যটি ব্যাখ্যার অতীত মনে হলো। কেউ কেউ তার গল্পকে রোমান্টিকভাবে ব্যাখ্যা করতে চাইল, আর অন্যরা তা ভুল বুঝল, ফলে জটিলতা আরও বাড়ল। বিশেষ তথ্য থেকে সূত্র বের করার পদ্ধতি ব্যবহার করে বিচারক ওকহামের ক্ষুর-নীতিকে পথপ্রদর্শক করলেন। তিনি মত প্রকাশ করলেন না বা অদ্ভুত তত্ত্ব ধরে নিলেন না, আর তাঁর আরোহী যুক্তি কুয়াশা কেটে দিল।
+# At first sight
+prima facie|adv|at first sight|আপাতদৃষ্টিতে|The evidence is *prima facie* proof of his guilt.
+romanticize|v|to interpret in a romantic way|রোমান্টিকভাবে ব্যাখ্যা করা|Do not *romanticize* a hard life on the farm.
+misconstrue|v|to interpret incorrectly|ভুল ব্যাখ্যা করা|Please do not *misconstrue* my joke as an insult.
+imbroglio|n|a painful or complex misunderstanding; a confusing situation|ভুল বোঝাবুঝি; জট; উভয় সংকট|The tax *imbroglio* took months to settle.
+# Fine differences
+subtlety|n|the quality of being difficult to detect or analyze|ধূর্ততা; সূক্ষ্মতা|He missed the *subtlety* of her joke.
+nuance|n|a subtle difference in meaning, opinion or attitude|অর্থ, মতামত বা দৃষ্টিভঙ্গির মধ্যে সূক্ষ্ম পার্থক্য|A good translator catches every *nuance*.
+irony|n|use of words that mean the opposite of what is said; hidden sarcasm|বিদ্রূপাত্মক; শ্লেষ|There is *irony* in a fire station burning down.
+# Reasoning
+induction|n|the process of deriving a general principle from particular facts|বিশেষ কিছু তথ্য থেকে সার্বজনীন সূত্র বের করার পদ্ধতি|Scientists use *induction* to form general rules.
+inductive|adj|related to induction|বিশেষ কিছু তথ্য থেকে সার্বজনীন সূত্র বের করার পদ্ধতি সম্পর্কিত|*Inductive* reasoning moves from cases to rules.
+opine|v|to express an opinion|মত প্রকাশ করা|Critics will *opine* on the new film this week.
+posit|v|to propose as an explanation; to assume as a postulate|ব্যাখ্যা হিসেবে হাজির করা; সত্য বলে মেনে নেওয়া|Let us *posit* that the earth is round.
+Ockham's razor|n|the principle that the simplest sufficient explanation is best|কোনো ঘটনা ব্যাখ্যা করার সময় সবচেয়ে কম সংখ্যক তথ্যকে সত্য বলে ধরে নেওয়ার নীতি|By *Ockham's razor*, the simpler theory is more likely.
+# Unclear
+waffle|v|to speak vaguely or equivocally|দ্বিধান্বিতভাবে বলা|Stop trying to *waffle* and answer plainly.
+inarticulate|adj|unable to express ideas or feelings clearly|ধারণা বা অনুভূতির ব্যাখ্যা দিতে অসমর্থ এমন|Shy and *inarticulate*, he could not explain his plan.
+insoluble|adj|not able to be solved or explained|ব্যাখ্যার অতীত; সমাধানের অযোগ্য|The riddle seemed *insoluble* to everyone.

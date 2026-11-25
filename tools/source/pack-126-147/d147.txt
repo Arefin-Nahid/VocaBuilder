@@ -1,0 +1,34 @@
+N: 147
+T: Book of Synonyms (continued)
+S: The long strike began to *undermine* the mill and *enervate* its workers. The *corpulent* owner, *portly* and *stout* in his chair, felt *impotent*. He chose a *surrogate*, his clever *alter ego*, to *supersede* the old manager. The new man did not *prod* anyone; he chose to *incite* hope, *imbue* the hall with calm, and *supplant* fear with trust. He let the rain *soak* the yard, and the workers, *sodden* and cheerful, came back. By autumn the mill ran smoothly again.
+B: দীর্ঘ ধর্মঘট মিলকে দুর্বল করতে এবং শ্রমিকদের শক্তিহীন করতে শুরু করল। মোটা মালিক, চেয়ারে স্থূল ও গোলগাল হয়ে বসে, নিজেকে অক্ষম মনে করলেন। তিনি তাঁর চতুর অভিন্ন সহকারীকে প্রতিস্থাপিত ব্যক্তি হিসেবে বেছে নিলেন, পুরোনো ম্যানেজারের জায়গা নিতে। নতুন মানুষটি কাউকে খোঁচা দিলেন না; তিনি আশা জাগাতে, হলঘরকে প্রশান্তিতে ভরে দিতে এবং ভয়ের জায়গায় বিশ্বাস বসাতে চাইলেন। তিনি বৃষ্টিকে উঠান ভিজিয়ে দিতে দিলেন, আর শ্রমিকেরা, ভিজে চুপচুপে ও খুশি হয়ে, ফিরে এল। শরতের মধ্যে মিলটি আবার সুষ্ঠুভাবে চলল।
+# Weaken
+extenuate|v|to lessen the seriousness of; to weaken|হালকা করা; দুর্বল করে দেওয়া|Nothing can *extenuate* such a cruel act.
+enervate|v|to drain of energy; to weaken|দুর্বল করে দেওয়া; শক্তিহীন করা|The heavy heat can *enervate* even strong men.
+undermine|v|to weaken gradually|দুর্বল করে দেওয়া; ক্ষয় করা|Rumours can *undermine* a leader's trust.
+impotent|adj|weak; powerless; ineffective|দুর্বল; অক্ষম|The old king felt *impotent* against the rebels.
+# Fill completely
+soak|v|to make thoroughly wet; to absorb|সিক্ত করা বা শোষণ করানো|Let the beans *soak* overnight in water.
+saturate|v|to fill completely with liquid|সিক্ত করা; পূর্ণ করা|Rain will *saturate* the ground by evening.
+steep|v|to soak in liquid|ভিজিয়ে রাখা|*Steep* the tea leaves for three minutes.
+imbue|v|to fill with a feeling or quality|পরিপূর্ণ করা; অনুপ্রাণিত করা|Her teacher tried to *imbue* her with a love of books.
+# Thoroughly wet
+soaked|adj|thoroughly wet|সম্পূর্ণ সিক্ত|The *soaked* puppy shook itself dry.
+saturated|adj|thoroughly wet; full to the limit|সম্পূর্ণ সিক্ত; পরিপূর্ণ|The *saturated* ground could hold no more water.
+sodden|adj|soaked through; heavy with water|সম্পূর্ণ সিক্ত; ভেজা|His *sodden* shoes squelched on the floor.
+# Motivate
+prod|v|to urge or stir into action|উত্তেজিত বা উদ্দীপিত করা|The teacher had to *prod* the lazy boy into work.
+incite|v|to stir up; to provoke into action|উত্তেজিত করা; উস্কে দেওয়া|The speech did *incite* the crowd to riot.
+spur|v|to urge on; to encourage|উদ্দীপিত করা; অনুপ্রাণিত করা|Hunger will *spur* him to find work.
+# Replace
+supersede|v|to take the place of; to replace|প্রতিস্থাপিত করা|New rules will *supersede* the old ones.
+supplant|v|to take the place of, often by force or trickery|প্রতিস্থাপিত করা; হটিয়ে জায়গা নেওয়া|Cars began to *supplant* bullock carts on the road.
+surrogate|adj|serving as a substitute|বিকল্প|She acted as a *surrogate* mother to the orphan.
+surrogate|n|someone who takes the place of another person|প্রতিস্থাপিত ব্যক্তি|He sent a *surrogate* to speak at the meeting.
+alter ego|n|a person's other self; a trusted deputy or perfect substitute|যথাযোগ্য বিকল্প; অভিন্ন সহকারী|The hero's *alter ego* is a quiet clerk.
+# Very fat
+corpulent|adj|very fat; heavy-bodied|মোটা; স্থূল|The *corpulent* judge struggled up the steps.
+portly|adj|rather fat in a dignified way|গোলগাল; স্থূল|A *portly* gentleman sat at the head of the table.
+stout|adj|rather fat and strongly built|মোটা; স্থূল|The *stout* baker lifted the heavy sacks with ease.
+obese|adj|very overweight in an unhealthy way|অতিরিক্ত স্থূল|Doctors warn that *obese* people risk heart disease.
+rotund|adj|round and plump|গোলাকার ও মোটা|The *rotund* chef laughed loudly.

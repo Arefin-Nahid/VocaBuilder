@@ -1,0 +1,16 @@
+N: 141
+T: V for Vendetta
+S: *Voilà*! The old *vaudevillian* stepped on stage, a *veteran* of a hundred shows. His *visage* showed the *vicissitudes* of a hard life. The *veneer* of *vanity* had worn thin, leaving only a *vestige* of pride. He lived *vicariously* through his young students, and his *vox* still carried across the hall. The crowd stood and clapped, because a true *veteran* never really leaves the stage. Voilà, the curtain fell on a happy night. The old man smiled and bowed once more.
+B: দেখুন! বুড়ো বিচিত্রানুষ্ঠানের শিল্পী মঞ্চে উঠলেন, শত শত অনুষ্ঠানের এক অভিজ্ঞ যোদ্ধা। তাঁর চেহারায় কঠিন জীবনের ভাগ্য পরিবর্তনের ছাপ ছিল। অহমিকার আবরণ পাতলা হয়ে এসেছিল, শুধু গর্বের এক চিহ্ন রয়ে গিয়েছিল। তিনি তাঁর তরুণ ছাত্রদের মাধ্যমে পরোক্ষভাবে বাঁচতেন, আর তাঁর কণ্ঠস্বর তখনও হলঘরজুড়ে ছড়িয়ে পড়ত। দর্শকেরা উঠে দাঁড়িয়ে হাততালি দিল, কারণ সত্যিকারের অভিজ্ঞ মানুষ কখনো মঞ্চ ছেড়ে যায় না। আর এক আনন্দময় রাতে পর্দা নেমে এল। বুড়ো মানুষটি হেসে আরও একবার মাথা নোয়ালেন।
+# V words
+voilà|adv|there you are!|তো হয়ে যাক!|Add water, stir, and *voilà*, the soup is ready.
+vaudevillian|n|a performer in a variety show with songs and comic acts|বিচিত্রানুষ্ঠানে যে গান বা হাসির নাটকে কাজ করে|The *vaudevillian* sang and juggled on stage.
+veteran|n|a person who has served in the armed forces or fought many battles|যোদ্ধা|The *veteran* proudly wore his old medals.
+veteran|adj|having become skilled through long experience|অভিজ্ঞ; ঝানু|She is a *veteran* teacher of thirty years.
+vicariously|adv|indirectly; through another person|প্রতিনিধি দ্বারা সম্পন্ন; পরোক্ষভাবে|She lived *vicariously* through her daughter's success.
+vicissitude|n|a change of fortune|ভাগ্য পরিবর্তন|He bore the *vicissitude* of life with courage.
+visage|n|face; countenance|চেহারা|A stern *visage* greeted us at the door.
+veneer|n|a thin ornamental coating|অলংকারের আবরণ|The table has a *veneer* of fine teak.
+vanity|n|feelings of excessive pride|অহমিকা; আত্মশ্লাঘা|His *vanity* made him spend hours before the mirror.
+vestige|n|a trace; what remains|চিহ্ন; অবশিষ্ট অংশ|Not a *vestige* of the old fort remains.
+vox|n|a voice; vocalization|স্বরকম্পন; কণ্ঠস্বর|The singer's *vox* filled the whole hall.

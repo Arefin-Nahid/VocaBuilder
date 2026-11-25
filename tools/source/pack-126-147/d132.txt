@@ -1,0 +1,19 @@
+N: 132
+T: Tick-Talk (continued)
+S: A *mealy-mouthed* minister avoided every direct answer, so a reporter tried to *accost* him outside the hall. The speech was full of *cant* and political *argot*, and a long *harangue* followed, then a *tirade* against critics, whom he loved to *malign*. The reporter, who loved language, noted each new *neologism*. In a port town, he later explained, a *pidgin* had grown into a *creole*, and English became its *lingua franca*. He liked *onomatopoeia* too, words like “buzz” and “crash”.
+B: এক কথা ঘুরিয়ে বলা মন্ত্রী প্রতিটি সরাসরি উত্তর এড়িয়ে গেলেন, তাই এক সাংবাদিক হলের বাইরে এগিয়ে গিয়ে তাঁর সঙ্গে আলাপ শুরু করতে চাইল। বক্তৃতা ভণ্ডামিপূর্ণ নীতিবাক্য আর রাজনৈতিক ইতর ভাষায় ভরা ছিল, আর এক দীর্ঘ আক্রমণাত্মক বক্তৃতা এল, তারপর সমালোচকদের বিরুদ্ধে এক অপবাদপূর্ণ দীর্ঘ জোরালো বক্তৃতা, যাদের তিনি নিন্দা করতে ভালোবাসতেন। ভাষাপ্রেমী সাংবাদিক প্রতিটি নতুন শব্দ খেয়াল করল। এক বন্দর শহরে, সে পরে ব্যাখ্যা করল, এক সংকর ভাষা থেকে ক্রেওল ভাষা তৈরি হয়েছিল, আর ইংরেজি হয়ে উঠল তার সাধারণ যোগাযোগের ভাষা। সে “গুনগুন” আর “ঝনঝন”-এর মতো ধ্বনির অনুকরণে গড়া শব্দও পছন্দ করত।
+# Insulting speech
+harangue|n|a long, forceful, insulting speech|তিরস্কার|The coach delivered a *harangue* after the defeat.
+tirade|n|an extended scolding; a long angry speech|তিরস্কার|He launched into a *tirade* about the noise.
+malign|v|speak evil of; defame|নিন্দা করা|Do not *malign* people behind their backs.
+mealy-mouthed|adj|indirect in speech; hypocritical; evasive|ছলনা করার জন্য সরাসরি না বলা|The *mealy-mouthed* manager never admitted the error.
+# Types of language
+argot|n|slang|ইতর ভাষা; কুবচন|Thieves spoke in their own secret *argot*.
+jargon|n|a characteristic language of a particular group|কোনো নির্দিষ্ট দলের স্বতন্ত্র বাচনভঙ্গি; দলগত সাংকেতিক ভাষা|The manual was full of technical *jargon*.
+cant|n|jargon of thieves; insincere expression of piety|খারাপ লোকদের সাংকেতিক ভাষা; ভণ্ডামিপূর্ণ নীতিবাক্য|The politician's speech was full of empty *cant*.
+neologism|n|a new word or expression|নতুন শব্দ অথবা নতুন অভিব্যক্তি|“Selfie” was once a *neologism*.
+creole|n|a language that arises from contact between two other languages and has features of both|দুই ভাষার মিশ্রণে তৈরিকৃত নতুন ভাষা যাতে দুটোরই বৈশিষ্ট্য বিদ্যমান|Many *creoles* formed in colonial trading ports.
+lingua franca|n|a language used for communication among people speaking different languages|ভিন্ন ভিন্ন ভাষাভাষীদের মধ্যে যোগাযোগের জন্য একটি সাধারণ ভাষা|English has become a *lingua franca* across the world.
+pidgin|n|a simplified language used for communication among people speaking different languages|ভিন্ন ভিন্ন ভাষাভাষীদের মধ্যে যোগাযোগের জন্য সরলীকৃত ভাষা|Traders developed a *pidgin* to do business.
+onomatopoeia|n|words formed in imitation of natural sounds|আসল ধ্বনিকে শব্দে রূপান্তর করা|“Buzz” is an example of *onomatopoeia*.
+accost|v|approach and speak first to a person|এগিয়ে গিয়ে আলাপ শুরু করা|A stranger tried to *accost* her at the station.

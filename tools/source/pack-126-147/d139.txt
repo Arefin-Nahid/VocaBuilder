@@ -1,0 +1,31 @@
+N: 139
+T: Understand the Meanings (continued)
+S: The professor's *expository* talk was *explanatory* and full of *perspicuity*. Her *tableau* of an old market made every detail *palpable* and *tangible*. A *percipient* student, *discerning* and *sentient* to every mood, saw the *patent* truth at once. His *perspicacity* pleased her. She explained how *semantics* and *semiotics* study signs, and how the *denotation* of a word can *connote* much more. A *skewed* reading would miss what was *implicit* and *tacit*. The students left the class wiser than before.
+B: অধ্যাপিকার ব্যাখ্যামূলক আলোচনাটি ছিল বিশদ এবং সুস্পষ্টতায় ভরা। এক পুরোনো বাজারের তাঁর স্পষ্ট বর্ণনা প্রতিটি খুঁটিনাটিকে অনুভবযোগ্য ও বাস্তব করে তুলল। এক উপলব্ধিক্ষম ছাত্র, প্রতিটি মেজাজ বুঝতে পারা সংবেদনশীল, সঙ্গে সঙ্গে প্রকাশ্য সত্যটি দেখে ফেলল। তার তীক্ষ্ণ উপলব্ধি তাঁকে খুশি করল। তিনি বোঝালেন কীভাবে শব্দার্থবিদ্যা ও চিহ্নবিদ্যা সংকেত নিয়ে পড়ে, আর কীভাবে একটি শব্দের আক্ষরিক অর্থ অনেক বেশি ইঙ্গিত দিতে পারে। বিকৃত পাঠ উহ্য ও না-বলা বিষয়টি হারিয়ে ফেলবে। ছাত্রছাত্রীরা আগের চেয়ে জ্ঞানী হয়ে ক্লাস ছাড়ল।
+# Explanatory
+explanatory|adj|serving to explain|ব্যাখ্যামূলক|The booklet has an *explanatory* note on each page.
+expository|adj|intended to explain or describe|ব্যাখ্যামূলক; বর্ণনামূলক|He wrote an *expository* essay on climate change.
+parenthetical|adj|explaining something placed in brackets|বন্ধনীর মধ্যে দেওয়া ব্যাখ্যা|The writer added a *parenthetical* remark about the date.
+perspicuity|n|clearness of expression|সুস্পষ্টতা; প্রাঞ্জলতা|The *perspicuity* of her essay won high praise.
+tableau|n|a vivid description or picture|স্পষ্ট বর্ণনা|The novel paints a *tableau* of village life.
+patent|adj|clearly revealed to the mind or senses; obvious|প্রকাশ্য বা প্রত্যক্ষ|It was *patent* to all that he was lying.
+# Ability to perceive
+perspicacity|n|the ability to understand quickly and clearly|উপলব্ধি করার ক্ষমতা; তীক্ষ্ণ বুদ্ধি|The judge's *perspicacity* saved the innocent man.
+sentience|n|the ability to feel and perceive|অনুভব করার ক্ষমতা; সংবেদনশীলতা|Scientists debate the *sentience* of fish.
+percipient|adj|able to perceive; having keen understanding|উপলব্ধি করতে সক্ষম|A *percipient* reader will notice the hidden clues.
+discerning|adj|having good judgment; able to see differences|উপলব্ধি করতে সক্ষম; বিচক্ষণ|She is a *discerning* buyer of art.
+sentient|adj|able to feel and perceive|সংবেদনশীল; অনুভূতিসম্পন্ন|All *sentient* beings can feel pain.
+# Capable of being perceived
+palpable|adj|able to be felt or perceived|অনুভব করা যায় এমন; প্রতীয়মান|The tension in the room was *palpable*.
+tangible|adj|able to be touched; real and clear|স্পর্শযোগ্য; বাস্তব|We need *tangible* proof, not just words.
+# Meaning
+semantics|n|the study of meaning in language|শব্দার্থবিদ্যা|The debate was just a matter of *semantics*.
+semiotics|n|the study of signs and symbols as elements of communication|যোগাযোগের মাধ্যম হিসেবে চিহ্ন বা প্রতীক ব্যবহার করার দর্শন|She studies *semiotics* to understand road signs.
+semiotic|adj|related to the production of meaning by sign systems|চিহ্ন ব্যবহার করে অর্থ উৎপাদন করার পদ্ধতি সংক্রান্ত|The film offers a *semiotic* reading of colour.
+denotation|n|the literal meaning of a word|শব্দের আক্ষরিক অর্থ|The *denotation* of "home" is a place to live.
+connotation|n|a secondary or implied meaning|গৌণ বা পরোক্ষভাবে প্রকাশ করা অর্থ|The word "cheap" has a bad *connotation*.
+connote|v|to suggest in addition to the literal meaning|শব্দগত অর্থ ছাড়াও পরোক্ষভাবে ইঙ্গিত দেওয়া|The word "home" can *connote* warmth and safety.
+skewed|adj|distorted in meaning; biased|অর্থের দিক থেকে বিকৃত|The report gave a *skewed* view of the facts.
+# Implied
+implicit|adj|implied, though not directly expressed|উহ্য; স্পষ্ট বলা হয়নি এমন|Her silence was an *implicit* agreement.
+tacit|adj|understood without being spoken|উহ্য; অব্যক্ত|They had a *tacit* agreement not to mention it.

@@ -1,0 +1,18 @@
+N: 130
+T: Tick-Talk (continued)
+S: The mayor asked his aide to repeat the council's words *verbatim*. The aide, who could *liaise* with every office, found it hard to *verbalize* the mayor's mood. The speech was full of *rhetoric* and *figurative* language: a *metaphor* of a sinking ship, a *simile* of a stubborn mule, and the *euphemism* “budget adjustment” for failure. Calling the loss a mere setback was an *understatement*, and his phrase “deafening silence” was an *oxymoron*. One clever *trope* still won applause.
+B: মেয়র তাঁর সহকারীকে কাউন্সিলের কথাগুলো অক্ষরে অক্ষরে পুনরাবৃত্তি করতে বললেন। সহকারী, যিনি প্রতিটি অফিসের সঙ্গে যোগাযোগ রক্ষা করতে পারতেন, মেয়রের মনোভাব ভাষায় প্রকাশ করা কঠিন পেলেন। বক্তৃতা ছিল ভাষার অলংকরণ আর প্রতীকী অর্থযুক্ত ভাষায় ভরা: ডুবন্ত জাহাজের রূপক, একগুঁয়ে খচ্চরের উপমা, আর ব্যর্থতার জন্য “বাজেট সমন্বয়” নামের শ্রুতিমধুর শব্দের প্রয়োগ। ক্ষতিকে নিছক এক ধাক্কা বলা ছিল কম করে বলা, আর তাঁর “কানফাটা নীরবতা” কথাটি ছিল বিপরীত জিনিসকে একত্র করা। তবু একটি চতুর বক্রোক্তি করতালি পেল।
+# Putting into words
+verbatim|adj|word for word|অক্ষরে অক্ষরে|He repeated the message *verbatim*.
+verbalize|v|put into words|ভাষায় প্রকাশ করা|Love can't be entirely *verbalized*.
+liaise|v|communicate and maintain contact|যোগাযোগ রক্ষা করা|He will *liaise* with our seniors about the plan.
+euphemism|n|an inoffensive or indirect expression substituted for one considered offensive or too harsh|শ্রুতিকটু শব্দের পরিবর্তে কোমল শব্দের প্রয়োগ|“Passed away” is a *euphemism* for “died”.
+understatement|n|a restrained statement instead of explicitly saying it|কটুভাষায় না বলে একটু হাল্কা করে বলা|“War is unpleasant” is an *understatement*.
+# Figures of speech
+rhetoric|n|the art of effective communication; insincere or grandiloquent language|ভাষার অলংকরণ|The candidate's *rhetoric* stirred the crowd.
+figurative|adj|metaphorical; not literal; using figures of speech|আক্ষরিক নয়, প্রতীকী অর্থযুক্ত|“Heart of stone” is *figurative* language.
+trope|n|a figure of speech using words in a nonliteral way|বক্রোক্তি; প্রতীকী অর্থে বলা|The hero's sacrifice is a common *trope* in stories.
+metaphor|n|a figure of speech that compares two different things|রূপক|“He is a lion in battle” is a *metaphor*.
+simile|n|a figure of speech that compares things of different kinds, usually with “like” or “as”|উপমা|“He fights like a lion” is a *simile*.
+idiom|n|an expression whose meaning as a whole differs from the meaning of its individual words|বাগধারা|“Lose one's marbles” is a common *idiom*.
+oxymoron|n|conjoining contradictory terms|বিপরীত জিনিসকে একত্র করা|“Deafening silence” is an *oxymoron*.

@@ -1,0 +1,36 @@
+N: 142
+T: V for Vendetta (continued)
+S: A *vigilant* guard stood in the *vanguard* of the village. His *valorous* heart had made a *vow* to *vanquish* every *vice*. One night a *venal* officer, *voracious* for gold, tried to bribe him. The guard refused by his own *volition*, and a *virulent* storm of anger followed. The *verbose* officer spoke for an hour, but the *verdict* of the elders was plain: no *vendetta* was needed, and his *veracity* would *vindicate* him. Even the *vermin* in the barn seemed quiet that night.
+B: এক সজাগ প্রহরী গ্রামের অগ্রভাগে দাঁড়িয়ে ছিল। তার সাহসী হৃদয় প্রতিটি অনৈতিকতাকে পরাজিত করার শপথ নিয়েছিল। এক রাতে এক ঘুষখোর কর্মকর্তা, সোনার জন্য অতি লোভী হয়ে, তাকে ঘুষ দিতে চাইল। প্রহরী নিজের ইচ্ছাতেই তা প্রত্যাখ্যান করল, আর তারপর ক্রোধের এক বিষাক্ত ঝড় উঠল। শব্দবহুল কর্মকর্তা এক ঘণ্টা ধরে কথা বলল, কিন্তু প্রবীণদের রায় ছিল স্পষ্ট: কোনো প্রতিহিংসার দরকার নেই, আর তার সততাই তাকে নির্দোষ প্রমাণ করবে। এমনকি গোলাঘরের কীটপতঙ্গও সেই রাতে নীরব মনে হলো।
+# Brave and watchful
+vacant|adj|empty; without any content or person|শূন্য; খালি|The *vacant* house stood silent at the end of the lane.
+valorous|adj|brave; courageous|সাহসী|The *valorous* fireman saved three children.
+vigilant|adj|watchfully awake; alert to spot danger|অতন্দ্র প্রহরী; সজাগ|A *vigilant* guard watched the gate all night.
+vanguard|n|the leading position in any movement or field|অগ্রসৈনিক; অগ্রভাগ|The young artists are in the *vanguard* of the new style.
+# Troubles
+visitation|n|a severe affliction or disaster, seen as a punishment|দুর্যোগ|The plague was seen as a divine *visitation*.
+vexation|n|something or someone that causes anxiety or annoyance|জ্বালাতনকারী; অশান্তির উৎস|Noisy neighbours were a daily *vexation*.
+vivify|v|to give life to; to make vivid|প্রাণবন্ত করা; স্পষ্ট করা|Bright colours *vivify* the dull walls.
+# Promise and win
+vow|v|to swear an oath|শপথ গ্রহণ করা|I *vow* to finish this work on time.
+votive|adj|dedicated in fulfilment of a vow|শপথমূলক|She lit a *votive* candle at the shrine.
+vanquish|v|to defeat completely|পরাজিত করা|The home team will *vanquish* its old rival.
+vindicate|v|to clear from blame; to prove right|মুক্তি দেওয়া; নির্দোষ প্রমাণ করা|The new facts will *vindicate* the accused man.
+veracity|n|truthfulness|সত্যতা|No one doubted the *veracity* of her story.
+# Wrong and greedy
+venal|adj|capable of being bribed|অর্থের বিনিময়ে অন্যায়ভাবে কাজ করতে ইচ্ছুক|A *venal* judge sold his verdicts for cash.
+virulent|adj|extremely poisonous or harmful; bitterly hostile|অত্যন্ত ক্ষতিকর; বিষাক্ত|A *virulent* disease spread through the camp.
+vermin|n|small harmful animals or insects; a contemptible person|কীট; বিরক্তিকর ব্যক্তি|Rats and other *vermin* ruined the stored grain.
+vice|n|a specific form of evil or immoral conduct|অনৈতিকতা|Gambling was his only *vice*.
+vouchsafe|v|to grant graciously; to condescend to give|স্বেচ্ছায় রাজি হওয়া; দয়া করে দেওয়া|The king did not *vouchsafe* a reply to the letter.
+vicious|adj|deliberately harmful; cruel|ইচ্ছাকৃতভাবে দুশ্চরিত্র; নিষ্ঠুর|The *vicious* dog bit the postman.
+voracious|adj|excessively greedy; ravenous|অত্যন্ত লোভী|He has a *voracious* appetite for books.
+# Will and judgment
+volition|n|the act of making a conscious choice|স্বেচ্ছায় নির্বাচন করার সামর্থ্য|She left the club of her own *volition*.
+verdict|n|an opinion formed by judging something|রায়|The jury will give its *verdict* today.
+vendetta|n|a blood feud|ব্যক্তিগত প্রতিহিংসা|The two families kept up a bitter *vendetta* for years.
+# Words and food
+vichyssoise|n|a creamy potato soup flavoured with leeks, usually served cold|পাঁচমিশালী স্যুপ; আলু ও পেঁয়াজকলির ঠান্ডা স্যুপ|We ate cold *vichyssoise* on the hot summer evening.
+verbiage|n|a pompous array of words; too many words|শব্দবাহুল্য|Cut the *verbiage* and get to the point.
+veer|v|to change direction suddenly; to swerve|দিক পরিবর্তন করা|The bus had to *veer* to avoid a cow.
+verbose|adj|using or containing too many words|শব্দবহুল; বাগাড়ম্বরপূর্ণ|His *verbose* reply bored the whole class.

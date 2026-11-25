@@ -1,0 +1,31 @@
+N: 128
+T: The Good, The Bad (continued)
+S: Mr. Karim, a *malevolent* landlord, was a *malefactor* in a gentleman's coat. His *malicious* tongue would *malign* every tenant, and his *malfeasance* was an open secret. A *venal* officer, a true *miscreant*, took his bribes, and their *machinations* grew into a *Machiavellian* plot. A young lawyer, *zealous* but no *zealot*, fought them. Driven by *altruistic* and *beneficent* ideals, he forced the landlord to make *restitution*, and the village honored his *virtue*. The village remembered that day for many years.
+B: মি. করিম, এক অপচিকীর্ষু জমিদার, ভদ্রলোকের পোশাকে এক অমঙ্গলসাধক ছিলেন। তাঁর বিদ্বেষপূর্ণ জিভ প্রতিটি প্রজার নিন্দা করত, আর তাঁর কুকর্মসাধন ছিল ওপেন সিক্রেট। এক ঘুষখোর কর্মকর্তা, এক সত্যিকারের দুর্বৃত্ত, তাঁর ঘুষ নিত, আর তাদের শয়তানিমূলক ষড়যন্ত্র কূটকৌশলী এক চক্রান্তে রূপ নিল। এক তরুণ আইনজীবী, বিষয়ে প্রবল উদ্দীপনাপূর্ণ কিন্তু গোঁড়া নন, তাদের বিরুদ্ধে লড়লেন। পরহিতব্রতী ও কল্যাণময় আদর্শে চালিত হয়ে তিনি জমিদারকে আসল মালিকের কাছে ফিরিয়ে দিতে বাধ্য করলেন, আর গ্রাম তাঁর নৈতিক উৎকর্ষকে সম্মান জানাল। গ্রামবাসী সেই দিনটি বহু বছর মনে রাখল।
+# Evil words with mal-
+malicious|adj|hateful; spiteful|ঘৃণ্য|The *malicious* rumour ruined her name.
+malefactor|n|an evildoer; criminal|অমঙ্গলসাধক|The *malefactor* was sent to prison.
+malfeasance|n|wrongdoing; misconduct|কুকর্মসাধন; বেআইনি কাজ|The mayor was removed for *malfeasance*.
+malign|v|speak evil of; bad-mouth; defame|নিন্দা করা|Do not *malign* people behind their backs.
+malign|adj|evil in nature; harmful|ক্ষতিকর; বদমায়েশ|The movie shows a *malign* spirit.
+malignant|adj|aggressively malevolent; injurious; tending to cause death|অতি ক্ষতিকর|The doctor found a *malignant* tumor.
+malevolent|adj|wishing evil|অপচিকীর্ষু; অন্যের ক্ষতি চায় এমন|The *malevolent* witch cursed the village.
+# Morals and goodness
+mores|n|conventions; moral standards; customs|রীতিনীতি|The visitor respected local *mores*.
+idealistic|adj|related to the pursuit of noble goals|আদর্শবাদী|The *idealistic* teacher wanted to change the world.
+virtue|n|goodness; moral excellence; a good quality|সদগুণ; নৈতিক উৎকর্ষ|Patience is a great *virtue*.
+restitution|n|returning something lost or stolen to its rightful owner; compensation|আসল মালিকের কাছে ফিরিয়ে দেওয়া; ক্ষতিপূরণ দেওয়া|The thief was ordered to make *restitution*.
+atone|v|to make amends for a wrong|প্রায়শ্চিত্ত করা|He tried to *atone* for his crime.
+innocuous|adj|harmless|অক্ষতিকর|The snake's bite is *innocuous*.
+beneficent|adj|doing good; kindly|কল্যাণময়; দানশীল|A *beneficent* donor paid for the school.
+altruistic|adj|unselfishly generous; concerned for others|পরহিতব্রতী; অপরের কল্যাণ সাধনে নিয়োজিত|Her *altruistic* work helped many orphans.
+summa bonum|n|the greatest good|সর্বোত্তম কল্যাণ|Happiness is the *summa bonum* of life.
+# Fanatics and schemers
+zealot|n|a fanatic; a person who shows excessive zeal|অতিশয় গোঁড়া, ধর্মান্ধ ব্যক্তি|The *zealot* refused to hear any other view.
+zealous|adj|enthusiastically devoted to a cause|কোনো বিষয়ে প্রবল উদ্দীপনাপূর্ণ|A *zealous* volunteer cleaned the beach daily.
+invidious|adj|likely to create ill will; unfair|আক্রমণাত্মক; পক্ষপাতদুষ্ট|It is *invidious* to compare the two sisters.
+necromancy|n|black magic; communication with the dead|কালো জাদু|The old book was full of *necromancy*.
+miscreant|n|a wretch; villain|দুর্বৃত্ত|The police chased the *miscreant* through the market.
+venal|adj|capable of being bribed|অর্থের বিনিময়ে অন্যায়ভাবে কাজ করতে ইচ্ছুক|A *venal* judge sold his verdicts.
+machiavellian|adj|crafty; double-dealing|কূটকৌশলী; ছলনাময়|His *Machiavellian* tricks won him the post.
+machinations|n|evil schemes or plots|শয়তানিমূলক ষড়যন্ত্র|The queen's *machinations* ruined her rivals.

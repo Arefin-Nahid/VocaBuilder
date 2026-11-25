@@ -1,0 +1,43 @@
+N: 127
+T: The Good, The Bad (continued)
+S: A *wicked* moneylender lived by *avarice*, *envy* and *wrath*. A *nefarious* plan formed in his mind: he would *suborn* a clerk and *pervert* the course of justice. His *accomplice*, a *squalid* servant, would *connive* with him, and their *complicity* made the scheme *diabolical*. They planned to *perpetrate* the fraud and then *abscond* with the gold. But an honest judge, never *unscrupulous* like them, saw a *sinister* pattern and stopped them. In the end, the village learned that honesty always wins.
+B: এক দুশ্চরিত্র মহাজন লোভ, হিংসা আর ক্রোধ নিয়ে বাঁচত। তার মনে এক জঘন্য পরিকল্পনা গড়ে উঠল: সে এক কেরানিকে ঘুষ দিয়ে বশ করবে আর ন্যায়বিচারের গতিপথ বিপথগামী করবে। তার সহযোগী, এক নোংরা চাকর, তার সঙ্গে ষড়যন্ত্রে সাহায্য করত, আর তাদের কুকর্মে অংশগ্রহণ পরিকল্পনাটিকে শয়তানসুলভ করে তুলল। তারা প্রতারণা সংঘটিত করে সোনা নিয়ে পালিয়ে যাওয়ার পরিকল্পনা করল। কিন্তু এক সৎ বিচারক, তাদের মতো কখনো নীতিহীন নন, এক অশুভ ছক ধরে ফেললেন এবং তাদের থামিয়ে দিলেন। শেষে গ্রামবাসী শিখল যে সততাই সবসময় জেতে।
+# Seven deadly sins
+lust|n|sexual urge|যৌনতা|*Lust* and greed ruined the king.
+avarice|n|greed|লোভ|*Avarice* made him hide his gold.
+gluttony|n|excessive eating|ভোজনবিলাস|*Gluttony* is considered a deadly sin.
+wrath|n|anger|ক্রোধ|The king's *wrath* fell on the traitors.
+envy|n|jealousy|হিংসা|*Envy* of his brother's success poisoned him.
+pride|n|vanity|অহংকার|*Pride* made him refuse all help.
+sloth|n|indolence|অলসতা|*Sloth* kept the lazy clerk in bed.
+# Assisting wrongdoing
+connive|v|assist in doing something wrong; secretly allow wrongdoing|অসৎ কাজে সাহায্য করা|Officials *connive* with smugglers for money.
+abet|v|assist in doing something wrong|অসৎ কাজে সাহায্য করা|It is a crime to *abet* a thief.
+complicity|n|involvement in a crime; participation|কুকর্মে অংশগ্রহণ|His *complicity* in the fraud was proved.
+accomplice|n|a partner in crime|কুকর্মের সহযোগী|The thief and his *accomplice* were caught.
+suborn|v|persuade to act unlawfully, often by a bribe|খারাপ কাজ করতে রাজি করানো|He tried to *suborn* a witness with money.
+# Morally unprincipled
+perverted|adj|morally unprincipled; turned to immoral ways|নীতিহীন; বিকৃত নীতিযুক্ত|The *perverted* tyrant enjoyed others' pain.
+reprobate|adj|morally unprincipled; shameless|নীতিহীন; বিকৃত নীতিযুক্ত|The *reprobate* gambler lost his family's house.
+squalid|adj|morally unprincipled; filthy and wretched|নীতিহীন; নোংরা ও জঘন্য|The prisoners lived in *squalid* cells.
+unscrupulous|adj|having no moral principles|নীতিহীন; বিকৃত নীতিযুক্ত|An *unscrupulous* dealer sold fake medicines.
+pervert|v|cause to change in an immoral way|বিপথগামী করা|Bribes can *pervert* the course of justice.
+perversion|n|corruption; turning from right to wrong|বিপথগমন|The film shows the *perversion* of power.
+libertine|n|one without moral restraint|নৈতিকতা বিবর্জিতব্যক্তি|The young *libertine* wasted his father's wealth.
+opportunist|n|a person who sacrifices principles for expediency by taking advantage|নীতিবর্জিত সুবিধাবাদী ব্যক্তি|The *opportunist* changed parties to win office.
+# Wicked
+wicked|adj|morally bad; evil|দুশ্চরিত্র|The *wicked* queen poisoned the princess.
+egregious|adj|outstandingly bad; shocking|দুশ্চরিত্র; জঘন্য|It was an *egregious* error that cost lives.
+iniquitous|adj|wicked; grossly unfair|দুশ্চরিত্র|The *iniquitous* tax ruined the poor.
+nefarious|adj|wicked; criminal|দুশ্চরিত্র|The police uncovered a *nefarious* plot.
+vicious|adj|wicked; cruel and violent|দুশ্চরিত্র|The *vicious* dog attacked the postman.
+amoral|adj|having no sense of right and wrong|দুশ্চরিত্র; নীতিবোধহীন|The ruthless gangster was completely *amoral*.
+# Devilish
+diabolical|adj|devilish; extremely evil|শয়তানসুলভ|The villain devised a *diabolical* plan.
+demoniac|adj|devilish; as if possessed by a demon|শয়তানসুলভ|He gave a *demoniac* laugh.
+ominous|adj|devilish; suggesting that something bad will happen|শয়তানসুলভ; অশুভ|*Ominous* clouds gathered over the hills.
+sinister|adj|devilish; evil or threatening|শয়তানসুলভ|A *sinister* figure watched from the shadows.
+infernal|adj|devilish; pertaining to hell|শয়তানসুলভ; নারকীয়|The *infernal* heat made everyone faint.
+# Others
+perpetrate|v|commit an offense|অপরাধ বা পাপ করা|Only a monster would *perpetrate* such a crime.
+abscond|v|depart secretly and hide|গা ঢাকা দেওয়া; পালানো|The cashier tried to *abscond* with the money.
